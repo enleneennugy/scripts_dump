@@ -3,6 +3,10 @@
 from glob import glob
 import os
 
+#change_filename_with_list
+#	rename the file from a folder from a new list of file name. 
+
+
 
 oldfilelist = glob('*.fastq.gz')
 print oldfilelist
