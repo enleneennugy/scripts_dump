@@ -7,7 +7,6 @@ import os
 #	rename the file from a folder from a new list of file name. 
 
 
-
 oldfilelist = glob('*.fastq.gz')
 print oldfilelist
 new_name_list = open('newnames.list', 'r')
