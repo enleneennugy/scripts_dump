@@ -1,5 +1,5 @@
 # scripts_dump
-Where all the little script are stored
+Where all the small scripts are stored
 
 
 - change_filename_with_list
