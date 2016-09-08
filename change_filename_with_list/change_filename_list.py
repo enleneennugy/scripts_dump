@@ -4,7 +4,8 @@ from glob import glob
 import os
 
 #change_filename_with_list
-#	rename the file from a folder from a new list of file name. 
+#	rename files from a folder with a new list of file name.
+#	Add a prefix on each filename. The identification is based on the end of the filename. 
 
 
 oldfilelist = glob('*.fastq.gz')

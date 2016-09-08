@@ -9,7 +9,7 @@ import time
 ## the script is taking from several multifasta files the first sequence in each mutltifasta file and write it in a new fasta file.
 ##then perform an alignment with mafft.
 
-#Fro several individuals, you map the targeted loci, you get a multifasta file per individual with all the targeted sequences. The script will make matrices per target sequence.
+#For several individuals, you map the targeted loci, you get a multifasta file per individual with all the targeted sequences. The script will make matrices per target sequence.
 ##From multifasta per individual to multifasta per target sequences. 
 
 
@@ -40,6 +40,9 @@ for files in fasta_file:
 		fileout.close()
 
 print '\n\nMatrices done!!\n\n'
+
+
+
 
 print 'Start alignment with mafft\n\n'
 print ((time.strftime("%Y_%m_%d")) + '__' + (time.strftime("%H.%M.%S")))
