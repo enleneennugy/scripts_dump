@@ -6,11 +6,12 @@ import glob
 import subprocess
 import time
 
-## the script is taking from several multifasta files the first sequence in each mutltifasta file and write it in a new fasta file.
-##then perform an alignment with mafft.
-
-#For several individuals, you map the targeted loci, you get a multifasta file per individual with all the targeted sequences. The script will make matrices per target sequence.
-##From multifasta per individual to multifasta per target sequences. 
+#	For several individuals, you map the targeted loci, you get a multifasta file per individual with the targeted loci. The script will make matrices per targeted loci.#
+#	From a multifasta per individual to a multifasta per targeted loci.
+#
+#	The script is taking from several multifasta files (individual) the first sequence then second... in each mutltifasta file and write it in a new fasta file, name the new fasta file with the name of the the locus.
+#
+#	Then perform an alignment with mafft.
 
 
 fasta_file = glob.glob('*.fasta')
@@ -41,9 +42,6 @@ for files in fasta_file:
 
 print '\n\nMatrices done!!\n\n'
 
-
-
-
 print 'Start alignment with mafft\n\n'
 print ((time.strftime("%Y_%m_%d")) + '__' + (time.strftime("%H.%M.%S")))
 
@@ -52,7 +50,7 @@ matrix_fasta = glob.glob('*.fa')
 
 for file in matrix_fasta:
 	print('\n\n Star alignment for ' + file + '\n\n')
-	#cmd = 'mafft --thread 8 --maxiterate 100 --genafpair --quiet ' + file + '>' + file + '_mafft.fasta'
-	#subprocess.check_output(cmd, shell=True)
+	cmd = 'mafft --thread 8 --maxiterate 100 --genafpair --quiet ' + file + '>' + file + '_mafft.fasta'
+	subprocess.check_output(cmd, shell=True)
 
 print 'Done! :)'
