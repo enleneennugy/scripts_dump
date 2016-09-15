@@ -10,7 +10,8 @@ Where all the small scripts are stored
 	test/
 	
 ```	
-- Build loci specific matrices from several multi-fasta files that belong to different individuals. 
+- grab_markers_from_multifastafasta_into_makers_matrices
+	Build loci specific matrices from several multi-fasta files that belong to different individuals. 
  ```
 	For several individuals, you map the targeted loci, you get a multifasta file per individual with the targeted loci. The script will make matrices per targeted loci.
 	From a multifasta per individual to a multifasta per targeted loci. 
@@ -20,4 +21,8 @@ Where all the small scripts are stored
 	Then perform an alignment with mafft.
 
 
+```
+- compare list
+```
+	Compare list, give the common elements of all the lists. 
 ```
