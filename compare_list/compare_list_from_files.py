@@ -8,6 +8,7 @@ import numpy as np
 from collections import Counter
 import itertools
 
+'Compare file list and return the common rows, based on csv files.'
 
 filelist = glob('*.list')
 l = len(filelist)
