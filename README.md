@@ -19,10 +19,10 @@ Where all the small scripts are stored
 	The script is taking from several multifasta files (individual) the first sequence then second... in each mutltifasta file and write it in a new fasta file, name the new fasta file with the name of the the locus.
 
 	Then perform an alignment with mafft.
-
-
 ```
+
 - compare list
+
 ```
 	Compare list, give the common elements of all the lists. 
 ```
