@@ -20,6 +20,7 @@ for file in filelist:
 	a = list(df.loc[(df['Reads']>= 30) & (df['Mismatch %']>0) & (df['Mismatch %']<2), 'Contig'])
 	d.append(a)
 
+
 d = list(itertools.chain.from_iterable(d))
 
 dict_list = (Counter(d))
