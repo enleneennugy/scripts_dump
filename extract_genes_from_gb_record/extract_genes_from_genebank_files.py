@@ -41,7 +41,7 @@ print 'Log file writen in the folder 01_fasta_file/genbank.log'
 found = str(len(filelist)) + ' files found.\n'
 l.write(found)
 
-print '***warnings***'
+print '****warnings****'
 
 file_list = []
 for genes in list_genes:
