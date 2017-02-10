@@ -1,0 +1,63 @@
+ay5821391cemapanaxginseng
+AY582139.1 cemA Panax ginseng
+
+kc6863311cemapanaxginseng
+KC686331.1 cemA Panax ginseng
+
+kc6863321cemapanaxginseng
+KC686332.1 cemA Panax ginseng
+
+kc6863331cemapanaxginseng
+KC686333.1 cemA Panax ginseng
+
+kj5665901cemapanaxnotoginseng
+KJ566590.1 cemA Panax notoginseng
+
+km0880181cemapanaxquinquefolius
+KM088018.1 cemA Panax quinquefolius
+
+kp0364681cemapanaxnotoginseng
+KP036468.1 cemA Panax notoginseng
+
+kp0364691cemapanaxjaponicus
+KP036469.1 cemA Panax japonicus
+
+kp0364701cemapanaxvietnamensis
+KP036470.1 cemA Panax vietnamensis
+
+kp0364711cemapanaxvietnamensis
+KP036471.1 cemA Panax vietnamensis
+
+kr0213811cemapanaxnotoginseng
+KR021381.1 cemA Panax notoginseng
+
+kt0015091cemapanaxnotoginseng
+KT001509.1 cemA Panax notoginseng
+
+kt0287141cemapanaxquinquefolius
+KT028714.1 cemA Panax quinquefolius
+
+ku0591781cemapanaxvietnamensis
+KU059178.1 cemA Panax vietnamensis
+
+kx2471471cemapanaxstipuleanatus
+KX247147.1 cemA Panax stipuleanatus
+
+nc0062901cemapanaxginseng
+NC_006290.1 cemA Panax ginseng
+
+nc0264471cemapanaxnotoginseng
+NC_026447.1 cemA Panax notoginseng
+
+nc0274561cemapanaxquinquefolius
+NC_027456.1 cemA Panax quinquefolius
+
+nc0287031cemapanaxjaponicus
+NC_028703.1 cemA Panax japonicus
+
+nc0287041cemapanaxvietnamensis
+NC_028704.1 cemA Panax vietnamensis
+
+nc0305981cemapanaxstipuleanatus
+NC_030598.1 cemA Panax stipuleanatus
+

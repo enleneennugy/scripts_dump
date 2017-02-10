@@ -7,7 +7,8 @@ from Bio import SeqIO
 from Bio.Alphabet import generic_dna
 from Bio.Seq import Seq
 from Bio.SeqRecord import SeqRecord
-
+#aligner
+import subprocess
 
 #    '''
 #    Reads in the requested CDS name, searches for the CDS in the genbank file,
@@ -19,23 +20,28 @@ from Bio.SeqRecord import SeqRecord
 tm = (time.strftime("%H.%M.%S"))
 dt = (time.strftime("%Y_%m_%d"))
 now = (dt + "_" + tm)
-print 'Starting to extract the genes from the multiple genbank files.\n\nFasta files will be written in this folder: '+(now)
+print 'Starting to extract the genes from the multiple genbank files.\nFasta files writen in the folder: '+(now) + '/01_fasta_file'
 os.mkdir(now)
 
 #directory where the new fasta file will be store
 os.mkdir(now+'/01_fasta_file')
+os.mkdir(now+'/02_fasta_file_warning')
 
 
 #Get the file list and the list of genes to extract from the genbank file. 
-filelist = glob.glob('/Users/vincem/Downloads/*.gb')
+filelist = glob.glob('/Users/vincem/Research/PhD/Research topics/panax/gb_files/*.gb')
 list_genes = open('gene.list', 'r').read().splitlines()
 
 #change dir and create the log file and the warning file
 os.chdir(now)
-w = open(('01_fasta_file/genbank_warning.log'), 'w')
+w = open(('02_fasta_file_warning/genbank_warning.log'), 'w')
+print 'Warning writen in the folder 02_fasta_file_warning/genbank_warning.log'
 l = open('01_fasta_file/genbank.log', 'w')
-found = str(len(filelist)) + 'are been found.\n'
+print 'Log file writen in the folder 01_fasta_file/genbank.log'
+found = str(len(filelist)) + ' files found.\n'
 l.write(found)
+
+print '***warnings***'
 
 file_list = []
 for genes in list_genes:
@@ -55,11 +61,14 @@ for genes in list_genes:
                             n_hits = n_hits + 1
                             
                             if n_hits <= 1:
-                                product = gb_feature.qualifiers['gene']
+                                product = gb_feature.qualifiers['gene'][0]
                                 DNAseq = gb_feature.extract(gb_record.seq)
-                                record_new = SeqRecord(Seq(str(DNAseq), generic_dna), id=id_name, name=genes, description=product[0])
+                                record_new = SeqRecord(Seq(str(DNAseq), generic_dna), id=id_name, name=product, description=product + ' ' + organism_name)
+                                record_new.annotations['organism'] = organism_name 
+#                                print (record_new.format("genbank"))
                                 gene_append.append(record_new)
                                 SeqIO.write(gene_append, '01_fasta_file/' + genes + '.fas', "fasta")
+#                                print (record_new.format("fasta"))                               
                             if n_hits > 1:
                                 DNAseq = gb_feature.extract(gb_record.seq)
                                 if record_new.seq == DNAseq:
@@ -67,13 +76,13 @@ for genes in list_genes:
                                 elif record_new.seq != DNAseq:
                                     #warning printed and log file: genbank_warning.log
                                     warning = 'Warning, ' + str(n_hits) + ' found in ' + id_name + ' for ' + genes 
-                                    print ('\n' + warning)
-                                    w.write('\n' + warning)
+                                    print (warning)
+                                    w.write(warning)
                                     product = gb_feature.qualifiers['gene']
                                     DNAseq = gb_feature.extract(gb_record.seq)
                                     record_new = SeqRecord(Seq(str(DNAseq), generic_dna), id=id_name, name=genes, description=product[0])
                                     gene_append.append(record_new)
-                                    SeqIO.write(gene_append, genes + '.fas', "fasta")
+                                    SeqIO.write(gene_append, '02_fasta_file_warning/' + genes + '.fas', "fasta")
     # print in a log file the genes recovered + number of files
     log = str(len(gene_append)) + ' sequences recovered for the gene ' + genes + '\n'
     #print log
@@ -81,16 +90,20 @@ for genes in list_genes:
 w.close()
 l.close()
 
-os.mkdir('02_alignments')
 
+print '\n****alignment started****'
+#make alignments
+#   dependencies:
+#        - pasta aligner with an alias: python /usr/local/bin/pasta/pasta/pasta/run_pasta.py
 
-# filea_genes = glob.glob('*.fas')
-# for filea in filea_genes:
-#             cmd = "mafft " + filea
-#             subprocess.check_output(cmd, shell=True)
+os.mkdir('03_alignments')
 
-
-
+filea_genes = glob.glob('01_fasta_file/*.fas')
+for filea in filea_genes:
+    filea_split = filea.split('01_fasta_file/')[1]
+    print filea_split
+    cmd = 'python /usr/local/bin/pasta/pasta/run_pasta.py  --auto -j ' + filea_split + ' --input=./' + filea
+    subprocess.check_output(cmd, shell=True)
 
 
 

@@ -1,0 +1,63 @@
+ay5821391ndhapanaxginseng
+AY582139.1 ndhA Panax ginseng
+
+kc6863311ndhapanaxginseng
+KC686331.1 ndhA Panax ginseng
+
+kc6863321ndhapanaxginseng
+KC686332.1 ndhA Panax ginseng
+
+kc6863331ndhapanaxginseng
+KC686333.1 ndhA Panax ginseng
+
+kj5665901ndhapanaxnotoginseng
+KJ566590.1 ndhA Panax notoginseng
+
+km0880181ndhapanaxquinquefolius
+KM088018.1 ndhA Panax quinquefolius
+
+kp0364681ndhapanaxnotoginseng
+KP036468.1 ndhA Panax notoginseng
+
+kp0364691ndhapanaxjaponicus
+KP036469.1 ndhA Panax japonicus
+
+kp0364701ndhapanaxvietnamensis
+KP036470.1 ndhA Panax vietnamensis
+
+kp0364711ndhapanaxvietnamensis
+KP036471.1 ndhA Panax vietnamensis
+
+kr0213811ndhapanaxnotoginseng
+KR021381.1 ndhA Panax notoginseng
+
+kt0015091ndhapanaxnotoginseng
+KT001509.1 ndhA Panax notoginseng
+
+kt0287141ndhapanaxquinquefolius
+KT028714.1 ndhA Panax quinquefolius
+
+ku0591781ndhapanaxvietnamensis
+KU059178.1 ndhA Panax vietnamensis
+
+kx2471471ndhapanaxstipuleanatus
+KX247147.1 ndhA Panax stipuleanatus
+
+nc0062901ndhapanaxginseng
+NC_006290.1 ndhA Panax ginseng
+
+nc0264471ndhapanaxnotoginseng
+NC_026447.1 ndhA Panax notoginseng
+
+nc0274561ndhapanaxquinquefolius
+NC_027456.1 ndhA Panax quinquefolius
+
+nc0287031ndhapanaxjaponicus
+NC_028703.1 ndhA Panax japonicus
+
+nc0287041ndhapanaxvietnamensis
+NC_028704.1 ndhA Panax vietnamensis
+
+nc0305981ndhapanaxstipuleanatus
+NC_030598.1 ndhA Panax stipuleanatus
+
