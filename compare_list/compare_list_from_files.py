@@ -17,7 +17,7 @@ d = []
 for file in filelist:
 	print('\n' + file)
 	df = pd.read_csv(file, index_col =False, sep='\t', header=(0), )
-	a = list(df.loc[(df['Reads']>= 30) & (df['Mismatch %']>0) & (df['Mismatch %']<2), 'Contig'])
+	a = list(df.loc[(df['Reads']>= 30) & (df['Mismatch %']>0) & (df['Mismatch %']< 5), 'Contig'])
 	d.append(a)
 
 
