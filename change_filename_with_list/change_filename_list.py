@@ -14,8 +14,12 @@ new_name_list = open('newnames.list', 'r')
 
 for newname in new_name_list:
 	for oldfile in oldfilelist:
-		new = newname[-27:].strip()
-		if oldfile.endswith(new):
+		old = newname[-27:-12].strip()+'_r.fastq.gz'
+		new = newname[-27:-12].strip()+'_f.fastq.gz'
+		print old + ' ' + new
+		
+		if oldfile.endswith(old):
+			print oldfile
 			os.rename(oldfile, newname.strip())
 
-print  (glob('*.f*q.gz'))
+print (glob('*.f*q.gz'))

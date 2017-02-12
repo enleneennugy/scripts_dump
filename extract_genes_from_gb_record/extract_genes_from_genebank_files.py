@@ -1,4 +1,5 @@
 #!/usr/bin/env python2
+import argparse
 
 import glob
 import time
@@ -16,21 +17,39 @@ import subprocess
 #    sequence description. Create individual fasta file for each gene.
 #    '''
 
+# USAGE: ./extract_genes_from_genebank_files.py -l gene.list -f ~/Downloads/
+
 #make a new directory for the analyses, day/time
 tm = (time.strftime("%H.%M.%S"))
 dt = (time.strftime("%Y_%m_%d"))
 now = (dt + "_" + tm)
-print 'Starting to extract the genes from the multiple genbank files.\nFasta files writen in the folder: '+(now) + '/01_fasta_file'
 os.mkdir(now)
+
+if __name__ == '__main__':
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-l", "--list", type=str, help="List of gene/CDS to extract from the genbank files. On gene per line. Format: /path/to/the/list/list_gene.list", required=True)
+    parser.add_argument("-f", "--infolder", type=str, help="path to the directory where the genbank files are stored.\n Format: /path/to/the/data/", default=2)
+
+    args = parser.parse_args()
+    infolder = args.infolder
+    list_genes = args.list
+
+print('Input folder is: ' + infolder)
+print('Name of the list file: ' + list_genes)
+
+
+#Get the file list and the list of genes to extract from the genbank file. 
+filelist = glob.glob(infolder + '*.gb')
+list_genes = open(list_genes, 'r').read().splitlines()
+
+print '\nStarting to extract the genes from the multiple genbank files.\nFasta files writen in the folder: '+(now) + '/01_fasta_file'
 
 #directory where the new fasta file will be store
 os.mkdir(now+'/01_fasta_file')
 os.mkdir(now+'/02_fasta_file_warning')
 
 
-#Get the file list and the list of genes to extract from the genbank file. 
-filelist = glob.glob('/Users/vincem/Research/PhD/Research topics/panax/gb_files/*.gb')
-list_genes = open('gene.list', 'r').read().splitlines()
+
 
 #change dir and create the log file and the warning file
 os.chdir(now)
@@ -75,7 +94,7 @@ for genes in list_genes:
                                     continue
                                 elif record_new.seq != DNAseq:
                                     #warning printed and log file: genbank_warning.log
-                                    warning = 'Warning, ' + str(n_hits) + ' found in ' + id_name + ' for ' + genes 
+                                    warning = '\nWarning, ' + str(n_hits) + ' found in ' + id_name + ' for ' + genes 
                                     print (warning)
                                     w.write(warning)
                                     product = gb_feature.qualifiers['gene']
