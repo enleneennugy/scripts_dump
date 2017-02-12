@@ -1,2 +1,0 @@
-PASTA ERROR: PASTA is exiting because of an error:
-FastTree did not report a log-likelhood for the data: the data set is probably too weird 

@@ -19,6 +19,12 @@ import subprocess
 
 # USAGE: ./extract_genes_from_genebank_files.py -l gene.list -f ~/Downloads/
 
+##   dependencies:
+#        - pasta aligner with in the PATH, run_pasta.py.
+
+
+
+
 #make a new directory for the analyses, day/time
 tm = (time.strftime("%H.%M.%S"))
 dt = (time.strftime("%Y_%m_%d"))
@@ -27,14 +33,14 @@ os.mkdir(now)
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument("-l", "--list", type=str, help="List of gene/CDS to extract from the genbank files. On gene per line. Format: /path/to/the/list/list_gene.list", required=True)
-    parser.add_argument("-f", "--infolder", type=str, help="path to the directory where the genbank files are stored.\n Format: /path/to/the/data/", default=2)
+    parser.add_argument("-l", "--list", type=str, help="List of gene/CDS to extract from the genbank files. On gene per line. \n\nFormat: /path/to/the/list/list_gene.list", required=True)
+    parser.add_argument("-f", "--infolder", type=str, help="path to the directory where the genbank files are stored.\n\n Format: /path/to/the/data/", required=True)
 
     args = parser.parse_args()
     infolder = args.infolder
     list_genes = args.list
 
-print('Input folder is: ' + infolder)
+print('\nInput folder is: ' + infolder)
 print('Name of the list file: ' + list_genes)
 
 
@@ -42,25 +48,22 @@ print('Name of the list file: ' + list_genes)
 filelist = glob.glob(infolder + '*.gb')
 list_genes = open(list_genes, 'r').read().splitlines()
 
-print '\nStarting to extract the genes from the multiple genbank files.\nFasta files writen in the folder: '+(now) + '/01_fasta_file'
+print '\n***Starting to extract the genes from the multiple genbank files.***\n\n    . Fasta files writen in the folder: '+(now) + '/01_fasta_file'
 
 #directory where the new fasta file will be store
 os.mkdir(now+'/01_fasta_file')
 os.mkdir(now+'/02_fasta_file_warning')
 
-
-
-
 #change dir and create the log file and the warning file
 os.chdir(now)
 w = open(('02_fasta_file_warning/genbank_warning.log'), 'w')
-print 'Warning writen in the folder 02_fasta_file_warning/genbank_warning.log'
+print '    . Warning writen in the folder: 02_fasta_file_warning/genbank_warning.log'
 l = open('01_fasta_file/genbank.log', 'w')
-print 'Log file writen in the folder 01_fasta_file/genbank.log'
+print '    . Log file writen in the folder: 01_fasta_file/genbank.log'
 found = str(len(filelist)) + ' files found.\n'
 l.write(found)
 
-print '****warnings****'
+print '\n****Warnings****'
 
 file_list = []
 for genes in list_genes:
@@ -110,19 +113,17 @@ w.close()
 l.close()
 
 
-print '\n****alignment started****'
+print '\n****Alignment started****'
+
 #make alignments
-#   dependencies:
-#        - pasta aligner with an alias: python /usr/local/bin/pasta/pasta/pasta/run_pasta.py
 
 os.mkdir('03_alignments')
+os.chdir('03_alignments')
 
-filea_genes = glob.glob('01_fasta_file/*.fas')
+filea_genes = glob.glob('../01_fasta_file/*.fas')
 for filea in filea_genes:
     filea_split = filea.split('01_fasta_file/')[1]
     print filea_split
-    cmd = 'python /usr/local/bin/pasta/pasta/run_pasta.py  --auto -j ' + filea_split + ' --input=./' + filea
+    cmd = 'run_pasta.py  --auto -j ' + filea_split + ' --input=' + filea
     subprocess.check_output(cmd, shell=True)
-
-
 
