@@ -127,3 +127,4 @@ for filea in filea_genes:
     cmd = 'run_pasta.py  --auto -j ' + filea_split + ' --input=' + filea
     subprocess.check_output(cmd, shell=True)
 
+print '\nExtraction done!'

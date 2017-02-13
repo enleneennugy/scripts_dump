@@ -1,2 +1,4 @@
 psbA
 matK
+trnL
+rbcl
