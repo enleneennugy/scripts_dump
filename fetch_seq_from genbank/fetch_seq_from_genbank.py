@@ -55,12 +55,12 @@
 #                 AJ542438    1314
 #     ```
 
-- Fasta output
-    If you want a fasta formated file as output file: 
-    ```
-    CHANGE line 84: f = open(genus+".gb", 'w') ###change ".gb" for ".fas"
-    CHANGE line 89: SeqIO.write(record, f, "gb") ###change "gb" for "fasta"
-    ```
+# - Fasta output
+#     If you want a fasta formated file as output file: 
+#     ```
+#     CHANGE line 84: f = open(genus+".gb", 'w') ###change ".gb" for ".fas"
+#     CHANGE line 89: SeqIO.write(record, f, "gb") ###change "gb" for "fasta"
+#     ```
 
 
 
