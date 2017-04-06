@@ -2,7 +2,7 @@ Download sequences from genbank according a list of genera or families or specie
 
 
 - Dependencies: Biopython
-	To install biopython copy paste in your terminal: 
+	- To install biopython copy paste in your terminal: 
 	```
 	 sudo pip install biopython
 	```
@@ -20,7 +20,7 @@ Download sequences from genbank according a list of genera or families or specie
 	Dithyridanthus
 	```
 - Usage:
-	note: need to have the list file in the same folder.
+	- note: need to have the list file in the same folder.
 	```
 	python fetch_seq_from_genbank.py
 	```
@@ -54,7 +54,7 @@ Download sequences from genbank according a list of genera or families or specie
 	```
 
 - Fasta output
-	If you want a fasta formated file as output file: 
+	- If you want a fasta formated file as output file: 
 	```
 	CHANGE line 84: f = open(genus+".gb", 'w') ###change ".gb" for ".fas"
 	CHANGE line 87: SeqIO.write(record, f, "gb") ###change "gb" for "fasta"
