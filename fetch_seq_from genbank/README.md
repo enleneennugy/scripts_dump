@@ -28,6 +28,7 @@ Download sequences from genbank according a list of genea or families or species
 - Output:
 	- individual file per genera or family or species from the input list
 	- if your asking thousands of sequences to genbank, you might concider to divide your list into smaller ones.
+	Example of terminal output: 
 	```
 	genus	 number_of_seq 	 sequence_ID 	 length
 	Aulosepalum: 	1
