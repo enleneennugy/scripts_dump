@@ -54,7 +54,7 @@ Download sequences from genbank according a list of genea or families or species
 	```
 
 - Fasta output
-	If you want some fasta as output file: 
+	If you want a fasta formated file as output file: 
 	```
 	CHANGE line 47: f = open(genus+".gb", 'w') ###change ".gb" for ".fas"
 	CHANGE line 52: SeqIO.write(record, f, "gb") ###change "gb" for "fasta"
