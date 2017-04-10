@@ -1,10 +1,10 @@
 #!/usr/bin/env python2
 
-# Download sequences from genbank according a list of genera or families or species. 
+# Download sequences from genbank according a list of genera or families or species.
 
 
 # - Dependencies: Biopython
-#     To install biopython copy paste in your terminal: 
+#     To install biopython copy paste in your terminal:
 #     ```
 #      sudo pip install biopython
 #     ```
@@ -30,7 +30,7 @@
 # - Output:
 #     - individual file per genera or family or species from the input list
 #     - if your asking thousands of sequences to genbank, you might concider to divide your list into smaller ones.
-#     Example of terminal output: 
+#     Example of terminal output:
 #     ```
 #     genus    number_of_seq   sequence_ID     length
 #     Aulosepalum:    1
@@ -56,7 +56,7 @@
 #     ```
 
 # - Fasta output
-#     If you want a fasta formated file as output file: 
+#     If you want a fasta formated file as output file:
 #     ```
 #     CHANGE line 84: f = open(genus+".gb", 'w') ###change ".gb" for ".fas"
 #     CHANGE line 89: SeqIO.write(record, f, "gb") ###change "gb" for "fasta"
@@ -65,6 +65,7 @@
 
 
 from Bio import Entrez, SeqIO
+import time
 
 Entrez.email = "vincent.manzanilla@nhm.uio.no" ###CHANGE email address
 
@@ -75,19 +76,25 @@ list_genus = open("genus_list.txt") ###CHANGE list file if necessary
 print "genus\t number_of_seq \t sequence_ID \t length"
 for genus in list_genus:
     genus = genus.split("\n")[0]
-    handle = Entrez.esearch(db="nucleotide",term=genus+"[Orgn] AND rbcL[Gene]") ### change gene name if necessary
+    handle = Entrez.esearch(db="nucleotide", term="("+genus+"[Orgn]) AND (internal transcribed spacer[ALL]) ") ### change gene name if necessary
     record = Entrez.read(handle)
     ID_list = record["IdList"]
 
     if len(ID_list) >=1:
         print(genus + ": \t" + str(len(ID_list)))
-        f = open(genus+".gb", 'w') ###change ".gb" for ".fas"  
+        f = open(genus+".gb", 'w') ###change ".gb" for ".fas"
         for accessions in ID_list:
-            handle = Entrez.efetch(db="nucleotide", id=accessions, rettype="gb", retmode="text")
+            try:
+                handle = Entrez.efetch(db="nucleotide", id=accessions, rettype="gb", retmode="text")
+            except HTTPError:
+                time.sleep(10)
+                handle = Entrez.efetch(db="nucleotide", id=accessions, rettype="gb", retmode="text")
             record = SeqIO.read(handle, "genbank")
             print ("\t\t\t" + record.name)+"\t" + str(len(record))
             SeqIO.write(record, f, "gb") ###change "gb" for "fasta"
             handle.close()
+            time.sleep(1)
     else:
         print(genus + ": \t" + str(len(ID_list)))
         continue
+list_genus.close()
