@@ -85,6 +85,7 @@ for genus in list_genus:
         handle.close()
         ID_list = record["IdList"]
     except HTTPError:
+        print "pause"
         time.sleep(20)
         handle = Entrez.esearch(db="nucleotide", term=genus, retmax=500000) ### change gene name if necessary
         record = Entrez.read(handle)
@@ -99,6 +100,7 @@ for genus in list_genus:
             try:
                 handle = Entrez.efetch(db="nucleotide", id=accessions, rettype="gb", retmode="text")
             except HTTPError:
+                print"pause"
                 time.sleep(20)
                 handle = Entrez.efetch(db="nucleotide", id=accessions, rettype="gb", retmode="text")
             record = SeqIO.read(handle, "genbank")
