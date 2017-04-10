@@ -1,2 +1,6 @@
 
 *.gb
+
+fetch_seq_from genbank/\.DS_Store
+
+fetch_seq_from genbank/temp
