@@ -65,9 +65,12 @@
 
 
 from Bio import Entrez, SeqIO
+from urllib2 import HTTPError
 import time
 
-Entrez.email = "vincent.manzanilla@nhm.uio.no" ###CHANGE email address
+Entrez.email = "vincent.manzanilla@gmail.com" ###CHANGE email address
+
+
 
 #handle = Entrez.einfo()
 #record = Entrez.read(handle)
@@ -76,11 +79,20 @@ list_genus = open("genus_list.txt") ###CHANGE list file if necessary
 print "genus\t number_of_seq \t sequence_ID \t length"
 for genus in list_genus:
     genus = genus.split("\n")[0]
-    handle = Entrez.esearch(db="nucleotide", term="("+genus+"[Orgn]) AND (internal transcribed spacer[ALL]) ") ### change gene name if necessary
-    record = Entrez.read(handle)
-    ID_list = record["IdList"]
+    try:
+        handle = Entrez.esearch(db="nucleotide", term=genus, retmax=500000) ### change gene name if necessary
+        record = Entrez.read(handle)
+        handle.close()
+        ID_list = record["IdList"]
+    except HTTPError:
+        time.sleep(20)
+        handle = Entrez.esearch(db="nucleotide", term=genus, retmax=500000) ### change gene name if necessary
+        record = Entrez.read(handle)
+        handle.close()
+        ID_list = record["IdList"]
+    time.sleep(1)
 
-    if len(ID_list) >=1:
+    if len(ID_list) >= 1:
         print(genus + ": \t" + str(len(ID_list)))
         f = open(genus+".gb", 'w') ###change ".gb" for ".fas"
         for accessions in ID_list:
@@ -90,6 +102,7 @@ for genus in list_genus:
                 time.sleep(20)
                 handle = Entrez.efetch(db="nucleotide", id=accessions, rettype="gb", retmode="text")
             record = SeqIO.read(handle, "genbank")
+            dir(record)
             print ("\t\t\t" + record.name)+"\t" + str(len(record))
             SeqIO.write(record, f, "gb") ###change "gb" for "fasta"
             handle.close()
