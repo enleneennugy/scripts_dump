@@ -1,0 +1,875 @@
+LOCUS       GU217610                 213 bp    DNA     linear   PLN 30-NOV-2010
+DEFINITION  Pachyrhizus erosus voucher PS0227MT03 internal transcribed spacer 2,
+            complete sequence.
+ACCESSION   GU217610
+VERSION     GU217610.1
+KEYWORDS    .
+SOURCE      Pachyrhizus erosus
+  ORGANISM  Pachyrhizus erosus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Pachyrhizus.
+REFERENCE   1  (bases 1 to 213)
+  AUTHORS   Chen,S.L. and Gao,T.
+  TITLE     Molecular Identification of medicinal plants in a large family,
+            FABACEAE by a potential DNA barcode ITS2
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 213)
+  AUTHORS   Chen,S.L. and Gao,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-NOV-2009) Institute of Medicinal Plant Development,
+            Chinese Academy of Medical Sciences, Peking Union Medical College,
+            No. 151 Malianwa North Road, Haidian District, Beijing 100193, China
+FEATURES             Location/Qualifiers
+     source          1..213
+                     /db_xref="taxon:109171"
+                     /mol_type="genomic DNA"
+                     /organism="Pachyrhizus erosus"
+                     /specimen_voucher="PS0227MT03"
+     misc_RNA        1..213
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 cacatcgtca ccctccacac gcacacacac tgtgcaggag gagggtgtat gctggcttcc
+       61 cgcgagcacc gactcgcggt tggttgaaaa tcgagttcgc gacagtctgt gtcgtgataa
+      121 aatggtggat gggcaacatg ctcgagaccg atcacacgcg acatgtcgat ttcggactct
+      181 ttgatccctg tgcgtctgtg aacgctctca acg
+//
+LOCUS       AY293847                 655 bp    DNA     linear   PLN 18-MAY-2004
+DEFINITION  Pachyrhizus tuberosus small subunit ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene and
+            internal transcribed spacer 2, complete sequence; and large subunit
+            ribosomal RNA gene, partial sequence.
+ACCESSION   AY293847
+VERSION     AY293847.1
+KEYWORDS    .
+SOURCE      Pachyrhizus tuberosus
+  ORGANISM  Pachyrhizus tuberosus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Pachyrhizus.
+REFERENCE   1  (bases 1 to 655)
+  AUTHORS   Varela,E.S., Lima,J.P., Galdino,A.S., Pinto Lda,S., Bezerra,W.M.,
+            Nunes,E.P., Alves,M.A. and Grangeiro,T.B.
+  TITLE     Relationships in subtribe Diocleinae (Leguminosae; Papilionoideae)
+            inferred from internal transcribed spacer sequences from nuclear
+            ribosomal DNA
+  JOURNAL   Phytochemistry 65 (1), 59-69 (2004)
+   PUBMED   14697271
+REFERENCE   2  (bases 1 to 655)
+  AUTHORS   Varela,E.S., Santos Lima,J.M., Galdino,A.S., Pinto,L.S.,
+            Bezerra,W.M., Alves,M.A.O. and Grangeiro,T.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAY-2003) Biologia, Universidade Federal do Ceara, Av.
+            Humberto Monte, s/n, Fortaleza, Ceara 60451-970, Brasil
+FEATURES             Location/Qualifiers
+     source          1..655
+                     /country="Brazil"
+                     /db_xref="taxon:205481"
+                     /mol_type="genomic DNA"
+                     /organism="Pachyrhizus tuberosus"
+     rRNA            <1..6
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        7..266
+                     /product="internal transcribed spacer 1"
+     rRNA            267..430
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        431..638
+                     /product="internal transcribed spacer 2"
+     rRNA            639..>655
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 tcattgtcga tgcctcaaat cagattgacc gttgaattcg tgttatccac cgaggggttg
+       61 gctggcctgg gatcgtgcaa cgtcacgtct cggccaactg cctccccttg cgttgggcag
+      121 cggcctcggc ccttgctcga caaccacaaa accccggcgc ttcgtgtgcc aaggaatcga
+      181 aacatgtttg tgaagtgcga ttctcgtggg ctcggagacg atgtccccac gagcggtcgt
+      241 tcttcacgat acaattgtat acatacaaaa tgactctcgg caacggatat ctcggctctt
+      301 gcatcgatga agaacgtagc gaaatgcgat acttggtgtg aattgcagaa tcccgtgaac
+      361 catcgagtct ttgaacgcaa gttgcgccca aagccattag gctgagggca cgcctgcctg
+      421 ggtgtcacac atcgtcaccc tccacacgca cacacactgt gcaggaggag ggtgtatgct
+      481 ggcttcccgc gagcaccgac tcgcggttgg ttgaaaatcg agttcgcgac agtctgcgtc
+      541 gtgataaaat ggtggatggg caacatgctc gagaccgatc acacgcgaca tgtcgatttc
+      601 ggactctttg atccctgtgc gtctgtggac gctcttcaac gaggacctca ggtca
+//
+LOCUS       AY293846                 660 bp    DNA     linear   PLN 18-MAY-2004
+DEFINITION  Pachyrhizus erosus small subunit ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene and
+            internal transcribed spacer 2, complete sequence; and large subunit
+            ribosomal RNA gene, partial sequence.
+ACCESSION   AY293846
+VERSION     AY293846.1
+KEYWORDS    .
+SOURCE      Pachyrhizus erosus
+  ORGANISM  Pachyrhizus erosus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Pachyrhizus.
+REFERENCE   1  (bases 1 to 660)
+  AUTHORS   Varela,E.S., Lima,J.P., Galdino,A.S., Pinto Lda,S., Bezerra,W.M.,
+            Nunes,E.P., Alves,M.A. and Grangeiro,T.B.
+  TITLE     Relationships in subtribe Diocleinae (Leguminosae; Papilionoideae)
+            inferred from internal transcribed spacer sequences from nuclear
+            ribosomal DNA
+  JOURNAL   Phytochemistry 65 (1), 59-69 (2004)
+   PUBMED   14697271
+REFERENCE   2  (bases 1 to 660)
+  AUTHORS   Varela,E.S., Santos Lima,J.M., Galdino,A.S., Pinto,L.S.,
+            Bezerra,W.M., Alves,M.A.O. and Grangeiro,T.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAY-2003) Biologia, Universidade Federal do Ceara, Av.
+            Humberto Monte, s/n, Fortaleza, Ceara 60451-970, Brasil
+FEATURES             Location/Qualifiers
+     source          1..660
+                     /country="Brazil"
+                     /db_xref="taxon:109171"
+                     /mol_type="genomic DNA"
+                     /organism="Pachyrhizus erosus"
+     rRNA            <1..6
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        7..266
+                     /product="internal transcribed spacer 1"
+     rRNA            267..430
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        431..637
+                     /product="internal transcribed spacer 2"
+     rRNA            638..>660
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 tcattgtcga tgcctcaaat cagattgacc gttgaattcg tgttatccac cgaggggttg
+       61 gctggcctgg gatcgtgcaa cgtcacgtct cggccaactg cctccccttg cgttgggcag
+      121 cggcctcggc ccttgctcga caaccacaaa accccggcgc ttcgtgtgcc aaggaatcga
+      181 aacatgtttg tgaagtgcga ttctcgtggg ctcggagacg atgtccccac gagcggtcgt
+      241 tcttcacgat acaattgtat acatacaaaa tgactctcgg caacggatat ctcggctctt
+      301 gcatcgatga agaacgtagc gaaatgcgat acttggtgtg aattgcagaa tcccgtgaac
+      361 catcgagtct ttgaacgcaa gttgcgccca aagccattag gctgagggca cgcctgcctg
+      421 ggtgtcacac atcgtcaccc tccacacgca cacacactgt gcaggaggag ggtgtatgct
+      481 ggcttcccgc gagcaccgac tcgcggttgg ttgaaaatcg agttcgcgac agtctgcgtc
+      541 gtgataaaat ggtggatggg caacatgctc gagaccgatc acacgcgaca tgtcgatttc
+      601 ggactctttg atccctgtgc gtctgtggac gctctcaacg agacctcagg tcaggcgggg
+//
+LOCUS       AF539637                 589 bp    DNA     linear   PLN 02-JAN-2003
+DEFINITION  Pachyrhizus tuberosus ecotype TWTM48 internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence.
+ACCESSION   AF539637
+VERSION     AF539637.1
+KEYWORDS    .
+SOURCE      Pachyrhizus tuberosus
+  ORGANISM  Pachyrhizus tuberosus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Pachyrhizus.
+REFERENCE   1  (bases 1 to 589)
+  AUTHORS   Estrella,J.E., Abbott,R.J., Soerensen,M. and Gillies,A.C.
+  TITLE     Molecular systematics of Pachyrhizus (Fabaceae), the yam bean
+  JOURNAL   Plant Syst. Evol. (2002) In press
+REFERENCE   2  (bases 1 to 589)
+  AUTHORS   Estrella,J.E., Abbott,R.J., Soerensen,M. and Gillies,A.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2002) DENAREF, INIAP, Panamericana Sur km 14,
+            Quito, Pichincha, Ecuador
+FEATURES             Location/Qualifiers
+     source          1..589
+                     /country="Ecuador: Canar, General Morales, Tomebamba (900
+                     masl)"
+                     /db_xref="taxon:205481"
+                     /ecotype="TWTM48"
+                     /mol_type="genomic DNA"
+                     /note="subtribe Diocleinae; naturally occurring population;
+                     authority: Pachyrhizus tuberosus (Lam.) Sprengel"
+                     /organism="Pachyrhizus tuberosus"
+     misc_RNA        1..205
+                     /product="internal transcribed spacer 1"
+     rRNA            206..369
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        370..589
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 tcgggttcca gacgaatccc agcagcgaat cgttcaatca ccccgagagg agggaccgtt
+       61 ggagtggcgt tacacctcga ggggccggcg ggcttcggat cgtgcaacgt cacgtctcgg
+      121 ccaactgcct ccccttgcgt wgggcagtgg cctcggccct tgctcgacaa ccccaaaacc
+      181 ccggcgcttc gtgtgccaag gaatcaaaac atgtttgtga agtgcaattc tcgtgggctc
+      241 ggagacgatg tccccacgag cggtcgttct tcacgataca attgtagaca tccaaaaaac
+      301 ctttcgtcaa cgaatatctg ggctcttgga tscctaaara ccgaaggcaa atgcgatact
+      361 gggtcaaact tggacatccc cakaaccatc gagtatttga acgcaagttg cgcccaaagg
+      421 cattaggctg agggcacgcc tgcctgggtg tcacacattg tcaccctcya cacgcacaca
+      481 cactgtacag gaggagggtg tatgctggtt tcccgcgagc accgactcgc ggttggttaa
+      541 aaatcgagtt cgcaaccttt ttcgtcgtga taaattggtg gatggtaac
+//
+LOCUS       AF539636                 589 bp    DNA     linear   PLN 02-JAN-2003
+DEFINITION  Pachyrhizus tuberosus cultivar TC553ji internal transcribed spacer
+            1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2,
+            complete sequence.
+ACCESSION   AF539636
+VERSION     AF539636.1
+KEYWORDS    .
+SOURCE      Pachyrhizus tuberosus
+  ORGANISM  Pachyrhizus tuberosus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Pachyrhizus.
+REFERENCE   1  (bases 1 to 589)
+  AUTHORS   Estrella,J.E., Abbott,R.J., Soerensen,M. and Gillies,A.C.
+  TITLE     Molecular systematics of Pachyrhizus (Fabaceae), the yam bean
+  JOURNAL   Plant Syst. Evol. (2002) In press
+REFERENCE   2  (bases 1 to 589)
+  AUTHORS   Estrella,J.E., Abbott,R.J., Soerensen,M. and Gillies,A.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2002) DENAREF, INIAP, Panamericana Sur km 14,
+            Quito, Pichincha, Ecuador
+FEATURES             Location/Qualifiers
+     source          1..589
+                     /country="Ecuador: Manabi, Santa Ana (50 masl) (jiquima)"
+                     /cultivar="TC553ji"
+                     /db_xref="taxon:205481"
+                     /mol_type="genomic DNA"
+                     /note="subtribe Diocleinae; cultivated by farmers;
+                     authority: Pachyrhizus panamensis Clausen"
+                     /organism="Pachyrhizus tuberosus"
+     misc_RNA        1..205
+                     /product="internal transcribed spacer 1"
+     rRNA            206..369
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        370..589
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 tcgggttcca gacgaatccc agcagcgaat cgttcaatca cnccgagagg aggnaccgtt
+       61 mmagtggcnt tacacctcga ggggccggcg ggcttcggan cgtgcaangt canttctcgg
+      121 ccaattgccc ccccttgcnt tkggcagtgn cntcggccct tgctcgacaa ccccaaaacc
+      181 ccggcgcttn gtgtgccaag gaattaaaac atgtttntga agtrcnattc tcgngggctc
+      241 ggagacgatg tcccaccgag cggtcgttct tcacgatact attgtataca tccaaaaaac
+      301 ctttcggcaa cgaatatntg ggctcttgga tccctaaaga acgaaggcaa atgcgatact
+      361 gggtcaaacn tggacatcyc catnaccatc gagtatttga acgcaagttg cgcccaaagc
+      421 cattaggctg agggcacgcc tgcctgggtg tcacacattg ncaccctcca casgcacccc
+      481 cactgtgcag gaggggggtt tatgctggtt tcgcgcgagc ccccactcgc ggttggttaa
+      541 aaancgagtt cgcaaccntt ttcgtcgtga aaaattggtg gatggtaac
+//
+LOCUS       AF539635                 589 bp    DNA     linear   PLN 02-JAN-2003
+DEFINITION  Pachyrhizus tuberosus cultivar TC536as internal transcribed spacer
+            1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2,
+            complete sequence.
+ACCESSION   AF539635
+VERSION     AF539635.1
+KEYWORDS    .
+SOURCE      Pachyrhizus tuberosus
+  ORGANISM  Pachyrhizus tuberosus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Pachyrhizus.
+REFERENCE   1  (bases 1 to 589)
+  AUTHORS   Estrella,J.E., Abbott,R.J., Soerensen,M. and Gillies,A.C.
+  TITLE     Molecular systematics of Pachyrhizus (Fabaceae), the yam bean
+  JOURNAL   Plant Syst. Evol. (2002) In press
+REFERENCE   2  (bases 1 to 589)
+  AUTHORS   Estrella,J.E., Abbott,R.J., Soerensen,M. and Gillies,A.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2002) DENAREF, INIAP, Panamericana Sur km 14,
+            Quito, Pichincha, Ecuador
+FEATURES             Location/Qualifiers
+     source          1..589
+                     /country="Brazil: Minas Gerais (from INPA, Manaus)"
+                     /cultivar="TC536as"
+                     /db_xref="taxon:205481"
+                     /mol_type="genomic DNA"
+                     /note="subtribe Diocleinae; cultivated by farmers;
+                     authority: Pachyrhizus tuberosus (Lam.) Sprengel"
+                     /organism="Pachyrhizus tuberosus"
+     misc_RNA        1..205
+                     /product="internal transcribed spacer 1"
+     rRNA            206..369
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        370..589
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 tcgggttcca gacgaatccc agcagcgaat cgttcaatca ccccgagagg agggaccgtt
+       61 ggagtggcgt tacacctcga ggggccggcg ggcttgggat cgtscaamgt cacgtctcgg
+      121 ccaactgccy ccccytgcgt tgggcagtgg cctcggccct tgctcgacaa ccccaaaacc
+      181 ccggcssttc gtgtgccaag gaatcaaaac atgkttgtga agtgcaattc tcgtgggctc
+      241 ggagacgatg tccccacgag cggtcgttct tcacgataca attgtataca tccaaaaaac
+      301 ctttcggcaa cgaatatctg ggctcttgga tccctnaaga acgaaggcaa atgcgatact
+      361 gggtcaaact tggacatccc cataaccatc gagtatttga acgcaagttg cgcccaaagc
+      421 cattaggctr agggcacgcc tgcctgggtg tcacmcattg tcaccctcca cacgcacaca
+      481 cactgtgcag naggagggtg tatgctggtt tcccgcgarc accgactcgc ggttggttaa
+      541 aaatcgagtt cgcaaccttt ttcgtcgtga taaattggtg gatggtaac
+//
+LOCUS       AF539634                 589 bp    DNA     linear   PLN 02-JAN-2003
+DEFINITION  Pachyrhizus tuberosus cultivar TC350ch internal transcribed spacer
+            1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2,
+            complete sequence.
+ACCESSION   AF539634
+VERSION     AF539634.1
+KEYWORDS    .
+SOURCE      Pachyrhizus tuberosus
+  ORGANISM  Pachyrhizus tuberosus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Pachyrhizus.
+REFERENCE   1  (bases 1 to 589)
+  AUTHORS   Estrella,J.E., Abbott,R.J., Soerensen,M. and Gillies,A.C.
+  TITLE     Molecular systematics of Pachyrhizus (Fabaceae), the yam bean
+  JOURNAL   Plant Syst. Evol. (2002) In press
+REFERENCE   2  (bases 1 to 589)
+  AUTHORS   Estrella,J.E., Abbott,R.J., Soerensen,M. and Gillies,A.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2002) DENAREF, INIAP, Panamericana Sur km 14,
+            Quito, Pichincha, Ecuador
+FEATURES             Location/Qualifiers
+     source          1..589
+                     /country="Peru: Loreto, Jenaro Herrera (chuin morado)"
+                     /cultivar="TC350ch"
+                     /db_xref="taxon:205481"
+                     /mol_type="genomic DNA"
+                     /note="subtribe Diocleinae; cultivated by farmers;
+                     authority: Pachyrhizus tuberosus (Lam.) Sprengel"
+                     /organism="Pachyrhizus tuberosus"
+     misc_RNA        1..205
+                     /product="internal transcribed spacer 1"
+     rRNA            206..369
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        370..589
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 tcgggntcca gncgaatgcc ggcagcgnyt cgttcaatca ccccaagagg agggaccgtw
+       61 ggagtggcgt tacacctcga ggggctggcg ggcttgggat cgtrcaasgt cacgtctcgg
+      121 ccaactgcct ccccytgcgt tgggcagtgg cctcggccct tgctcgacaa ccacaaaacc
+      181 ccggcgcttc gtgtgccaag gaatcaaaac atgtttgtga agtgcaattc tcgtgggctc
+      241 ggagacratg tccccacrag cggtcgttct tcacrataca attgtatact tccaaaaaac
+      301 ctttcggcaa cgratatctg ggctcttgga tcrctaaaga ccgaaggcaa atgcgatact
+      361 gggtcaract tggacattcc cataaccatc gagtctttga aaccaagttg cgcccaaagc
+      421 cattaggstt agggcacgcc ttgctgggtg tcacacattg tcaccctcca cacscacaca
+      481 cactgtgcag gaggagggtt tatgctggct tcccgcgagc accgactcgc ggttkgttcc
+      541 aaatccagtt cgcanccttt ttcgtcgtga aaaattggtg gatggtaac
+//
+LOCUS       AF539633                 590 bp    DNA     linear   PLN 02-JAN-2003
+DEFINITION  Pachyrhizus panamensis ecotype PWTM58 internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence.
+ACCESSION   AF539633
+VERSION     AF539633.1
+KEYWORDS    .
+SOURCE      Pachyrhizus panamensis
+  ORGANISM  Pachyrhizus panamensis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Pachyrhizus.
+REFERENCE   1  (bases 1 to 590)
+  AUTHORS   Estrella,J.E., Abbott,R.J., Soerensen,M. and Gillies,A.C.
+  TITLE     Molecular systematics of Pachyrhizus (Fabaceae), the yam bean
+  JOURNAL   Plant Syst. Evol. (2002) In press
+REFERENCE   2  (bases 1 to 590)
+  AUTHORS   Estrella,J.E., Abbott,R.J., Soerensen,M. and Gillies,A.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2002) DENAREF, INIAP, Panamericana Sur km 14,
+            Quito, Pichincha, Ecuador
+FEATURES             Location/Qualifiers
+     source          1..590
+                     /country="Ecuador: Guayas, Guayaquil, Chongon (300 masl)"
+                     /db_xref="taxon:205480"
+                     /ecotype="PWTM58"
+                     /mol_type="genomic DNA"
+                     /note="subtribe Diocleinae; naturally occurring population;
+                     authority: Pachyrhizus panamensis Clausen"
+                     /organism="Pachyrhizus panamensis"
+     misc_RNA        1..205
+                     /product="internal transcribed spacer 1"
+     rRNA            206..369
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        370..590
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 tcgggttcca gacgantgcc ggcagcgaat cgttcaatca ccccaanagg agggaccstt
+       61 ggagtggcgt tacacctcga ggggctggcg ggcttgggat cgtgcaamgt cacgtctcgg
+      121 ccaactgcct ccccttgcgt tgggcagmgg cctcggccct tgttcgacaa ccacaaaacm
+      181 ccggcgcttc gtgtgccaar gaatcaaaac atgtttgtga agtgcaattc tcgtgggctc
+      241 ggagacrwtg tccccacrag cggtcgttct tcacrataca attgtatact tccaaaaasc
+      301 ctttcggcaa cgaatatctg ggctcttgga tccctaaaga ccgaaggcaa atgcgatact
+      361 gggtcaaact tggacattcc cataaccatc gagtctttga aaccaagttg ggcccaaagc
+      421 cattaggctt agggcacgcc ttactgggtg tccacacttg tkaccctcca cacgcacaca
+      481 cactgtgcag gaggagggtt tatgctggct tcccgcgagc accgactcgc ggttggktaa
+      541 aaatcgagtt cgcnaccttt ttcgtcgtga aaaattggtg gatggtaaac
+//
+LOCUS       AF539632                 589 bp    DNA     linear   PLN 02-JAN-2003
+DEFINITION  Pachyrhizus panamensis ecotype PW055 internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence.
+ACCESSION   AF539632
+VERSION     AF539632.1
+KEYWORDS    .
+SOURCE      Pachyrhizus panamensis
+  ORGANISM  Pachyrhizus panamensis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Pachyrhizus.
+REFERENCE   1  (bases 1 to 589)
+  AUTHORS   Estrella,J.E., Abbott,R.J., Soerensen,M. and Gillies,A.C.
+  TITLE     Molecular systematics of Pachyrhizus (Fabaceae), the yam bean
+  JOURNAL   Plant Syst. Evol. (2002) In press
+REFERENCE   2  (bases 1 to 589)
+  AUTHORS   Estrella,J.E., Abbott,R.J., Soerensen,M. and Gillies,A.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2002) DENAREF, INIAP, Panamericana Sur km 14,
+            Quito, Pichincha, Ecuador
+FEATURES             Location/Qualifiers
+     source          1..589
+                     /country="Panama: Panama, Maddem Dam"
+                     /db_xref="taxon:205480"
+                     /ecotype="PW055"
+                     /mol_type="genomic DNA"
+                     /note="subtribe Diocleinae; naturally occurring population;
+                     authority: Pachyrhizus panamensis Clausen"
+                     /organism="Pachyrhizus panamensis"
+     misc_RNA        1..205
+                     /product="internal transcribed spacer 1"
+     rRNA            206..369
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        370..589
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 tcgggttcca gacgaatgcc ggcagcgaat cgttcaatca ccccaagagg agggaccgtt
+       61 ggagtggwgt tacacctcga ggggctggcg ggcttgggat cstgsrwcgk cacgtctcgg
+      121 ccaactgcmt ycccttgcgt tgggcagsgg cctcgsccct tgctcgacaa cnmcaaaacc
+      181 ccggsgcttc ktgtgccaag gaatcnaaac atgtttgtga agtgcaattc tcgtgggctc
+      241 ggagacrwtg tccccacgag cggtcgttct tcamgataca attgtatwct tccaaaaakc
+      301 ctttcggcaa cgaatatcty ggctcttgga tcsctaaaga ccgaagncaa atgcgatacy
+      361 gggtkaaacw tgsawattyc catkaccatc gagtctttga aaccaagttg ggcccaaagc
+      421 cattaggstt agggcacgcc ttgctgggtg tnacacattg tcaccctcna nasgcacaca
+      481 cactgtgcag gaggagggtt tatgctggct tcccgcgagc accgactcgc ggttggttcc
+      541 aaatcgagtt cgcaaccttt ttcgtcgtga aaaattggtg gatggtaac
+//
+LOCUS       AF539631                 589 bp    DNA     linear   PLN 02-JAN-2003
+DEFINITION  Pachyrhizus ferrugineus ecotype FWLoc7 internal transcribed spacer
+            1, 5.8S ribosomal RNA gene, and internal transcribed spacer 2,
+            complete sequence.
+ACCESSION   AF539631
+VERSION     AF539631.1
+KEYWORDS    .
+SOURCE      Pachyrhizus ferrugineus
+  ORGANISM  Pachyrhizus ferrugineus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Pachyrhizus.
+REFERENCE   1  (bases 1 to 589)
+  AUTHORS   Estrella,J.E., Abbott,R.J., Soerensen,M. and Gillies,A.C.
+  TITLE     Molecular systematics of Pachyrhizus (Fabaceae), the yam bean
+  JOURNAL   Plant Syst. Evol. (2002) In press
+REFERENCE   2  (bases 1 to 589)
+  AUTHORS   Estrella,J.E., Abbott,R.J., Soerensen,M. and Gillies,A.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2002) DENAREF, INIAP, Panamericana Sur km 14,
+            Quito, Pichincha, Ecuador
+FEATURES             Location/Qualifiers
+     source          1..589
+                     /country="Guatemala: Pozo del Santo, carretera San Luis -
+                     Las Casas"
+                     /db_xref="taxon:205479"
+                     /ecotype="FWLoc7"
+                     /mol_type="genomic DNA"
+                     /note="subtribe Diocleinae; naturally occurring population;
+                     authority: Pachyrhizus ferrugineus (Piper) Soerensen"
+                     /organism="Pachyrhizus ferrugineus"
+     misc_RNA        1..204
+                     /product="internal transcribed spacer 1"
+     rRNA            205..369
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        370..589
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 tgggttcnag acgaatccca gcggcgaatc gttcaatcac cccgagngga ggcaccgttg
+       61 gagtggcgta tcacctcggg gggccggcgg gcttgggatc gtgcaacgyc acgtctcggc
+      121 caattgcccc cccttgcgtt gggcagtggc cmggsccctt gcccgaraan cccaaacccc
+      181 cggcgcttct gtgcccaagg aatgaaaaca tgttggtgaa gtgcaattct cgtgggccgg
+      241 gagaccratg tcccaccgag cggtcgttct tcacgataca attgtataca tccaaaaaac
+      301 ctttcggcaa cgaatatctg ggcccttgga tccctaaaga ccgangscaa atgcgatact
+      361 ggttcaaact tggacattcc cataaccatc aagtatttga acgcaagttg ggcccaaagc
+      421 cattaggctt agggcacgcc tgcctkggtg tcacacatyk tcaccctcca cacgcacaca
+      481 cactgtgcan gaggagggtt tatgctggtt tcccgcnagc accgactcgc ggttggtkaa
+      541 aaatcgagtt cgcaaccttt ttcgtngtga aaaattkntg gatgrmaac
+//
+LOCUS       AF539630                 586 bp    DNA     linear   PLN 02-JAN-2003
+DEFINITION  Pachyrhizus ferrugineus ecotype FW237 internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence.
+ACCESSION   AF539630
+VERSION     AF539630.1
+KEYWORDS    .
+SOURCE      Pachyrhizus ferrugineus
+  ORGANISM  Pachyrhizus ferrugineus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Pachyrhizus.
+REFERENCE   1  (bases 1 to 586)
+  AUTHORS   Estrella,J.E., Abbott,R.J., Soerensen,M. and Gillies,A.C.
+  TITLE     Molecular systematics of Pachyrhizus (Fabaceae), the yam bean
+  JOURNAL   Plant Syst. Evol. (2002) In press
+REFERENCE   2  (bases 1 to 586)
+  AUTHORS   Estrella,J.E., Abbott,R.J., Soerensen,M. and Gillies,A.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2002) DENAREF, INIAP, Panamericana Sur km 14,
+            Quito, Pichincha, Ecuador
+FEATURES             Location/Qualifiers
+     source          1..586
+                     /country="Martinique: Saint Pierre, Botanical Garden, wild
+                     (escaped)"
+                     /db_xref="taxon:205479"
+                     /ecotype="FW237"
+                     /mol_type="genomic DNA"
+                     /note="subtribe Diocleinae; naturally occurring population;
+                     authority: Pachyrhizus ferrugineus (Piper) Soerensen"
+                     /organism="Pachyrhizus ferrugineus"
+     misc_RNA        1..204
+                     /product="internal transcribed spacer 1"
+     rRNA            205..366
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        367..586
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 tgggttccag acgaatccca gcsgcgaatc gttcaatcac cccgagagga ggcaccgttg
+       61 gagtgrckta tcscctnggg gggccggcgg gcttgggatc gtgcaacgtc angtctcggc
+      121 caactgcctc cccttgcgtt kggcagtggc ytkggccytt gctcgacaac cccaaaaccc
+      181 cggcgcttct gtgcccaagg aatcaaaant gttgntgaag tgcaatnctc ntgggctggg
+      241 agacgttgtc ccacngagng gtngtncttc nngatacaat tgtatacatc caaaanacct
+      301 ttcggcaacg aaatctggnc ccttngatcc ctaaagaccg aaggcaaang nganactggt
+      361 nnaaactngn acattcccat aaccancaag tatttnaacg caagntgggn ccaaagccat
+      421 tangcttagg gcacgcctgc ctnggtnnca cacattgtca ccctncacac gcacccccac
+      481 tgcgcaggag gagggttnat gctggtttcc ngcgagcccc wactngcgtt tggttaaaaa
+      541 tcgagttcgc aacctttntc gtcgtgaaaa attggtggat ggtaac
+//
+LOCUS       AF539629                 589 bp    DNA     linear   PLN 02-JAN-2003
+DEFINITION  Pachyrhizus erosus ecotype EW203 internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence.
+ACCESSION   AF539629
+VERSION     AF539629.1
+KEYWORDS    .
+SOURCE      Pachyrhizus erosus
+  ORGANISM  Pachyrhizus erosus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Pachyrhizus.
+REFERENCE   1  (bases 1 to 589)
+  AUTHORS   Estrella,J.E., Abbott,R.J., Soerensen,M. and Gillies,A.C.
+  TITLE     Molecular systematics of Pachyrhizus (Fabaceae), the yam bean
+  JOURNAL   Plant Syst. Evol. (2002) In press
+REFERENCE   2  (bases 1 to 589)
+  AUTHORS   Estrella,J.E., Abbott,R.J., Soerensen,M. and Gillies,A.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2002) DENAREF, INIAP, Panamericana Sur km 14,
+            Quito, Pichincha, Ecuador
+FEATURES             Location/Qualifiers
+     source          1..589
+                     /country="Mexico: Veracruz, between Coatepec y Xalapa and
+                     Chavarillo (760 masl)"
+                     /db_xref="taxon:109171"
+                     /ecotype="EW203"
+                     /mol_type="genomic DNA"
+                     /note="subtribe Diocleinae; naturally occurring population;
+                     authority: Pachyrhizus erosus (L.) Urban"
+                     /organism="Pachyrhizus erosus"
+     misc_RNA        1..205
+                     /product="internal transcribed spacer 1"
+     rRNA            206..369
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        370..589
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 tcgggttcca gacgaatccc agcagcgaat cgttcaatca ccccgagagg agggaccgtt
+       61 ggagtggcgt tacacctcga ggggccggcg ggcttgggat cgtgmaacgt cacgtctcgg
+      121 ccaactgcct ccccttgcgt tgggcagtgg gcttggccct tgctcgacaa ccmcaaaaac
+      181 ccggcgcttc gtgtgccaag gaatcaaaac atgtttgtga agtgcaattc tcgtgggctc
+      241 ggagacgatg tccccacgag cggtcgttct tcaagataca attgtataca tccaaaaaac
+      301 ctttcggcaa cgaatatctk ggctcttgga tccctaaaga acgaaggcaa wtgcgatact
+      361 gggtcaaact tggacatccc cytaaccatc gagtatttga acgcmagttg cgcccaaagc
+      421 cattaggctg agggcacgcc ygcctgggtg tcacacattg tcaccctcca cacgcacaca
+      481 cactgtgcag gnggrgggtg tatgctggtt tcccgcgagc accgactcgc ggttggttaa
+      541 aaatccagtt cgcaaccttt ttcgtcgtga aaaattggtg gatggtaac
+//
+LOCUS       AF539628                 589 bp    DNA     linear   PLN 02-JAN-2003
+DEFINITION  Pachyrhizus erosus cultivar EC565 internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence.
+ACCESSION   AF539628
+VERSION     AF539628.1
+KEYWORDS    .
+SOURCE      Pachyrhizus erosus
+  ORGANISM  Pachyrhizus erosus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Pachyrhizus.
+REFERENCE   1  (bases 1 to 589)
+  AUTHORS   Estrella,J.E., Abbott,R.J., Soerensen,M. and Gillies,A.C.
+  TITLE     Molecular systematics of Pachyrhizus (Fabaceae), the yam bean
+  JOURNAL   Plant Syst. Evol. (2002) In press
+REFERENCE   2  (bases 1 to 589)
+  AUTHORS   Estrella,J.E., Abbott,R.J., Soerensen,M. and Gillies,A.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2002) DENAREF, INIAP, Panamericana Sur km 14,
+            Quito, Pichincha, Ecuador
+FEATURES             Location/Qualifiers
+     source          1..589
+                     /country="Philippines: University of Philippines, Los
+                     Banos, College of Agriculture"
+                     /cultivar="EC565"
+                     /db_xref="taxon:109171"
+                     /mol_type="genomic DNA"
+                     /note="subtribe Diocleinae; cultivated; authority:
+                     Pachyrhizus erosus (L.) Urban"
+                     /organism="Pachyrhizus erosus"
+     misc_RNA        1..205
+                     /product="internal transcribed spacer 1"
+     rRNA            206..369
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        370..589
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 tcgggttcca gacgaatccc agcagcnaat cgttcaatca ccccaamagg agggaccgtt
+       61 ggagtgkwrt twcacctcga ggggccggcg ggcttgggat cgtgcaacgt cacgtctcgg
+      121 ccaactkcct ccccttgcgt tkggcagsgs cctcrgsccy tksycggsma ccmcmaaacc
+      181 ccggsssttc gtgtgccaag raatcaaaac atgtttgtga agtgcaattc tcgtgggctc
+      241 ggagacratg tcccnacrag cggtcgttct tcacrataca attgtataca tccaaaaarc
+      301 ctttcgccaa cgratatcts ggctcttgga tcrctaaaga acgaaggcaa atgcgatact
+      361 gggtcaaact tgnarattcc catkaccatc gagtctttga aaccaagttg ggcccaaagg
+      421 cattaggctt agggcacgcc tgcctgggtg tcacacattg tcacccymca crsrcacaca
+      481 cactgtacag gaggagggtg tatgctggtt tcccgcgagc gccgactcgc ggttkgttaa
+      541 aaatcgagtt cgcaacctkt ttygtcgtga taaattggtg gatggtrcc
+//
+LOCUS       AF539627                 589 bp    DNA     linear   PLN 02-JAN-2003
+DEFINITION  Pachyrhizus erosus cultivar EC558 internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence.
+ACCESSION   AF539627
+VERSION     AF539627.1
+KEYWORDS    .
+SOURCE      Pachyrhizus erosus
+  ORGANISM  Pachyrhizus erosus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Pachyrhizus.
+REFERENCE   1  (bases 1 to 589)
+  AUTHORS   Estrella,J.E., Abbott,R.J., Soerensen,M. and Gillies,A.C.
+  TITLE     Molecular systematics of Pachyrhizus (Fabaceae), the yam bean
+  JOURNAL   Plant Syst. Evol. (2002) In press
+REFERENCE   2  (bases 1 to 589)
+  AUTHORS   Estrella,J.E., Abbott,R.J., Soerensen,M. and Gillies,A.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2002) DENAREF, INIAP, Panamericana Sur km 14,
+            Quito, Pichincha, Ecuador
+FEATURES             Location/Qualifiers
+     source          1..589
+                     /country="Mexico: Nayarit, Tuxpan, Coamiles (approximately
+                     15 masl)"
+                     /cultivar="EC558"
+                     /db_xref="taxon:109171"
+                     /mol_type="genomic DNA"
+                     /note="subtribe Diocleinae; cultivated by farmers;
+                     authority: Pachyrhizus erosus (L.) Urban"
+                     /organism="Pachyrhizus erosus"
+     misc_RNA        1..205
+                     /product="internal transcribed spacer 1"
+     rRNA            206..369
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        370..589
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 tcgggttcca gangaatccc agcagcgaat cgttcaatca ccccaagagg agggaccgty
+       61 rgagtgryst tacacctcga ggggccggcg ggsytgggat cstgsrwcgk cacgtctcgg
+      121 ccaactgcmt ycccttgcgt tgggcagtcg cctcggccct tgckckkcaa ccacaaaacc
+      181 ccggsggttc gtgtgccaag gaatcsaaac atgtttgtga agtgcaattc yygtgggctc
+      241 ggagacgatg tccccacgar cggtcgttct tcacgataca attgkatwca tccaaaaakc
+      301 ctttcggcaa cgaatatctg ggctcttgga tccctaaaga acgaaggcaa atgcgatact
+      361 gggtcakact tggacattcc catkaccatc gngtctttga aaccaagttg ggcccaaagg
+      421 cattaggctt agggcacgcc tgcctgggtg tcacaaattg tcaccctcca nacgcacaca
+      481 cactgtacag gaggagggtg tatgctggtt tcccgcgagc accgactcgc ggttggttaa
+      541 aaatcganwt cgcnaccttt ttcgtcgnga taaattggtg gktggtayc
+//
+LOCUS       AF539626                 587 bp    DNA     linear   PLN 02-JAN-2003
+DEFINITION  Pachyrhizus ahipa cultivar AC208 internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence.
+ACCESSION   AF539626
+VERSION     AF539626.1
+KEYWORDS    .
+SOURCE      Pachyrhizus ahipa
+  ORGANISM  Pachyrhizus ahipa
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Pachyrhizus.
+REFERENCE   1  (bases 1 to 587)
+  AUTHORS   Estrella,J.E., Abbott,R.J., Soerensen,M. and Gillies,A.C.
+  TITLE     Molecular systematics of Pachyrhizus (Fabaceae), the yam bean
+  JOURNAL   Plant Syst. Evol. (2002) In press
+REFERENCE   2  (bases 1 to 587)
+  AUTHORS   Estrella,J.E., Abbott,R.J., Soerensen,M. and Gillies,A.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2002) DENAREF, INIAP, Panamericana Sur km 14,
+            Quito, Pichincha, Ecuador
+FEATURES             Location/Qualifiers
+     source          1..587
+                     /country="Bolivia: Cochabamba, Machaca, Muro Capilla (2800
+                     masl)"
+                     /cultivar="AC208"
+                     /db_xref="taxon:205478"
+                     /mol_type="genomic DNA"
+                     /note="subtribe Diocleinae; cultivated by farmers;
+                     authority: Pachyrhizus ahipa (Wedd.) Parodi"
+                     /organism="Pachyrhizus ahipa"
+     misc_RNA        1..203
+                     /product="internal transcribed spacer 1"
+     rRNA            204..368
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        369..587
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 tgggttccag acgaatgcca gcggcgaatc gttcaatcac cccgagagga ggcaccgttg
+       61 gagtggcgtt acacctcgag gggctggcgg gcttggcatc gtgcaacgtc acgtctcgnc
+      121 caactgcytc cccttgcgtt gggcagtggc ctgggccctt gctcgaaacc acaaaacccc
+      181 ggatcttcgt gtgccaagga atcaaaacat gtttgtnaag ggcaattcnc gtgggccggg
+      241 agaccgatgt cccaccnagc ggtcgttctt cacgatacaa ttgtatactt ccaaaaaacc
+      301 tntcggcaac gaatatctgg gctcttggat ccctaaagac cgaaggcaaa tgcgatactg
+      361 ggtcaaactt ggacattccc ataaccatca agtctttgaa accaagttgg gcccaaagcc
+      421 attaggctga gggcacgcct tactgggtgt ccacacttkt caccctccac acgcaaaacc
+      481 actgtgcagn aggagggttg tgctggcttc ccgcgagcac cgactcgcgg ttggttaaaa
+      541 atcgagttcg caaccttntt cgtcgtgaaa aattggtgga tggtaac
+//
+LOCUS       AF539625                 587 bp    DNA     linear   PLN 02-JAN-2003
+DEFINITION  Pachyrhizus ahipa cultivar AC201 internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence.
+ACCESSION   AF539625
+VERSION     AF539625.1
+KEYWORDS    .
+SOURCE      Pachyrhizus ahipa
+  ORGANISM  Pachyrhizus ahipa
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Pachyrhizus.
+REFERENCE   1  (bases 1 to 587)
+  AUTHORS   Estrella,J.E., Abbott,R.J., Soerensen,M. and Gillies,A.C.
+  TITLE     Molecular systematics of Pachyrhizus (Fabaceae), the yam bean
+  JOURNAL   Plant Syst. Evol. (2002) In press
+REFERENCE   2  (bases 1 to 587)
+  AUTHORS   Estrella,J.E., Abbott,R.J., Soerensen,M. and Gillies,A.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2002) DENAREF, INIAP, Panamericana Sur km 14,
+            Quito, Pichincha, Ecuador
+FEATURES             Location/Qualifiers
+     source          1..587
+                     /country="Bolivia: La Paz, Luribay, Anquioma (2450 masl)"
+                     /cultivar="AC201"
+                     /db_xref="taxon:205478"
+                     /mol_type="genomic DNA"
+                     /note="subtribe Diocleinae; cultivated by farmers;
+                     authority: Pachyrhizus ahipa (Wedd.) Parodi"
+                     /organism="Pachyrhizus ahipa"
+     misc_RNA        1..204
+                     /product="internal transcribed spacer 1"
+     rRNA            205..368
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        369..587
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 tgggttncag acgaatgcca gcggcgnatc gttcaatcac cccgagagga ggcaccgttg
+       61 gagtggcgtt acacctcgag gggctggcgg gcttgggatc gtgcaacgtc acgtctcggc
+      121 caactgcctc cccttgcgtt gggcagtggc ctcggccctt gctcgacaac cmcaaaaacc
+      181 cggatcttcg tgtgccaagr aatcaaaaca tgtttgtgaa gggcaattct cgtgggctcg
+      241 gagacgatgt ccccacgagc ggtcgttctt cacgatacaa ttgtatactt ccaaaaaacc
+      301 tttcggcaac gaatatctgg gctcttggat ccctaaagac cgaaggcaaa tgcgatactg
+      361 ggtcaaactt ggacattccc ataaccatca agtctttgaa accaagttgg gcccaaagcc
+      421 attaggctta gggcacgcct tactgggtgt ccacacttyt kaccctccac acgcnacacc
+      481 actgtgcagg aggagggttg tgctggcttc ccgcgaggcc cgactcgcgg ttggttaaaa
+      541 atcgagttcg caaccntttt cgtngtgaaa aattggtgga tggtaac
+//
+LOCUS       GQ434350                 213 bp    DNA     linear   PLN 23-FEB-2010
+DEFINITION  Pachyrhizus erosus voucher PS0227MT02 internal transcribed spacer 2,
+            partial sequence.
+ACCESSION   GQ434350
+VERSION     GQ434350.1
+KEYWORDS    .
+SOURCE      Pachyrhizus erosus
+  ORGANISM  Pachyrhizus erosus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Pachyrhizus.
+REFERENCE   1  (bases 1 to 213)
+  AUTHORS   Chen,S., Yao,H., Han,J., Liu,C., Song,J., Shi,L., Zhu,Y., Ma,X.,
+            Gao,T., Pang,X., Luo,K., Li,Y., Li,X., Jia,X., Lin,Y. and Leon,C.
+  TITLE     Validation of the ITS2 region as a novel DNA barcode for identifying
+            medicinal plant species
+  JOURNAL   PLoS ONE 5 (1), E8613 (2010)
+   PUBMED   20062805
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 213)
+  AUTHORS   Chen,S.-L. and Zhu,Y.-J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-JUL-2009) Institute of Medicinal Plant Development,
+            Chinese Academy of Medical Sciences, No. 151 Malianwa North Road,
+            Haidian District, Beijing 100193, P. R. China
+FEATURES             Location/Qualifiers
+     source          1..213
+                     /db_xref="taxon:109171"
+                     /mol_type="genomic DNA"
+                     /organism="Pachyrhizus erosus"
+                     /specimen_voucher="PS0227MT02"
+     misc_RNA        <1..>213
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 cacatcgtca ccctccacac gcacacacac tgtgcaggag gagggtgtat gctggcttcc
+       61 cgcgagcacc gactcgcggt tggttgaaaa tcgagttcgc gacagtctgt gtcgtgataa
+      121 aatggtggat gggcaacatg ctcgagaccg atcacacgcg acatgtcgat ttcggactct
+      181 ttgatccctg tgcgtctgtg aacgctctca acg
+//
+LOCUS       GQ434349                 213 bp    DNA     linear   PLN 23-FEB-2010
+DEFINITION  Pachyrhizus erosus voucher PS0227MT01 internal transcribed spacer 2,
+            partial sequence.
+ACCESSION   GQ434349
+VERSION     GQ434349.1
+KEYWORDS    .
+SOURCE      Pachyrhizus erosus
+  ORGANISM  Pachyrhizus erosus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Pachyrhizus.
+REFERENCE   1  (bases 1 to 213)
+  AUTHORS   Chen,S., Yao,H., Han,J., Liu,C., Song,J., Shi,L., Zhu,Y., Ma,X.,
+            Gao,T., Pang,X., Luo,K., Li,Y., Li,X., Jia,X., Lin,Y. and Leon,C.
+  TITLE     Validation of the ITS2 region as a novel DNA barcode for identifying
+            medicinal plant species
+  JOURNAL   PLoS ONE 5 (1), E8613 (2010)
+   PUBMED   20062805
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 213)
+  AUTHORS   Chen,S.-L. and Zhu,Y.-J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-JUL-2009) Institute of Medicinal Plant Development,
+            Chinese Academy of Medical Sciences, No. 151 Malianwa North Road,
+            Haidian District, Beijing 100193, P. R. China
+FEATURES             Location/Qualifiers
+     source          1..213
+                     /db_xref="taxon:109171"
+                     /mol_type="genomic DNA"
+                     /organism="Pachyrhizus erosus"
+                     /specimen_voucher="PS0227MT01"
+     misc_RNA        <1..>213
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 cacatcgtca ccctccacac gcacacacac tgtgcaggag gagggtgtat gctggcttcc
+       61 cgcgagcacc gactcgcggt tggttgaaaa tcgagttcgc gacagtctgt gtcgtgataa
+      121 aatggtggat gggcaacatg ctcgagaccg atcacacgcg acatgtcgat ttcggactct
+      181 ttgatccctg tgcgtctgtg aacgctctca acg
+//

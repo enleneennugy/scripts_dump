@@ -1,0 +1,54 @@
+LOCUS       AY583517                 623 bp    DNA     linear   PLN 04-JAN-2005
+DEFINITION  Physostigma venenosum small subunit ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and large
+            subunit ribosomal RNA gene, partial sequence.
+ACCESSION   AY583517
+VERSION     AY583517.1
+KEYWORDS    .
+SOURCE      Physostigma venenosum
+  ORGANISM  Physostigma venenosum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Physostigma.
+REFERENCE   1  (bases 1 to 623)
+  AUTHORS   Thulin,M., Lavin,M., Pasquet,R. and Delgado-Salinas,A.
+  TITLE     Phylogeny and Biogeography of Wajira (Leguminosae): A Monophyletic
+            Segregate of Vigna Centered in the Horn of Africa Region
+  JOURNAL   Syst. Bot. 29 (4), 903-920 (2004)
+REFERENCE   2  (bases 1 to 623)
+  AUTHORS   Thulin,M., Lavin,M., Pasquet,R. and Delgado-Salinas,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-MAR-2004) Plant Sciences, Montana State University,
+            119 Ag Biosciences Bldg, Bozeman, MT 59717, USA
+FEATURES             Location/Qualifiers
+     source          1..623
+                     /country="Ghana: Atewa Range"
+                     /db_xref="taxon:271807"
+                     /mol_type="genomic DNA"
+                     /organism="Physostigma venenosum"
+                     /specimen_voucher="C.C.H. Jongkind 1792 (MEXU)"
+     rRNA            <1..6
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        7..219
+                     /product="internal transcribed spacer 1"
+     rRNA            220..387
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        388..598
+                     /product="internal transcribed spacer 2"
+     rRNA            599..>623
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 tcattgtctc tgcctcaatc aaccagtccc acccgcgaat ctgtccgtcc gtactactgc
+       61 aagagcaggc attgagaggg gtggccgtgc cacgtgcaac cggccaggct tctctcggca
+      121 gaacacaaac catggcrctt cacgsaccaa ggatcctata aacttgtctg gtgcggctcc
+      181 ctgggacggg catcccatgt tgttcrtcac gacgtgttat gtcacaatga ctctcggcaa
+      241 cggatatctc ggctcttgca tcgatgaaga acgtagcgaa atgcgatact tggtgtgaat
+      301 tgcagaatcc cgtgaaccat tgagtctttg aaggcaagtt gcatgcgaag ccattaggtt
+      361 gagggcacgy ctgcctgggt gtcagacatt gtcaaacacc cacgaaaatg ygcagcgggg
+      421 ygaaagttgr cttctcstga racaattctc gtggttggtt gaaaactaag ttcaaggcgg
+      481 ggtccccgcg atgaatggtg gatgagtgaa actcaatacc aattgtgcac gtrcgactnc
+      541 ggcgtgttag actgactgac cgttcgcgtc ctgtgtggaa actgaagacg ctcttagyga
+      601 gacctcaggt caggcggggc tac
+//

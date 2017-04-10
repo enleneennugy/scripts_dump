@@ -1,0 +1,385 @@
+LOCUS       JX856413                 385 bp    DNA     linear   PLN 09-MAR-2015
+DEFINITION  Butea monosperma isolate 602 internal transcribed spacer 1, partial
+            sequence; 5.8S ribosomal RNA gene, complete sequence; and internal
+            transcribed spacer 2, partial sequence.
+ACCESSION   JX856413
+VERSION     JX856413.1
+KEYWORDS    .
+SOURCE      Butea monosperma
+  ORGANISM  Butea monosperma
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Butea.
+REFERENCE   1  (bases 1 to 385)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Kumar,A., Singh,A., Singh,S.,
+            Chaudhary,L.B. and Roy,S.
+  TITLE     The Internal Transcribed Spacer (ITS) Region and trnhH-psbA Are
+            Suitable Candidate Loci for DNA Barcoding of Tropical Tree Species
+            of India
+  JOURNAL   PLoS ONE 8 (2), E57934 (2013)
+   PUBMED   23460915
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 385)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Chaudhary,L.B. and Roy,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2012) National Botanical Research Institute, Rana
+            Pratap Marg, Lucknow, U.P 226001, India
+FEATURES             Location/Qualifiers
+     source          1..385
+                     /db_xref="taxon:56060"
+                     /isolate="602"
+                     /mol_type="genomic DNA"
+                     /organism="Butea monosperma"
+     misc_RNA        <1..>385
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, and internal transcribed spacer 2"
+ORIGIN
+        1 cgcttcgtgt gccaaggaat caagaattgt tcggtgcggt cccggggacc cggagacggt
+       61 gctcccgcgg gtcttgtcac gacacacgat acaaaacgac tctcggcaac ggatatctcg
+      121 gctcttgcat cgatgaagaa cgtagcgaaa tgcgatactt ggtgtgaatt gcagaatccc
+      181 gtgaaccatc gagtctttga acgcaagttg cgcccgaagc catctgaggg cacgcctgcc
+      241 tgggtgtcac acatcgttac cctcacgcaa acgtcccgag tcggccgttg cgtggtaggg
+      301 tgtatgctgg cctcccgcga gcgccgtctc gtggttggtt gaaaagcggg ttcgtggccg
+      361 agcgcgccgt gatagaatgg tggac
+//
+LOCUS       JX856412                 659 bp    DNA     linear   PLN 09-MAR-2015
+DEFINITION  Butea monosperma isolate 394 internal transcribed spacer 1, partial
+            sequence; 5.8S ribosomal RNA gene, complete sequence; and internal
+            transcribed spacer 2, partial sequence.
+ACCESSION   JX856412
+VERSION     JX856412.1
+KEYWORDS    .
+SOURCE      Butea monosperma
+  ORGANISM  Butea monosperma
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Butea.
+REFERENCE   1  (bases 1 to 659)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Kumar,A., Singh,A., Singh,S.,
+            Chaudhary,L.B. and Roy,S.
+  TITLE     The Internal Transcribed Spacer (ITS) Region and trnhH-psbA Are
+            Suitable Candidate Loci for DNA Barcoding of Tropical Tree Species
+            of India
+  JOURNAL   PLoS ONE 8 (2), E57934 (2013)
+   PUBMED   23460915
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 659)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Chaudhary,L.B. and Roy,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2012) National Botanical Research Institute, Rana
+            Pratap Marg, Lucknow, U.P 226001, India
+FEATURES             Location/Qualifiers
+     source          1..659
+                     /db_xref="taxon:56060"
+                     /isolate="394"
+                     /mol_type="genomic DNA"
+                     /organism="Butea monosperma"
+     misc_RNA        <1..>659
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, and internal transcribed spacer 2"
+ORIGIN
+        1 tgcggaggat cattgtcgat gcctcgcaac caacccgacc ggcgaatctg tttatctacc
+       61 cggggtcgga tcggggcgtg ttcaacaccc cgacctcccc ttgcgtcggg aggcggcccg
+      121 gcctcctctc gacgagacac aaaccccggc gcttcgtgtg ccaaggaatc aagaattgtt
+      181 cggtgcggtc ccggggaccc ggagacggtg ctcccgcggg tcttgtcacg acacacgata
+      241 caaaacgact ctcggcaacg gatatctcgg ctcttgcatc gatgaagaac gtagcgaaat
+      301 gcgatacttg gtgtgaattg cagaatcccg tgaaccatcg agtctttgaa cgcaagttgc
+      361 gcccgaagcc atctgagggc acgcctgcct gggtgtcaca catcgttacc ctcacgcaaa
+      421 cgtcccgagt cggccgttgc gtggtagggt gtatgctggc ctcccgcgag cgccgtctcg
+      481 tggttggttg aaaagcgggt tcgtggccga gcgcgccgtg atagaatggt ggacgggcaa
+      541 cgctcgagac cgatcacgtg cggcccggtc gggtaaggac cgtccgaccc ccgtgcgtcc
+      601 ctggacgctc ccggcgagac ctcacgtcac gcgggaccac ccgctgagtt taagcatat
+//
+LOCUS       KJ436384                 690 bp    DNA     linear   PLN 02-SEP-2014
+DEFINITION  Butea monosperma isolate BDBP-13B internal transcribed spacer 1,
+            partial sequence; 5.8S ribosomal RNA gene and internal transcribed
+            spacer 2, complete sequence; and 28S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   KJ436384
+VERSION     KJ436384.1
+KEYWORDS    .
+SOURCE      Butea monosperma
+  ORGANISM  Butea monosperma
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Butea.
+REFERENCE   1  (bases 1 to 690)
+  AUTHORS   Pandith,S.A., Razdan,S., Kitchlu,S., Bedi,Y.S. and Lattoo,S.K.
+  TITLE     Bioprospection of plant resources and other natural products
+            (BioprosPR) under CSIR Network project BSC-0106
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 690)
+  AUTHORS   Pandith,S.A., Razdan,S., Kitchlu,S., Bedi,Y.S. and Lattoo,S.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-FEB-2014) Plant Biotechnology, Indian Institute of
+            Integrative Medicine (CSIR), Canal Road, Jammu, J&K 180001, India
+FEATURES             Location/Qualifiers
+     source          1..690
+                     /db_xref="taxon:56060"
+                     /isolate="BDBP-13B"
+                     /mol_type="genomic DNA"
+                     /organism="Butea monosperma"
+     misc_RNA        <1..>690
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, internal transcribed spacer 2, and 28S
+                     ribosomal RNA"
+ORIGIN
+        1 cgagcgtagt gacctgcgga ggatcattgt cgatgcctcg caaccaaccc gaccggcgaa
+       61 tctgtttatc tacccggggt cggatcgggg cgtgttcaac accccgacct cccctcgcgt
+      121 cgggaggcgg cccggcctcc tctcgacgag acacaaaccc cggcgcttcg tgtgccaagg
+      181 aatcaagaat tgttcggtgc ggtcccgggg acccggagac ggtgctcccg cgggtcttgt
+      241 cacgacacac gatacaaaac gactctcggc aacggatatc tcggctcttg catcgatgaa
+      301 gaacgtagcg aaatgcgata cttggtgtga attgcagaat cccgtgaacc atcgagtctt
+      361 tgaacgcaag ttgcgcccga agccatctga gggcacgcct gcctgggtgt cacacatcgt
+      421 taccctcacg caaacgtccc gagtcggccg ttgcgtggta gggtgtatgc tggcctcccg
+      481 cgagcgccgt ctcgtggttg gttgaaaagc gggttcgtgg ccgagcgcgc cgtgatagaa
+      541 tggtggacgg gcaacgctcg agaccgatca cgtgcggccc ggtcgggtaa ggaccgtccg
+      601 acccccgtgc gtccctggac gctcccggcg agacctcagg tcaggcggga ccacccgctg
+      661 agtttaagca tatcataagg gggaaggaaa
+//
+LOCUS       KJ436383                 338 bp    DNA     linear   PLN 02-SEP-2014
+DEFINITION  Butea monosperma isolate BDBP-13A 5.8S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   KJ436383
+VERSION     KJ436383.1
+KEYWORDS    .
+SOURCE      Butea monosperma
+  ORGANISM  Butea monosperma
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Butea.
+REFERENCE   1  (bases 1 to 338)
+  AUTHORS   Pandith,S.A., Razdan,S., Kitchlu,S., Bedi,Y.S. and Lattoo,S.K.
+  TITLE     Bioprospection of plant resources and other natural products
+            (BioprosPR) under CSIR Network project BSC-0106
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 338)
+  AUTHORS   Pandith,S.A., Razdan,S., Kitchlu,S., Bedi,Y.S. and Lattoo,S.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-FEB-2014) Plant Biotechnology, Indian Institute of
+            Integrative Medicine (CSIR), Canal Road, Jammu, J&K 180001, India
+FEATURES             Location/Qualifiers
+     source          1..338
+                     /db_xref="taxon:56060"
+                     /isolate="BDBP-13A"
+                     /mol_type="genomic DNA"
+                     /organism="Butea monosperma"
+     misc_RNA        <1..>338
+                     /note="contains 5.8S ribosomal RNA, internal transcribed
+                     spacer 2, and 28S ribosomal RNA"
+ORIGIN
+        1 ggatcgagtc tttgacgcag ttgcgcccga agccatctga gggcacgcct gcctgggtgt
+       61 cacacatcgt taccctcacg caaacgtccc gagtcggccg ttgcgtggta gggtgtatgc
+      121 tggcctcccg cgagcgccgt ctcgtggttg gttgaaaagc gggttcgtgg ccgagcgcgc
+      181 cgtgatagaa tggtggacgg gcaacgctcg agaccgatca cgtgcggccc ggtcgggtaa
+      241 ggaccgtccg acccccgtgc gtccctggac gctcccggcg agacctcagg tcaggcggga
+      301 ccacccgctg agtttaagca tatcaataag cggaggaa
+//
+LOCUS       KJ436382                 696 bp    DNA     linear   PLN 02-SEP-2014
+DEFINITION  Butea monosperma isolate BDBP-13C internal transcribed spacer 1,
+            partial sequence; 5.8S ribosomal RNA gene and internal transcribed
+            spacer 2, complete sequence; and 28S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   KJ436382
+VERSION     KJ436382.1
+KEYWORDS    .
+SOURCE      Butea monosperma
+  ORGANISM  Butea monosperma
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Butea.
+REFERENCE   1  (bases 1 to 696)
+  AUTHORS   Pandith,S.A., Razdan,S., Kitchlu,S., Bedi,Y.S. and Lattoo,S.K.
+  TITLE     Bioprospection of plant resources and other natural products
+            (BioprosPR) under CSIR Network project BSC-0106
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 696)
+  AUTHORS   Pandith,S.A., Razdan,S., Kitchlu,S., Bedi,Y.S. and Lattoo,S.K.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-FEB-2014) Plant Biotechnology, Indian Institute of
+            Integrative Medicine (CSIR), Canal Road, Jammu, J&K 180001, India
+FEATURES             Location/Qualifiers
+     source          1..696
+                     /db_xref="taxon:56060"
+                     /isolate="BDBP-13C"
+                     /mol_type="genomic DNA"
+                     /organism="Butea monosperma"
+     misc_RNA        <1..>696
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, internal transcribed spacer 2, and 28S
+                     ribosomal RNA"
+ORIGIN
+        1 tgctcgtagt gacctgcgga ggatcattgt cgatgcctcg caaccaaccc gaccggcgaa
+       61 tctgtttatc tacccggggt cggatcgggg cgtgttcaac accccgacct cccctcgcgt
+      121 cgggaggcgg cccggcctcc tctcgacgag acacaaaccc cggcgcttcg tgtgccaagg
+      181 aatcaagaat tgttcggtgc ggtcccgggg acccggagac ggtgctcccg cgggtcttgt
+      241 cacgacacac gatacaaaac gactctcggc aacggatatc tcggctcttg catcgatgaa
+      301 gaacgtagcg aaatgcgata cttggtgtga attgcagaat cccgtgaacc atcgagtctt
+      361 tgaacgcaag ttgcgcccga agccatctga gggcacgcct gcctgggtgt cacacatcgt
+      421 taccctcacg caaacgtccc gagtcggccg ttgcgtggta gggtgtatgc tggcctcccg
+      481 cgagcggggt ctcgtggttg gttgaaaagc gggttcgtgg ccgagcgcgc cgtgatagaa
+      541 tggtggacgg gcaacgctcg agaccgatca cgtgcggccc ggtcgggtaa gaaccgtccg
+      601 acccccttgc gtccctggac gctcccggcg agacctcagg tcagcgggga ctccccgctg
+      661 aatttaagct tatcaagaaa aggggaagga gattcc
+//
+LOCUS       KC984653                 614 bp    DNA     linear   PLN 25-AUG-2013
+DEFINITION  Butea monosperma isolate BM10 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1 and 5.8S ribosomal RNA gene,
+            complete sequence; and internal transcribed spacer 2, partial
+            sequence.
+ACCESSION   KC984653
+VERSION     KC984653.1
+KEYWORDS    .
+SOURCE      Butea monosperma
+  ORGANISM  Butea monosperma
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Butea.
+REFERENCE   1  (bases 1 to 614)
+  AUTHORS   Sahare,P.
+  TITLE     Highly conserved nucleotide sequence in ITS - region of plants from
+            family Fabaceae
+  JOURNAL   Int J Innov Res Stud 2 (6), 210-215 (2013)
+REFERENCE   2  (bases 1 to 614)
+  AUTHORS   Sahare,P.M. and Srinivasu,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-APR-2013) Department of Botany, RTM Nagpur University,
+            Amravati Road, Nagpur, Maharashtra 440033, India
+FEATURES             Location/Qualifiers
+     source          1..614
+                     /PCR_primers="fwd_name: ITS5, fwd_seq:
+                     ggaaggagaagtcgtaacaagg, rev_name: ITS4, rev_seq:
+                     tcctccgcttattgatatgc"
+                     /db_xref="taxon:56060"
+                     /isolate="BM10"
+                     /mol_type="genomic DNA"
+                     /organism="Butea monosperma"
+     misc_RNA        <1..>614
+                     /note="contains 18S ribosomal RNA, internal transcribed
+                     spacer 1, 5.8S ribosomal RNA, and internal transcribed
+                     spacer 2"
+ORIGIN
+        1 aacattgtcg atgcctcgca accaacccga ccggcgaatc tgtttatcta cccggggtcg
+       61 gatcggggcg tgttcaacac cccgacctcc cctcgcgtcg ggaggcggcc cggcctcctc
+      121 tcgacgagac acaaaccccg gcgcttcgtg tgccaaggaa tcaagaattg ttcggtgcgg
+      181 tcccggggac ccggagacgg tgctcccgcg ggtcttgtca cgacacacga tacaaaacga
+      241 ctctcggcaa cggatatctc ggctcttgca tcgatgaaga acgtagcgaa atgcgatact
+      301 tggtgtgaat tgcagaatcc cgtgaaccat cgagtctttg aacgcaagtt gcgcccgaag
+      361 ccatctgagg gcacgcctgc ctgggtgtca cacatcgtta ccctcacgca aacgtcccga
+      421 gtcggccgtt gcgtggtagg gtgtatgctg gcctcccgcg agcgccgtct cgtggttggt
+      481 tgaaaagcgg gttcgtggcc gagcgcgccg tgatagaatg gtggacgggc aacgctcgag
+      541 accgatcacg tgcggcccgg tcgggtaagg accgtccgac ccccgtgcgt ccctggacgc
+      601 tcccggcgag acct
+//
+LOCUS       JX856847                 340 bp    DNA     linear   PLN 09-APR-2013
+DEFINITION  Butea monosperma isolate 602 trnH-psbA intergenic spacer, partial
+            sequence; and PsbA (psbA) gene, partial cds; chloroplast.
+ACCESSION   JX856847
+VERSION     JX856847.1
+KEYWORDS    .
+SOURCE      chloroplast Butea monosperma
+  ORGANISM  Butea monosperma
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Butea.
+REFERENCE   1  (bases 1 to 340)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Kumar,A., Singh,A., Singh,S.,
+            Chaudhary,L.B. and Roy,S.
+  TITLE     The Internal Transcribed Spacer (ITS) Region and trnhH-psbA Are
+            Suitable Candidate Loci for DNA Barcoding of Tropical Tree Species
+            of India
+  JOURNAL   PLoS ONE 8 (2), E57934 (2013)
+   PUBMED   23460915
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 340)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Singh,A., Singh,S. and Roy,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-SEP-2012) CSIR-national Botanical Research Institute,
+            Rana Pratap Marg, Lucknow, Uttar Pradesh 226001, India
+FEATURES             Location/Qualifiers
+     source          1..340
+                     /db_xref="taxon:56060"
+                     /isolate="602"
+                     /mol_type="genomic DNA"
+                     /organelle="plastid:chloroplast"
+                     /organism="Butea monosperma"
+     misc_feature    <1..269
+                     /note="trnH-psbA intergenic spacer"
+     gene            complement(270..>340)
+                     /gene="psbA"
+     CDS             complement(270..>340)
+                     /codon_start=3
+                     /gene="psbA"
+                     /product="PsbA"
+                     /protein_id="AGI56605.1"
+                     /transl_table=11
+                     /translation="HERNAHNFPLDLAAIEAPSING"
+ORIGIN
+        1 acctcaattt ctaccctttc gttatcattc tttcttctaa gataagaaaa aaaaaaagaa
+       61 aaataaaaaa gaaagaaaca tatatttatt atttcgacat aagaaataaa taatgctaaa
+      121 aaatcttgaa ttgaaattaa tcaaaaatgt atgtataaaa atttataaat aaaaagacta
+      181 ctaataaaag aaaagtaaag gagcaatatc aacttcatat tgccccttta ctttcaaaaa
+      241 ctcgtctact ttaatttaag atccaaattt tatccattta tagatggagc ttcgatcgca
+      301 gctaaatcta gagggaaatt atgagcatta cgttcatgca
+//
+LOCUS       JX856846                 361 bp    DNA     linear   PLN 09-APR-2013
+DEFINITION  Butea monosperma isolate 394 trnH-psbA intergenic spacer, partial
+            sequence; and PsbA (psbA) gene, partial cds; chloroplast.
+ACCESSION   JX856846
+VERSION     JX856846.1
+KEYWORDS    .
+SOURCE      chloroplast Butea monosperma
+  ORGANISM  Butea monosperma
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Butea.
+REFERENCE   1  (bases 1 to 361)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Kumar,A., Singh,A., Singh,S.,
+            Chaudhary,L.B. and Roy,S.
+  TITLE     The Internal Transcribed Spacer (ITS) Region and trnhH-psbA Are
+            Suitable Candidate Loci for DNA Barcoding of Tropical Tree Species
+            of India
+  JOURNAL   PLoS ONE 8 (2), E57934 (2013)
+   PUBMED   23460915
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 361)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Singh,A., Singh,S. and Roy,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-SEP-2012) CSIR-national Botanical Research Institute,
+            Rana Pratap Marg, Lucknow, Uttar Pradesh 226001, India
+FEATURES             Location/Qualifiers
+     source          1..361
+                     /db_xref="taxon:56060"
+                     /isolate="394"
+                     /mol_type="genomic DNA"
+                     /organelle="plastid:chloroplast"
+                     /organism="Butea monosperma"
+     misc_feature    <1..297
+                     /note="trnH-psbA intergenic spacer"
+     gene            complement(298..>361)
+                     /gene="psbA"
+     CDS             complement(298..>361)
+                     /codon_start=2
+                     /gene="psbA"
+                     /product="PsbA"
+                     /protein_id="AGI56604.1"
+                     /transl_table=11
+                     /translation="RNAHNFPLDLAAIEAPSTNG"
+ORIGIN
+        1 gcccttatac tatgtaaaaa tgatctatac ctcaatttct accctttcgt tatcattctt
+       61 tcttctaaga taagaaaaaa aaaaagaaaa ataaaaaaga aagaaacata tatatattat
+      121 ttcgacataa gaaataaata atgctaaaaa atcttgaatt gaaattaatc aaaaatgtat
+      181 gtataaaaat ttataaataa aaagactact aataaaagaa aagtaaagga gcaatatcaa
+      241 cttcatattg cccctttact ttcaaaaact cgtctacttt aatttaagat ccaaatttta
+      301 tccatttgta gatggagctt caatagcagc taaatctaga gggaaattat gagcattacg
+      361 t
+//

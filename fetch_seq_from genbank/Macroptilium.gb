@@ -1,0 +1,877 @@
+LOCUS       DQ888787                 219 bp    DNA     linear   PLN 24-JAN-2014
+DEFINITION  Macroptilium supinum 5.8S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 2, complete sequence; and large subunit
+            ribosomal RNA gene, partial sequence.
+ACCESSION   DQ888787
+VERSION     DQ888787.1
+KEYWORDS    .
+SOURCE      Macroptilium supinum
+  ORGANISM  Macroptilium supinum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Macroptilium.
+REFERENCE   1  (bases 1 to 219)
+  AUTHORS   Espert,S.M., Drewes,S.I. and Burghardt,A.D.
+  TITLE     Phylogeny of Macroptilium (Leguminosae): morphological, biochemical
+            and molecular evidence
+  JOURNAL   Cladistics 23 (2), 119-129 (2007)
+REFERENCE   2  (bases 1 to 219)
+  AUTHORS   Espert,S.M., Drewes,S.I. and Burghardt,A.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-AUG-2006) Facultad de Ciencias Exactas y Naturales,
+            Universidad de Buenos Aires, Buenos Aires 1428, Argentina
+FEATURES             Location/Qualifiers
+     source          1..219
+                     /clone="2"
+                     /country="USA"
+                     /db_xref="taxon:409911"
+                     /mol_type="genomic DNA"
+                     /organism="Macroptilium supinum"
+                     /specimen_voucher="872 (BR)"
+     rRNA            <1..5
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        6..213
+                     /product="internal transcribed spacer 2"
+     rRNA            214..>219
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 tcacacatcg ttgcccccca ctccaacgtg cagcggggtg aaagctgacc tcccgcgagc
+       61 cagttcctcg tggttggttg aaaagcaagt tcacggcggg gttcgccgcg ataaatggtg
+      121 gatgagccta tgctcgagac cgatcgcgtg accccgacgc aacgaacttc ctgaccctac
+      181 gcacgctctg tgtaaaccga acgtgccatt agcgagacc
+//
+LOCUS       DQ888786                 219 bp    DNA     linear   PLN 24-JAN-2014
+DEFINITION  Macroptilium psammodes 5.8S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 2, complete sequence; and large subunit
+            ribosomal RNA gene, partial sequence.
+ACCESSION   DQ888786
+VERSION     DQ888786.1
+KEYWORDS    .
+SOURCE      Macroptilium psammodes
+  ORGANISM  Macroptilium psammodes
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Macroptilium.
+REFERENCE   1  (bases 1 to 219)
+  AUTHORS   Espert,S.M., Drewes,S.I. and Burghardt,A.D.
+  TITLE     Phylogeny of Macroptilium (Leguminosae): morphological, biochemical
+            and molecular evidence
+  JOURNAL   Cladistics 23 (2), 119-129 (2007)
+REFERENCE   2  (bases 1 to 219)
+  AUTHORS   Espert,S.M., Drewes,S.I. and Burghardt,A.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-AUG-2006) Facultad de Ciencias Exactas y Naturales,
+            Universidad de Buenos Aires, Buenos Aires 1428, Argentina
+FEATURES             Location/Qualifiers
+     source          1..219
+                     /clone="2"
+                     /country="Argentina"
+                     /db_xref="taxon:409909"
+                     /mol_type="genomic DNA"
+                     /organism="Macroptilium psammodes"
+                     /specimen_voucher="Palacios 1282 (BAFC)"
+     rRNA            <1..5
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        6..213
+                     /product="internal transcribed spacer 2"
+     rRNA            214..>219
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 tcacacatcg ttacccccca ctccaacgtg ctgcggggtg aaagctgacc tcccgcgagc
+       61 cggttcctcg tggttggttg aaaagcaagt tcacggcggg gttcgccgcg ataaatggtg
+      121 gatgagccta tgctcgagac cgatcgcgcg accccgacgc aacgaacttc ccgaccctac
+      181 gcacgctccg tgtaaaccga acgtgccatc agcgagacc
+//
+LOCUS       DQ888785                 219 bp    DNA     linear   PLN 24-JAN-2014
+DEFINITION  Macroptilium prostratum 5.8S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 2, complete sequence; and large subunit
+            ribosomal RNA gene, partial sequence.
+ACCESSION   DQ888785
+VERSION     DQ888785.1
+KEYWORDS    .
+SOURCE      Macroptilium prostratum
+  ORGANISM  Macroptilium prostratum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Macroptilium.
+REFERENCE   1  (bases 1 to 219)
+  AUTHORS   Espert,S.M., Drewes,S.I. and Burghardt,A.D.
+  TITLE     Phylogeny of Macroptilium (Leguminosae): morphological, biochemical
+            and molecular evidence
+  JOURNAL   Cladistics 23 (2), 119-129 (2007)
+REFERENCE   2  (bases 1 to 219)
+  AUTHORS   Espert,S.M., Drewes,S.I. and Burghardt,A.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-AUG-2006) Facultad de Ciencias Exactas y Naturales,
+            Universidad de Buenos Aires, Buenos Aires 1428, Argentina
+FEATURES             Location/Qualifiers
+     source          1..219
+                     /clone="2"
+                     /country="Argentina"
+                     /db_xref="taxon:409908"
+                     /mol_type="genomic DNA"
+                     /organism="Macroptilium prostratum"
+                     /specimen_voucher="Palacios 1287 (BAFC)"
+     rRNA            <1..5
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        6..213
+                     /product="internal transcribed spacer 2"
+     rRNA            214..>219
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 tcacacatcg ttacccccca ctccaacgtg cagcggggtg aaagctgacc tcccgcgagc
+       61 cagttcctcg tggttggttg aaaagcaagt tcacggcggg gttcgtcgcg ataaatggtg
+      121 gatgagcctc cgctcgagac cgatcgcgcg accacgacgt accgaacttc ccgaccctac
+      181 gcacgctctg tggaaaccgg acgtgccatc agcgagacc
+//
+LOCUS       DQ888784                 224 bp    DNA     linear   PLN 24-JAN-2014
+DEFINITION  Macroptilium panduratum 5.8S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 2, complete sequence; and large subunit
+            ribosomal RNA gene, partial sequence.
+ACCESSION   DQ888784
+VERSION     DQ888784.1
+KEYWORDS    .
+SOURCE      Macroptilium panduratum
+  ORGANISM  Macroptilium panduratum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Macroptilium.
+REFERENCE   1  (bases 1 to 224)
+  AUTHORS   Espert,S.M., Drewes,S.I. and Burghardt,A.D.
+  TITLE     Phylogeny of Macroptilium (Leguminosae): morphological, biochemical
+            and molecular evidence
+  JOURNAL   Cladistics 23 (2), 119-129 (2007)
+REFERENCE   2  (bases 1 to 224)
+  AUTHORS   Espert,S.M., Drewes,S.I. and Burghardt,A.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-AUG-2006) Facultad de Ciencias Exactas y Naturales,
+            Universidad de Buenos Aires, Buenos Aires 1428, Argentina
+FEATURES             Location/Qualifiers
+     source          1..224
+                     /clone="2"
+                     /country="Argentina"
+                     /db_xref="taxon:409907"
+                     /mol_type="genomic DNA"
+                     /organism="Macroptilium panduratum"
+                     /specimen_voucher="Palacios 1357 (BAFC)"
+     rRNA            <1..5
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        6..218
+                     /product="internal transcribed spacer 2"
+     rRNA            219..>224
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 tcacacatcg ttacccccca ctcaaacgtg cagcggggtg gaagctgacc tcccgcgagc
+       61 cagttcctcg tggttggttg aaaagcaagt tcacggtgga gttcgccgcg ataaatggtg
+      121 gatgagcgac gctcgagacc aatcgtgccc gcgtgactcc aacctaccga acttctcgac
+      181 cctacgcatc ctctgtgaaa acggagcgtg tcattagcga gacc
+//
+LOCUS       DQ888783                 224 bp    DNA     linear   PLN 24-JAN-2014
+DEFINITION  Macroptilium longipedunculatum 5.8S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 2, complete sequence; and
+            large subunit ribosomal RNA gene, partial sequence.
+ACCESSION   DQ888783
+VERSION     DQ888783.1
+KEYWORDS    .
+SOURCE      Macroptilium longipedunculatum
+  ORGANISM  Macroptilium longipedunculatum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Macroptilium.
+REFERENCE   1  (bases 1 to 224)
+  AUTHORS   Espert,S.M., Drewes,S.I. and Burghardt,A.D.
+  TITLE     Phylogeny of Macroptilium (Leguminosae): morphological, biochemical
+            and molecular evidence
+  JOURNAL   Cladistics 23 (2), 119-129 (2007)
+REFERENCE   2  (bases 1 to 224)
+  AUTHORS   Espert,S.M., Drewes,S.I. and Burghardt,A.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-AUG-2006) Facultad de Ciencias Exactas y Naturales,
+            Universidad de Buenos Aires, Buenos Aires 1428, Argentina
+FEATURES             Location/Qualifiers
+     source          1..224
+                     /clone="2"
+                     /country="Argentina"
+                     /db_xref="taxon:260886"
+                     /mol_type="genomic DNA"
+                     /organism="Macroptilium longipedunculatum"
+                     /specimen_voucher="Palacios 910 (BAFC)"
+     rRNA            <1..5
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        6..218
+                     /product="internal transcribed spacer 2"
+     rRNA            219..>224
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 tcacacatcg ttacccccca ctcaaacgtg cagcggggcg gaagctgacc tcccgcgagc
+       61 gagttcctcg tggttggttg aaaagcaagt tcacggcgga gtccgccgcg ataaacggtg
+      121 gatgagcgat gctcgagacc aatcgtgcct gcgcgactcc gacgtaccga acttcccgac
+      181 cctacgcaag ctctgtgaaa accgagcgtg ccatcagcga gacc
+//
+LOCUS       DQ888782                 220 bp    DNA     linear   PLN 24-JAN-2014
+DEFINITION  Macroptilium lathyroides 5.8S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 2, complete sequence; and large subunit
+            ribosomal RNA gene, partial sequence.
+ACCESSION   DQ888782
+VERSION     DQ888782.1
+KEYWORDS    .
+SOURCE      Macroptilium lathyroides
+  ORGANISM  Macroptilium lathyroides
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Macroptilium.
+REFERENCE   1  (bases 1 to 220)
+  AUTHORS   Espert,S.M., Drewes,S.I. and Burghardt,A.D.
+  TITLE     Phylogeny of Macroptilium (Leguminosae): morphological, biochemical
+            and molecular evidence
+  JOURNAL   Cladistics 23 (2), 119-129 (2007)
+REFERENCE   2  (bases 1 to 220)
+  AUTHORS   Espert,S.M., Drewes,S.I. and Burghardt,A.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-AUG-2006) Facultad de Ciencias Exactas y Naturales,
+            Universidad de Buenos Aires, Buenos Aires 1428, Argentina
+FEATURES             Location/Qualifiers
+     source          1..220
+                     /clone="2"
+                     /country="Argentina"
+                     /db_xref="taxon:260885"
+                     /mol_type="genomic DNA"
+                     /organism="Macroptilium lathyroides"
+                     /specimen_voucher="Palacios 891 (BAFC)"
+     rRNA            <1..5
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        6..214
+                     /product="internal transcribed spacer 2"
+     rRNA            215..>220
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 tcacacatcg ttacccccca ctcaaaacgt gcggcggggt gaaggctgac ctcccgcgag
+       61 ccagttcctc gtggttggtt gaaaagcaag ttcacggcgg tgtccgccgc gataaatggt
+      121 ggatgagcgt tgctcgagac caatcgtcac gactccgacg taccgaactt ccggaccctg
+      181 cgcatcctct gtgcaaaccg agtgtgccat ctgcgagacc
+//
+LOCUS       DQ888781                 219 bp    DNA     linear   PLN 24-JAN-2014
+DEFINITION  Macroptilium gibbosifolium 5.8S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 2, complete sequence; and
+            large subunit ribosomal RNA gene, partial sequence.
+ACCESSION   DQ888781
+VERSION     DQ888781.1
+KEYWORDS    .
+SOURCE      Macroptilium gibbosifolium
+  ORGANISM  Macroptilium gibbosifolium
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Macroptilium.
+REFERENCE   1  (bases 1 to 219)
+  AUTHORS   Espert,S.M., Drewes,S.I. and Burghardt,A.D.
+  TITLE     Phylogeny of Macroptilium (Leguminosae): morphological, biochemical
+            and molecular evidence
+  JOURNAL   Cladistics 23 (2), 119-129 (2007)
+REFERENCE   2  (bases 1 to 219)
+  AUTHORS   Espert,S.M., Drewes,S.I. and Burghardt,A.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-AUG-2006) Facultad de Ciencias Exactas y Naturales,
+            Universidad de Buenos Aires, Buenos Aires 1428, Argentina
+FEATURES             Location/Qualifiers
+     source          1..219
+                     /clone="2"
+                     /country="Mexico"
+                     /db_xref="taxon:409906"
+                     /mol_type="genomic DNA"
+                     /organism="Macroptilium gibbosifolium"
+                     /specimen_voucher="697 (BR)"
+     rRNA            <1..5
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        6..213
+                     /product="internal transcribed spacer 2"
+     rRNA            214..>219
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 tcacacatcg ttacccccca ctccaacgtg cagcggggtg aaagctgacc tcccgcgagc
+       61 cagttcctcg tggttggttg aaaagcaagt tcacggcggg gttcgccgcg ataaatggtg
+      121 gatgagccta tgctcgagac cgatcgcgcg accccgacgc aacgaacttc ccgaccctac
+      181 gcacgctctg tgtaaaccga acgtgccatt agcgagacc
+//
+LOCUS       DQ888780                 219 bp    DNA     linear   PLN 24-JAN-2014
+DEFINITION  Macroptilium fraternum 5.8S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 2, complete sequence; and large subunit
+            ribosomal RNA gene, partial sequence.
+ACCESSION   DQ888780
+VERSION     DQ888780.1
+KEYWORDS    .
+SOURCE      Macroptilium fraternum
+  ORGANISM  Macroptilium fraternum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Macroptilium.
+REFERENCE   1  (bases 1 to 219)
+  AUTHORS   Espert,S.M., Drewes,S.I. and Burghardt,A.D.
+  TITLE     Phylogeny of Macroptilium (Leguminosae): morphological, biochemical
+            and molecular evidence
+  JOURNAL   Cladistics 23 (2), 119-129 (2007)
+REFERENCE   2  (bases 1 to 219)
+  AUTHORS   Espert,S.M., Drewes,S.I. and Burghardt,A.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-AUG-2006) Facultad de Ciencias Exactas y Naturales,
+            Universidad de Buenos Aires, Buenos Aires 1428, Argentina
+FEATURES             Location/Qualifiers
+     source          1..219
+                     /clone="2"
+                     /country="Argentina"
+                     /db_xref="taxon:409905"
+                     /mol_type="genomic DNA"
+                     /organism="Macroptilium fraternum"
+                     /specimen_voucher="Palacios 1014 (BAFC)"
+     rRNA            <1..5
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        6..213
+                     /product="internal transcribed spacer 2"
+     rRNA            214..>219
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 tcacacatcg ttacccccca ctccaacgtg cggcggggtg aaagctgacc tcccgcgagc
+       61 ctgttcctcg tggttggttg aaaagcaagt tcacggcggg gttcgccgcg ataaatggtg
+      121 gatgggccta tgctcgagac cgatcgcgcg accccgacgc aacgaacttc gtgaccctac
+      181 gcacgctctg tgtaaaccga acgtgccatc agcgagacc
+//
+LOCUS       DQ888779                 224 bp    DNA     linear   PLN 24-JAN-2014
+DEFINITION  Macroptilium bracteatum 5.8S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 2, complete sequence; and large subunit
+            ribosomal RNA gene, partial sequence.
+ACCESSION   DQ888779
+VERSION     DQ888779.1
+KEYWORDS    .
+SOURCE      Macroptilium bracteatum
+  ORGANISM  Macroptilium bracteatum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Macroptilium.
+REFERENCE   1  (bases 1 to 224)
+  AUTHORS   Espert,S.M., Drewes,S.I. and Burghardt,A.D.
+  TITLE     Phylogeny of Macroptilium (Leguminosae): morphological, biochemical
+            and molecular evidence
+  JOURNAL   Cladistics 23 (2), 119-129 (2007)
+REFERENCE   2  (bases 1 to 224)
+  AUTHORS   Espert,S.M., Drewes,S.I. and Burghardt,A.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-AUG-2006) Facultad de Ciencias Exactas y Naturales,
+            Universidad de Buenos Aires, Buenos Aires 1428, Argentina
+FEATURES             Location/Qualifiers
+     source          1..224
+                     /clone="2"
+                     /country="Argentina"
+                     /db_xref="taxon:260883"
+                     /mol_type="genomic DNA"
+                     /organism="Macroptilium bracteatum"
+                     /specimen_voucher="Palacios 1275 (BAFC)"
+     rRNA            <1..5
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        6..218
+                     /product="internal transcribed spacer 2"
+     rRNA            219..>224
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 tcacacgtcg ttacccccca ccaaaatgtg cagcggggtg aaagctgact tcccgcgagc
+       61 cagttcctcg tggttggttg aaaagcaagt tcacggtgga gttcgccgcg ataaatggtg
+      121 gatgagcagt gctcgagacc aatcgtgcct gcgtgactcc aacgtagaga acttctggac
+      181 cccacgcatc ctctgtggaa acggagtgtg ccattagcga gacc
+//
+LOCUS       DQ888778                 219 bp    DNA     linear   PLN 24-JAN-2014
+DEFINITION  Macroptilium arenarium 5.8S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 2, complete sequence; and large subunit
+            ribosomal RNA gene, partial sequence.
+ACCESSION   DQ888778
+VERSION     DQ888778.1
+KEYWORDS    .
+SOURCE      Macroptilium arenarium
+  ORGANISM  Macroptilium arenarium
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Macroptilium.
+REFERENCE   1  (bases 1 to 219)
+  AUTHORS   Espert,S.M., Drewes,S.I. and Burghardt,A.D.
+  TITLE     Phylogeny of Macroptilium (Leguminosae): morphological, biochemical
+            and molecular evidence
+  JOURNAL   Cladistics 23 (2), 119-129 (2007)
+REFERENCE   2  (bases 1 to 219)
+  AUTHORS   Espert,S.M., Drewes,S.I. and Burghardt,A.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-AUG-2006) Facultad de Ciencias Exactas y Naturales,
+            Universidad de Buenos Aires, Buenos Aires 1428, Argentina
+FEATURES             Location/Qualifiers
+     source          1..219
+                     /clone="2"
+                     /country="Argentina"
+                     /db_xref="taxon:409904"
+                     /mol_type="genomic DNA"
+                     /organism="Macroptilium arenarium"
+                     /specimen_voucher="Hoc 373 (BAFC)"
+     rRNA            <1..5
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        6..213
+                     /product="internal transcribed spacer 2"
+     rRNA            214..>219
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 tcacacatcg ttacccccca ctccaacgtg ctgcggggtg aaagctgacc tcccgcgagc
+       61 cggttcctcg tggttggttg aaaagcaagt tcacggcggg gttcgccgcg ataaatggtg
+      121 gatgagccca tgctcgagac cgatcgcgcg accccgacgc aacgaacttc ccgaccctac
+      181 gcacgctccg tgtaaaccga acgtgccatc agcgagacc
+//
+LOCUS       DQ888777                 241 bp    DNA     linear   PLN 24-JAN-2014
+DEFINITION  Macroptilium arenarium small subunit ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, complete sequence; and 5.8S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   DQ888777
+VERSION     DQ888777.1
+KEYWORDS    .
+SOURCE      Macroptilium arenarium
+  ORGANISM  Macroptilium arenarium
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Macroptilium.
+REFERENCE   1  (bases 1 to 241)
+  AUTHORS   Espert,S.M., Drewes,S.I. and Burghardt,A.D.
+  TITLE     Phylogeny of Macroptilium (Leguminosae): morphological, biochemical
+            and molecular evidence
+  JOURNAL   Cladistics 23 (2), 119-129 (2007)
+REFERENCE   2  (bases 1 to 241)
+  AUTHORS   Espert,S.M., Drewes,S.I. and Burghardt,A.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-AUG-2006) Facultad de Ciencias Exactas y Naturales,
+            Universidad de Buenos Aires, Buenos Aires 1428, Argentina
+FEATURES             Location/Qualifiers
+     source          1..241
+                     /clone="1"
+                     /country="Argentina"
+                     /db_xref="taxon:409904"
+                     /mol_type="genomic DNA"
+                     /organism="Macroptilium arenarium"
+                     /specimen_voucher="Hoc 373 (BAFC)"
+     rRNA            <1..6
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        7..235
+                     /product="internal transcribed spacer 1"
+     rRNA            236..>241
+                     /product="5.8S ribosomal RNA"
+ORIGIN
+        1 tcattgtcga tacctcaaac caaccagttt gaccggcgaa cgcgtacaca tccactccgc
+       61 agggatccgg gctcgcgtcc gcccctgcgg gtcgagaggg agcgtggcag gccccgtgcc
+      121 cggcacgacc ccgtctcggc aaaaccctaa ccccggcgct tcacgcgcca aggaattcaa
+      181 aattgatagg tgcacgcccg ggggacatgt cccgcgggcg ctgtcacgtc aagtcatgta
+      241 a
+//
+LOCUS       DQ888776                 632 bp    DNA     linear   PLN 24-JAN-2014
+DEFINITION  Macroptilium sabaraense small subunit ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and large
+            subunit ribosomal RNA gene, partial sequence.
+ACCESSION   DQ888776
+VERSION     DQ888776.1
+KEYWORDS    .
+SOURCE      Macroptilium sabaraense
+  ORGANISM  Macroptilium sabaraense
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Macroptilium.
+REFERENCE   1  (bases 1 to 632)
+  AUTHORS   Espert,S.M., Drewes,S.I. and Burghardt,A.D.
+  TITLE     Phylogeny of Macroptilium (Leguminosae): morphological, biochemical
+            and molecular evidence
+  JOURNAL   Cladistics 23 (2), 119-129 (2007)
+REFERENCE   2  (bases 1 to 632)
+  AUTHORS   Espert,S.M., Drewes,S.I. and Burghardt,A.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-AUG-2006) Facultad de Ciencias Exactas y Naturales,
+            Universidad de Buenos Aires, Buenos Aires 1428, Argentina
+FEATURES             Location/Qualifiers
+     source          1..632
+                     /country="Brazil"
+                     /db_xref="taxon:409910"
+                     /mol_type="genomic DNA"
+                     /organism="Macroptilium sabaraense"
+                     /specimen_voucher="852 (BR)"
+     rRNA            <1..6
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        7..231
+                     /product="internal transcribed spacer 1"
+     rRNA            232..398
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        399..619
+                     /product="internal transcribed spacer 2"
+     rRNA            620..>632
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 tcattgtcga tgcctcaaac aaccagtttg actcgagaac gcgtacacaa ataaacaacg
+       61 caaggatccg gctcgtccgc ccttgtgcgt cgagagggag ggtgccatgc ctagtgcaac
+      121 cggtcgagtc cctcgagaca aaactctaac cccggcgctt cacgcgccaa ggaatttaaa
+      181 gttgataggt gcacgcccgg gacatgtccc ggggtgttgt cacgtcaagt tatgtaaaat
+      241 gactctcggc aacggatatc tcggctcttg catcgatgaa gaacgtagcg aaatgcgata
+      301 cttggtgtga attgcagaat cccgtgaacc atcgagtctt tgaacgcaag ttgcgcccaa
+      361 agccattagg ttgagggcac gcctgcctgg gtgtcacaca tcgttacccc cccactccca
+      421 cttcaaagtg cagcggggtg aaagttgact tcccgcgagc tagttcctcg tggttggttc
+      481 aaaagcaagt tcacggtgga gttcgccacg ataaatggtg gatgagtgat tctcgagacc
+      541 aatcgtgcgt gtgtttactc caacgtattc aacttcttga ccctatgcat cctctgtgaa
+      601 aaccgagtgt gccattagcg agacctcagt ca
+//
+LOCUS       DQ888775                 243 bp    DNA     linear   PLN 24-JAN-2014
+DEFINITION  Macroptilium supinum small subunit ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, complete sequence; and 5.8S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   DQ888775
+VERSION     DQ888775.1
+KEYWORDS    .
+SOURCE      Macroptilium supinum
+  ORGANISM  Macroptilium supinum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Macroptilium.
+REFERENCE   1  (bases 1 to 243)
+  AUTHORS   Espert,S.M., Drewes,S.I. and Burghardt,A.D.
+  TITLE     Phylogeny of Macroptilium (Leguminosae): morphological, biochemical
+            and molecular evidence
+  JOURNAL   Cladistics 23 (2), 119-129 (2007)
+REFERENCE   2  (bases 1 to 243)
+  AUTHORS   Espert,S.M., Drewes,S.I. and Burghardt,A.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-AUG-2006) Facultad de Ciencias Exactas y Naturales,
+            Universidad de Buenos Aires, Buenos Aires 1428, Argentina
+FEATURES             Location/Qualifiers
+     source          1..243
+                     /clone="1"
+                     /country="USA"
+                     /db_xref="taxon:409911"
+                     /mol_type="genomic DNA"
+                     /organism="Macroptilium supinum"
+                     /specimen_voucher="872 (BR)"
+     rRNA            <1..6
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        7..237
+                     /product="internal transcribed spacer 1"
+     rRNA            238..>243
+                     /product="5.8S ribosomal RNA"
+ORIGIN
+        1 acattgtcga tacctcaaac caaccagttt gaccggcgaa cgcgttcaca tccactctgc
+       61 agggatccgg gctcgcgtcc gcccttgcga gtcgaggggg agcgtggcag gcctcgtgcc
+      121 cggcscggcc ccgtctcggc aaaactctaa ccccggcgct tcacgcgcca aggaattcaa
+      181 aattgatagg tgcacgcctc gggggacgtg tcccgcgggc gctgtctacg tcaagccatg
+      241 taa
+//
+LOCUS       DQ888774                 242 bp    DNA     linear   PLN 24-JAN-2014
+DEFINITION  Macroptilium psammodes small subunit ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, complete sequence; and 5.8S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   DQ888774
+VERSION     DQ888774.1
+KEYWORDS    .
+SOURCE      Macroptilium psammodes
+  ORGANISM  Macroptilium psammodes
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Macroptilium.
+REFERENCE   1  (bases 1 to 242)
+  AUTHORS   Espert,S.M., Drewes,S.I. and Burghardt,A.D.
+  TITLE     Phylogeny of Macroptilium (Leguminosae): morphological, biochemical
+            and molecular evidence
+  JOURNAL   Cladistics 23 (2), 119-129 (2007)
+REFERENCE   2  (bases 1 to 242)
+  AUTHORS   Espert,S.M., Drewes,S.I. and Burghardt,A.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-AUG-2006) Facultad de Ciencias Exactas y Naturales,
+            Universidad de Buenos Aires, Buenos Aires 1428, Argentina
+FEATURES             Location/Qualifiers
+     source          1..242
+                     /clone="1"
+                     /country="Argentina"
+                     /db_xref="taxon:409909"
+                     /mol_type="genomic DNA"
+                     /organism="Macroptilium psammodes"
+                     /specimen_voucher="Palacios 1282 (BAFC)"
+     rRNA            <1..6
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        7..236
+                     /product="internal transcribed spacer 1"
+     rRNA            237..>242
+                     /product="5.8S ribosomal RNA"
+ORIGIN
+        1 tcattgtcga tacctcaaac caaccagttt gaccggcgaa cgcgttcaca tccactccgc
+       61 agggatccgg gctcgcgtcc gcccctgcgg gtcgagaggg agcgtggcag gccccgtgcc
+      121 cggcacgacc ccgtctcggc aaaaccctaa ccccggcgct tcacgcgcca aggaattcaa
+      181 aattgatagg tgcacgcccg gggggacatg tcccgcgggc gctgtcacgt caagtcatgt
+      241 aa
+//
+LOCUS       DQ888773                 243 bp    DNA     linear   PLN 24-JAN-2014
+DEFINITION  Macroptilium prostratum small subunit ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, complete sequence; and 5.8S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   DQ888773
+VERSION     DQ888773.1
+KEYWORDS    .
+SOURCE      Macroptilium prostratum
+  ORGANISM  Macroptilium prostratum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Macroptilium.
+REFERENCE   1  (bases 1 to 243)
+  AUTHORS   Espert,S.M., Drewes,S.I. and Burghardt,A.D.
+  TITLE     Phylogeny of Macroptilium (Leguminosae): morphological, biochemical
+            and molecular evidence
+  JOURNAL   Cladistics 23 (2), 119-129 (2007)
+REFERENCE   2  (bases 1 to 243)
+  AUTHORS   Espert,S.M., Drewes,S.I. and Burghardt,A.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-AUG-2006) Facultad de Ciencias Exactas y Naturales,
+            Universidad de Buenos Aires, Buenos Aires 1428, Argentina
+FEATURES             Location/Qualifiers
+     source          1..243
+                     /clone="1"
+                     /country="Argentina"
+                     /db_xref="taxon:409908"
+                     /mol_type="genomic DNA"
+                     /organism="Macroptilium prostratum"
+                     /specimen_voucher="Palacios 1287 (BAFC)"
+     rRNA            <1..6
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        7..237
+                     /product="internal transcribed spacer 1"
+     rRNA            238..>243
+                     /product="5.8S ribosomal RNA"
+ORIGIN
+        1 tcattgtcga tacctcaaac caaccagttt gaccgggaga acgcgttcac atccacaccg
+       61 cagggatccg ggctcgcgtc cgcccctgcg agtcgagagg gagcgtgccc ggccccgtgc
+      121 caggcacgac cccgtctcgg caaaactcta accccggtcg cttcaggcgc caaggaattc
+      181 aaaattgata ggtgcacgcc cgggggacat gtcccgcggg cgctgtcacg tcaagttatg
+      241 taa
+//
+LOCUS       DQ888772                 239 bp    DNA     linear   PLN 24-JAN-2014
+DEFINITION  Macroptilium panduratum small subunit ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, complete sequence; and 5.8S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   DQ888772
+VERSION     DQ888772.1
+KEYWORDS    .
+SOURCE      Macroptilium panduratum
+  ORGANISM  Macroptilium panduratum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Macroptilium.
+REFERENCE   1  (bases 1 to 239)
+  AUTHORS   Espert,S.M., Drewes,S.I. and Burghardt,A.D.
+  TITLE     Phylogeny of Macroptilium (Leguminosae): morphological, biochemical
+            and molecular evidence
+  JOURNAL   Cladistics 23 (2), 119-129 (2007)
+REFERENCE   2  (bases 1 to 239)
+  AUTHORS   Espert,S.M., Drewes,S.I. and Burghardt,A.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-AUG-2006) Facultad de Ciencias Exactas y Naturales,
+            Universidad de Buenos Aires, Buenos Aires 1428, Argentina
+FEATURES             Location/Qualifiers
+     source          1..239
+                     /clone="1"
+                     /country="Argentina"
+                     /db_xref="taxon:409907"
+                     /mol_type="genomic DNA"
+                     /organism="Macroptilium panduratum"
+                     /specimen_voucher="Palacios 1357 (BAFC)"
+     rRNA            <1..6
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        7..233
+                     /product="internal transcribed spacer 1"
+     rRNA            234..>239
+                     /product="5.8S ribosomal RNA"
+ORIGIN
+        1 tcattgtcga aaccccaaac aaccagttcg acccgtgaac gcgttcacat ccacaccgca
+       61 agggtccggc cgaggccggc cctcgtgcgt cgagagggac ggcgccacgc cccgcgctat
+      121 cggcgaagtc tctctcggca aaactctaac cccggcgctt catgcgccaa ggaacttaaa
+      181 gctgataggt gcgcacgcag ggacatgtcc catgggtgtc gtcacgtcaa gttatgtaa
+//
+LOCUS       DQ888771                 229 bp    DNA     linear   PLN 24-JAN-2014
+DEFINITION  Macroptilium longipedunculatum small subunit ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, complete sequence;
+            and 5.8S ribosomal RNA gene, partial sequence.
+ACCESSION   DQ888771
+VERSION     DQ888771.1
+KEYWORDS    .
+SOURCE      Macroptilium longipedunculatum
+  ORGANISM  Macroptilium longipedunculatum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Macroptilium.
+REFERENCE   1  (bases 1 to 229)
+  AUTHORS   Espert,S.M., Drewes,S.I. and Burghardt,A.D.
+  TITLE     Phylogeny of Macroptilium (Leguminosae): morphological, biochemical
+            and molecular evidence
+  JOURNAL   Cladistics 23 (2), 119-129 (2007)
+REFERENCE   2  (bases 1 to 229)
+  AUTHORS   Espert,S.M., Drewes,S.I. and Burghardt,A.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-AUG-2006) Facultad de Ciencias Exactas y Naturales,
+            Universidad de Buenos Aires, Buenos Aires 1428, Argentina
+FEATURES             Location/Qualifiers
+     source          1..229
+                     /clone="1"
+                     /country="Argentina"
+                     /db_xref="taxon:260886"
+                     /mol_type="genomic DNA"
+                     /organism="Macroptilium longipedunculatum"
+                     /specimen_voucher="Palacios 910 (BAFC)"
+     rRNA            <1..6
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        7..223
+                     /product="internal transcribed spacer 1"
+     rRNA            224..>229
+                     /product="5.8S ribosomal RNA"
+ORIGIN
+        1 tcattgtcga tgcctcaaac aaccagttcg acccgtgaac aagttcacat ccacaccgca
+       61 ggggtccgcc cccgcgcgtc gagaggggag cgtgccacgc cccgtgctgt cggtccgccc
+      121 tctctcggca aaactctaac cccggcgctt cacgcgccaa ggaatctaaa actgataggt
+      181 gcgcgcccag ggacatgtcc cacgggcgtc gtcacgtcaa gtcatgtaa
+//
+LOCUS       DQ888770                 239 bp    DNA     linear   PLN 24-JAN-2014
+DEFINITION  Macroptilium lathyroides small subunit ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, complete sequence; and 5.8S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   DQ888770
+VERSION     DQ888770.1
+KEYWORDS    .
+SOURCE      Macroptilium lathyroides
+  ORGANISM  Macroptilium lathyroides
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Macroptilium.
+REFERENCE   1  (bases 1 to 239)
+  AUTHORS   Espert,S.M., Drewes,S.I. and Burghardt,A.D.
+  TITLE     Phylogeny of Macroptilium (Leguminosae): morphological, biochemical
+            and molecular evidence
+  JOURNAL   Cladistics 23 (2), 119-129 (2007)
+REFERENCE   2  (bases 1 to 239)
+  AUTHORS   Espert,S.M., Drewes,S.I. and Burghardt,A.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-AUG-2006) Facultad de Ciencias Exactas y Naturales,
+            Universidad de Buenos Aires, Buenos Aires 1428, Argentina
+FEATURES             Location/Qualifiers
+     source          1..239
+                     /clone="1"
+                     /country="Argentina"
+                     /db_xref="taxon:260885"
+                     /mol_type="genomic DNA"
+                     /organism="Macroptilium lathyroides"
+                     /specimen_voucher="Palacios 891 (BAFC)"
+     rRNA            <1..6
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        7..233
+                     /product="internal transcribed spacer 1"
+     rRNA            234..>239
+                     /product="5.8S ribosomal RNA"
+ORIGIN
+        1 tcattgtcga aaccccaaac aaccagttcg acccgtgaac gcgttcacat ccacaccgca
+       61 agggtccggc cgaggccggc cctcgtgcgt cgagagggac ggcgccacgc cccgtgctat
+      121 cggcgaagtc tctctcggca aaactctaac cccggcgctt catgcgccaa ggaacttaaa
+      181 gctgataggt gcgcacgcag ggacatgtcc catgggtgtc gtcacgtcaa gttatgtaa
+//
+LOCUS       DQ888769                 241 bp    DNA     linear   PLN 24-JAN-2014
+DEFINITION  Macroptilium gibbosifolium small subunit ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, complete sequence; and 5.8S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   DQ888769
+VERSION     DQ888769.1
+KEYWORDS    .
+SOURCE      Macroptilium gibbosifolium
+  ORGANISM  Macroptilium gibbosifolium
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Macroptilium.
+REFERENCE   1  (bases 1 to 241)
+  AUTHORS   Espert,S.M., Drewes,S.I. and Burghardt,A.D.
+  TITLE     Phylogeny of Macroptilium (Leguminosae): morphological, biochemical
+            and molecular evidence
+  JOURNAL   Cladistics 23 (2), 119-129 (2007)
+REFERENCE   2  (bases 1 to 241)
+  AUTHORS   Espert,S.M., Drewes,S.I. and Burghardt,A.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-AUG-2006) Facultad de Ciencias Exactas y Naturales,
+            Universidad de Buenos Aires, Buenos Aires 1428, Argentina
+FEATURES             Location/Qualifiers
+     source          1..241
+                     /clone="1"
+                     /country="Mexico"
+                     /db_xref="taxon:409906"
+                     /mol_type="genomic DNA"
+                     /organism="Macroptilium gibbosifolium"
+                     /specimen_voucher="697 (BR)"
+     rRNA            <1..6
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        7..235
+                     /product="internal transcribed spacer 1"
+     rRNA            236..>241
+                     /product="5.8S ribosomal RNA"
+ORIGIN
+        1 tcattgtcga tacctcaaac caaccagttt gaccggcgaa cgcgttcaca tccactccgc
+       61 ggggatccgg gctcgcgtcc gcccctgcgg gtcgagcggg agcgtggcag gccccgtgcc
+      121 cggcacgacc ccgtctcggc aaaactctaa ccccggcgct tcacgcgcca aggaattcaa
+      181 aattgatagg tgcacgcccg ggggacgtgt cccgcgggcg ctgtcacgtc aagtcatgta
+      241 a
+//
+LOCUS       DQ888768                 249 bp    DNA     linear   PLN 24-JAN-2014
+DEFINITION  Macroptilium fraternum small subunit ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, complete sequence; and 5.8S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   DQ888768
+VERSION     DQ888768.1
+KEYWORDS    .
+SOURCE      Macroptilium fraternum
+  ORGANISM  Macroptilium fraternum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Macroptilium.
+REFERENCE   1  (bases 1 to 249)
+  AUTHORS   Espert,S.M., Drewes,S.I. and Burghardt,A.D.
+  TITLE     Phylogeny of Macroptilium (Leguminosae): morphological, biochemical
+            and molecular evidence
+  JOURNAL   Cladistics 23 (2), 119-129 (2007)
+REFERENCE   2  (bases 1 to 249)
+  AUTHORS   Espert,S.M., Drewes,S.I. and Burghardt,A.D.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-AUG-2006) Facultad de Ciencias Exactas y Naturales,
+            Universidad de Buenos Aires, Buenos Aires 1428, Argentina
+FEATURES             Location/Qualifiers
+     source          1..249
+                     /clone="1"
+                     /country="Argentina"
+                     /db_xref="taxon:409905"
+                     /mol_type="genomic DNA"
+                     /organism="Macroptilium fraternum"
+                     /specimen_voucher="Palacios 1014 (BAFC)"
+     rRNA            <1..6
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        7..243
+                     /product="internal transcribed spacer 1"
+     rRNA            244..>249
+                     /product="5.8S ribosomal RNA"
+ORIGIN
+        1 tcattgtcga tacctcaaac aaaccagttt gaccggcgaa cgcgttcacc tccacaccgc
+       61 agggatccgg gctcgcgtcc gcccctgcgg gtcgagcggg agcgtggcag gccccgtgcc
+      121 cggcacgacc ccgtctcggc aaaactctaa ccccggcgct tcacgcgcca aggaattcaa
+      181 aattgatagg tgcacgcccg ggggacctgt cccgcgggcg ctgtcacgtc aagtcatgta
+      241 aaaatgtaa
+//

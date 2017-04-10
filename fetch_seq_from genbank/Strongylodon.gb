@@ -1,0 +1,43 @@
+LOCUS       KT696078                 328 bp    DNA     linear   PLN 16-JUL-2016
+DEFINITION  Strongylodon archboldianus voucher M. Fallen 404 (MO) 5.8S ribosomal
+            RNA gene and internal transcribed spacer 2, partial sequence.
+ACCESSION   KT696078
+VERSION     KT696078.1
+KEYWORDS    .
+SOURCE      Strongylodon archboldianus
+  ORGANISM  Strongylodon archboldianus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Strongylodon.
+REFERENCE   1  (bases 1 to 328)
+  AUTHORS   de Moura,T.M., Vatanparast,M., Tozzi,A.M.G.A., Forest,F.,
+            Wilmot-Dear,M., Simon,M.F., Mansano,V.F., Kajita,T. and Lewis,G.P.
+  TITLE     A molecular phylogeny and new infrageneric classification of Mucuna
+            adans. (Leguminosae-Papilionoideae) including insights from
+            morphology and hypotheses about biogeography
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 328)
+  AUTHORS   de Moura,T.M., Vatanparast,M., Tozzi,A.M.G.A., Forest,F.,
+            Wilmot-Dear,M., Simon,M.F., Mansano,V.F., Kajita,T. and Lewis,G.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-SEP-2015) Jodrell Laboratory, Royal Botanic Gardens,
+            Kew, Richmond, UK
+FEATURES             Location/Qualifiers
+     source          1..328
+                     /db_xref="taxon:1848244"
+                     /isolation_source="New Guinea"
+                     /mol_type="genomic DNA"
+                     /organism="Strongylodon archboldianus"
+                     /specimen_voucher="M. Fallen 404 (MO)"
+     misc_RNA        <1..>328
+                     /note="contains 5.8S ribosomal RNA and internal transcribed
+                     spacer 2"
+ORIGIN
+        1 gcagaatccc gtgannacca tcgagtcttt gaacgcaagt tgcgcccgaa gccgttaggc
+       61 tgagggcacg cctgcctggg tgtcacacat cgttaccctc ctccnnntcg cnnntcacaa
+      121 aagcaagtag aagggtgtat gctgacctcc cgtgagcttt gtctcgtggt tggttgaaaa
+      181 tcgagttcgt ggccgagtgc gccgtgatac aatggtggat gagtaattac actcgagacc
+      241 ccgatcacgc acgccttgtn ccatcttcgg actccccgac cccnntttgt gtctttgcac
+      301 agcacagacg ctctcaannc gagannnc
+//

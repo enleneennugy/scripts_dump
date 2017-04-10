@@ -1,0 +1,117 @@
+LOCUS       KC779676                 793 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Cymbosema roseum voucher Cardoso 2868 (HUEFS) 18S rRNA ribosomal
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 26S ribosomal RNA gene, partial sequence.
+ACCESSION   KC779676
+VERSION     KC779676.1
+KEYWORDS    .
+SOURCE      Cymbosema roseum
+  ORGANISM  Cymbosema roseum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Cymbosema.
+REFERENCE   1  (bases 1 to 793)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 793)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..793
+                     /db_xref="taxon:202239"
+                     /mol_type="genomic DNA"
+                     /organism="Cymbosema roseum"
+                     /specimen_voucher="Cardoso 2868 (HUEFS)"
+     rRNA            <1..84
+                     /product="18S rRNA ribosomal"
+     misc_RNA        85..318
+                     /product="internal transcribed spacer 1"
+     rRNA            319..483
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        484..695
+                     /product="internal transcribed spacer 2"
+     rRNA            696..>793
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 tgagaagtcc actgaacctt atcatttaga ggaaggagaa gtcgtaacaa ggtttccgta
+       61 ggtgaacctg cggaaggatc attgtcgatg cctcaatcag ttcgacctgt gaatttgttt
+      121 aataatgtag ggcaggttga gatgttcacc atctcatctt tccttttatg ttgggagcaa
+      181 ggcatgccat gcatgactct ctcccaacca aaacataaac cccggcgcaa catgcgtcaa
+      241 ggaaacttaa gttgtttatg atatgcactt gtagacccgg agacggtgct tccacaagtg
+      301 atgttgtgaa acatgtctta aaatgactct cggcaacgga tatctcggct cttgcatcga
+      361 tgaagaacgt agcaaaatgc gatacttggt gtgaattgca gaatcccgtg aaccatcgag
+      421 tttttgaacg caagttgcgc ctgaaaccgt taggttgagg gcacgtctgc ctgggtgtca
+      481 cacgatgttt ccctgctcca acacctttga agttggcgtt gagcagggtg aattttggct
+      541 tcccgcaagc atggtcttgt ggttggttga aaaatgagtc cttggtggaa tgctccatga
+      601 tgaatggtag ttgagtgatg ctcgagacca atcatgtgtt gcttcccatc taaatgtggg
+      661 ccttgaccct tacgttttct tgaaaacgtt catattgaga cctcaggtca ggcggggtta
+      721 cccgctgagt ttaagcatat caataagcgg aggaaaagaa actaacaagg attcccttag
+      781 taacggcgag cga
+//
+LOCUS       AY293836                 639 bp    DNA     linear   PLN 18-MAY-2004
+DEFINITION  Cymbosema roseum small subunit ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 1, 5.8S ribosomal RNA gene and internal
+            transcribed spacer 2, complete sequence; and large subunit ribosomal
+            RNA gene, partial sequence.
+ACCESSION   AY293836
+VERSION     AY293836.1
+KEYWORDS    .
+SOURCE      Cymbosema roseum
+  ORGANISM  Cymbosema roseum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Cymbosema.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Varela,E.S., Lima,J.P., Galdino,A.S., Pinto Lda,S., Bezerra,W.M.,
+            Nunes,E.P., Alves,M.A. and Grangeiro,T.B.
+  TITLE     Relationships in subtribe Diocleinae (Leguminosae; Papilionoideae)
+            inferred from internal transcribed spacer sequences from nuclear
+            ribosomal DNA
+  JOURNAL   Phytochemistry 65 (1), 59-69 (2004)
+   PUBMED   14697271
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Varela,E.S., Santos Lima,J.M., Galdino,A.S., Pinto,L.S.,
+            Bezerra,W.M., Alves,M.A.O. and Grangeiro,T.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAY-2003) Biologia, Universidade Federal do Ceara, Av.
+            Humberto Monte, s/n, Fortaleza, Ceara 60451-970, Brasil
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /country="Brazil"
+                     /db_xref="taxon:202239"
+                     /mol_type="genomic DNA"
+                     /organism="Cymbosema roseum"
+     rRNA            <1..6
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        7..241
+                     /product="internal transcribed spacer 1"
+     rRNA            242..405
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        406..617
+                     /product="internal transcribed spacer 2"
+     rRNA            618..>639
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 tcattgtcga tgcctcaatc agttcgacct gtgaatttgt ttaataatgt agggcaggtt
+       61 gagatgttca ccatctcatc tttcctttta tgttgggagc aaggcatgcc atgcatgact
+      121 ctctcccaac caaaacataa accccggcgc aacatgcgtc aaggaaactt aagttgttta
+      181 tgatatgcac ttgtagaccc ggagacggtg cttccacaag tgatgttgtg aaacatgtct
+      241 taaaatgact ctcggcaacg gatatctcgg ctcttgcatc gatgaagaac gtagcaaaat
+      301 gcgatacttg gtgtgaattg cagaatcccg tgaaccatcg agtttttgaa cgcaagttgc
+      361 gcctgaaacc gttaggttga gggcacgtct gcctgggtgt cacacgatgt ttccctgctc
+      421 caacaccttt gaagttggcg ttgagcaggg tgaattttgg cttcccgcaa gcatggtctt
+      481 gtggttggtt gaaaaatgag tccttggtgg aatgctccat gatgaatggt agttgagtga
+      541 tgctcgagac caatcatgtg ttgcttccca tctaaatgtg ggccttgacc cttacgtttt
+      601 cttgaaaacg ttcatattga gacctcaggt caggcgggg
+//

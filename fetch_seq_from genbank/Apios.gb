@@ -1,0 +1,934 @@
+LOCUS       KR264876                 454 bp    DNA     linear   PLN 19-SEP-2015
+DEFINITION  Apios fortunei internal transcribed spacer 2, partial sequence.
+ACCESSION   KR264876
+VERSION     KR264876.1
+KEYWORDS    .
+SOURCE      Apios fortunei
+  ORGANISM  Apios fortunei
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Apios.
+REFERENCE   1  (bases 1 to 454)
+  AUTHORS   Xin,P.
+  TITLE     Is the genus Cissus (Vitaceae) monophyletic? Evidence from plastid
+            and nuclear ribosomal DNA
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 454)
+  AUTHORS   Xin,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-APR-2015) Zhejiang Pharmaceutical College, 888 Yin
+            County Road East, Higher Education Park (South), Ningbo, Zhejiang
+            315100, China
+FEATURES             Location/Qualifiers
+     source          1..454
+                     /collection_date="20-Dec-2014"
+                     /country="China: Zhejiang, Lishui"
+                     /db_xref="taxon:1503859"
+                     /mol_type="genomic DNA"
+                     /note="authority: Apios fortunei Maxim"
+                     /organism="Apios fortunei"
+                     /tissue_type="root"
+     misc_RNA        <1..>454
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 tatgcgataa cctgtgtgaa ttgcagaatc ccgtgaacca tcgagtcttt gaacgcaagt
+       61 tgcgcccgaa gccattaggt tgagggcacg cctgcctggg tgtcacacat cgttaccctc
+      121 atgcaaatgt ctcacggtag cgttgcgtag ggtgtatgtt gacttcccgc gagcgtggtc
+      181 tcgtggttgg ttgaaaattg agttcatggt tgagtgcgcc atgataaaat ggtggatgag
+      241 tattgctcga gaccaatcat gcgcaactca gtctggtttg gattctttga cccctatgcg
+      301 tcttcggatg ctcctagcga gacctcaggt caggcggggc tacccgctga gtttaagcat
+      361 atcaataagc ggaggaaaag aaactaacaa ggattccctt agtaacggcg agcgaaccgg
+      421 gaacagccca ccatgagaat cgtcgctagg ccct
+//
+LOCUS       KF273006                 653 bp    DNA     linear   PLN 30-JUN-2014
+DEFINITION  Apios priceana voucher Long 68-17310-3 (MO) internal transcribed
+            spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete
+            sequence; and internal transcribed spacer 2, partial sequence.
+ACCESSION   KF273006
+VERSION     KF273006.1
+KEYWORDS    .
+SOURCE      Apios priceana
+  ORGANISM  Apios priceana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Apios.
+REFERENCE   1  (bases 1 to 653)
+  AUTHORS   Li,J.
+  TITLE     Phylogenetics and biogeography of Apios (Fabaceae)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 653)
+  AUTHORS   Li,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-JUN-2013) Biology, Hope College, 35 E 12th St,
+            Holland, MI 49423, USA
+FEATURES             Location/Qualifiers
+     source          1..653
+                     /db_xref="taxon:254393"
+                     /mol_type="genomic DNA"
+                     /organism="Apios priceana"
+                     /specimen_voucher="Long 68-17310-3 (MO)"
+     misc_RNA        <1..266
+                     /product="internal transcribed spacer 1"
+     rRNA            267..431
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        432..>653
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 tgacctgcgg gaggatcatt gtcgatgcct cgccagcaat cagtttgacc tgtgaattcg
+       61 ttttatccac cttgggttgg ctggtgggcg tgttgaaaac gacctctcat cgtcctccct
+      121 tgcgtcggga ggcggtcctg ccttgcttga cctcctcccg acaaacacaa accccggcgc
+      181 ttcgcgcgcc aaggaattcg aaactgttcg gtgcaatcct cggggacccg gagacggcgt
+      241 tcccgcggct tgtcacgaca cactatatac aacgactctc ggcaacggat atctcggctc
+      301 ttgcatcgat gaagaacgta gcgaaatgcg atacttggtg tgaattgcag aatcccgtga
+      361 accatcgagt ctttgaacgc aagttgcgcc cgaagccatt aggccgaggg cacgcctgcc
+      421 tgggtgtcac acgtcgttac cctcgcgcaa atgcctcact tcacggtggc gctgcgtcgg
+      481 gtgtatgctg gcttcccgcg agcccggtct cgtggttggt tgaaaattga gttcgcggcc
+      541 gaggtcgccg tgacgaaatg gtggatgagc accgctcgag accgatcgtc acgcgcgacc
+      601 cgacctggtt tggactcttc gaccctgtgc gtcttcggac gctcctagcg aga
+//
+LOCUS       KF273005                 651 bp    DNA     linear   PLN 30-JUN-2014
+DEFINITION  Apios priceana voucher Long 68-17310-2 (MO) internal transcribed
+            spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete
+            sequence; and internal transcribed spacer 2, partial sequence.
+ACCESSION   KF273005
+VERSION     KF273005.1
+KEYWORDS    .
+SOURCE      Apios priceana
+  ORGANISM  Apios priceana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Apios.
+REFERENCE   1  (bases 1 to 651)
+  AUTHORS   Li,J.
+  TITLE     Phylogenetics and biogeography of Apios (Fabaceae)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 651)
+  AUTHORS   Li,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-JUN-2013) Biology, Hope College, 35 E 12th St,
+            Holland, MI 49423, USA
+FEATURES             Location/Qualifiers
+     source          1..651
+                     /db_xref="taxon:254393"
+                     /mol_type="genomic DNA"
+                     /organism="Apios priceana"
+                     /specimen_voucher="Long 68-17310-2 (MO)"
+     misc_RNA        <1..264
+                     /product="internal transcribed spacer 1"
+     rRNA            265..429
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        430..>651
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 tgacctgcgg aggatcattg tcgatgcctc gcagcaatca gtttgacctg tgaattcgtt
+       61 ttatccacct tgggttggct ggtgggcgtg ttgaaaacga catctcatca tcctcccttg
+      121 cgtcgggagg cggtcctgcc ttgcttgacc tcctcccgac aaacacaaac cccggcgctt
+      181 cgcgcgccaa ggaattcgaa actgttcggt gcaatcctcg gggacccgga gacggcgttc
+      241 ccgcggcttg tcacgacaca ctatatacaa cgactctcgg caacggatat ctcggctctt
+      301 gcatcgatga agaacgtagc gaaatgcgat acttggtgtg aattgcagaa tcccgtgaac
+      361 catcgagtct ttgaacgcaa gttgcgcccg aagccattag gccgagggca cgcctgcctg
+      421 ggtgtcacac gtcgttaccc tcgcgcaaat gcctcacttc acggtggcgc tgcgtcgggt
+      481 gtatgctggc ttcccgcgag cccggtctcg tggttggttg aaaattgagt tcgcggccga
+      541 ggtcgccgtg acgaaatggt ggatgagcac cgctcgagac cgatcgtcac gcgcgactcg
+      601 atctggtttg gactcttcga ccctgtgcgt cttcggacgc tcctagcgag a
+//
+LOCUS       KF273004                 653 bp    DNA     linear   PLN 30-JUN-2014
+DEFINITION  Apios priceana voucher Long 68-17310-1 (MO) internal transcribed
+            spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete
+            sequence; and internal transcribed spacer 2, partial sequence.
+ACCESSION   KF273004
+VERSION     KF273004.1
+KEYWORDS    .
+SOURCE      Apios priceana
+  ORGANISM  Apios priceana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Apios.
+REFERENCE   1  (bases 1 to 653)
+  AUTHORS   Li,J.
+  TITLE     Phylogenetics and biogeography of Apios (Fabaceae)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 653)
+  AUTHORS   Li,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-JUN-2013) Biology, Hope College, 35 E 12th St,
+            Holland, MI 49423, USA
+FEATURES             Location/Qualifiers
+     source          1..653
+                     /db_xref="taxon:254393"
+                     /mol_type="genomic DNA"
+                     /organism="Apios priceana"
+                     /specimen_voucher="Long 68-17310-1 (MO)"
+     misc_RNA        <1..266
+                     /product="internal transcribed spacer 1"
+     rRNA            267..431
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        432..>653
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 tgaacctgcg gaaggatcat tgtcgatgcc tcgcagcaat cagtttgacc tgtgaattcg
+       61 ttttatccac cttgggttgg ctggtgggcg tgttgaaaac gacatctcat cgtcctccct
+      121 tgcgtcggga ggcggtcctg ccttgcttga cctcctcccg acaaacacaa accccggcgc
+      181 ttcgcgcgcc aaggaattcg aaactgttcg gtgcaatcct cggggacccg gagacggcgt
+      241 tcccgcggct tgtcacgaca cactatatac aatgactctc ggcaacggat atctcggctc
+      301 ttgcatcgat gaagaacgta gcgaaatgcg atacttggtg tgaattgcag aatcccgtga
+      361 accatcgagt ctttgaacgc aagttgcgcc cgaagccatt aggccgaggg cacgcctgcc
+      421 tgggtgtcac acgtcgttac cctcgcgcaa atgcctcact tcacggtggc gctgcgtcgg
+      481 gtgtatgctg gcttcccgcg agcccggtct cgtggttggt tgaaaattga gttcgcggtc
+      541 gaggtcgccg tgacgaaatg gtggatgagc accgctcgag accgatcgtc acgcgcgact
+      601 cgacctggtt tggactcttc gaccctgtgc gtcttcggac gctcctagcg aga
+//
+LOCUS       KF273003                 651 bp    DNA     linear   PLN 30-JUN-2014
+DEFINITION  Apios priceana voucher Long 68-2874-3 (MO) internal transcribed
+            spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete
+            sequence; and internal transcribed spacer 2, partial sequence.
+ACCESSION   KF273003
+VERSION     KF273003.1
+KEYWORDS    .
+SOURCE      Apios priceana
+  ORGANISM  Apios priceana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Apios.
+REFERENCE   1  (bases 1 to 651)
+  AUTHORS   Li,J.
+  TITLE     Phylogenetics and biogeography of Apios (Fabaceae)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 651)
+  AUTHORS   Li,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-JUN-2013) Biology, Hope College, 35 E 12th St,
+            Holland, MI 49423, USA
+FEATURES             Location/Qualifiers
+     source          1..651
+                     /db_xref="taxon:254393"
+                     /mol_type="genomic DNA"
+                     /organism="Apios priceana"
+                     /specimen_voucher="Long 68-2874-3 (MO)"
+     misc_RNA        <1..264
+                     /product="internal transcribed spacer 1"
+     rRNA            265..429
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        430..>651
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 tgacctgcgc aggatcattg tcgatgcctc gcaagcatca gtttgacctg tgaattcgtt
+       61 ttatccacct tgggttggct ggtgggcgtg ttgaaaacga cctctcatca tcctcccttg
+      121 cgtcgggagg cggtcctgcc ttgcttgacc tcctcccgac aaacacaaac cccggcgctt
+      181 cgcgcgccaa ggaattcgaa actgttcggt gcaatcctcg gggacccgga gacggcgttc
+      241 ccgcggcttg tcacgacaca ctatatacaa ygactctcgg caacggatat ctcggctctt
+      301 gcatcgatga agaacgtagc gaaatgcgat acttggtgtg aattgcagaa tcccgtgaac
+      361 catcgagtct ttgaacgcaa gttgcgcccg aagccattag gccgagggca cgcctgcctg
+      421 ggtgtcacac gtcgttaccc tcgcgcaaat gcctcacttc acggtggcgc tgcgtcgggt
+      481 gtatgctggc ttcccgcgag cccggtctcg tggttggttg aaaattgagt tcgcggccga
+      541 ggtcgccgtg acgaaatggt ggatgagcac cgctcgagac cgatcgtcac gtgcgactcg
+      601 atctggtttg gactcttcga ccctgtgcgt cttcggacgc tcctagcgag a
+//
+LOCUS       KF273002                 652 bp    DNA     linear   PLN 30-JUN-2014
+DEFINITION  Apios priceana voucher Long 68-2874-2 (MO) internal transcribed
+            spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete
+            sequence; and internal transcribed spacer 2, partial sequence.
+ACCESSION   KF273002
+VERSION     KF273002.1
+KEYWORDS    .
+SOURCE      Apios priceana
+  ORGANISM  Apios priceana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Apios.
+REFERENCE   1  (bases 1 to 652)
+  AUTHORS   Li,J.
+  TITLE     Phylogenetics and biogeography of Apios (Fabaceae)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 652)
+  AUTHORS   Li,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-JUN-2013) Biology, Hope College, 35 E 12th St,
+            Holland, MI 49423, USA
+FEATURES             Location/Qualifiers
+     source          1..652
+                     /db_xref="taxon:254393"
+                     /mol_type="genomic DNA"
+                     /organism="Apios priceana"
+                     /specimen_voucher="Long 68-2874-2 (MO)"
+     misc_RNA        <1..265
+                     /product="internal transcribed spacer 1"
+     rRNA            266..430
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        431..>652
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 tgacctgcgg aaggatcatt gtcgatgcct cgcagcaatc agtttgacct gtgaattcgt
+       61 tttatccacc ttgggttggc tggtgggcgt gttgaaaacg acatctcatc atcctccctt
+      121 gcgtcgggag gcggtcctgc cttgcttgac ctcctcccga caaacacaaa ccccggcgct
+      181 tcgcgcgcca aggaattcga aactgttcgg tgcaatcctc ggggacccgg agacggcgtt
+      241 cccgcggctt gtcacgacac actatataca atgactctcg gcaacggata tctcggctct
+      301 tgcatcgatg aagaacgtag cgaaatgcga tacttggtgt gaattgcaga atcccgtgaa
+      361 ccatcgagtc tttgaacgca agttgcgccc gaagccatta ggccgagggc acgcctgcct
+      421 gggtgtcaca cgtcgttacc ctcgcgcaaa tgcctcactt cacggtggcg ctgcgtcggg
+      481 tgtatgctgg cttcccgcga gcccggtctc gtggttggtt gaaaattgag ttcgcggccg
+      541 aggtcgccgt gacgaaatgg tggatgagca ccgctcgaga ccgatcgtca cgtgcgactc
+      601 gatctggttt ggactcttcg accctgtgcg tcttcggacg ctcctagcga ga
+//
+LOCUS       KF273001                 653 bp    DNA     linear   PLN 30-JUN-2014
+DEFINITION  Apios priceana voucher Long 68-2874-1 (MO) internal transcribed
+            spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete
+            sequence; and internal transcribed spacer 2, partial sequence.
+ACCESSION   KF273001
+VERSION     KF273001.1
+KEYWORDS    .
+SOURCE      Apios priceana
+  ORGANISM  Apios priceana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Apios.
+REFERENCE   1  (bases 1 to 653)
+  AUTHORS   Li,J.
+  TITLE     Phylogenetics and biogeography of Apios (Fabaceae)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 653)
+  AUTHORS   Li,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-JUN-2013) Biology, Hope College, 35 E 12th St,
+            Holland, MI 49423, USA
+FEATURES             Location/Qualifiers
+     source          1..653
+                     /db_xref="taxon:254393"
+                     /mol_type="genomic DNA"
+                     /organism="Apios priceana"
+                     /specimen_voucher="Long 68-2874-1 (MO)"
+     misc_RNA        <1..266
+                     /product="internal transcribed spacer 1"
+     rRNA            267..431
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        432..>653
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 tgaacctgcg gaaggatcat tgtcgatgcc tcgcagcaat cagtttgacc tgtgaattcg
+       61 ttttatccac cttgggttgg ctggtgggcg tgttgaaaac gacctcccat cgtcctccct
+      121 tgcgtcggga ggcggtcctg ccttgcttga cctcctcccg acaaacacaa accccggcgc
+      181 ttcgcgcgcc aaggaattcg aaactgttcg gtgcaatcct cggggacccg gagacggcgt
+      241 tcccgcggct tgtcacgaca cactatatac aatgactctc ggcaacggat atctcggctc
+      301 ttgcatcgat gaagaacgta gcgaaatgcg atacttggtg tgaattgcag aatcccgtga
+      361 accatcgagt ctttgaacgc aagttgcgcc cgaagccatt aggccgaggg cacgcctgcc
+      421 tgggtgtcac acgtcgttac cctcgcgcaa atgcctcact tcacggtggc gctgcgtcgg
+      481 gtgtatgctg gcttcccgcg agcccggtct cgtggttggt tgaaaattga gttcacggtc
+      541 gagggcgccg tgacgaaatg gtggatgagc accgctcgag accgatcgtc acgtgcgaca
+      601 cgacctggtt tggaytcttc gaccctgtgc gtcttcggac gctcctagcg aga
+//
+LOCUS       KF273000                 652 bp    DNA     linear   PLN 30-JUN-2014
+DEFINITION  Apios priceana voucher MBG 1987-3012-3 (MO) internal transcribed
+            spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete
+            sequence; and internal transcribed spacer 2, partial sequence.
+ACCESSION   KF273000
+VERSION     KF273000.1
+KEYWORDS    .
+SOURCE      Apios priceana
+  ORGANISM  Apios priceana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Apios.
+REFERENCE   1  (bases 1 to 652)
+  AUTHORS   Li,J.
+  TITLE     Phylogenetics and biogeography of Apios (Fabaceae)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 652)
+  AUTHORS   Li,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-JUN-2013) Biology, Hope College, 35 E 12th St,
+            Holland, MI 49423, USA
+FEATURES             Location/Qualifiers
+     source          1..652
+                     /db_xref="taxon:254393"
+                     /mol_type="genomic DNA"
+                     /organism="Apios priceana"
+                     /specimen_voucher="MBG 1987-3012-3 (MO)"
+     misc_RNA        <1..266
+                     /product="internal transcribed spacer 1"
+     rRNA            267..431
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        432..>652
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 tgaacctgcg gaaggatcat tgtcgatgcc tcgcagcaat cagtttgacc tgtgaattcg
+       61 ttttatccac cttgggttgg ctggtgggtg tgttgaaaac gacctcccat cgtcctccct
+      121 tgcgtcggga ggcggtcctg ccttgcttga cctcctcccg acaaacacaa accccggcgc
+      181 ttcgcgcgcc aaggaattcg aaactgttcg gtgcaatcct cggggacccg gagacggcgt
+      241 tcccgcggct tgtcacgaca cactatatac aatgactctc ggcaacggat atctcggctc
+      301 ttgcatcgat gaagaacgta gcgaaatgcg atacttggtg tgaattgcag aatcccgtga
+      361 accatcgagt ctttgaacgc aagttgcgcc cgaagccatt aggccgaggg cacgcctgcc
+      421 tgggtgtcac acgtcgttac cctcacgcaa atgcctcact tcacggtggc gctgcgtcgg
+      481 gtgtatgctg gcttcccgcg agcccggtct cgtggttggt tgaaaattga gttcgcggtc
+      541 gagggcgccg tgacgaaatg gtggatgagc accgctcgag accgatcgtc acgtgcgccc
+      601 cgccctgttt ggattcttcg accctgtgcg tcttcggacg ctcctagcga ga
+//
+LOCUS       KF272999                 653 bp    DNA     linear   PLN 30-JUN-2014
+DEFINITION  Apios priceana voucher Svenson 7325 (GH) internal transcribed spacer
+            1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and
+            internal transcribed spacer 2, partial sequence.
+ACCESSION   KF272999
+VERSION     KF272999.1
+KEYWORDS    .
+SOURCE      Apios priceana
+  ORGANISM  Apios priceana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Apios.
+REFERENCE   1  (bases 1 to 653)
+  AUTHORS   Li,J.
+  TITLE     Phylogenetics and biogeography of Apios (Fabaceae)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 653)
+  AUTHORS   Li,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-JUN-2013) Biology, Hope College, 35 E 12th St,
+            Holland, MI 49423, USA
+FEATURES             Location/Qualifiers
+     source          1..653
+                     /db_xref="taxon:254393"
+                     /mol_type="genomic DNA"
+                     /organism="Apios priceana"
+                     /specimen_voucher="Svenson 7325 (GH)"
+     misc_RNA        <1..266
+                     /product="internal transcribed spacer 1"
+     rRNA            267..431
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        432..>653
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 tgaacctgcg gaaggatcat tgtcgatgcc tcgcagcaat cagtttgacc tgtgaattcg
+       61 ttttatccac cttgggttgg ctggtgggcg tgttgaaaac gacctcccat cgtcctccct
+      121 tgcgtcggga ggcggtcmtg ccttgcttga cctcctcccg acaaacacaa accccggcgc
+      181 ttcgcgcgcc aaggaattcg aaactgttcg gtgcaatcct cggggacccg gagacggcgt
+      241 tcccgcggct tgtcacgaca cactatatac aacgactctc ggcaacggat atctcggctc
+      301 ttgcatcgat gaagaacgta gcgaaatgcg atacttggtg tgaattgcag aatcccgtga
+      361 accatcgagt ctttgaacgc aagttgcgcc cgaagccatt aggccgaggg cacgcctgcc
+      421 tgggtgtcac acgtcgttac cctcgcgcaa atgcctcact tcacggtggc gctgcgtcgg
+      481 gtgtatgctg gcttcccgcg agcccggtct cgtggttggt tgaaaattga gttcgcggcc
+      541 gaggtcgccg tgacgaaatg gtggatgagc accgctcgag accgatcgtc acgtgcgact
+      601 cgatctggtt tggactcttc gaccctgtgc gtcttcggac gctcctagcg aga
+//
+LOCUS       KF272998                 636 bp    DNA     linear   PLN 30-JUN-2014
+DEFINITION  Apios fortunei voucher Chen (PE) internal transcribed spacer 1,
+            partial sequence; 5.8S ribosomal RNA gene, complete sequence; and
+            internal transcribed spacer 2, partial sequence.
+ACCESSION   KF272998
+VERSION     KF272998.1
+KEYWORDS    .
+SOURCE      Apios fortunei
+  ORGANISM  Apios fortunei
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Apios.
+REFERENCE   1  (bases 1 to 636)
+  AUTHORS   Li,J.
+  TITLE     Phylogenetics and biogeography of Apios (Fabaceae)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 636)
+  AUTHORS   Li,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-JUN-2013) Biology, Hope College, 35 E 12th St,
+            Holland, MI 49423, USA
+FEATURES             Location/Qualifiers
+     source          1..636
+                     /db_xref="taxon:1503859"
+                     /mol_type="genomic DNA"
+                     /organism="Apios fortunei"
+                     /specimen_voucher="Chen (PE)"
+     misc_RNA        <1..256
+                     /product="internal transcribed spacer 1"
+     rRNA            257..421
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        422..>636
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 gaacctgcgg aaggatcatt gtcgatgcct cacaatcagt ttgacccgtg aatttgtttt
+       61 atccacctag ggttggctaa aggggtgttg aacagcatct catcctccct tgtgttggga
+      121 ggtggtcttg ccctgctgga ctgcctctcg acaaaaacga accccggcgc ttcgtgtgcc
+      181 aaggaattta aaactgttca gtgcagatcc cggggacccg gagacggtgt tctcgtgggt
+      241 cgtcacgaca catgatatac aatgactctc ggcaacggat atctcggctc ttgcatcgat
+      301 gaagaacgta gcgaaatgcg atacttggtg tgaattgcag aatcccgtga accatcgagt
+      361 ctttgaacgc aagttgcgcc cgaagccatt aggttgaggg cacgcctgcc tgggtgtcac
+      421 acatcgttac cctcatgcaa atgtctcacg gtagcgttgc gtagggtgta tgttgacttc
+      481 ccgcgagcct ggtctcgtgg ttggttgaaa attgagttca tggttgagtg cgccatgata
+      541 aaatggtgga tgagtattgc tcgagaccaa tcatgcgcaa ctcagtctgg tttggattct
+      601 ttgaccccca tgcgtcttcg gatgctccta gcgaga
+//
+LOCUS       KF272997                 558 bp    DNA     linear   PLN 30-JUN-2014
+DEFINITION  Apios fortunei voucher Li 6238 (HCHM) internal transcribed spacer 1,
+            partial sequence; 5.8S ribosomal RNA gene, complete sequence; and
+            internal transcribed spacer 2, partial sequence.
+ACCESSION   KF272997
+VERSION     KF272997.1
+KEYWORDS    .
+SOURCE      Apios fortunei
+  ORGANISM  Apios fortunei
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Apios.
+REFERENCE   1  (bases 1 to 558)
+  AUTHORS   Li,J.
+  TITLE     Phylogenetics and biogeography of Apios (Fabaceae)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 558)
+  AUTHORS   Li,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-JUN-2013) Biology, Hope College, 35 E 12th St,
+            Holland, MI 49423, USA
+FEATURES             Location/Qualifiers
+     source          1..558
+                     /db_xref="taxon:1503859"
+                     /mol_type="genomic DNA"
+                     /organism="Apios fortunei"
+                     /specimen_voucher="Li 6238 (HCHM)"
+     misc_RNA        <1..178
+                     /product="internal transcribed spacer 1"
+     rRNA            179..343
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        344..>558
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 gaaggggtgt tgaacaacat ctcatcctcc cttgtgttgg gaggtggtct tgccttgctg
+       61 gactgcctct cgacaaaaac aaaccccggc gcttcgtgtg ccaaggaatt caaaattgtt
+      121 cagtgcagat cccggggacc cggagacggt gttctcgtgg gtcgtcacga cacatgatat
+      181 acaatgactc tcggcaacgg atatctcggc tcttgcatcg atgaagaacg tagcgaaatg
+      241 cgatacttgg tgtgaattgc agaatcccgt gaaccatcga gtctttgaac gcaagttgcg
+      301 cccgaagcca ttaggttgag ggcacgcctg cctgggtgtc acacatcgtt accctcatgc
+      361 aaatgtctca cggtagcgtt gcgtagggtg tatgttgact tcccgcgagc ctggtctcgt
+      421 ggttggttga aaattgagtt catggttgag tgcgccatga taaaatggtg gatgagtatt
+      481 gctcgagacc aatcatgcgc aactcagtct ggtttggatt ctttgacccc catgcgtctt
+      541 cggatgctcc tagcgaga
+//
+LOCUS       KF272996                 558 bp    DNA     linear   PLN 30-JUN-2014
+DEFINITION  Apios fortunei voucher Li 6237 (HCHM) internal transcribed spacer 1,
+            partial sequence; 5.8S ribosomal RNA gene, complete sequence; and
+            internal transcribed spacer 2, partial sequence.
+ACCESSION   KF272996
+VERSION     KF272996.1
+KEYWORDS    .
+SOURCE      Apios fortunei
+  ORGANISM  Apios fortunei
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Apios.
+REFERENCE   1  (bases 1 to 558)
+  AUTHORS   Li,J.
+  TITLE     Phylogenetics and biogeography of Apios (Fabaceae)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 558)
+  AUTHORS   Li,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-JUN-2013) Biology, Hope College, 35 E 12th St,
+            Holland, MI 49423, USA
+FEATURES             Location/Qualifiers
+     source          1..558
+                     /db_xref="taxon:1503859"
+                     /mol_type="genomic DNA"
+                     /organism="Apios fortunei"
+                     /specimen_voucher="Li 6237 (HCHM)"
+     misc_RNA        <1..178
+                     /product="internal transcribed spacer 1"
+     rRNA            179..343
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        344..>558
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 gaaggggtgt tgaacaacat ctcatcctcc cttgtgttgg gaggtggtct tgccttgctg
+       61 gactgcctct cgacaaaaac aaaccccggc gcttcgtgtg ccaaggaatt caaaattgtt
+      121 cagtgcagat cccggggacc cggagacggt gttctcgtgg gtcgtcacga cacatgatat
+      181 acaatgactc tcggcaacgg atatctcggc tcttgcatcg atgaagaacg tagcgaaatg
+      241 cgatacttgg tgtgaattgc agaatcccgt gaaccatcga gtctttgaac gcaagttgcg
+      301 cccgaagcca ttaggttgag ggcacgcctg cctgggtgtc acacatcgtt accctcatgc
+      361 aaatgtctca cggtagcgtt gcgtagggtg tatgttgact tcccgcgagc ctggtctcgt
+      421 ggttggttga aaattgagtt catggttgag tgcgccatga taaaatggtg gatgagtatt
+      481 gctcgagacc aatcatgcgc aactcagtct ggtttggatt ctttgacccc catgcgtctt
+      541 cggatgctcc tagcgaga
+//
+LOCUS       KF272995                 558 bp    DNA     linear   PLN 30-JUN-2014
+DEFINITION  Apios fortunei voucher Li 6232 (HCHM) internal transcribed spacer 1,
+            partial sequence; 5.8S ribosomal RNA gene, complete sequence; and
+            internal transcribed spacer 2, partial sequence.
+ACCESSION   KF272995
+VERSION     KF272995.1
+KEYWORDS    .
+SOURCE      Apios fortunei
+  ORGANISM  Apios fortunei
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Apios.
+REFERENCE   1  (bases 1 to 558)
+  AUTHORS   Li,J.
+  TITLE     Phylogenetics and biogeography of Apios (Fabaceae)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 558)
+  AUTHORS   Li,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-JUN-2013) Biology, Hope College, 35 E 12th St,
+            Holland, MI 49423, USA
+FEATURES             Location/Qualifiers
+     source          1..558
+                     /db_xref="taxon:1503859"
+                     /mol_type="genomic DNA"
+                     /organism="Apios fortunei"
+                     /specimen_voucher="Li 6232 (HCHM)"
+     misc_RNA        <1..178
+                     /product="internal transcribed spacer 1"
+     rRNA            179..343
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        344..>558
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 gaaggggtgt tgaacaacat ctcatcctcc cttgtgttgg gaggtggtct tgccttgctg
+       61 gactgcctct cgacaaaaac aaaccccggc gcttcgtgtg ccaaggaatt caaaattgtt
+      121 cagtgcagat cccggggacc cggagacggt gttctcgtgg gtcgtcacga cacatgatat
+      181 acaatgactc tcggcaacgg atatctcggc tcttgcatcg atgaagaacg tagcgaaatg
+      241 cgatacttgg tgtgaattgc agaatcccgt gaaccatcga gtctttgaac gcaagttgcg
+      301 cccgaagcca ttaggttgag ggcacgcctg cctgggtgtc acacatcgtt accctcatgc
+      361 aaatgtctca cggtagcgtt gcgtagggtg tatgttgact tcccgcgagc ctggtctcgt
+      421 ggttggttga aaattgagtt catggttgag tgcgccatga taaaatggtg gatgagtatt
+      481 gctcgagacc aatcatgcgc aactcagtct ggtttggatt ctttgacccc catgcgtctt
+      541 cggatgctcc tagcgaga
+//
+LOCUS       KF272994                 636 bp    DNA     linear   PLN 30-JUN-2014
+DEFINITION  Apios fortunei voucher Li & Jiang 52602 (HCHM) internal transcribed
+            spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete
+            sequence; and internal transcribed spacer 2, partial sequence.
+ACCESSION   KF272994
+VERSION     KF272994.1
+KEYWORDS    .
+SOURCE      Apios fortunei
+  ORGANISM  Apios fortunei
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Apios.
+REFERENCE   1  (bases 1 to 636)
+  AUTHORS   Li,J.
+  TITLE     Phylogenetics and biogeography of Apios (Fabaceae)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 636)
+  AUTHORS   Li,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-JUN-2013) Biology, Hope College, 35 E 12th St,
+            Holland, MI 49423, USA
+FEATURES             Location/Qualifiers
+     source          1..636
+                     /db_xref="taxon:1503859"
+                     /mol_type="genomic DNA"
+                     /organism="Apios fortunei"
+                     /specimen_voucher="Li & Jiang 52602 (HCHM)"
+     misc_RNA        <1..256
+                     /product="internal transcribed spacer 1"
+     rRNA            257..421
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        422..>636
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 tgaacctgcg gaaggatcat tgtcgatgcc tcacatctgt ttgacccgtg aatttgtttt
+       61 atccacctag ggttggctaa aggggtgttg aacaacatct catcctccct tgtgttggga
+      121 ggtggtcttg ccctgctgga ctgcctctcg acaaaaacaa accccggcgc ttcgtgtgcc
+      181 aaggaattca aaattgttca gtgcagatcc cggggacccg gagacggtgt tctcgtgggt
+      241 cgtcacgaca catgatatac aatgactctc ggcaacggat atctcggctc ttgcatcgat
+      301 gaagaacgta gcgaaatgcg atacttggtg tgaattgcag aatcccgtga accatcgagt
+      361 ctttgaacgc aagttgcgcc cgaagccatt aggttgaggg cacgcctgcc tgggtgtcac
+      421 acatcgttac cctcatgcaa atgtctcacg gtagcgttgc gtagggtgta tgttgacttc
+      481 ccgcgagcct ggtctcgtgg ttggttgaaa attgagttca tggttgagtg cgccatgata
+      541 aaatggtgga tgagtattgc tcgagaccaa tcatgcgcaa ctcagtctgg tttggattct
+      601 ttgaccccca tgcgtcttcg gatgctccta gcgaga
+//
+LOCUS       KF272993                 639 bp    DNA     linear   PLN 30-JUN-2014
+DEFINITION  Apios delavayi voucher Kun 0402485 (PE) internal transcribed spacer
+            1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and
+            internal transcribed spacer 2, partial sequence.
+ACCESSION   KF272993
+VERSION     KF272993.1
+KEYWORDS    .
+SOURCE      Apios delavayi
+  ORGANISM  Apios delavayi
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Apios.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Li,J.
+  TITLE     Phylogenetics and biogeography of Apios (Fabaceae)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Li,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-JUN-2013) Biology, Hope College, 35 E 12th St,
+            Holland, MI 49423, USA
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /db_xref="taxon:1503858"
+                     /mol_type="genomic DNA"
+                     /organism="Apios delavayi"
+                     /specimen_voucher="Kun 0402485 (PE)"
+     misc_RNA        <1..259
+                     /product="internal transcribed spacer 1"
+     rRNA            260..424
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        425..>639
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 tgaacctgcg gaaggatcat tgtcgatgcc tcgcaatcag tttgacctgt gaatttgttt
+       61 atcaacctag ggttggctaa ggggtgttga cacaacatct cctcctccct tgtgttggga
+      121 ggtggtcttg cctttgcttg actgcctctc gacaaacaca aaccccggcg cttcgtgtgc
+      181 caaggaattc aaaaattgtt cagtgcaatc ccagggactc ggagacggtg ttcctgtggg
+      241 tcttgtcacg acacatgata tacaatgact ctcggcaacg gatatctcgg ctcttgcatc
+      301 gatgaagaac gtagcgaaat gcgatacttg gtgtgaattg cagaatcccg tgaaccatcg
+      361 agtctttgaa cgcaagttgc gcccgaagcc attaggttga gggcacgcct gcctgggtgt
+      421 cacacatcgt taccctcacg caaatgtctc acggtagcat tgtgtagggt gtatgttgac
+      481 ttcccgcgag cattgtctcg tggttggttg aaatttgagt tcatggttga gtgtgccatg
+      541 ataaaatggt ggatgagtgt tgctcgagac caatcatgcg ccactcagtc tggtttggat
+      601 tctttgaccc ttatgcgtct acggatgctc ctatagaga
+//
+LOCUS       KF272992                 639 bp    DNA     linear   PLN 30-JUN-2014
+DEFINITION  Apios delavayi voucher Yu 23086 (A) internal transcribed spacer 1,
+            partial sequence; 5.8S ribosomal RNA gene, complete sequence; and
+            internal transcribed spacer 2, partial sequence.
+ACCESSION   KF272992
+VERSION     KF272992.1
+KEYWORDS    .
+SOURCE      Apios delavayi
+  ORGANISM  Apios delavayi
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Apios.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Li,J.
+  TITLE     Phylogenetics and biogeography of Apios (Fabaceae)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Li,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-JUN-2013) Biology, Hope College, 35 E 12th St,
+            Holland, MI 49423, USA
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /db_xref="taxon:1503858"
+                     /mol_type="genomic DNA"
+                     /organism="Apios delavayi"
+                     /specimen_voucher="Yu 23086 (A)"
+     misc_RNA        <1..259
+                     /product="internal transcribed spacer 1"
+     rRNA            260..424
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        425..>639
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 tgaacctgcg gaaggatcat tgtcgatgcc tcgcaatcag tttgacctgt gaatttgttt
+       61 atcaacctag ggttggctaa gggatgttga cacaacatct catcctccct tgtgttggga
+      121 ggtggtcttg cttttgctwg gctgcctctc gacaaacaca aaccccggcg cttcgtgtgc
+      181 caaggaattc aaaaattgtt cagtgcaatc ccggggaccc ggagacggtg ttcctgtggg
+      241 tcttgtcacg acacatgata tacaatgact ctcggcaacg gatatctcgg ctcttgcatc
+      301 gatgaagaac gtagcgaaat gcgatacttg gtgtgaattg cagaatcccg tgaaccatcg
+      361 agtctttgaa cgcaagttgc gcccgaagcc attaggttga gggcacgcct gcctgggtgt
+      421 cacacatcgt taccctcaca caaatgtctc acggtagcgt tgcgtagggt gtatgytgac
+      481 ttcccgcgag catggtctcg tggttggttg aaaattgagt tcatggttga gtgtgccatg
+      541 ataaaatggt ggatgagtgt trctcgagac caatcatgcg ctactcaatc tggtttggat
+      601 tctttgaccc ttatgcgtct gcggatgctc ctatagaga
+//
+LOCUS       KF272991                 639 bp    DNA     linear   PLN 30-JUN-2014
+DEFINITION  Apios delavayi voucher Li, Honglei 20110804088 (PE) internal
+            transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene,
+            complete sequence; and internal transcribed spacer 2, partial
+            sequence.
+ACCESSION   KF272991
+VERSION     KF272991.1
+KEYWORDS    .
+SOURCE      Apios delavayi
+  ORGANISM  Apios delavayi
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Apios.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Li,J.
+  TITLE     Phylogenetics and biogeography of Apios (Fabaceae)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Li,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-JUN-2013) Biology, Hope College, 35 E 12th St,
+            Holland, MI 49423, USA
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /db_xref="taxon:1503858"
+                     /mol_type="genomic DNA"
+                     /organism="Apios delavayi"
+                     /specimen_voucher="Li, Honglei 20110804088 (PE)"
+     misc_RNA        <1..259
+                     /product="internal transcribed spacer 1"
+     rRNA            260..424
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        425..>639
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 gtgacctgcg gaaggatcat tgtcgatgcc tcgcaatcag tttgacctgt gaatttgttt
+       61 ataaacctag ggttggctaa gggatgttga cacaacatct catcctccct tgtgttggga
+      121 ggtggtcttg cttttgctag gctgcctctc gacaaacaca aaccccggcg cttcgtgtgc
+      181 caaggaattc aaaaattgtt cagtgcaatc ccggggaccc ggagacggtg ttcctgtggg
+      241 tcttgtcacg acacatgata tacaatgact ctcggcaacg gatatctcgg ctcttgcatc
+      301 gatgaagaac gtagcgaaat gcgatacttg gtgtgaattg cagaatcccg tgaaccatcg
+      361 agtctttgaa cgcaagttgc gcccgaagcc attaggttga gggcacgcct gcctgggtgt
+      421 cacacatcgt taccctcaca caaatgtctc acggtagcgt tgcgtagggt gtatgttgac
+      481 ttcccgcgag catggtctcg tggttggttg aaaattgagt tcatggttga gtgtgccatg
+      541 ataaaatggt ggatgagtgt tactcgagac caatcatgcg ctactcaatc tggtttggat
+      601 tctttgaccc ttatgcgtct gcggatgctc ctatagaga
+//
+LOCUS       KF272990                 639 bp    DNA     linear   PLN 30-JUN-2014
+DEFINITION  Apios delavayi voucher Li, Honglei 20110804115 (PE) internal
+            transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene,
+            complete sequence; and internal transcribed spacer 2, partial
+            sequence.
+ACCESSION   KF272990
+VERSION     KF272990.1
+KEYWORDS    .
+SOURCE      Apios delavayi
+  ORGANISM  Apios delavayi
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Apios.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Li,J.
+  TITLE     Phylogenetics and biogeography of Apios (Fabaceae)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Li,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-JUN-2013) Biology, Hope College, 35 E 12th St,
+            Holland, MI 49423, USA
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /db_xref="taxon:1503858"
+                     /mol_type="genomic DNA"
+                     /organism="Apios delavayi"
+                     /specimen_voucher="Li, Honglei 20110804115 (PE)"
+     misc_RNA        <1..259
+                     /product="internal transcribed spacer 1"
+     rRNA            260..424
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        425..>639
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 gtgacctgcg gaaggatcat tgtcgatgcc tcgcaatcag tttgacctgt gaatttgttt
+       61 ataaacctag ggttggctaa gggatgttga cacaacatct catcctccct tgtgttggga
+      121 ggtggtcttg cttttgctag gctgcctctc gacaaacaca aaccccggcg cttcgtgtgc
+      181 caaggaattc aaaaattgtt cagtgcaatc ccggggaccc ggagacggtg ttcctgtggg
+      241 tcttgtcacg acacatgata tacaatgact ctcggcaacg gatatctcgg ctcttgcatc
+      301 gatgaagaac gtagcgaaat gcgatacttg gtgtgaattg cagaatcccg tgaaccatcg
+      361 agtctttgaa cgcaagttgc gcccgaagcc attaggttga gggcacgcct gcctgggtgt
+      421 cacacatcgt taccctcaca caaatgtctc acggtagcgt tgcgtagggt gtatgttgac
+      481 ttcccgcgag catggtctcg tggttggttg aaaattgagt tcatggttga gtgtgccatg
+      541 ataaaatggt ggatgagtgt tactcgagac caatcatgcg ctactcaatc tggtttggat
+      601 tctttgaccc ttatgcgtct gcggatgctc ctatagaga
+//
+LOCUS       KF272989                 639 bp    DNA     linear   PLN 30-JUN-2014
+DEFINITION  Apios delavayi voucher Li, Honglei 20110804092 (PE) internal
+            transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene,
+            complete sequence; and internal transcribed spacer 2, partial
+            sequence.
+ACCESSION   KF272989
+VERSION     KF272989.1
+KEYWORDS    .
+SOURCE      Apios delavayi
+  ORGANISM  Apios delavayi
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Apios.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Li,J.
+  TITLE     Phylogenetics and biogeography of Apios (Fabaceae)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Li,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-JUN-2013) Biology, Hope College, 35 E 12th St,
+            Holland, MI 49423, USA
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /db_xref="taxon:1503858"
+                     /mol_type="genomic DNA"
+                     /organism="Apios delavayi"
+                     /specimen_voucher="Li, Honglei 20110804092 (PE)"
+     misc_RNA        <1..259
+                     /product="internal transcribed spacer 1"
+     rRNA            260..424
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        425..>639
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 gtgacctgcg gaaggatcat tgtcgatgcc tcgcaatcag tttgacctgt gaatttgttt
+       61 ataaacctag ggttggctaa gggatgttga cacaacatct catcctccct tgtgttggga
+      121 ggtggtcttg cttttgctag gctgcctctc gacaaacaca aaccccggcg cttcgtgtgc
+      181 caaggaattc aaaaattgtt cagtgcaatc ccggggaccc ggagacggtg ttcctgtggg
+      241 tcttgtcacg acacatgata tacaatgact ctcggcaacg gatatctcgg ctcttgcatc
+      301 gatgaagaac gtagcgaaat gcgatacttg gtgtgaattg cagaatcccg tgaaccatcg
+      361 agtctttgaa cgcaagttgc gcccgaagcc attaggttga gggcacgcct gcctgggtgt
+      421 cacacatcgt taccctcaca caaatgtctc acggtagcgt tgcgtagggt gtatgttgac
+      481 ttcccgcgag catggtctcg tggttggttg aaaattgagt tcatggttga gtgtgccatg
+      541 ataaaatggt ggatgagtgt tactcgagac caatcatgcg ctactcaatc tggtttggat
+      601 tctttgaccc ttatgcgtct gcggatgctc ctatagaga
+//
+LOCUS       KF272988                 537 bp    DNA     linear   PLN 30-JUN-2014
+DEFINITION  Apios carnea voucher Li 6422 (HCHM) internal transcribed spacer 1,
+            partial sequence; 5.8S ribosomal RNA gene, complete sequence; and
+            internal transcribed spacer 2, partial sequence.
+ACCESSION   KF272988
+VERSION     KF272988.1
+KEYWORDS    .
+SOURCE      Apios carnea
+  ORGANISM  Apios carnea
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Apios.
+REFERENCE   1  (bases 1 to 537)
+  AUTHORS   Li,J.
+  TITLE     Phylogenetics and biogeography of Apios (Fabaceae)
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 537)
+  AUTHORS   Li,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-JUN-2013) Biology, Hope College, 35 E 12th St,
+            Holland, MI 49423, USA
+FEATURES             Location/Qualifiers
+     source          1..537
+                     /db_xref="taxon:1341701"
+                     /mol_type="genomic DNA"
+                     /organism="Apios carnea"
+                     /specimen_voucher="Li 6422 (HCHM)"
+     misc_RNA        <1..213
+                     /product="internal transcribed spacer 1"
+     rRNA            214..378
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        379..>537
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 gacctgtgaa tctgtttacc tacctagggt tggctaaggg gtgttgaaaa acatctcgtc
+       61 ctcccttgtg ttgggaggtg gtcttgcctt gcttggctgc atctcaacaa acacaaaccc
+      121 cggcgcttcg tgcgccaagg aattcaaaat tgttcagtgc aatcccgggg acccggagac
+      181 ggtgttcccg tgggtcttgt cacgacacat gatatacaat gactctcggc aacggatatc
+      241 tcggctcttg catcgatgaa gaacgtagcg aaatgcgata cttggtgtga attgcagaat
+      301 cccgtgaacc atcgagtctt tgaacgcaag ttgcgcccga agccattagg ttgagggcac
+      361 gcctgcctgg gtgtcacaca tcgttaccct cacgcaaatg tctcacgttg gcattgcgta
+      421 gggtgtatgt tgacttcccg cgagcgtggt ctcgtggttg gttgaaaatt gagttcatgg
+      481 tcgagtgcgc cgtgataaaa tggtggatga gtattgctcg agaccaatca tgcgcga
+//

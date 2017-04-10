@@ -1,0 +1,468 @@
+LOCUS       KX087709                 436 bp    DNA     linear   PLN 11-JAN-2017
+DEFINITION  Cochliasanthus caracalla isolate 015 5.8S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 2, complete sequence;
+            and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   KX087709
+VERSION     KX087709.1
+KEYWORDS    .
+SOURCE      Cochliasanthus caracalla
+  ORGANISM  Cochliasanthus caracalla
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Cochliasanthus.
+REFERENCE   1  (bases 1 to 436)
+  AUTHORS   Raveendar,S., Lee,J.-R., Park,J.-W., Lee,G.-A., Jeon,Y.-A.,
+            Lee,W.-H., Cho,G.-T., Ma,K.-H., Lee,S.-Y. and Chung,J.-W.
+  TITLE     Nucleotide based validation of the genus Vigna using four candidate
+            barcodes regions
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 436)
+  AUTHORS   Raveendar,S., Lee,J.-R., Park,J.-W., Lee,G.-A., Jeon,Y.-A.,
+            Lee,W.-H., Cho,G.-T., Ma,K.-H., Lee,S.-Y. and Chung,J.-W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-APR-2016) National Agrobiodiversity Center, National
+            Institute of Agricultural Science, 370 Nongsaengmyeong-ro, Jeonju,
+            Wansan-gu 54874, South Korea
+FEATURES             Location/Qualifiers
+     source          1..436
+                     /db_xref="taxon:77328"
+                     /isolate="015"
+                     /mol_type="genomic DNA"
+                     /organism="Cochliasanthus caracalla"
+     misc_RNA        <1..>436
+                     /note="contains 5.8S ribosomal RNA, internal transcribed
+                     spacer 2, and 28S ribosomal RNA"
+ORIGIN
+        1 actcgagtct ttgacgcaag ttgcgcccaa agccattagg ttgagggcac gcctgcctgg
+       61 gtgtcacaca tcgccacccc ccacaccgaa acgtgcggcg gggtgaaagc tgacctcccg
+      121 cgagccagtt tctcgtggtt ggttgaaaag taagttcacg gtggagtccc ccgcgataaa
+      181 aggtggatgg gcgacgcccg agaccaatcg tgcggtgcga ctccaacgta tcggacttgt
+      241 gttgacccac gcgtcccgtg tgcaaaccga gggcgccatc tgcgagacct caggtcaggc
+      301 ggggctaccc gctgagttta agcatatcaa taagcggagg aaaagaaact aacaaggatt
+      361 cccctagtaa cggcgagcga accgggaaga gcccaccatg agaatcggtc gccttcggcg
+      421 ttcgaattgt agtctg
+//
+LOCUS       KX087708                 436 bp    DNA     linear   PLN 11-JAN-2017
+DEFINITION  Cochliasanthus caracalla isolate 014 5.8S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 2, complete sequence;
+            and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   KX087708
+VERSION     KX087708.1
+KEYWORDS    .
+SOURCE      Cochliasanthus caracalla
+  ORGANISM  Cochliasanthus caracalla
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Cochliasanthus.
+REFERENCE   1  (bases 1 to 436)
+  AUTHORS   Raveendar,S., Lee,J.-R., Park,J.-W., Lee,G.-A., Jeon,Y.-A.,
+            Lee,W.-H., Cho,G.-T., Ma,K.-H., Lee,S.-Y. and Chung,J.-W.
+  TITLE     Nucleotide based validation of the genus Vigna using four candidate
+            barcodes regions
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 436)
+  AUTHORS   Raveendar,S., Lee,J.-R., Park,J.-W., Lee,G.-A., Jeon,Y.-A.,
+            Lee,W.-H., Cho,G.-T., Ma,K.-H., Lee,S.-Y. and Chung,J.-W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-APR-2016) National Agrobiodiversity Center, National
+            Institute of Agricultural Science, 370 Nongsaengmyeong-ro, Jeonju,
+            Wansan-gu 54874, South Korea
+FEATURES             Location/Qualifiers
+     source          1..436
+                     /db_xref="taxon:77328"
+                     /isolate="014"
+                     /mol_type="genomic DNA"
+                     /organism="Cochliasanthus caracalla"
+     misc_RNA        <1..>436
+                     /note="contains 5.8S ribosomal RNA, internal transcribed
+                     spacer 2, and 28S ribosomal RNA"
+ORIGIN
+        1 actcgagtct ttgacgcaag ttgcgcccaa agccattagg ttgagggcac gcctgcctgg
+       61 gtgtcacaca tcgccacccc ccacaccgaa acgtgcggcg gggtgaaagc tgacctcccg
+      121 cgagccagtt tctcgtggtt ggttgaaaag taagttcacg gtggagtccc ccgcgataaa
+      181 aggtggatgg gcgacgcccg agaccaatcg tgcggtgcga ctccaacgta tcggacttgt
+      241 gttgacccac gcgtcccgtg tgcaaaccga gggcgccatc tgcgagacct caggtcaggc
+      301 ggggctaccc gctgagttta agcatatcaa taagcggagg aaaagaaact aacaaggatt
+      361 cccctagtaa cggcgagcga accgggaaga gcccaccatg agaatcggtc gccttcggcg
+      421 ttcgaattgt agttaa
+//
+LOCUS       KX087707                 435 bp    DNA     linear   PLN 11-JAN-2017
+DEFINITION  Cochliasanthus caracalla isolate 013 5.8S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 2, complete sequence;
+            and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   KX087707
+VERSION     KX087707.1
+KEYWORDS    .
+SOURCE      Cochliasanthus caracalla
+  ORGANISM  Cochliasanthus caracalla
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Cochliasanthus.
+REFERENCE   1  (bases 1 to 435)
+  AUTHORS   Raveendar,S., Lee,J.-R., Park,J.-W., Lee,G.-A., Jeon,Y.-A.,
+            Lee,W.-H., Cho,G.-T., Ma,K.-H., Lee,S.-Y. and Chung,J.-W.
+  TITLE     Nucleotide based validation of the genus Vigna using four candidate
+            barcodes regions
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 435)
+  AUTHORS   Raveendar,S., Lee,J.-R., Park,J.-W., Lee,G.-A., Jeon,Y.-A.,
+            Lee,W.-H., Cho,G.-T., Ma,K.-H., Lee,S.-Y. and Chung,J.-W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-APR-2016) National Agrobiodiversity Center, National
+            Institute of Agricultural Science, 370 Nongsaengmyeong-ro, Jeonju,
+            Wansan-gu 54874, South Korea
+FEATURES             Location/Qualifiers
+     source          1..435
+                     /db_xref="taxon:77328"
+                     /isolate="013"
+                     /mol_type="genomic DNA"
+                     /organism="Cochliasanthus caracalla"
+     misc_RNA        <1..>435
+                     /note="contains 5.8S ribosomal RNA, internal transcribed
+                     spacer 2, and 28S ribosomal RNA"
+ORIGIN
+        1 aatcgagtct ttgacgcagt tgcgcccaaa gccattaggt tgagggcacg cctgcctggg
+       61 tgtcacacat cgccaccccc cacaccgaaa cgtgcggcgg ggtgaaagct gacctcccgc
+      121 gagccagttt ctcgtggttg gttgaaaagt aagttcacgg tggagtcccc cgcgataaaa
+      181 ggtggatggg cgacgcccga gaccaatcgt gcggtgcgac tccaacgtat cggacttgtg
+      241 ttgacccacg cgtcccgtgt gcaaaccgag ggcgccatct gcgagacctc aggtcaggcg
+      301 gggctacccg ctgagtttaa gcatatcaat aagcggagga aaagaaacta acaaggattc
+      361 ccctagtaac ggcgagcgaa ccgggaagag cccaccatga gaatcggtcg ccttcggcgt
+      421 tcgaattgta gtctg
+//
+LOCUS       GQ275372                 738 bp    DNA     linear   PLN 30-AUG-2009
+DEFINITION  Vigna caracalla cultivar J13 small subunit ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and
+            large subunit ribosomal RNA gene, partial sequence.
+ACCESSION   GQ275372
+VERSION     GQ275372.1
+KEYWORDS    .
+SOURCE      Cochliasanthus caracalla
+  ORGANISM  Cochliasanthus caracalla
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Cochliasanthus.
+REFERENCE   1  (bases 1 to 738)
+  AUTHORS   Ou,L.J., Hao,B.F. and She,C.W.
+  TITLE     Phylogenetic study of the Phaseoleae plant based on sequence
+            analysis of the internal transcribed spacer region of the rDNA
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 738)
+  AUTHORS   Ou,L.J., Hao,B.F. and She,C.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-2009) Department of Biology Science, Huaihua
+            University, Key Laboratory of Huaihua for Breeding and Bioprocess
+            Technology, No.612 Yinfeng Road, Huaihua, Hu'nan 418008, China
+FEATURES             Location/Qualifiers
+     source          1..738
+                     /country="South Africa"
+                     /cultivar="J13"
+                     /db_xref="taxon:77328"
+                     /mol_type="genomic DNA"
+                     /organism="Cochliasanthus caracalla"
+     misc_RNA        <1..>738
+                     /note="contains small subunit ribosomal RNA, internal
+                     transcribed spacer 1, 5.8S ribosomal RNA, internal
+                     transcribed spacer 2, and large subunit ribosomal RNA"
+ORIGIN
+        1 tggaagtaaa agtcgtaaca aggtttccgt aggtgaacct gcggaaggat cattgtcgat
+       61 gcctcaaaca acaagttcca cccgcgaata cgtaccaaac acgcaacgca caggggcggg
+      121 caagggcgcg caagtgctcc tcccccccgg tgcgtcgtcg ggggcggggg tgggcgtgtc
+      181 gatgccccgt gcatccggcc gcaaacccgc gtctcccgac aaaacactaa cccgggcgct
+      241 tcacgcgcca aggaacacga agctgttagt tgaggcaacc gggggacgtg tcccacgggc
+      301 gccttcacga cgacatgtta tgtaaaatga ctctcggcaa cggatatctc ggctcttgca
+      361 tcgatgaaga acgtagcgaa atgcgatact tggtgtgaat tgcagaatcc cgtgaaccat
+      421 cgagtctttg aacgcaagtt gcgcccaaag ccattaggct gagggcacgc ctgcctgggt
+      481 gtcacacatc gtcacccctt cctccacact taactcgtta aatgcgcgag gcagggggtg
+      541 aaagatgacc tcccgcgagc cagttcctcg tggttggttg aaaagcaagt tcggggcgga
+      601 gtcccccacg ataacggtgg atgagcctgc gctcgagacc aatcgtgccc gtggtactcc
+      661 gacacaacgg acttatcgac cccacggcgc cctctgtgca aaccgagtgc gccatccacg
+      721 agacctcagt caggcggg
+//
+LOCUS       AF069124                 633 bp    DNA     linear   PLN 19-MAR-2008
+DEFINITION  Vigna caracalla small subunit ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal
+            transcribed spacer 2, complete sequence; and large subunit ribosomal
+            RNA gene, partial sequence.
+ACCESSION   AF069124
+VERSION     AF069124.1
+KEYWORDS    .
+SOURCE      Cochliasanthus caracalla
+  ORGANISM  Cochliasanthus caracalla
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Cochliasanthus.
+REFERENCE   1  (bases 1 to 633)
+  AUTHORS   Delgado-Salinas,A., Turley,T., Richman,A. and Lavin,M.
+  TITLE     Phylogenetic analysis of cultivated and wild species of Phaseolus
+            (Fabaceae)
+  JOURNAL   Syst. Bot. 24 (3), 438-460 (1999)
+REFERENCE   2  (bases 1 to 633)
+  AUTHORS   Delgado-Salinas,A., Turley,T. and Lavin,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-MAY-1998) Biology, Montana State University, 310 Lewis
+            Hall, Bozeman, MT 59717, USA
+FEATURES             Location/Qualifiers
+     source          1..633
+                     /country="Mexico: Veracruz"
+                     /db_xref="taxon:77328"
+                     /mol_type="genomic DNA"
+                     /organism="Cochliasanthus caracalla"
+                     /specimen_voucher="R. Cedillo 2894 (DNA 196) (MEXU)"
+     rRNA            <1..6
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        7..227
+                     /product="internal transcribed spacer 1"
+     rRNA            228..395
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        396..608
+                     /product="internal transcribed spacer 2"
+     rRNA            609..>633
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 tcattgtcga tgcctcatgc aaccagttcg accggcgaat ctgtccatgt ccaaactgca
+       61 agggcccgtc ccctgcgcgt cgagagggag ggggtcacgc cccgtgcgac cggccaagtc
+      121 tctctctcgg caaaacacta accccggcgc tttacgcgcc aaggaatcta aagctgttag
+      181 gtgcggcact cggggacggc gtcccacggg tgttgtcacg acacgttacg caaaatgact
+      241 ctcggcaacg gatatctcgg ctcttgcatc gatgaagaac gtagcgaaat gcgatacttg
+      301 gtgtgaattg cagaatcccg tgaaccatcg agtctttgaa cgcaagttgc gcccaaagcc
+      361 attaggttga gggcacgcct gcctgggtgt cacacgtcgt tacccccgct ccaacgtgca
+      421 gtgggcggtg aaagctgact tcccgcgagc cagttcctcg tggttggttg aaaagtaagt
+      481 tcacggcgga gttcgccgcg ataaacggtg gatgagcgat gctcgagacc aatcgtgcct
+      541 gcgtggctcc ggcgtgctgg acttgttgac cccatgcgtc ctccgtgcaa acggagggtg
+      601 ccattagcga gacctcaggt caggcggggc tac
+//
+LOCUS       JN008348                 636 bp    DNA     linear   PLN 25-OCT-2011
+DEFINITION  Cochliasanthus caracalla bio-material DNA 1533 small subunit
+            ribosomal RNA gene, partial sequence; internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   JN008348
+VERSION     JN008348.1
+KEYWORDS    .
+SOURCE      Cochliasanthus caracalla
+  ORGANISM  Cochliasanthus caracalla
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Cochliasanthus.
+REFERENCE   1  (bases 1 to 636)
+  AUTHORS   Delgado-Salinas,A., Thulin,M., Pasquet,R., Weeden,N. and Lavin,M.
+  TITLE     Vigna (Leguminosae) sensu lato: The names and identities of the
+            American segregate genera
+  JOURNAL   Am. J. Bot. 98 (10), 1694-1715 (2011)
+   PUBMED   21980163
+REFERENCE   2  (bases 1 to 636)
+  AUTHORS   Delgado-Salinas,A., Thulin,M., Pasquet,R., Weeden,N. and Lavin,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-MAY-2011) Plant Sciences and Plant Pathology, Montana
+            State University, 119 PBB, Bozeman, MT 59717, USA
+FEATURES             Location/Qualifiers
+     source          1..636
+                     /PCR_primers="fwd_name: its18, fwd_seq:
+                     gtccactgaaccttatcatttagagg, rev_name: its26, rev_seq:
+                     gccgttactaagggaatccttgttag"
+                     /bio_material="DNA 1533"
+                     /country="Bolivia: Cochabamba"
+                     /db_xref="taxon:77328"
+                     /mol_type="genomic DNA"
+                     /organism="Cochliasanthus caracalla"
+                     /specimen_voucher="Caballero-Pardo 50 (MEXU)"
+     misc_RNA        <1..234
+                     /note="contains small subunit ribosomal RNA and internal
+                     transcribed spacer 1"
+     rRNA            235..397
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        398..>636
+                     /note="contains internal transcribed spacer 2 and 28S
+                     ribosomal RNA"
+ORIGIN
+        1 tcattgtcga tgccccaagc aaccagttcg accggcgaat ctgtccatgt ccaaactgca
+       61 agggtccgtc ccttgcgcgt cgggggggag ggggccacgc cccgtgcgac cggccaagtc
+      121 tctctctctc ggcaaaacac taaccccggc gctttacgcg ccaaggaatc taaagctgtt
+      181 aggtgcggca ctcggggacg gcgtcccacg ggtgttgtca cgacacgtta cgcaaaatga
+      241 ctctcggcaa cggatatctc ggctcttgca tcgatgaaga acgtagcgaa atgcgatact
+      301 tggtgtgaat tgcagaatcc cgtgaaccat cgagtctttg aacgcaagtt gcgcccaaag
+      361 ccattaggtt gagggcacgc ctgcctgggt gtcacacgtc gttacccccc gctccaacgt
+      421 gcagcgggcg gtgaaagctg acctccctcg agccagttcc tcgtggttgg ttgaaaagta
+      481 agttcacggc ggagttcgcc gcgataaacg gtggatgagc gatgctcgag accaatcgtg
+      541 cctgcgtggc tccggcgtgc tggacttgtc gaccccatgc gtcctccgtg caagcggagg
+      601 gtgccattag cgagacctca ggtcaggcgg ggctac
+//
+LOCUS       JN008347                 633 bp    DNA     linear   PLN 25-OCT-2011
+DEFINITION  Cochliasanthus caracalla bio-material DNA 1532 small subunit
+            ribosomal RNA gene, partial sequence; internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   JN008347
+VERSION     JN008347.1
+KEYWORDS    .
+SOURCE      Cochliasanthus caracalla
+  ORGANISM  Cochliasanthus caracalla
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Cochliasanthus.
+REFERENCE   1  (bases 1 to 633)
+  AUTHORS   Delgado-Salinas,A., Thulin,M., Pasquet,R., Weeden,N. and Lavin,M.
+  TITLE     Vigna (Leguminosae) sensu lato: The names and identities of the
+            American segregate genera
+  JOURNAL   Am. J. Bot. 98 (10), 1694-1715 (2011)
+   PUBMED   21980163
+REFERENCE   2  (bases 1 to 633)
+  AUTHORS   Delgado-Salinas,A., Thulin,M., Pasquet,R., Weeden,N. and Lavin,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-MAY-2011) Plant Sciences and Plant Pathology, Montana
+            State University, 119 PBB, Bozeman, MT 59717, USA
+FEATURES             Location/Qualifiers
+     source          1..633
+                     /PCR_primers="fwd_name: its18, fwd_seq:
+                     gtccactgaaccttatcatttagagg, rev_name: its26, rev_seq:
+                     gccgttactaagggaatccttgttag"
+                     /bio_material="DNA 1532"
+                     /country="Argentina: General San Martin"
+                     /db_xref="taxon:77328"
+                     /mol_type="genomic DNA"
+                     /organism="Cochliasanthus caracalla"
+                     /specimen_voucher="Vanni et al. 4144 (MEXU)"
+     misc_RNA        <1..232
+                     /note="contains small subunit ribosomal RNA and internal
+                     transcribed spacer 1"
+     rRNA            233..395
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        396..>633
+                     /note="contains internal transcribed spacer 2 and 28S
+                     ribosomal RNA"
+ORIGIN
+        1 tcattgtcga tgcctcaagc aaccagttcg accggcgaat ctgtccatgt ccaaactgca
+       61 agggcccgtc ccttgcgcgt cgagagggag ggggtcacgc cccgtgcgac cggccaagtc
+      121 tctctctcgg caaaacacta accccggcgc tttacgcgcc aaggaatcta aagctgttag
+      181 gtgcggcacc cggggacggc gtcccacggg tgttgtcacg acacgttacg caaaatgact
+      241 ctcggcaacg gatatctcgg ctcttgcatc gatgaagaac gtagcgaaat gcgatacttg
+      301 gtgtgaattg cagaatcccg tgaaccatcg agtctttgaa cgcaagttgc gcccaaagcc
+      361 attaggttga gggcacgcct gcctgggtgt cacacgtcgt tacccccgct ccaacgtgca
+      421 gcgggcggtg aaagctgacc tcccgcgagc cagttcctcg tggttggttg aaaagtaagt
+      481 tcacggcgga gttcgccgcg ataaacggtg gatgagcgat gctcgagacc aatcgtgcct
+      541 gcgtggctcc ggcgtgctgg acttgttgac cccatgcgtc cttcgtgcaa acggagggtg
+      601 ccattagcga gacctcaggt caggcggggc tac
+//
+LOCUS       JN008346                 633 bp    DNA     linear   PLN 25-OCT-2011
+DEFINITION  Cochliasanthus caracalla bio-material DNA 1530 small subunit
+            ribosomal RNA gene, partial sequence; internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   JN008346
+VERSION     JN008346.1
+KEYWORDS    .
+SOURCE      Cochliasanthus caracalla
+  ORGANISM  Cochliasanthus caracalla
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Cochliasanthus.
+REFERENCE   1  (bases 1 to 633)
+  AUTHORS   Delgado-Salinas,A., Thulin,M., Pasquet,R., Weeden,N. and Lavin,M.
+  TITLE     Vigna (Leguminosae) sensu lato: The names and identities of the
+            American segregate genera
+  JOURNAL   Am. J. Bot. 98 (10), 1694-1715 (2011)
+   PUBMED   21980163
+REFERENCE   2  (bases 1 to 633)
+  AUTHORS   Delgado-Salinas,A., Thulin,M., Pasquet,R., Weeden,N. and Lavin,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-MAY-2011) Plant Sciences and Plant Pathology, Montana
+            State University, 119 PBB, Bozeman, MT 59717, USA
+FEATURES             Location/Qualifiers
+     source          1..633
+                     /PCR_primers="fwd_name: its18, fwd_seq:
+                     gtccactgaaccttatcatttagagg, rev_name: its26, rev_seq:
+                     gccgttactaagggaatccttgttag"
+                     /bio_material="DNA 1530"
+                     /country="Bolivia: Santa Cruz"
+                     /db_xref="taxon:77328"
+                     /mol_type="genomic DNA"
+                     /organism="Cochliasanthus caracalla"
+                     /specimen_voucher="Nee et al. 48608 (MEXU)"
+     misc_RNA        <1..232
+                     /note="contains small subunit ribosomal RNA and internal
+                     transcribed spacer 1"
+     rRNA            233..395
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        396..>633
+                     /note="contains internal transcribed spacer 2 and 28S
+                     ribosomal RNA"
+ORIGIN
+        1 tcattgtcga tgcctcaagc aaccagttcg accggcgaat ctgtccatgt ccaaactgca
+       61 agggcccgtc ccttgcgcgt cgagagggag ggggtcacgc cccgtgcgac cggccaagtc
+      121 tctctctcgg caaaacacta accccggcgc tttacgcgcc aaggaatcta aagctgttag
+      181 gtgcggcacc cggggacggc gtcccacggg tgttgtcacg acacgttacg caaaatgact
+      241 ctcggcaacg gatatctcgg ctcttgcatc gatgaagaac gtagcgaaat gcgatacttg
+      301 gtgtgaattg cagaatcccg tgaaccatcg agtctttgaa cgcaagttgc gcccaaagcc
+      361 attaggttga gggcacgcct gcctgggtgt cacacgtcgt tacccccgct ccaacgtgca
+      421 gcgggcggtg aaagctgacc tcccgcgagc cagttcctcg tggttggttg aaaagtaagt
+      481 tcacggcgga gttcgccgcg ataaacggtg gatgagcgat gctcgagacc aatcgtgcct
+      541 gcgtggctcc ggcgtgctgg acttgttgac cccatgcgtc cttcgtgcaa acggagggtg
+      601 ccattagcga gacctcaggt caggcggggc tac
+//
+LOCUS       JN008345                 633 bp    DNA     linear   PLN 25-OCT-2011
+DEFINITION  Cochliasanthus caracalla bio-material DNA 1142 small subunit
+            ribosomal RNA gene, partial sequence; internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   JN008345
+VERSION     JN008345.1
+KEYWORDS    .
+SOURCE      Cochliasanthus caracalla
+  ORGANISM  Cochliasanthus caracalla
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Cochliasanthus.
+REFERENCE   1  (bases 1 to 633)
+  AUTHORS   Delgado-Salinas,A., Thulin,M., Pasquet,R., Weeden,N. and Lavin,M.
+  TITLE     Vigna (Leguminosae) sensu lato: The names and identities of the
+            American segregate genera
+  JOURNAL   Am. J. Bot. 98 (10), 1694-1715 (2011)
+   PUBMED   21980163
+REFERENCE   2  (bases 1 to 633)
+  AUTHORS   Delgado-Salinas,A., Thulin,M., Pasquet,R., Weeden,N. and Lavin,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-MAY-2011) Plant Sciences and Plant Pathology, Montana
+            State University, 119 PBB, Bozeman, MT 59717, USA
+FEATURES             Location/Qualifiers
+     source          1..633
+                     /PCR_primers="fwd_name: its18, fwd_seq:
+                     gtccactgaaccttatcatttagagg, rev_name: its26, rev_seq:
+                     gccgttactaagggaatccttgttag"
+                     /bio_material="DNA 1142"
+                     /country="Bolivia: Santa Cruz"
+                     /db_xref="taxon:77328"
+                     /mol_type="genomic DNA"
+                     /organism="Cochliasanthus caracalla"
+                     /specimen_voucher="Nee 40602 (MEXU)"
+     misc_RNA        <1..232
+                     /note="contains small subunit ribosomal RNA and internal
+                     transcribed spacer 1"
+     rRNA            233..395
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        396..>633
+                     /note="contains internal transcribed spacer 2 and 28S
+                     ribosomal RNA"
+ORIGIN
+        1 tcattgtcga tgccccaagc aaccagttcg accggcgaat ctgtccatgt ccaaactgca
+       61 agggcccgtc ccttgcgcgt cgagagggag ggggtcacgc cccgtgcgac cggccaagtc
+      121 tctctctcgg caaaacacta accccggcgc tttacgcgcc aaggaatcta aagctgttag
+      181 gtgcgacact cgaggacgac gtcccacggg tgttgtcacg acacgttacg caaaatgact
+      241 ctcggcaacg gatatctcgg ctcttgcatc gatgaagaac gtagcgaaat gcgatacttg
+      301 gtgtgaattg cagaatcccg tgaaccatcg agtctttgaa cgcaagttgc gcccaaagcc
+      361 attaggttga gggcacgcct gcctgggtgt cacacgtcgt tacccccgct ccaacgtgca
+      421 gcgggcggtg aaagctgacc tcccgcgagc cagttcctcg tggttggttg aaaagtaagt
+      481 tcacggcgga gttcgccgcg ataaacggtg gaagagcaat gctcgagacc aatcgtgcct
+      541 gcgtggctcc ggcgtgctgg acttgttgac cccatgcgtc ctccgtgcaa acggagggtg
+      601 ccattagcga gacctcaggt caggcggggc tac
+//

@@ -1,0 +1,1165 @@
+LOCUS       KY306665                 738 bp    DNA     linear   PLN 03-APR-2017
+DEFINITION  Zenkerella egregia voucher Kayombo 5325 (MO) 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1 and 5.8S ribosomal
+            RNA gene, complete sequence; and internal transcribed spacer 2,
+            partial sequence.
+ACCESSION   KY306665
+VERSION     KY306665.1
+KEYWORDS    .
+SOURCE      Zenkerella egregia
+  ORGANISM  Zenkerella egregia
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae;
+            Amherstieae-Detarieae clade; Detarieae; Zenkerella.
+REFERENCE   1  (bases 1 to 738)
+  AUTHORS   de la Estrella,M., Forest,F., Wieringa,J.J., Fougere-Danezan,M. and
+            Bruneau,A.
+  TITLE     Insights on the evolutionary origin of Detarioideae, a clade of
+            ecologically dominant tropical African trees
+  JOURNAL   New Phytol. (2017) In press
+   PUBMED   28323330
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 738)
+  AUTHORS   de la Estrella,M. and Bruneau,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-DEC-2016) Comparative Plant and Fungal Biology, Royal
+            Botanic Gardens, Kew, Jodrell Lab, Richmond TW9 3DS, UK
+FEATURES             Location/Qualifiers
+     source          1..738
+                     /db_xref="taxon:1911675"
+                     /mol_type="genomic DNA"
+                     /organism="Zenkerella egregia"
+                     /specimen_voucher="Kayombo 5325 (MO)"
+     rRNA            <1..128
+                     /product="18S ribosomal RNA"
+     misc_RNA        129..383
+                     /product="internal transcribed spacer 1"
+     rRNA            384..550
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        551..>738
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 gatcgcgccg acgcgggcgg tccgccgccc gccacgtcgc gagaagtcca ctgaacctta
+       61 tcatttagag gaaggagaag tcgtaacaag gtttccgtag gtgaacctgc ggaaggatca
+      121 ttgtcgatac cttacgagaa gcacgacccg cgaacctgtt atgtgaaaac cccactacgg
+      181 ggggcgctcg gcgttcgtcg ccccgggcct cccgcgccag gatttatctc cgcgggctgg
+      241 ctggccccgt tggttcctcc tggcggaaca accaaccccc ggcgccgaac gcgccaagga
+      301 acatgaaatt cttatgaatg agcgtcctct tgccgtcccg gagacggtgc acgcgcaaag
+      361 agcgacgcca tatctgtatc cataacgact ctcggcaacg gatatctcgg ctctcgcatc
+      421 gatgaagaac gtagcgaaat gcgatacttg gtgtgaattg cagaatcccg tgaaccatcg
+      481 agtctttgaa cgcaagttgc gcccgaaggc cattaggccg agggcacgtc tggctgggtg
+      541 tcacacaacg tcgcccccac cccaatgcct gggggcggat gatggcctcc cgtgggctcg
+      601 gccccgcgga tggctgaaat aagagttcgc agcgtggtcg gcaccacggc gcacggtagt
+      661 tgagttaaaa gactcgagcc cagtcgtgcg tgcctggccc ctgcttcgat ctcggagacc
+      721 ctatcgcgtc cccggacg
+//
+LOCUS       KY306664                 829 bp    DNA     linear   PLN 03-APR-2017
+DEFINITION  Zenkerella citrina voucher Cheek 7614 (K) 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   KY306664
+VERSION     KY306664.1
+KEYWORDS    .
+SOURCE      Zenkerella citrina
+  ORGANISM  Zenkerella citrina
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae;
+            Amherstieae-Detarieae clade; Detarieae; Zenkerella.
+REFERENCE   1  (bases 1 to 829)
+  AUTHORS   de la Estrella,M., Forest,F., Wieringa,J.J., Fougere-Danezan,M. and
+            Bruneau,A.
+  TITLE     Insights on the evolutionary origin of Detarioideae, a clade of
+            ecologically dominant tropical African trees
+  JOURNAL   New Phytol. (2017) In press
+   PUBMED   28323330
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 829)
+  AUTHORS   de la Estrella,M. and Bruneau,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-DEC-2016) Comparative Plant and Fungal Biology, Royal
+            Botanic Gardens, Kew, Jodrell Lab, Richmond TW9 3DS, UK
+FEATURES             Location/Qualifiers
+     source          1..829
+                     /db_xref="taxon:162942"
+                     /mol_type="genomic DNA"
+                     /organism="Zenkerella citrina"
+                     /specimen_voucher="Cheek 7614 (K)"
+     rRNA            <1..130
+                     /product="18S ribosomal RNA"
+     misc_RNA        131..368
+                     /product="internal transcribed spacer 1"
+     rRNA            369..534
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        535..745
+                     /product="internal transcribed spacer 2"
+     rRNA            746..>829
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 gatcgcggcg acgtggtcgg ttcgctgccg gcgacgtcgc gagaagtcca ctgaaacctt
+       61 atcatttaga ggaaggagaa gtcgtaacaa gggtttccgt aggtgaacct gcggaaggat
+      121 cattgtcgag accctacgag caatacgacc ggtgaacttg ttttgtcaaa atctcacgga
+      181 ggcacatggc gttcgtcgcc ttgagcctcc cgtgccaaga gttatctcgg gctaaccctc
+      241 gtcggttctc ttggccaaac aaaccaaccc ccggcgccga acgcgccaag gaacataact
+      301 ctatgagcgt tctcttatcg tcccggaaac ggtgcacgtg taatgagcar cgtaaaattt
+      361 gtatccataa cgactctcgg caacggatat ctcggctctc gcatcgatga agaacgtagc
+      421 gaaatgcgat acttggtgtg aattgcagaa tcccgtgaac catcgagtct ttgaacgcaa
+      481 gttgcgcccg aagccattag gccgagggca cgtctggctg ggtgtcacac aatgttgccc
+      541 ctaccccaac gcccgtcaca cggtgattgg gggcagcggc ggatgatggc ttcccgtggg
+      601 cttggccccg cggatggctg aaataagagt tcgcagtgcg gtaagcacca cggcgcacgg
+      661 tagttgagta aaaactcgag cccagtcgtg cgtgctctgc ccttacggcg atctccgaga
+      721 ccctatcgcg tccaaggacg cttctgatgc gacctcagct caggcggggc tacccgctga
+      781 gtttaagcat atcaataagc ggaggaaaga aactaacagg attccccta
+//
+LOCUS       KY306662                 853 bp    DNA     linear   PLN 03-APR-2017
+DEFINITION  Tetraberlinia bifoliolata voucher Breteler 13081 (WAG) 18S ribosomal
+            RNA gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 26S ribosomal RNA gene, partial sequence.
+ACCESSION   KY306662
+VERSION     KY306662.1
+KEYWORDS    .
+SOURCE      Tetraberlinia bifoliolata
+  ORGANISM  Tetraberlinia bifoliolata
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae;
+            Amherstieae-Detarieae clade; Detarieae; Tetraberlinia.
+REFERENCE   1  (bases 1 to 853)
+  AUTHORS   de la Estrella,M., Forest,F., Wieringa,J.J., Fougere-Danezan,M. and
+            Bruneau,A.
+  TITLE     Insights on the evolutionary origin of Detarioideae, a clade of
+            ecologically dominant tropical African trees
+  JOURNAL   New Phytol. (2017) In press
+   PUBMED   28323330
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 853)
+  AUTHORS   de la Estrella,M. and Bruneau,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-DEC-2016) Comparative Plant and Fungal Biology, Royal
+            Botanic Gardens, Kew, Jodrell Lab, Richmond TW9 3DS, UK
+FEATURES             Location/Qualifiers
+     source          1..853
+                     /db_xref="taxon:162929"
+                     /mol_type="genomic DNA"
+                     /organism="Tetraberlinia bifoliolata"
+                     /specimen_voucher="Breteler 13081 (WAG)"
+     rRNA            <1..128
+                     /product="18S ribosomal RNA"
+     misc_RNA        129..382
+                     /product="internal transcribed spacer 1"
+     rRNA            383..548
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        549..767
+                     /product="internal transcribed spacer 2"
+     rRNA            768..>853
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 gatcgcggcg acgtgggcgg tccgctgccg gcgacgtcgc gagaagtcca ctgaacctta
+       61 tcatttagag gaaggagaag tcgtaacaag gtttccgtag gtgaacctgc ggaaggatca
+      121 ttgtcgatac ctcacataca agcacgaccg gtgaacctgt tatgaagcac gaggggggca
+      181 cggagcgctc gtcgccccgg acctccctcc cacgccggga agcgccccgg gccagccccg
+      241 tcggctctct cggcgaaaca acaacccccg gcgccgaacg cgccaaggaa cactacgatc
+      301 caaggagcgc tctctcttgc cgtcccggag acggtgcacg ggcaacgagc ggcgcgccac
+      361 acatacgcac gtatgtatcc ataacgactc tcggcaacgg atatctcggc tctcgcatcg
+      421 atgaagaacg tagcgaaatg cgatacttgg tgtgaattgc agaatcccgt gaaccatcga
+      481 gtctttgaac gcaagttgcg cccgaagccg tcaggccgag ggcacgtctg gctgggtgtc
+      541 acgcaacgtc gccccaaccc caacgccccc cacgataacg ggggcaacaa gggggcgggg
+      601 cggatgatgg cctcccgtga gctcggactc gcggacggcc gaaacacggg tccgcagtgc
+      661 ggtgagcacc acggcgcacg gtagtcgagc atcgctctag cccagtcgtg cgtgctccgc
+      721 ccctgagacc cccgagaccc tatcgcgtcc acaacaggga cgcctctgac gcgacctcag
+      781 ctcaggcggg gctacccgct gagtttaagc atatcaataa gcggaggaaa agaaactaac
+      841 aaggattccc cta
+//
+LOCUS       KY306661                 793 bp    DNA     linear   PLN 03-APR-2017
+DEFINITION  Tetraberlinia sp. ME-2017 voucher Wieringa 4148 (WAG) 18S ribosomal
+            RNA gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 26S ribosomal RNA gene, partial sequence.
+ACCESSION   KY306661
+VERSION     KY306661.1
+KEYWORDS    .
+SOURCE      Tetraberlinia sp. ME-2017
+  ORGANISM  Tetraberlinia sp. ME-2017
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae;
+            Amherstieae-Detarieae clade; Detarieae; Tetraberlinia.
+REFERENCE   1  (bases 1 to 793)
+  AUTHORS   de la Estrella,M., Forest,F., Wieringa,J.J., Fougere-Danezan,M. and
+            Bruneau,A.
+  TITLE     Insights on the evolutionary origin of Detarioideae, a clade of
+            ecologically dominant tropical African trees
+  JOURNAL   New Phytol. (2017) In press
+   PUBMED   28323330
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 793)
+  AUTHORS   de la Estrella,M. and Bruneau,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-DEC-2016) Comparative Plant and Fungal Biology, Royal
+            Botanic Gardens, Kew, Jodrell Lab, Richmond TW9 3DS, UK
+FEATURES             Location/Qualifiers
+     source          1..793
+                     /db_xref="taxon:1972470"
+                     /mol_type="genomic DNA"
+                     /organism="Tetraberlinia sp. ME-2017"
+                     /specimen_voucher="Wieringa 4148 (WAG)"
+     rRNA            <1..68
+                     /product="18S ribosomal RNA"
+     misc_RNA        69..322
+                     /product="internal transcribed spacer 1"
+     rRNA            323..488
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        489..707
+                     /product="internal transcribed spacer 2"
+     rRNA            708..>793
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 tcatttagag gaaggagaag tcgtaacaag gtttccgtag gtgaacctgc ggaaggatca
+       61 ttgtcgatac ctcacataca agcacgaccg gtgaacctgt tatgaagcac gaggggggca
+      121 cggagcgctc gtcgccccgg gcctccctcc cacgccggga agcgccccgg gccagccccg
+      181 tcggctctct cggcgaaaca acaacccccg gcgccgaacg cgccaaggaa cactacgatc
+      241 caaggagcgc tctctcttgc cgtcccggag acggtgcacg ggcaacgagc ggcgcgccac
+      301 acatacgcac gtatgtatcc ataacgactc tcggcaacgg atatctcggc tctcgcatcg
+      361 atgaagaacg tagcgaaatg cgatacttgg tgtgaattgc agaatcccgt gaaccatcga
+      421 gtctttgaac gcaagttgcg cccgaagccg tcaggccgag ggcacgtctg gctgggtgtc
+      481 acgcaacgtc gccccaaccc caacgccccc cacgataacg ggggcaacaa gggggcgggg
+      541 cggatgatgg cctcccgtga gctcggactc gcggacggcc gaaacacggg tccgcagtgc
+      601 ggtgagcacc acggcgcacg gtagtcgagc atcgctctag cccagtcgtg cgtgctccgc
+      661 ccctgagacc cccgagaccc tatcgcgtcc acaacaggga cgcctctgac gcgacctcag
+      721 ctcaggcggg gctacccgct gagtttaagc atatcaataa gcggaggaaa agaaactaac
+      781 aaggattccc cta
+//
+LOCUS       KY306660                 834 bp    DNA     linear   PLN 03-APR-2017
+DEFINITION  Tessmannia sp. ME-2017b voucher Wieringa 3224 (WAG) 18S ribosomal
+            RNA gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 26S ribosomal RNA gene, partial sequence.
+ACCESSION   KY306660
+VERSION     KY306660.1
+KEYWORDS    .
+SOURCE      Tessmannia sp. ME-2017b
+  ORGANISM  Tessmannia sp. ME-2017b
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae;
+            Amherstieae-Detarieae clade; Detarieae; Tessmannia.
+REFERENCE   1  (bases 1 to 834)
+  AUTHORS   de la Estrella,M., Forest,F., Wieringa,J.J., Fougere-Danezan,M. and
+            Bruneau,A.
+  TITLE     Insights on the evolutionary origin of Detarioideae, a clade of
+            ecologically dominant tropical African trees
+  JOURNAL   New Phytol. (2017) In press
+   PUBMED   28323330
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 834)
+  AUTHORS   de la Estrella,M. and Bruneau,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-DEC-2016) Comparative Plant and Fungal Biology, Royal
+            Botanic Gardens, Kew, Jodrell Lab, Richmond TW9 3DS, UK
+FEATURES             Location/Qualifiers
+     source          1..834
+                     /db_xref="taxon:1972469"
+                     /mol_type="genomic DNA"
+                     /organism="Tessmannia sp. ME-2017b"
+                     /specimen_voucher="Wieringa 3224 (WAG)"
+     rRNA            <1..128
+                     /product="18S ribosomal RNA"
+     misc_RNA        129..348
+                     /product="internal transcribed spacer 1"
+     rRNA            349..514
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        515..761
+                     /product="internal transcribed spacer 2"
+     rRNA            762..>834
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 gatcgcggcg acgttggcgg tccgctgccg acgacgtcgc gagaagtcca ctgaacctta
+       61 tcatttagag gaaggagaag tcgtaacaag gtttccgtag gtgaacctgc ggaaggatca
+      121 ttgccgccgc ctctatctcg aaaarcacga cccgcgaaca tgttatgtcc acyactcayt
+      181 ctcgcgccgg gacgggccgg cagcctcgyg ccgtcggccc ccccggccaa amgaacaaaa
+      241 aaacccccgg cgccgaacgc gccaaggaac ataygatccg acgagcgcgc tcccccgccg
+      301 tcccggaaac ggtgcacgcg cggcgagcgt cgcgaagtcc ctatccaaaa cgactctcgg
+      361 caacggatat ctcggctctc gcatcgatga agaacgtagc gaaatgcgat acttggtgtg
+      421 aattgcagaa tcccgcgaac catcgagttt ttgaacgcaa gttgcgcccg aagccattag
+      481 gccgagggca cgtctggctg ggtgtcacgc aacgtcgccc caacccccct cgatgatwaa
+      541 atcctcgagg gccgggcggg gcggatgctg gcctcccgtg agcaccgcct cgcggatggc
+      601 ctaaataacg agagctcgca cggtaggcga gcaccacggc rcacggtagt tgagcatcac
+      661 atctctcgat cccagtcgtg cgtgctcccg ccccgcggca tgctctacga agagaccctt
+      721 tagtggagaa gcgtccgcct cgccacgggc gccctccctc cccacgcgac cccagctcag
+      781 gcggggccac ccgctgagtt taagcatatc aataagcgga ggaaaagaaa ctaa
+//
+LOCUS       KY306659                 661 bp    DNA     linear   PLN 03-APR-2017
+DEFINITION  Tessmannia neglecta voucher Wieringa 5442 (WAG) internal transcribed
+            spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal
+            transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene,
+            partial sequence.
+ACCESSION   KY306659
+VERSION     KY306659.1
+KEYWORDS    .
+SOURCE      Tessmannia neglecta
+  ORGANISM  Tessmannia neglecta
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae;
+            Amherstieae-Detarieae clade; Detarieae; Tessmannia.
+REFERENCE   1  (bases 1 to 661)
+  AUTHORS   de la Estrella,M., Forest,F., Wieringa,J.J., Fougere-Danezan,M. and
+            Bruneau,A.
+  TITLE     Insights on the evolutionary origin of Detarioideae, a clade of
+            ecologically dominant tropical African trees
+  JOURNAL   New Phytol. (2017) In press
+   PUBMED   28323330
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 661)
+  AUTHORS   de la Estrella,M. and Bruneau,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-DEC-2016) Comparative Plant and Fungal Biology, Royal
+            Botanic Gardens, Kew, Jodrell Lab, Richmond TW9 3DS, UK
+FEATURES             Location/Qualifiers
+     source          1..661
+                     /db_xref="taxon:1859073"
+                     /mol_type="genomic DNA"
+                     /organism="Tessmannia neglecta"
+                     /specimen_voucher="Wieringa 5442 (WAG)"
+     misc_RNA        <1..170
+                     /product="internal transcribed spacer 1"
+     rRNA            171..336
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        337..574
+                     /product="internal transcribed spacer 2"
+     rRNA            575..>661
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 aytttsgtsc sgggavggcc ckdbggcccc gtgccgttgg ttcscccggg saaaasravm
+       61 amcaaamccc cgggcscsga acgcsccaag gamcatacga cccgacgagc gcgctcccgc
+      121 cgtcccggaa acggtgcacg cgcggcgggc gtcgcgaagt ccctatccaa aacgactctc
+      181 ggcaacggat atctcggctc tcgcatcgat gaagaacgta gcgaaatgcg atacttggtg
+      241 tgaattgcag aatcccgcga accatcgagt ctttgaacgc aagttgcgcc cgaagccatt
+      301 aggccgaggg cacgtctggc tgggtgtcac gcaacgtcgc cccgaccccc ctcygatgat
+      361 caaaaatcga caggggccgg gcggggcgga tgctggcctc ccgtgagcac cgcctcgcgg
+      421 atggcctaaa taacgagagc tcgcgacggg gcgagcacca cggcgcacgg tagctgagca
+      481 tcacatctct cgatcccagt cgtgcgtgct cccgccccgc ggcaygatgc tccttcgaga
+      541 cccygagacg agcgtccgcc acgggcgctc ctccccacgc gaccccagct caggcggggc
+      601 cacccgctga gtttaagcat atcaataagc ggaggaaaag aaactaacaa ggattcccct
+      661 a
+//
+LOCUS       KY306658                 835 bp    DNA     linear   PLN 03-APR-2017
+DEFINITION  Tessmannia lescrauwaetii voucher Breteler 13215 (WAG) 18S ribosomal
+            RNA gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 26S ribosomal RNA gene, partial sequence.
+ACCESSION   KY306658
+VERSION     KY306658.1
+KEYWORDS    .
+SOURCE      Tessmannia lescrauwaetii
+  ORGANISM  Tessmannia lescrauwaetii
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae;
+            Amherstieae-Detarieae clade; Detarieae; Tessmannia.
+REFERENCE   1  (bases 1 to 835)
+  AUTHORS   de la Estrella,M., Forest,F., Wieringa,J.J., Fougere-Danezan,M. and
+            Bruneau,A.
+  TITLE     Insights on the evolutionary origin of Detarioideae, a clade of
+            ecologically dominant tropical African trees
+  JOURNAL   New Phytol. (2017) In press
+   PUBMED   28323330
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 835)
+  AUTHORS   de la Estrella,M. and Bruneau,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-DEC-2016) Comparative Plant and Fungal Biology, Royal
+            Botanic Gardens, Kew, Jodrell Lab, Richmond TW9 3DS, UK
+FEATURES             Location/Qualifiers
+     source          1..835
+                     /db_xref="taxon:162927"
+                     /mol_type="genomic DNA"
+                     /organism="Tessmannia lescrauwaetii"
+                     /specimen_voucher="Breteler 13215 (WAG)"
+     rRNA            <1..128
+                     /product="18S ribosomal RNA"
+     misc_RNA        129..347
+                     /product="internal transcribed spacer 1"
+     rRNA            348..513
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        514..748
+                     /product="internal transcribed spacer 2"
+     rRNA            749..>835
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 gatygcggcg acgttggcgg tccgctgccg acgacgtcgc gagaagtcca mtgaacctta
+       61 tcatttagag gaaggagaag tcgtaacaag gtttcsgtag gtgaacctgm ggaaggatca
+      121 ttgccgccgc ctctcgaaam gaaaagcacg acccgcgaac atgttatcty cactacttac
+      181 tctcgtgccg ggacgggctt ggcggcctyg tgccgtcggc ccccccggcc aaacgaacaa
+      241 aaaaaccccg gcgccgaacg cgccaaggaa catacgatcc gacgagcgcg ctcccgccgt
+      301 cccggaaacg gtgcacgcgc ggcgagcgtc gcgaagtccc tatccaaaac gactctcggc
+      361 aacggatatc tcggctctcg catcgatgaa gaacgtagcg aaatgcgata cttggtgtga
+      421 attgcagaat cccgcgaacc atcgagtttt tgaacgcaag ttgcgcccga agccattagg
+      481 ccgagggcac gtctggctgg gtgtcacgca acgtcgcccc gacccccctc atcgagggcc
+      541 gggcggggcg gatgctggcc tcccgtgagc accgcctcgc ggatggccta aataacgaga
+      601 gctcgcacgg taggcgagca ccacggcgca cggtagttga gcatcaaatc tctcgatccc
+      661 agtcgtgcgt gctcccgccc cgcggcatgc tctccgagac ccttatcaga gaagcgtccg
+      721 ccactcactg agtaacggcg ctccctcccc acgcgacccc agctcaggcg gggccacccg
+      781 ctgagtttaa gcatatcaat aagcggagga aaagaaacta acaaggattc cccta
+//
+LOCUS       KY306657                 694 bp    DNA     linear   PLN 03-APR-2017
+DEFINITION  Tessmannia dewildemaniana voucher Breteler 14618 (WAG) 18S ribosomal
+            RNA gene, partial sequence; and internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence.
+ACCESSION   KY306657
+VERSION     KY306657.1
+KEYWORDS    .
+SOURCE      Tessmannia dewildemaniana
+  ORGANISM  Tessmannia dewildemaniana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae;
+            Amherstieae-Detarieae clade; Detarieae; Tessmannia.
+REFERENCE   1  (bases 1 to 694)
+  AUTHORS   de la Estrella,M., Forest,F., Wieringa,J.J., Fougere-Danezan,M. and
+            Bruneau,A.
+  TITLE     Insights on the evolutionary origin of Detarioideae, a clade of
+            ecologically dominant tropical African trees
+  JOURNAL   New Phytol. (2017) In press
+   PUBMED   28323330
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 694)
+  AUTHORS   de la Estrella,M. and Bruneau,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-DEC-2016) Comparative Plant and Fungal Biology, Royal
+            Botanic Gardens, Kew, Jodrell Lab, Richmond TW9 3DS, UK
+FEATURES             Location/Qualifiers
+     source          1..694
+                     /db_xref="taxon:327913"
+                     /mol_type="genomic DNA"
+                     /organism="Tessmannia dewildemaniana"
+                     /specimen_voucher="Breteler 14618 (WAG)"
+     rRNA            <1..116
+                     /product="18S ribosomal RNA"
+     misc_RNA        117..340
+                     /product="internal transcribed spacer 1"
+     rRNA            341..506
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        507..693
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 gttggcggtt cgbtkccgac gamgtygsga gaagtccact gaaccttatc atttagagga
+       61 aggagaagtc gtaacaaggt ttccgtaggt gaacctgcgg aaggatcatt gccgccgcct
+      121 ctykawacga aaaaagaacg acccgcgaaa atkttatgtc caytayttay ttaytcaagc
+      181 gccgggasgg gctggsggsc ttgkkscsty sgsccccccg gccaaacgaa caaaaaaacc
+      241 ccggcgccga acgcgccaag gaacatacga cccgacgagc gcgctcccgc cgtcccggag
+      301 acggtgcacg ygcggcgagc gtcgcgaagt ccctatccaa aacgactctc ggcaacggat
+      361 atctcggctc tcgcatcgat gaagaacgta gcgaaatgcg atacttggtg tgaattgcag
+      421 aatcccgcga accatcgagt ttttgaacgc aagttgcgcc caaabccttt aggccraggg
+      481 cmcttytggc tgggtgtcac gcaacgtcgc cccgaccccc cctccaatga ataaaatcat
+      541 ggagggccgg gcggggcgga tgctggcctc ccgtgagcac cgcctcgcgg atggcctaaa
+      601 taacgagagc tcgcacggta ggcgagcacc acggcgcacg gtagttgagc atcacwtytc
+      661 tcgatcccag tcgtgcgtgc tcccgccccs gsgs
+//
+LOCUS       KY306656                 800 bp    DNA     linear   PLN 03-APR-2017
+DEFINITION  Tessmannia africana voucher Breteler 12275 (WAG) 18S ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 26S ribosomal RNA gene, partial sequence.
+ACCESSION   KY306656
+VERSION     KY306656.1
+KEYWORDS    .
+SOURCE      Tessmannia africana
+  ORGANISM  Tessmannia africana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae;
+            Amherstieae-Detarieae clade; Detarieae; Tessmannia.
+REFERENCE   1  (bases 1 to 800)
+  AUTHORS   de la Estrella,M., Forest,F., Wieringa,J.J., Fougere-Danezan,M. and
+            Bruneau,A.
+  TITLE     Insights on the evolutionary origin of Detarioideae, a clade of
+            ecologically dominant tropical African trees
+  JOURNAL   New Phytol. (2017) In press
+   PUBMED   28323330
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 800)
+  AUTHORS   de la Estrella,M. and Bruneau,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-DEC-2016) Comparative Plant and Fungal Biology, Royal
+            Botanic Gardens, Kew, Jodrell Lab, Richmond TW9 3DS, UK
+FEATURES             Location/Qualifiers
+     source          1..800
+                     /db_xref="taxon:162925"
+                     /mol_type="genomic DNA"
+                     /organism="Tessmannia africana"
+                     /specimen_voucher="Breteler 12275 (WAG)"
+     rRNA            <1..79
+                     /product="18S ribosomal RNA"
+     misc_RNA        80..306
+                     /product="internal transcribed spacer 1"
+     rRNA            307..472
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        473..718
+                     /product="internal transcribed spacer 2"
+     rRNA            719..>800
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 ctgaacctta tcatttagag gaaggagaag tcgtaacaag gktttccgta ggtgaacctg
+       61 cggaaggatc attgccgccg cctctttcta tamaaaaaaa aaamcgaccc scgrwyatgt
+      121 tatgtccact aytcmctcmc tctcgggccg ggacgggccg gggcctcgtg ccstcggccc
+      181 ccccggccga amgaacaaaa aaacccccgg cgccgaacgc gccaaggaac atacgatccg
+      241 acgagcgcgc tcccgccgtc ccggaaacgg tgcacgcgcg gcgagcgtcg cgaagtccct
+      301 atccaaaacg actctcggca acggatatct cggctctcgc atcgatgaag aacgtagcga
+      361 aatgcgatac ttggtgtgaa ttgcagaatc ccgcgaacca tcgagttttt gaacgcaagt
+      421 tgcgcccraa gccattaggc cgagggcacg tctggstggg tgtcacgcaa cgtcgccccg
+      481 acccccctcc grtgaataaa atcatcgggg ggccgggcgg ggcggatgct ggcctcccgt
+      541 gagcaccgcc tcgcggatgg cctaaataac gagagctcgc acggtaggcg agcaccacgg
+      601 cgcacggtag ttgagcatca catctctcga tcccagtcgt gcgtgctccc gccccgcggc
+      661 atgctctacg agagaccctc agggttsgcg tccgcctcgc cacgggcgcc ctccctcccc
+      721 acgcgacccc agctcaggcg gggccacccg ctgaktttaa gcatatcawt aakcggagga
+      781 aaagaaacta acaaggattc
+//
+LOCUS       KY306655                 835 bp    DNA     linear   PLN 03-APR-2017
+DEFINITION  Tamarindus indica voucher Stevees sn (MT) 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   KY306655
+VERSION     KY306655.1
+KEYWORDS    .
+SOURCE      Tamarindus indica
+  ORGANISM  Tamarindus indica
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae;
+            Amherstieae-Detarieae clade; Detarieae; Tamarindus.
+REFERENCE   1  (bases 1 to 835)
+  AUTHORS   de la Estrella,M., Forest,F., Wieringa,J.J., Fougere-Danezan,M. and
+            Bruneau,A.
+  TITLE     Insights on the evolutionary origin of Detarioideae, a clade of
+            ecologically dominant tropical African trees
+  JOURNAL   New Phytol. (2017) In press
+   PUBMED   28323330
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 835)
+  AUTHORS   de la Estrella,M. and Bruneau,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-DEC-2016) Comparative Plant and Fungal Biology, Royal
+            Botanic Gardens, Kew, Jodrell Lab, Richmond TW9 3DS, UK
+FEATURES             Location/Qualifiers
+     source          1..835
+                     /db_xref="taxon:58860"
+                     /mol_type="genomic DNA"
+                     /organism="Tamarindus indica"
+                     /specimen_voucher="Stevees sn (MT)"
+     rRNA            <1..129
+                     /product="18S ribosomal RNA"
+     misc_RNA        130..373
+                     /product="internal transcribed spacer 1"
+     rRNA            374..539
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        540..749
+                     /product="internal transcribed spacer 2"
+     rRNA            750..>835
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 gatcgcggcg acgtgggcgg ttcgctgccg gcgacgatcg cgagaagtcc actgaacctt
+       61 atcatttaga ggaaggagaa gtcgtaacaa ggtttccgta ggtgaacctg cggaaggatc
+      121 attgtcgata ccttacacaa acagcacgac cggtgaactt gttcttttgt caaactagac
+      181 ggaggcacac ggcgttcgtc gccatgggcc tcccgtgctg ggatacaacg cggggctagc
+      241 cagtcccgtt gtttctcccg gcataaaaac gaacccccgg cgttgaacgc gccaaggaac
+      301 acaactacat gacgttctct tgycgtcccg gagacggtgc atcggcaatg agcaacgcaa
+      361 aatttgtatc cataacgact ctcggcaacg gatatctcgg ctctcgcatc gatgaagaac
+      421 gtagcgaaat gcgatacttg gtgtgaattg cagaatcccg tgaaccatcg agtctttgaa
+      481 cgcaagttgc gcccgaggtc attaggccaa gggcacgtct ggctgggtgt cacacaacgt
+      541 tgccccaacc ccaacgcctg tcacacggcg atgggcacgg ggcggacgat ggcttcccgt
+      601 gagcatggcc tcgcggatgg ccgaaataag agttcgcggt gtggcgagca ccacggcgca
+      661 cggtagttga gtaacactcg agcccagtcg tgcgtgctcc atccctccgt gacgaactcc
+      721 gggatcctat cgcgtccagt gacgcttcta acgcgacctc agctcaggcg gggccacccg
+      781 ctgagtttaa gcatatcaat aagcggagga aaagaaacta acaaggattc cccta
+//
+LOCUS       KY306654                 807 bp    DNA     linear   PLN 03-APR-2017
+DEFINITION  Tamarindus indica voucher Herendeen 29-IV-99-5 (US) 18S ribosomal
+            RNA gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 26S ribosomal RNA gene, partial sequence.
+ACCESSION   KY306654
+VERSION     KY306654.1
+KEYWORDS    .
+SOURCE      Tamarindus indica
+  ORGANISM  Tamarindus indica
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae;
+            Amherstieae-Detarieae clade; Detarieae; Tamarindus.
+REFERENCE   1  (bases 1 to 807)
+  AUTHORS   de la Estrella,M., Forest,F., Wieringa,J.J., Fougere-Danezan,M. and
+            Bruneau,A.
+  TITLE     Insights on the evolutionary origin of Detarioideae, a clade of
+            ecologically dominant tropical African trees
+  JOURNAL   New Phytol. (2017) In press
+   PUBMED   28323330
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 807)
+  AUTHORS   de la Estrella,M. and Bruneau,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-DEC-2016) Comparative Plant and Fungal Biology, Royal
+            Botanic Gardens, Kew, Jodrell Lab, Richmond TW9 3DS, UK
+FEATURES             Location/Qualifiers
+     source          1..807
+                     /db_xref="taxon:58860"
+                     /mol_type="genomic DNA"
+                     /organism="Tamarindus indica"
+                     /specimen_voucher="Herendeen 29-IV-99-5 (US)"
+     rRNA            <1..128
+                     /product="18S ribosomal RNA"
+     misc_RNA        129..372
+                     /product="internal transcribed spacer 1"
+     rRNA            373..538
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        539..748
+                     /product="internal transcribed spacer 2"
+     rRNA            749..>807
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 gatcgcggcg acgtgggcgg ttcgctgccg gcgacgtcgc gagaagtcca ctgaacctta
+       61 tcatttagag gaaggagaag tcgtaacaag gtttccgtag gtgaacctgc ggaaggatca
+      121 ttgtcgatac cttacacaaa cagcacgacc ggtgaacttg ttcttttgtc aaactagacg
+      181 gaggcacacg gcgttcgtcg ccatgggcct cccgtgctgg gatacaacgc ggggctagcc
+      241 agtcccgttg tttctcccgg cataaaaacg aacccccggc gttgaacgcg ccaaggaaca
+      301 caactacatg acgttctctt gccgtcccgg agacggtgca tcggcaatga gcaacgcaaa
+      361 atttgtatcc ataacgactc tcggcaacgg atatctcggc tctcgcatcg atgaagaacg
+      421 tagcgaaatg cgatacttgg tgtgaattgc agaatcccgt gaaccatcga gtctttgaac
+      481 gcaagttgcg cccgaggtca ttaggccaag ggcacgtctg gctgggtgtc acacaacgtt
+      541 gccccaaccc caacgcctgt cacacggcga tgggcacggg gcggacgatg gcttcccgtg
+      601 agcatggcct cgcggatggc cgaaataaga gttcgcggtg tggcgagcac cacggcgcac
+      661 ggtagttgag taacactcga gcccagtcgt gcgtgctcca tccctccgtg acgaactccg
+      721 ggatcctatc gcgtccagtg acgcttctaa cgcgacctca gctcaggcgg ggccacccgc
+      781 tgagtttaag catatcaata agcggag
+//
+LOCUS       KY306653                 701 bp    DNA     linear   PLN 03-APR-2017
+DEFINITION  Talbotiella breteleri voucher Wieringa 5807 (WAG) 18S ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 1 and 5.8S
+            ribosomal RNA gene, complete sequence; and internal transcribed
+            spacer 2, partial sequence.
+ACCESSION   KY306653
+VERSION     KY306653.1
+KEYWORDS    .
+SOURCE      Talbotiella breteleri
+  ORGANISM  Talbotiella breteleri
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae;
+            Amherstieae-Detarieae clade; Detarieae; Talbotiella.
+REFERENCE   1  (bases 1 to 701)
+  AUTHORS   de la Estrella,M., Forest,F., Wieringa,J.J., Fougere-Danezan,M. and
+            Bruneau,A.
+  TITLE     Insights on the evolutionary origin of Detarioideae, a clade of
+            ecologically dominant tropical African trees
+  JOURNAL   New Phytol. (2017) In press
+   PUBMED   28323330
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 701)
+  AUTHORS   de la Estrella,M. and Bruneau,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-DEC-2016) Comparative Plant and Fungal Biology, Royal
+            Botanic Gardens, Kew, Jodrell Lab, Richmond TW9 3DS, UK
+FEATURES             Location/Qualifiers
+     source          1..701
+                     /db_xref="taxon:1358857"
+                     /mol_type="genomic DNA"
+                     /organism="Talbotiella breteleri"
+                     /specimen_voucher="Wieringa 5807 (WAG)"
+     rRNA            <1..82
+                     /product="18S ribosomal RNA"
+     misc_RNA        83..338
+                     /product="internal transcribed spacer 1"
+     rRNA            339..504
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        505..>701
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 tccactgaac cttatcattt agaggaagga gaagtcgtaa caaggtttcc gtaggtgaac
+       61 ctgcggaagg atcattgtcg atgccttaaa caagcagcaa gaccggtgaa cttgttttcg
+      121 tggaccctag gggggcgcag ggcgttcgtc sccttgggcc tcccatgctg ccaggatgcg
+      181 ccagcctcgg gtgggctaac ccccgtcggc tcggctctct tggcggcaga acaacgaacc
+      241 cccggcgcca aacgcgccaa ggatcatgat ctcatggccg tcctcttgyc gtcccggaga
+      301 cggtgacgtg caacgagcga cgcaaaattt gtatccataa cgactctcgg caacggatat
+      361 ctcggctctc gcatcgatga agaacgtagc gaaatgcgat acttggtgtg aattgcagaa
+      421 tcccgtgaac catcgagtct ttgaacgcaa gttgcgcccg aagccttcgg gccgagggca
+      481 cgtctggctg ggtgtcacac arcattgccc caaccccrac gggggcgggg cggatgatgg
+      541 cctcccgtga gcctggcctc gcggatggct gaaacaagag atcgcggtgc ggtcggcacc
+      601 acggcgcacg gtagttgagy aagactcgag cccagtcgtg cgtgcttggc cccagcggcg
+      661 atctccgaga ccctatcgcg tccgtccaag ggcggcgctt c
+//
+LOCUS       KY306652                 834 bp    DNA     linear   PLN 03-APR-2017
+DEFINITION  Talbotiella batesii voucher Wieringa 4051 (WAG) 18S ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 26S ribosomal RNA gene, partial sequence.
+ACCESSION   KY306652
+VERSION     KY306652.1
+KEYWORDS    .
+SOURCE      Talbotiella batesii
+  ORGANISM  Talbotiella batesii
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae;
+            Amherstieae-Detarieae clade; Detarieae; Talbotiella.
+REFERENCE   1  (bases 1 to 834)
+  AUTHORS   de la Estrella,M., Forest,F., Wieringa,J.J., Fougere-Danezan,M. and
+            Bruneau,A.
+  TITLE     Insights on the evolutionary origin of Detarioideae, a clade of
+            ecologically dominant tropical African trees
+  JOURNAL   New Phytol. (2017) In press
+   PUBMED   28323330
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 834)
+  AUTHORS   de la Estrella,M. and Bruneau,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-DEC-2016) Comparative Plant and Fungal Biology, Royal
+            Botanic Gardens, Kew, Jodrell Lab, Richmond TW9 3DS, UK
+FEATURES             Location/Qualifiers
+     source          1..834
+                     /db_xref="taxon:1911672"
+                     /mol_type="genomic DNA"
+                     /organism="Talbotiella batesii"
+                     /specimen_voucher="Wieringa 4051 (WAG)"
+     rRNA            <1..128
+                     /product="18S ribosomal RNA"
+     misc_RNA        129..384
+                     /product="internal transcribed spacer 1"
+     rRNA            385..550
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        551..748
+                     /product="internal transcribed spacer 2"
+     rRNA            749..>834
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 gatcgcggcg acgtgggcgg tccgctgccg gcgacgtcgc gagaagtcca ctgaacctta
+       61 tcatttagag gaaggagaag tcgtaacaag gtttccgtag gtgaacctgc ggaaggatca
+      121 ttgtcgatgc cttaaacaag cagcaagacc ggtgaacttg ttttcgtgga ccctaggggg
+      181 gcgcagggcg ttcgtcgcct tgggcctccc atgctgccrg gatgcgccwg cctcgggtgg
+      241 gstaaccccc gtcggctcgg ctctcttggc ggcagaacaa cgaacccccg gcgccaaacg
+      301 cgccaaggaa catgatctca tggccgtcct cttgccgtcc cggagacggt gacgtgcaac
+      361 gagcgacgca waatttgtat ccataacgac tctcggcaac ggatatctcg gctctcgcat
+      421 cgatgaagaa cgtagcgaaa tgcgatactt ggtgtgaatt gcagaatccc gtgaaccatc
+      481 gagtytttga acgcaagttg cgcccgaggc cttcgggccg agggcacgtc tggctgggtg
+      541 tcacacagca ttgccccaac cccgacgggg gcggggcgga tgatggcctc ccgtgagcct
+      601 ggcctcgcgg atggctgaaa caagagatcg cggtgcggtc ggcaccacgg cgcacggtag
+      661 ttgagtaaca ctcgagccca gtcgtgcgtg cctggcccct gcggcgatct ccgagaccct
+      721 atcgcgtccg tccaagggcg gcgcttccga tgcgacctca gctcaggcgg ggctacccgc
+      781 tgagtttaag catatcaata agcggaggaa aagaaactaa caaggattcc ccta
+//
+LOCUS       KY306651                 786 bp    DNA     linear   PLN 03-APR-2017
+DEFINITION  Stemonocoleus micranthus voucher Dibata 1203 (WAG) 18S ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 26S ribosomal RNA gene, partial sequence.
+ACCESSION   KY306651
+VERSION     KY306651.1
+KEYWORDS    .
+SOURCE      Stemonocoleus micranthus
+  ORGANISM  Stemonocoleus micranthus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae;
+            Amherstieae-Detarieae clade; Detarieae; Stemonocoleus.
+REFERENCE   1  (bases 1 to 786)
+  AUTHORS   de la Estrella,M., Forest,F., Wieringa,J.J., Fougere-Danezan,M. and
+            Bruneau,A.
+  TITLE     Insights on the evolutionary origin of Detarioideae, a clade of
+            ecologically dominant tropical African trees
+  JOURNAL   New Phytol. (2017) In press
+   PUBMED   28323330
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 786)
+  AUTHORS   de la Estrella,M. and Bruneau,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-DEC-2016) Comparative Plant and Fungal Biology, Royal
+            Botanic Gardens, Kew, Jodrell Lab, Richmond TW9 3DS, UK
+FEATURES             Location/Qualifiers
+     source          1..786
+                     /db_xref="taxon:162916"
+                     /mol_type="genomic DNA"
+                     /organism="Stemonocoleus micranthus"
+                     /specimen_voucher="Dibata 1203 (WAG)"
+     rRNA            <1..128
+                     /product="18S ribosomal RNA"
+     misc_RNA        129..364
+                     /product="internal transcribed spacer 1"
+     rRNA            365..530
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        531..743
+                     /product="internal transcribed spacer 2"
+     rRNA            744..>786
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 gatcgcgccg acacgggcgg ttcatcgccg ccgatatcac gagaagtcca ctgaacctta
+       61 tcatttagag gaaggagaag tcrtaacaag gtttccgtag gtgaacctgg ggaaggatca
+      121 ttatcgatgc ctcatgacya gaacgacccg cgaacatgtt ttgtccgtct cggcggggtc
+      181 gyygackctc gtmgtmgtga gactcccggg ccgagacgga ccggcgggct cgtccattca
+      241 gttcgatcgg caaaacaaca aacccccgac gctgaacgcg ccaaggaaca cgattcgacg
+      301 tgcgctgccc ctggtgttcc gaagacgatg cacgtgcagc gagcagcaca aaattcatat
+      361 ccacaatgac tcttggcaac agatatcttg actctcgcat cgatgaagaa catagcaaaa
+      421 tacgatactt ggtgtgaatt gcagaatccc ttgaatcatc gagtctttga acgtaagtta
+      481 cgcccgaagc cattaggccg agggcatgtc tcgctgggtg tcacataatg ttgcccctaa
+      541 ccccaatgcc catcgcacgg tgctaagggg agggcgaggc agatactggc ctcccatgag
+      601 cagagcctcg cggatggccg aaatgagagt ttgcggagtg acgagcacca cgatgcatgg
+      661 tagttgagta acacttgagc ccagtcgtgc atgctttgcc ctttgacggg ctcatggacc
+      721 cgatcgcgtc ttcggacgct cccgatgtga cctcatctca ggcagggcta cccactgagt
+      781 ttaagc
+//
+LOCUS       KY306650                 835 bp    DNA     linear   PLN 03-APR-2017
+DEFINITION  Sindora coriacea voucher Herendeen 29-IV-99-2 (US) 18S ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 26S ribosomal RNA gene, partial sequence.
+ACCESSION   KY306650
+VERSION     KY306650.1
+KEYWORDS    .
+SOURCE      Sindora coriacea
+  ORGANISM  Sindora coriacea
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae;
+            Amherstieae-Detarieae clade; Detarieae; Sindora.
+REFERENCE   1  (bases 1 to 835)
+  AUTHORS   de la Estrella,M., Forest,F., Wieringa,J.J., Fougere-Danezan,M. and
+            Bruneau,A.
+  TITLE     Insights on the evolutionary origin of Detarioideae, a clade of
+            ecologically dominant tropical African trees
+  JOURNAL   New Phytol. (2017) In press
+   PUBMED   28323330
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 835)
+  AUTHORS   de la Estrella,M. and Bruneau,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-DEC-2016) Comparative Plant and Fungal Biology, Royal
+            Botanic Gardens, Kew, Jodrell Lab, Richmond TW9 3DS, UK
+FEATURES             Location/Qualifiers
+     source          1..835
+                     /db_xref="taxon:327150"
+                     /mol_type="genomic DNA"
+                     /organism="Sindora coriacea"
+                     /specimen_voucher="Herendeen 29-IV-99-2 (US)"
+     rRNA            <1..128
+                     /product="18S ribosomal RNA"
+     misc_RNA        129..364
+                     /product="internal transcribed spacer 1"
+     rRNA            365..530
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        531..749
+                     /product="internal transcribed spacer 2"
+     rRNA            750..>835
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 gatcgcggcg acgtgggcgg ttcgccgccg gcgacgtcgc gagaagtcca ctgaacctta
+       61 tcatttagag gaaggagaag tcgtaacaag gtttccgtag gtgaacctgc ggaaggatca
+      121 ttgtcgatac cttacgagca gcacgacccg cgaacttgtt ttgccaaaat ctctcggagg
+      181 cacacggcgt tcgtcgccct gggcctcccg tgtcgggagt caccccgggc tggccccgtc
+      241 ggtcctcccg gccgaacaac caacccccgg cgccgaacgc gccaaggaac ataattctat
+      301 gagcgttctc ctgccgtccc ggagacggtg cacgtgcagg gagcaatgcg aaatctgtat
+      361 ccataacgac tctcggcaac ggatatctcg gctctcgcat cgatgaagaa cgtagcgaaa
+      421 tgcgatactt ggtgtgaatt gcagaatccc gtgaaccatc gagtctttga acgcaagttg
+      481 cgcccgaagc cattaggccg agggcacgtc tggctgggtg tcacacaacg tcgcccccac
+      541 cccaacgcct gtcacaacac ggcgacggga gggcgggggc ggatgatggc ttcccgtggg
+      601 cctggccctg cggatggccg aaataagagt tcgcagtgcg gtgagcacca cggcgcacgg
+      661 tagttgagta aaaactcgag cccagtcgtg cgtgcwccgc ccctwcggcg atcttcgaga
+      721 ccctatcgcg tccttccaag gacgcttcga acgcgacctc agctcaggcg gggctacccg
+      781 ctgagtttaa kcatatcaat aagcggagga aaagaaacta acaaggattc cccta
+//
+LOCUS       KY306649                 806 bp    DNA     linear   PLN 03-APR-2017
+DEFINITION  Scorodophloeus zenkeri voucher Breteler 14073 (WAG) 18S ribosomal
+            RNA gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 26S ribosomal RNA gene, partial sequence.
+ACCESSION   KY306649
+VERSION     KY306649.1
+KEYWORDS    .
+SOURCE      Scorodophloeus zenkeri
+  ORGANISM  Scorodophloeus zenkeri
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae;
+            Amherstieae-Detarieae clade; Detarieae; Scorodophloeus.
+REFERENCE   1  (bases 1 to 806)
+  AUTHORS   de la Estrella,M., Forest,F., Wieringa,J.J., Fougere-Danezan,M. and
+            Bruneau,A.
+  TITLE     Insights on the evolutionary origin of Detarioideae, a clade of
+            ecologically dominant tropical African trees
+  JOURNAL   New Phytol. (2017) In press
+   PUBMED   28323330
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 806)
+  AUTHORS   de la Estrella,M. and Bruneau,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-DEC-2016) Comparative Plant and Fungal Biology, Royal
+            Botanic Gardens, Kew, Jodrell Lab, Richmond TW9 3DS, UK
+FEATURES             Location/Qualifiers
+     source          1..806
+                     /db_xref="taxon:162902"
+                     /mol_type="genomic DNA"
+                     /organism="Scorodophloeus zenkeri"
+                     /specimen_voucher="Breteler 14073 (WAG)"
+     rRNA            <1..112
+                     /product="18S ribosomal RNA"
+     misc_RNA        113..358
+                     /product="internal transcribed spacer 1"
+     rRNA            359..524
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        525..737
+                     /product="internal transcribed spacer 2"
+     rRNA            738..>806
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 cggtccgccg ccggcgaacg tcgcgagaag tccactgaac cttatcattt agaggaagga
+       61 gaagtcgtaa caaggtttcc gtaggtgaac ctgcggaagg atcattgtcg atacctaacg
+      121 agcagcacga ccggcgaact tgttttatca aaccccacaa ggggggcacg cggcgttcgt
+      181 cgcctcgagc ctcccacgcc aagatctcgc tcgggccgat ccccgtccgt tggtcttggc
+      241 gaaacaacga acccccggcg ccaaacgcgc caaggaacac gattgcatgg tcgttctctc
+      301 gccgtcccgg agacggtgac gtgcggagaa caacgccwaa taaatacgta tgtatcacaa
+      361 cgactctcgg caacggatat ctcggctctc gcatcgatga agaacgtagc gaaatgcgat
+      421 acttggtgtg aattgcagaa tcccgtgaac catcgagtct ttgaacgcaa gttgcgcccg
+      481 aagcctttag gccragggca cgtctggctg ggtgtcacac aacgtcgccc caaccccaat
+      541 cgccatccca tggytgaggg ggcggggcgg atgatggcct cccgtgagct tggccttgcg
+      601 gatggccgaa acaagagttt gcagtgtggt cggcaccacg gcgcacggta gttgagtgag
+      661 tactcgagmc cagtcgtgtg tgctgtgccc ycgtggcaaa ctcygagacc ctaccgcgtc
+      721 catccaaggg cgcttctgat gcgacctcag ctcaggcggg gctacccgct gagtttaagc
+      781 atatcaataa gcggaggaaa agaaac
+//
+LOCUS       KY306648                 803 bp    DNA     linear   PLN 03-APR-2017
+DEFINITION  Scorodophloeus zenkeri voucher Breteler 12780 (WAG) 18S ribosomal
+            RNA gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 26S ribosomal RNA gene, partial sequence.
+ACCESSION   KY306648
+VERSION     KY306648.1
+KEYWORDS    .
+SOURCE      Scorodophloeus zenkeri
+  ORGANISM  Scorodophloeus zenkeri
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae;
+            Amherstieae-Detarieae clade; Detarieae; Scorodophloeus.
+REFERENCE   1  (bases 1 to 803)
+  AUTHORS   de la Estrella,M., Forest,F., Wieringa,J.J., Fougere-Danezan,M. and
+            Bruneau,A.
+  TITLE     Insights on the evolutionary origin of Detarioideae, a clade of
+            ecologically dominant tropical African trees
+  JOURNAL   New Phytol. (2017) In press
+   PUBMED   28323330
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 803)
+  AUTHORS   de la Estrella,M. and Bruneau,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-DEC-2016) Comparative Plant and Fungal Biology, Royal
+            Botanic Gardens, Kew, Jodrell Lab, Richmond TW9 3DS, UK
+FEATURES             Location/Qualifiers
+     source          1..803
+                     /db_xref="taxon:162902"
+                     /mol_type="genomic DNA"
+                     /organism="Scorodophloeus zenkeri"
+                     /specimen_voucher="Breteler 12780 (WAG)"
+     rRNA            <1..111
+                     /product="18S ribosomal RNA"
+     misc_RNA        112..357
+                     /product="internal transcribed spacer 1"
+     rRNA            358..523
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        524..736
+                     /product="internal transcribed spacer 2"
+     rRNA            737..>803
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 cggtccgccg ccggcgacgt cgcgagaagt ccactgaacc ttatcattta gaggaaggag
+       61 aagtcgtaac aaggtttccg taggtgaacc tgcggaagga tcattgtcga tacctaacga
+      121 gcagcacgac cggcgaactt gttttatcaa accccacaag gggggcacgc ggcgttcgtc
+      181 gcctcgagcc tcccacgcca agatctcgct cgggccgatc cccgtccgtt ggtcttggcg
+      241 aaacaacgaa cccccggcgc caaacgcgcc aaggaacacg attgcatggt cgttctctcg
+      301 ccgtcccgga gacggtgacg tgcggagaac aacgccaaat aaatacgtat gtatcacaac
+      361 gactctcggc aacggatatc tcggctctcg catcgatgaa gaacgtagcg aaatgcgata
+      421 cttggtgtga attgcagaat cccgtgaacc atcgagtctt tgaacgcaag ttgcgcccga
+      481 agcctttagg ccragggcac gtctggctgg gtgtcacaca acgtcgcccc aaccccaatc
+      541 gccatcccat ggttgagggg gcggggcgga tgatggcctc ccgtgagctt ggccttgcgg
+      601 atggccgaaa caagagtttg cagtgtggtc ggcaccacgg cgcacggtag ttgagtgagt
+      661 actcgagccc agtcgtgtgt gctgtgcccc cgtggcaaac tccgagaccc taccgcgtcc
+      721 atccaagggc gcttctgatg cgacctcagc tcaggcgggg ctacccgctg agtttaagca
+      781 tatcaataag cggaggaaaa gaa
+//
+LOCUS       KY306642                 832 bp    DNA     linear   PLN 03-APR-2017
+DEFINITION  Prioria oxyphylla voucher Breteler 14768 (WAG) 18S ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 26S ribosomal RNA gene, partial sequence.
+ACCESSION   KY306642
+VERSION     KY306642.1
+KEYWORDS    .
+SOURCE      Prioria oxyphylla
+  ORGANISM  Prioria oxyphylla
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae;
+            Amherstieae-Detarieae clade; Detarieae; resin-producing Detarieae;
+            Prioria.
+REFERENCE   1  (bases 1 to 832)
+  AUTHORS   de la Estrella,M., Forest,F., Wieringa,J.J., Fougere-Danezan,M. and
+            Bruneau,A.
+  TITLE     Insights on the evolutionary origin of Detarioideae, a clade of
+            ecologically dominant tropical African trees
+  JOURNAL   New Phytol. (2017) In press
+   PUBMED   28323330
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 832)
+  AUTHORS   de la Estrella,M. and Bruneau,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-DEC-2016) Comparative Plant and Fungal Biology, Royal
+            Botanic Gardens, Kew, Jodrell Lab, Richmond TW9 3DS, UK
+FEATURES             Location/Qualifiers
+     source          1..832
+                     /db_xref="taxon:327139"
+                     /mol_type="genomic DNA"
+                     /organism="Prioria oxyphylla"
+                     /specimen_voucher="Breteler 14768 (WAG)"
+     rRNA            <1..128
+                     /product="18S ribosomal RNA"
+     misc_RNA        129..369
+                     /product="internal transcribed spacer 1"
+     rRNA            370..535
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        536..746
+                     /product="internal transcribed spacer 2"
+     rRNA            747..>832
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 gatcgcggcg acgtgggcgg tccgctgccg acgacgtcac gagaagtcca ctgaacctta
+       61 tcatttagag gaaggagaag tcgtaacaag gtttccgtag gtgaacctgc ggaaggatca
+      121 ttgccgccgc ctcacgagca acacgacccg cgaacacgtt ccgtcaaaac accggcgggg
+      181 gcgcgcggcg ttcgtcgccg cgggactccg ctgccgggat gcgcctctgg gatccgtccc
+      241 gccggctcgc tcggcaaaac aacgaacccc ccggcgccaa acgcgccaag gaacataatt
+      301 cgatcggcgc cccccttgcc gtcccggaga cggtgcgcgc gcaacgggcg gcgcaagatc
+      361 tacgtccaca acgactctcg gcaacggata tctcggctct cgcatcgatg aagaacgtag
+      421 cgaaatgcga tacttgatgt gaattgcaga atcccgtgaa ccatcgagtc tttgaacgca
+      481 agttgcgccc gaggccatta ggccgagggc acgtctggct gggtgtcaca caacgtcgct
+      541 ccaaccccag agcccgtcac acggcgctgg gggcggggcg gatgctggcc tcccgtgagc
+      601 tcagccttgc ggatggccta aatgagagcc tgcggtgcgg cgagcaccac ggcgcacggt
+      661 agccgagcaa accctcraag ccccgatcgt gcgtgctccg cccctccgtc gagctccgag
+      721 accctatcgc gtccacggac gcttccgatg cgaccccagc tcaggcgggg ccacccgctg
+      781 agtttaagca tatcaataag cggaggaaaa gaaactaaca aggattcccc ta
+//
+LOCUS       KY306641                 720 bp    DNA     linear   PLN 03-APR-2017
+DEFINITION  Prioria mannii voucher Wieringa 2011 (WAG) 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   KY306641
+VERSION     KY306641.1
+KEYWORDS    .
+SOURCE      Prioria mannii
+  ORGANISM  Prioria mannii
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae;
+            Amherstieae-Detarieae clade; Detarieae; resin-producing Detarieae;
+            Prioria.
+REFERENCE   1  (bases 1 to 720)
+  AUTHORS   de la Estrella,M., Forest,F., Wieringa,J.J., Fougere-Danezan,M. and
+            Bruneau,A.
+  TITLE     Insights on the evolutionary origin of Detarioideae, a clade of
+            ecologically dominant tropical African trees
+  JOURNAL   New Phytol. (2017) In press
+   PUBMED   28323330
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 720)
+  AUTHORS   de la Estrella,M. and Bruneau,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-DEC-2016) Comparative Plant and Fungal Biology, Royal
+            Botanic Gardens, Kew, Jodrell Lab, Richmond TW9 3DS, UK
+FEATURES             Location/Qualifiers
+     source          1..720
+                     /db_xref="taxon:162862"
+                     /mol_type="genomic DNA"
+                     /organism="Prioria mannii"
+                     /specimen_voucher="Wieringa 2011 (WAG)"
+     rRNA            <1..115
+                     /product="18S ribosomal RNA"
+     misc_RNA        116..353
+                     /product="internal transcribed spacer 1"
+     rRNA            354..519
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        520..718
+                     /product="internal transcribed spacer 2"
+     rRNA            719..>720
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 tgggtggttc attgccgaca acgtcatgag aagtccaatg aaccttatca tttagaggaa
+       61 ggagaagtcg taacaaggtt tccgtaggtg aacctacgga aggatcattg tcgctgcctc
+      121 acgagcaaca cracccgtga acatgttctg tgaaaaccta gtgagggctc gsggtgttcg
+      181 ctaccgcgrg actccgctgc caggatgcgc cctcaggatc catcttgccg ggtcacctgg
+      241 cagaacaacg aacccccggc accaaatacg ccaagaacat aattcgatcg gcgccctctt
+      301 tgcctcccgg agacggtgca tgtgcaacga gcggtgcgag atcttgcatc tacaaygact
+      361 ctcggcaaca gatatctcgg ctcttgcatc gatgaagaat gtagtgaaat gcgatacttg
+      421 atatgaattg cagaatcccg tgaaccatcg agtctttgaa cgtaagttgc gccgaaggcy
+      481 attaggccga gggcacgtct ggctrggtgt cacacaacgt crccccaacc ccaaggcccs
+      541 tcacacggca ttgagggcag ggcggatgct ggcctcctgt gagctcagcc tcacagatgg
+      601 cctaaataag agttcgyggc gcaggcgagc accacggtgc acggtagcca agcaaaccct
+      661 cgaagcccgg tcgtgcatgc tccgccctyc cggygagccc cgagacccta tctcatccac
+//
+LOCUS       KY306640                 697 bp    DNA     linear   PLN 03-APR-2017
+DEFINITION  Prioria buchholzii voucher Sosef 2240 (WAG) 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   KY306640
+VERSION     KY306640.1
+KEYWORDS    .
+SOURCE      Prioria buchholzii
+  ORGANISM  Prioria buchholzii
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae;
+            Amherstieae-Detarieae clade; Detarieae; resin-producing Detarieae;
+            Prioria.
+REFERENCE   1  (bases 1 to 697)
+  AUTHORS   de la Estrella,M., Forest,F., Wieringa,J.J., Fougere-Danezan,M. and
+            Bruneau,A.
+  TITLE     Insights on the evolutionary origin of Detarioideae, a clade of
+            ecologically dominant tropical African trees
+  JOURNAL   New Phytol. (2017) In press
+   PUBMED   28323330
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 697)
+  AUTHORS   de la Estrella,M. and Bruneau,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-DEC-2016) Comparative Plant and Fungal Biology, Royal
+            Botanic Gardens, Kew, Jodrell Lab, Richmond TW9 3DS, UK
+FEATURES             Location/Qualifiers
+     source          1..697
+                     /db_xref="taxon:327138"
+                     /mol_type="genomic DNA"
+                     /organism="Prioria buchholzii"
+                     /specimen_voucher="Sosef 2240 (WAG)"
+     rRNA            <1..77
+                     /product="18S ribosomal RNA"
+     misc_RNA        78..318
+                     /product="internal transcribed spacer 1"
+     rRNA            319..484
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        485..693
+                     /product="internal transcribed spacer 2"
+     rRNA            694..>697
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 tgaaccttat catttagagg aaggagaagt cgtaacaagg tttccgtagg tgaacctgcg
+       61 gaaggatcat tgtcgccgcc tcacgagcaa cacgacccgc gaacatgttc tgtcaaaaca
+      121 ccgacggggg cgcgcggcgt ccgtcgccgc gggaccccgc tgccgggatg tgccctcagg
+      181 atccgtcctg ccggctcgct cggcaaaaca acgaaccccc ggcgccaaac gcgccaagga
+      241 acataattcg atyggcgccc tcttttgccg tcccggagac ggtgcacgtg caacgagcag
+      301 cgcgagatct atatccacaa cgactctcgg caacggatat ctcggctctc gcatcgatga
+      361 agaacgtagc gaaatgcgat acttgatgtg aattgcagaa tcccgtgaac catcgagtct
+      421 ttgaacgcaa gttgcgcccg aggccattag gccgagggca cgtctggctg ggtgtcacac
+      481 aatgtcgctc cgaccccaga gcccgtcaca cggcgttggg ggcggggcgg atgctggcct
+      541 cccgtgagct cagccttgcg gatggcccaa atgagagctt gcggtgcggc gagcaccacg
+      601 gcgcacggta gttgagcaaa ccctcgaagc ccgatcgtgc gtgctctgcc cctccgtcga
+      661 gctccgagac cctatcgcgt ccacggacgc tccaatg
+//

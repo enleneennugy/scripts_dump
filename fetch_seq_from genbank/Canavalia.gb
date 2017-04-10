@@ -1,0 +1,1180 @@
+LOCUS       KU508346                 220 bp    DNA     linear   PLN 17-JUL-2016
+DEFINITION  Canavalia gladiata isolate 344 internal transcribed spacer 2,
+            partial sequence.
+ACCESSION   KU508346
+VERSION     KU508346.1
+KEYWORDS    .
+SOURCE      Canavalia gladiata (sword bean)
+  ORGANISM  Canavalia gladiata
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Canavalia.
+REFERENCE   1  (bases 1 to 220)
+  AUTHORS   Li,B.Y., Wu,B. and Wang,Y.X.
+  TITLE     Identification of Tibetan medicine using ITS2 sequence
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 220)
+  AUTHORS   Li,B.Y., Wu,B. and Wang,Y.X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-JAN-2016) Research Center of Natural Resources of
+            Chinese Medicinal Materials and Ethnic Medicine, Jiangxi
+            Universityof Chinese Medicine, Xingwan Road of Wanli District,
+            Nanchang, Jiangxi 330000, China
+FEATURES             Location/Qualifiers
+     source          1..220
+                     /db_xref="taxon:3824"
+                     /isolate="344"
+                     /mol_type="genomic DNA"
+                     /organism="Canavalia gladiata"
+     misc_RNA        <1..>220
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 cacaatgttc cccctacacc tatgcctttt ccaataaggt attttgtggg gtgaaggttg
+       61 gcttcccata agcattgcct tgtggttggt tgaaatatga gtccttggtg gaatgcccca
+      121 tgataaatgg tagttgagtg atcctcgagg ccaatcatgc atggcttcct ctcacatttg
+      181 gaccttgacc ccttgagttt tctttagaac actcataatg
+//
+LOCUS       KU508345                 220 bp    DNA     linear   PLN 17-JUL-2016
+DEFINITION  Canavalia gladiata isolate 163 internal transcribed spacer 2,
+            partial sequence.
+ACCESSION   KU508345
+VERSION     KU508345.1
+KEYWORDS    .
+SOURCE      Canavalia gladiata (sword bean)
+  ORGANISM  Canavalia gladiata
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Canavalia.
+REFERENCE   1  (bases 1 to 220)
+  AUTHORS   Li,B.Y., Wu,B. and Wang,Y.X.
+  TITLE     Identification of Tibetan medicine using ITS2 sequence
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 220)
+  AUTHORS   Li,B.Y., Wu,B. and Wang,Y.X.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-JAN-2016) Research Center of Natural Resources of
+            Chinese Medicinal Materials and Ethnic Medicine, Jiangxi
+            Universityof Chinese Medicine, Xingwan Road of Wanli District,
+            Nanchang, Jiangxi 330000, China
+FEATURES             Location/Qualifiers
+     source          1..220
+                     /db_xref="taxon:3824"
+                     /isolate="163"
+                     /mol_type="genomic DNA"
+                     /organism="Canavalia gladiata"
+     misc_RNA        <1..>220
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 cacaatgttc cccctacacc tatgcctttt ccaataaggt attttgtggg gtgaaggttg
+       61 gcttcccata agcattgcct tgtggttggt tgaaatatga gtccttggtg gaatgcccca
+      121 tgataaatgg tagttgagtg atcctcgagg ccaatcatgc atggcttcct ctcacatttg
+      181 gaccttgacc ccttgagttt tctttagaac actcataatg
+//
+LOCUS       KT751464                 636 bp    DNA     linear   PLN 06-APR-2016
+DEFINITION  Canavalia wurdackii voucher Wurdack 1107 (NY) 18S ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 26S ribosomal RNA gene, partial sequence.
+ACCESSION   KT751464
+VERSION     KT751464.1
+KEYWORDS    .
+SOURCE      Canavalia wurdackii
+  ORGANISM  Canavalia wurdackii
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Canavalia.
+REFERENCE   1  (bases 1 to 636)
+  AUTHORS   Snak,C., Vatanparast,M., Silva,C., Lewis,G.P., Lavin,M., Kajita,T.
+            and Queiroz,L.P.
+  TITLE     A dated phylogeny of the papilionoid legume genus Canavalia reveals
+            recent diversification by a pantropical liana lineage
+  JOURNAL   Mol. Phylogenet. Evol. 98, 133-146 (2016)
+   PUBMED   26860339
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 636)
+  AUTHORS   Snak,C., Vatanparast,M., Silva,C., Lewis,G.P., Lavin,M., Kajita,T.
+            and Queiroz,L.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-SEP-2015) Departamento de Ciencias Biologicas,
+            Universidade Estadual de Feira de Santana, Avenida Transnordestina
+            sn, Feira de Santana, Bahia 44036900, Brazil
+FEATURES             Location/Qualifiers
+     source          1..636
+                     /country="Peru: Amazonas"
+                     /db_xref="taxon:1820381"
+                     /identified_by="C. Snak"
+                     /mol_type="genomic DNA"
+                     /organism="Canavalia wurdackii"
+                     /specimen_voucher="Wurdack 1107 (NY)"
+     rRNA            <1..<1
+                     /product="18S ribosomal RNA"
+     misc_RNA        2..233
+                     /product="internal transcribed spacer 1"
+     rRNA            234..397
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        398..613
+                     /product="internal transcribed spacer 2"
+     rRNA            614..>636
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 gtcgatgcct cacgatcagt ttgacctgtg aatttgtttc atcattaggg ttgactaaga
+       61 tgttgaacat cttaacttcc cttcgtttgg gagtaggttg tcaaaatgca tggcttactt
+      121 ccagcaaaac acaaaccccg gcgcaatgtg cgtcaaggaa tctcaaattg ttaatgatac
+      181 acttgtagat ccggagacgg tgcctctaca tgtggtgttg tgaaacatgt cataaaatga
+      241 ctctcggcaa cggatatctc ggctcttgca tcgatgaaga acgtagcaaa atgcgatact
+      301 tggtgtgaat tgcagaatcc cgtgaaccat cgagtctttg aacgcaagtt gcgcccgaag
+      361 ccattaggtt gagggcacgc ctgcctgggt gtcacacaat gctcccctat acctatgcct
+      421 tttacagttg ggtgttttgt agggtgaatg ttggcttccc acaagcattg tctcgtggtt
+      481 ggttgaaaaa tgagtccttg gtggaatgcc ccatgataaa tggtagttga gtgatcctcg
+      541 agaccgatca tgcatggctt cctcttataa ttggaccttg acccttgtgt tctctcttat
+      601 agaacacttg taatgagacc tcaggtcagg cgggat
+//
+LOCUS       KT751463                 757 bp    DNA     linear   PLN 06-APR-2016
+DEFINITION  Canavalia vitiensis voucher Smith 4053 (P) 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   KT751463
+VERSION     KT751463.1
+KEYWORDS    .
+SOURCE      Canavalia vitiensis
+  ORGANISM  Canavalia vitiensis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Canavalia.
+REFERENCE   1  (bases 1 to 757)
+  AUTHORS   Snak,C., Vatanparast,M., Silva,C., Lewis,G.P., Lavin,M., Kajita,T.
+            and Queiroz,L.P.
+  TITLE     A dated phylogeny of the papilionoid legume genus Canavalia reveals
+            recent diversification by a pantropical liana lineage
+  JOURNAL   Mol. Phylogenet. Evol. 98, 133-146 (2016)
+   PUBMED   26860339
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 757)
+  AUTHORS   Snak,C., Vatanparast,M., Silva,C., Lewis,G.P., Lavin,M., Kajita,T.
+            and Queiroz,L.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-SEP-2015) Departamento de Ciencias Biologicas,
+            Universidade Estadual de Feira de Santana, Avenida Transnordestina
+            sn, Feira de Santana, Bahia 44036900, Brazil
+FEATURES             Location/Qualifiers
+     source          1..757
+                     /country="Fiji: Viti Levu"
+                     /db_xref="taxon:1820380"
+                     /identified_by="C. Snak"
+                     /mol_type="genomic DNA"
+                     /organism="Canavalia vitiensis"
+                     /specimen_voucher="Smith 4053 (P)"
+     rRNA            <1..96
+                     /product="18S ribosomal RNA"
+     misc_RNA        97..327
+                     /product="internal transcribed spacer 1"
+     rRNA            328..491
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        492..706
+                     /product="internal transcribed spacer 2"
+     rRNA            707..>757
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 cccgcgacgt tgtgagaagt ccactgaacc ttatcattta gaggaaggag aagtcgtaac
+       61 aaggtttccg taggtgaacc tgcggaagga tcattgtcga tgcctcacga tcagtttgac
+      121 ctgtgaatat gtttcatcat tagggatgac taagatgttg atcatcttaa catcccttgg
+      181 gttggaagta ggttatgcaa tgcatggctt ccttccagcg aaactcaaac cccggcgcaa
+      241 catgcgtcaa ggaacttgaa attgttaacg atgagcttgt agatccggag acggttcctc
+      301 tacatgtggt gtcgtgaaac atgtcccaaa atgactctcg gcaacggata tctcggctct
+      361 tgcatcgatg aagaacgtag caaaatgcga tacttggtgt gaattgcaga atcccgtgaa
+      421 ccatcgagtc tttgaacgca agttgcgccc gaagccatta ggttgagggc acgcctgcct
+      481 gggtgtcaca caatgttccc cctacaccta tgccttttcc aataaggtat tttgtggggt
+      541 gaaggttggc ttcccataag cattgccttg tggttggttg aaatatgagt ccttggtgga
+      601 atgccccatg ataaatggta gttgagtgat cctcgaggcc aatcatgcat ggcttcctct
+      661 cacatttgga ccttgacccc ttgagttttc tttagaacac tcataatgag acctcaggtc
+      721 aggcgggatt acccgctgag tttaagcata tcaataa
+//
+LOCUS       KT751462                 640 bp    DNA     linear   PLN 06-APR-2016
+DEFINITION  Canavalia villosa voucher Zamora 2329 (K) 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   KT751462
+VERSION     KT751462.1
+KEYWORDS    .
+SOURCE      Canavalia villosa
+  ORGANISM  Canavalia villosa
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Canavalia.
+REFERENCE   1  (bases 1 to 640)
+  AUTHORS   Snak,C., Vatanparast,M., Silva,C., Lewis,G.P., Lavin,M., Kajita,T.
+            and Queiroz,L.P.
+  TITLE     A dated phylogeny of the papilionoid legume genus Canavalia reveals
+            recent diversification by a pantropical liana lineage
+  JOURNAL   Mol. Phylogenet. Evol. 98, 133-146 (2016)
+   PUBMED   26860339
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 640)
+  AUTHORS   Snak,C., Vatanparast,M., Silva,C., Lewis,G.P., Lavin,M., Kajita,T.
+            and Queiroz,L.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-SEP-2015) Departamento de Ciencias Biologicas,
+            Universidade Estadual de Feira de Santana, Avenida Transnordestina
+            sn, Feira de Santana, Bahia 44036900, Brazil
+FEATURES             Location/Qualifiers
+     source          1..640
+                     /country="Costa Rica: Puntarenas"
+                     /db_xref="taxon:1048255"
+                     /identified_by="C. Snak"
+                     /mol_type="genomic DNA"
+                     /organism="Canavalia villosa"
+                     /specimen_voucher="Zamora 2329 (K)"
+     rRNA            <1..3
+                     /product="18S ribosomal RNA"
+     misc_RNA        4..241
+                     /product="internal transcribed spacer 1"
+     rRNA            242..405
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        406..617
+                     /product="internal transcribed spacer 2"
+     rRNA            618..>640
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 ttgtcgatgc ctcactatca gtttgacctg tgaatttgtt tcatcaatag ggttgaccta
+       61 gatgttgaac atcttaacat cccttctgtt gggagtaggt catgcaatgc aatgcatggc
+      121 tgcccttctt ccagcaaaac acaaaccccg acgcaacatg cgtcaaggaa cttgaaattg
+      181 ttaatgatac acttgtaggt ccggagacgg tttctgcatg tggtgtcgtg aaacatgtcc
+      241 caaaatgact ctcggcaacg gatatctcgg ctcttgcatc gatgaagaac gtagcaaaat
+      301 gcgatacttg gtgtgaattg cagaatcccg tgaaccatcg agtctttgaa cgcaagttgc
+      361 gcccgaagcc attaggttga gggcacgcct gcctgggtgt cacacaatgt tccccctata
+      421 ccttttacac taaggtatct tgttggggta aatgttggcc tcccacaagt cgttctcttg
+      481 tggttggttg aaaaatgagt tcttggtgga atgccccatg ataaatggtg gttgagcgat
+      541 cctcgagacc aatcatgcat ggcttccact taaatgtgga cttttgaccc ttgtgttttc
+      601 tttaaaaaca ctcaatatga gacctcaggt cagacgggat
+//
+LOCUS       KT751461                 761 bp    DNA     linear   PLN 06-APR-2016
+DEFINITION  Canavalia villosa voucher Pena 1058 (BM) 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   KT751461
+VERSION     KT751461.1
+KEYWORDS    .
+SOURCE      Canavalia villosa
+  ORGANISM  Canavalia villosa
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Canavalia.
+REFERENCE   1  (bases 1 to 761)
+  AUTHORS   Snak,C., Vatanparast,M., Silva,C., Lewis,G.P., Lavin,M., Kajita,T.
+            and Queiroz,L.P.
+  TITLE     A dated phylogeny of the papilionoid legume genus Canavalia reveals
+            recent diversification by a pantropical liana lineage
+  JOURNAL   Mol. Phylogenet. Evol. 98, 133-146 (2016)
+   PUBMED   26860339
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 761)
+  AUTHORS   Snak,C., Vatanparast,M., Silva,C., Lewis,G.P., Lavin,M., Kajita,T.
+            and Queiroz,L.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-SEP-2015) Departamento de Ciencias Biologicas,
+            Universidade Estadual de Feira de Santana, Avenida Transnordestina
+            sn, Feira de Santana, Bahia 44036900, Brazil
+FEATURES             Location/Qualifiers
+     source          1..761
+                     /country="Belize: Cayo"
+                     /db_xref="taxon:1048255"
+                     /identified_by="C. Snak"
+                     /mol_type="genomic DNA"
+                     /organism="Canavalia villosa"
+                     /specimen_voucher="Pena 1058 (BM)"
+     rRNA            <1..96
+                     /product="18S ribosomal RNA"
+     misc_RNA        97..334
+                     /product="internal transcribed spacer 1"
+     rRNA            335..498
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        499..710
+                     /product="internal transcribed spacer 2"
+     rRNA            711..>761
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 cccgcgacgt tgtgagaagt ccactgaacc ttatcattta gaggaaggag aagtcgtaac
+       61 aaggtttccg taggtgaacc tgcggaagga tcattgtcga tgcctcgcta tcagtttgac
+      121 ctgtgaattt gtttcatcaa tagggttgac ctagatgttg aacatcttaa catcccttct
+      181 gttgggagta ggtcatgcaa tgcaatgcat ggctgccctt cttccagcaa aacacaaacc
+      241 ccgacgcaac atgcgtcaag gaacttgaaa ttgttaatga tacacttgta ggtccggaga
+      301 cggtttctgc atgtggtgtc gtgaaacatg tcccaaaatg actctcggca acggatatct
+      361 cggctcttgc atcgatgaag aacgtagcaa aatgcgatac ttggtgtgaa ttgcagaatc
+      421 ccgtgaacca tcgagtcttt gaacgcaagt tgcgcccgaa gccattaggt tgagggcacg
+      481 cctgcctggg tgtcacacaa tgttccccct atacctttta caataaggta tcttgttggg
+      541 gtaaatgttg gcctcccaca agtcgttgtc ttgtggttgg ttgaaaaatg agtccttggt
+      601 ggaatgcccc atgataaatg gtggttgagc tatcctcgag accaatcatg catggcttcc
+      661 acttaaatgt ggacttttga cccttgtgtt ttctttcaga acactcaata tgagacctca
+      721 ggtcagacgg gattacccgc tgagtttaag catatcaata a
+//
+LOCUS       KT751460                 671 bp    DNA     linear   PLN 06-APR-2016
+DEFINITION  Canavalia sp. 5 CS-2016 18S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal
+            transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene,
+            partial sequence.
+ACCESSION   KT751460
+VERSION     KT751460.1
+KEYWORDS    .
+SOURCE      Canavalia sp. 5 CS-2016
+  ORGANISM  Canavalia sp. 5 CS-2016
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Canavalia.
+REFERENCE   1  (bases 1 to 671)
+  AUTHORS   Snak,C., Vatanparast,M., Silva,C., Lewis,G.P., Lavin,M., Kajita,T.
+            and Queiroz,L.P.
+  TITLE     A dated phylogeny of the papilionoid legume genus Canavalia reveals
+            recent diversification by a pantropical liana lineage
+  JOURNAL   Mol. Phylogenet. Evol. 98, 133-146 (2016)
+   PUBMED   26860339
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 671)
+  AUTHORS   Snak,C., Vatanparast,M., Silva,C., Lewis,G.P., Lavin,M., Kajita,T.
+            and Queiroz,L.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-SEP-2015) Departamento de Ciencias Biologicas,
+            Universidade Estadual de Feira de Santana, Avenida Transnordestina
+            sn, Feira de Santana, Bahia 44036900, Brazil
+FEATURES             Location/Qualifiers
+     source          1..671
+                     /country="Brazil: Goias"
+                     /db_xref="taxon:1820379"
+                     /identified_by="C. Snak"
+                     /mol_type="genomic DNA"
+                     /organism="Canavalia sp. 5 CS-2016"
+                     /specimen_voucher="Dawson 15030 (NY)"
+     rRNA            <1..3
+                     /product="18S ribosomal RNA"
+     misc_RNA        4..241
+                     /product="internal transcribed spacer 1"
+     rRNA            242..405
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        406..620
+                     /product="internal transcribed spacer 2"
+     rRNA            621..>671
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 ttgtcgatgc ctcgctatca gtttgacctg cgaatttgtt tcatcaatag ggttgatgta
+       61 gatgttgaac atcttaacat cccttctgtt gggagtaggt catgcaatgc aatgcatggc
+      121 tgcccttctt ccagcaaaac acaaaccccg acgcaacatg cgtcaaggaa cttgaaattg
+      181 ttaatgatac acttgtaggt ccggagacgg ttcctgcatg tggtgttgtg aaacatgtcc
+      241 caaaatgact ctcggcaacg gatatctcgg ctcttgcatc gatgaagaac gtagcaaaat
+      301 gcgatacttg gtgtgaattg cagaatcccg tgaaccatcg agtctttgaa cgcaagttgc
+      361 gcccgaagcc attaggttga gggcacgcct gcctgggtgt cacacaatgt tcccctatac
+      421 ctataccttt tatataataa ggtatcttgt tggggtaaat gttggcttcc cacaagttgt
+      481 tgtcttgtgg ttggttgaaa aatgagtcct tggtggaatg ccccatgata aatggtggtt
+      541 gagtgatcct cgagaccaat catgcatggc ttccacttaa atgtggactt ttgacccttg
+      601 tgtttttaga acactcgata tgagacctca ggtcagacgg gattacccgc tgagtttaag
+      661 catatcaata a
+//
+LOCUS       KT751459                 765 bp    DNA     linear   PLN 06-APR-2016
+DEFINITION  Canavalia sp. 4 CS-2016 18S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal
+            transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene,
+            partial sequence.
+ACCESSION   KT751459
+VERSION     KT751459.1
+KEYWORDS    .
+SOURCE      Canavalia sp. 4 CS-2016
+  ORGANISM  Canavalia sp. 4 CS-2016
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Canavalia.
+REFERENCE   1  (bases 1 to 765)
+  AUTHORS   Snak,C., Vatanparast,M., Silva,C., Lewis,G.P., Lavin,M., Kajita,T.
+            and Queiroz,L.P.
+  TITLE     A dated phylogeny of the papilionoid legume genus Canavalia reveals
+            recent diversification by a pantropical liana lineage
+  JOURNAL   Mol. Phylogenet. Evol. 98, 133-146 (2016)
+   PUBMED   26860339
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 765)
+  AUTHORS   Snak,C., Vatanparast,M., Silva,C., Lewis,G.P., Lavin,M., Kajita,T.
+            and Queiroz,L.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-SEP-2015) Departamento de Ciencias Biologicas,
+            Universidade Estadual de Feira de Santana, Avenida Transnordestina
+            sn, Feira de Santana, Bahia 44036900, Brazil
+FEATURES             Location/Qualifiers
+     source          1..765
+                     /country="Ecuador: Ollerana"
+                     /db_xref="taxon:1820378"
+                     /identified_by="C. Snak"
+                     /mol_type="genomic DNA"
+                     /organism="Canavalia sp. 4 CS-2016"
+                     /specimen_voucher="Whitefoord 801 (BM)"
+     rRNA            <1..96
+                     /product="18S ribosomal RNA"
+     misc_RNA        97..333
+                     /product="internal transcribed spacer 1"
+     rRNA            334..497
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        498..714
+                     /product="internal transcribed spacer 2"
+     rRNA            715..>765
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 cccgcgacgt tgtgagaagt ccactgaacc ttatcattta gaggaaggag aagtcgtaac
+       61 aaggtttccg taggtgaacc tgcggaagga tcattgtcga tgcctcacca tcagcttgac
+      121 ctgtgaattt gtttcatcaa tagggttgac gtagatgttg aacatcttaa catcccttct
+      181 gttgggagta ggtcatgcaa tgcatgcatg gctgcccttc ttccagcaaa acacaaaccc
+      241 cgacgcaaca tgcgtcaagg aacttgaaat tgttaatgat acacttgtag gtccggagac
+      301 ggttcttgca tgtggtgtcg tgaaacatgt cccaaaatga ctctcggcaa cggatatctc
+      361 ggctcttgca tcgatgaaga acgtagcaaa atgcgatact tggtgtgaat tgcagaatcc
+      421 cgtgaaccat cgagtctttg aacgcaagtt gcgcccgaag ccattaggtt gagggcacgc
+      481 ctgcctgggt gtcacacaat gttcccctat acctatacct ttcataataa ggtatcttgt
+      541 tggggtaaat gttggcttcc cacaagttgt tgtcttgtgg ttggttgaaa aatgagtcct
+      601 tggtggaatg ccccatgata aatggtggtt gagtgatcct cgagaccaat catgcatggc
+      661 ttccacttaa atgtggactt ttgatccttg tgttttcttt tagaacactc aatatgagac
+      721 ctcaggtcag acgggattac ccgctgagtt taagcatatc aataa
+//
+LOCUS       KT751458                 713 bp    DNA     linear   PLN 06-APR-2016
+DEFINITION  Canavalia sp. 2 CS-2016 18S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal
+            transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene,
+            partial sequence.
+ACCESSION   KT751458
+VERSION     KT751458.1
+KEYWORDS    .
+SOURCE      Canavalia sp. 2 CS-2016
+  ORGANISM  Canavalia sp. 2 CS-2016
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Canavalia.
+REFERENCE   1  (bases 1 to 713)
+  AUTHORS   Snak,C., Vatanparast,M., Silva,C., Lewis,G.P., Lavin,M., Kajita,T.
+            and Queiroz,L.P.
+  TITLE     A dated phylogeny of the papilionoid legume genus Canavalia reveals
+            recent diversification by a pantropical liana lineage
+  JOURNAL   Mol. Phylogenet. Evol. 98, 133-146 (2016)
+   PUBMED   26860339
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 713)
+  AUTHORS   Snak,C., Vatanparast,M., Silva,C., Lewis,G.P., Lavin,M., Kajita,T.
+            and Queiroz,L.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-SEP-2015) Departamento de Ciencias Biologicas,
+            Universidade Estadual de Feira de Santana, Avenida Transnordestina
+            sn, Feira de Santana, Bahia 44036900, Brazil
+FEATURES             Location/Qualifiers
+     source          1..713
+                     /country="Venezuela: Apure"
+                     /db_xref="taxon:1820376"
+                     /identified_by="C. Snak"
+                     /mol_type="genomic DNA"
+                     /organism="Canavalia sp. 2 CS-2016"
+                     /specimen_voucher="Keller-Grein 18269 (HUEFS)"
+     rRNA            <1..43
+                     /product="18S ribosomal RNA"
+     misc_RNA        44..281
+                     /product="internal transcribed spacer 1"
+     rRNA            282..445
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        446..662
+                     /product="internal transcribed spacer 2"
+     rRNA            663..>713
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 tcgtaacaag gtttccgtag gtgaacctgc ggaaggatca ttgtcgatgc ctcactatca
+       61 gtttgacctg tgaatttgtt tcatcaatag ggttgatcat gatgttgaac atctgaacat
+      121 cccttctgtt gggagtaggt catgcaatgc aatgcatggc tgcccttctt ccagcaaaac
+      181 ataaaccccg acgcaacatg cgtcaaggaa cttgaaattg ttaatggtac acttgtaggt
+      241 ccggagacgg ttcttgcatg tggtgtcgta aaacatgtcc caaaatgact ctcggcaacg
+      301 gatatcttgg ctcttgcatc gatgaagaac gtagcaaaat gcgatacttg gtgtgaattg
+      361 cagaatcccg tgaaccatcg agtctttgaa cgcaagttgc gcccgaagcc attaggttga
+      421 gggcacgcct gcctgggtgt cacacaatgt tccccctaca cctatgcctt tgacaataag
+      481 gtatcttgtt ggggtaaatg ttggcttccc acaagtgctt gtcttgtggt tggctgaaaa
+      541 aggagtcctt ggtggaatgc accatgataa atggtggttg agtgaacctc gagaccaatc
+      601 atgggtggct tcctcttaaa aatggacttt tgacccttgt gttttttcta aaacattcaa
+      661 aatgagacct caggtcaggc gggattaccc gctgaattta agcatatcaa taa
+//
+LOCUS       KT751457                 760 bp    DNA     linear   PLN 06-APR-2016
+DEFINITION  Canavalia sp. 1 CS-2016 18S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal
+            transcribed spacer 2, complete sequence; and 26S ribosomal RNA gene,
+            partial sequence.
+ACCESSION   KT751457
+VERSION     KT751457.1
+KEYWORDS    .
+SOURCE      Canavalia sp. 1 CS-2016
+  ORGANISM  Canavalia sp. 1 CS-2016
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Canavalia.
+REFERENCE   1  (bases 1 to 760)
+  AUTHORS   Snak,C., Vatanparast,M., Silva,C., Lewis,G.P., Lavin,M., Kajita,T.
+            and Queiroz,L.P.
+  TITLE     A dated phylogeny of the papilionoid legume genus Canavalia reveals
+            recent diversification by a pantropical liana lineage
+  JOURNAL   Mol. Phylogenet. Evol. 98, 133-146 (2016)
+   PUBMED   26860339
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 760)
+  AUTHORS   Snak,C., Vatanparast,M., Silva,C., Lewis,G.P., Lavin,M., Kajita,T.
+            and Queiroz,L.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-SEP-2015) Departamento de Ciencias Biologicas,
+            Universidade Estadual de Feira de Santana, Avenida Transnordestina
+            sn, Feira de Santana, Bahia 44036900, Brazil
+FEATURES             Location/Qualifiers
+     source          1..760
+                     /country="Brazil: Espirito Santo"
+                     /db_xref="taxon:1820375"
+                     /identified_by="C. Snak"
+                     /mol_type="genomic DNA"
+                     /organism="Canavalia sp. 1 CS-2016"
+                     /specimen_voucher="Folli 4822 (K)"
+     rRNA            <1..96
+                     /product="18S ribosomal RNA"
+     misc_RNA        97..327
+                     /product="internal transcribed spacer 1"
+     rRNA            328..491
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        492..709
+                     /product="internal transcribed spacer 2"
+     rRNA            710..>760
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 ctcgcgacgt tgtgagaagt ccactgaacc ttatcattta gaggaaggag aagtcgtaac
+       61 aaggtttccg taggtgaacc tgcggaagga tcattgtcga tgccttacga tcagtttgac
+      121 ctgtgaattt gtttcattgt tagggttgac taagatgttg aacatcttaa cttcccttct
+      181 cttgggagta ggttatgaaa tgcatggctt acttccaaca aaacataaac cccggcgcaa
+      241 catgcgtcaa ggaacctcaa attgttaacg atacacttgt agattcggag acggtgcctc
+      301 tacatgtggt gttctgaaac atgtcataaa atgactctcg gcaacggata tctcggctct
+      361 tgcatcgatg aagaacgtag caaaatgcga tacttggtgt gaattgcaga atcccgtgaa
+      421 ccatcgagtc tttgaacgca agttgcgccc gaagccatta ggttgagggc acgcctgcct
+      481 gggtgtcaca caatgctttc ctatacgtat gccttttaca gttaggtgtt ttgtagggtg
+      541 aatgttggct tcccgcaagt attgtcttgt ggttggttga aaaatgagtc cttggtggaa
+      601 tgccccatga taaatggtag ttaagtgatc cttgagaccg atcatgcatg gcttcctctc
+      661 ttacagttgg accttgaccc ttgtgttctc tcttttggaa cactcataat gagacctcag
+      721 gtcaggcggg aatacccgct gagtttaagc atatcaataa
+//
+LOCUS       KT751456                 763 bp    DNA     linear   PLN 06-APR-2016
+DEFINITION  Canavalia rupicola voucher Martinez 31434 (BM) 18S ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 26S ribosomal RNA gene, partial sequence.
+ACCESSION   KT751456
+VERSION     KT751456.1
+KEYWORDS    .
+SOURCE      Canavalia rupicola
+  ORGANISM  Canavalia rupicola
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Canavalia.
+REFERENCE   1  (bases 1 to 763)
+  AUTHORS   Snak,C., Vatanparast,M., Silva,C., Lewis,G.P., Lavin,M., Kajita,T.
+            and Queiroz,L.P.
+  TITLE     A dated phylogeny of the papilionoid legume genus Canavalia reveals
+            recent diversification by a pantropical liana lineage
+  JOURNAL   Mol. Phylogenet. Evol. 98, 133-146 (2016)
+   PUBMED   26860339
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 763)
+  AUTHORS   Snak,C., Vatanparast,M., Silva,C., Lewis,G.P., Lavin,M., Kajita,T.
+            and Queiroz,L.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-SEP-2015) Departamento de Ciencias Biologicas,
+            Universidade Estadual de Feira de Santana, Avenida Transnordestina
+            sn, Feira de Santana, Bahia 44036900, Brazil
+FEATURES             Location/Qualifiers
+     source          1..763
+                     /country="Mexico: Campeche"
+                     /db_xref="taxon:1820373"
+                     /identified_by="C. Snak"
+                     /mol_type="genomic DNA"
+                     /organism="Canavalia rupicola"
+                     /specimen_voucher="Martinez 31434 (BM)"
+     rRNA            <1..96
+                     /product="18S ribosomal RNA"
+     misc_RNA        97..336
+                     /product="internal transcribed spacer 1"
+     rRNA            337..500
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        501..712
+                     /product="internal transcribed spacer 2"
+     rRNA            713..>763
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 cccgcgacgt tgtgagaagt ccactgaacc ttatcattta gaggaaggag aagtcgtaac
+       61 aaggtttccg taggtgaacc tgcggaagga tcattgtcga tgcctcgcta tcagtttgac
+      121 ctgtgaattt gtttcatcaa tagggttgac ctagatgttg aacatcttaa catccccctt
+      181 ctgttgggag taggtcatgc aatgcaatgc atggctgccc ttcttccagc aaaacacaaa
+      241 ccccgacgca acatgcgtca aggaacttga aattgttaat gatacacttg taggtccgga
+      301 gacggtttct gcatgtggtg tcgtgaaaca tgtcccaaaa tgactctcgg caacggatat
+      361 ctcggctctt gcatcgatga agaacgtagc aaaatgcgat acttggtgtg aattgcagaa
+      421 tcccgtgaac catcgagtct ttgaacgcaa gttgcgcccg aagccattag gttgagggca
+      481 cgcctgcctg ggtgtcacac aatgttcccc ctataccttt tacaataagg tatcttgttg
+      541 gggtaaatgt tggcctccca taagtcgttg tcttgtggtt ggttgaaaaa tgagtccttg
+      601 gtggaatgcc ccatgataaa tggtggttga gcgatcctcg agaccaatca tgcatggctt
+      661 ccacttaaat gtggactttt gacccttgtg ttttctttca gaacactcaa tatgagacct
+      721 caggtcagac gggattaccc gctgagttta agcatatcaa taa
+//
+LOCUS       KT751455                 763 bp    DNA     linear   PLN 06-APR-2016
+DEFINITION  Canavalia reflexiflora voucher Snak 1112 (HUEFS) 18S ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 26S ribosomal RNA gene, partial sequence.
+ACCESSION   KT751455
+VERSION     KT751455.1
+KEYWORDS    .
+SOURCE      Canavalia reflexiflora
+  ORGANISM  Canavalia reflexiflora
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Canavalia.
+REFERENCE   1  (bases 1 to 763)
+  AUTHORS   Snak,C., Vatanparast,M., Silva,C., Lewis,G.P., Lavin,M., Kajita,T.
+            and Queiroz,L.P.
+  TITLE     A dated phylogeny of the papilionoid legume genus Canavalia reveals
+            recent diversification by a pantropical liana lineage
+  JOURNAL   Mol. Phylogenet. Evol. 98, 133-146 (2016)
+   PUBMED   26860339
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 763)
+  AUTHORS   Snak,C., Vatanparast,M., Silva,C., Lewis,G.P., Lavin,M., Kajita,T.
+            and Queiroz,L.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-SEP-2015) Departamento de Ciencias Biologicas,
+            Universidade Estadual de Feira de Santana, Avenida Transnordestina
+            sn, Feira de Santana, Bahia 44036900, Brazil
+FEATURES             Location/Qualifiers
+     source          1..763
+                     /country="Brazil: Minas Gerais"
+                     /db_xref="taxon:1820372"
+                     /identified_by="C. Snak"
+                     /mol_type="genomic DNA"
+                     /organism="Canavalia reflexiflora"
+                     /specimen_voucher="Snak 1112 (HUEFS)"
+     rRNA            <1..96
+                     /product="18S ribosomal RNA"
+     misc_RNA        97..328
+                     /product="internal transcribed spacer 1"
+     rRNA            329..492
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        493..712
+                     /product="internal transcribed spacer 2"
+     rRNA            713..>763
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 ctcgcgacgt tgtgagaagt ccactgaacc ttatcattta gaggaaggag aagtcgtaac
+       61 aaggtttccg taggtgaacc tgcggaagga tcattgtcga tgcctcacga tcagtttgac
+      121 ctgtgaattt gtttcatcat tagggttgat taagatgtct aacatcttaa cttcctttct
+      181 ttttgggagt aggttatcaa atgcatggct tacttccagc aaaacataaa ccccggcgca
+      241 atgtgcgtca aggaacctca aattgttaat gatacacttg tagatccgga gacggtgcct
+      301 ctacatgtgg tgttgtgaaa catgtcataa aatgactctc ggcaacggat atctcggctc
+      361 ttgcatcgat gaagaacgta gcaaaatgcg atacttggtg tgaattgcag aatcccgtga
+      421 accatcgagt ctttgaacgc aagttgcgcc cgaagccatt aggttgaggg cacgcctgcc
+      481 tgggtgtcac acaatgctcc cctatctata catatgcctt ttacaattgg gtgttttgta
+      541 gggtgaatgt tggcttccca caagcattgt ctcgtggttg gttgaaaaat gagtccttgg
+      601 tggaatgccc catgataaat ggtagttgag tgatcctcga gaccgatcat gcatggcttt
+      661 ctcttacaat tggaccttga cccttgtgtt ctctctttta gaacactcat aatgagacct
+      721 caggtcaggc ggggttaccc gctgagttta agcatatcaa taa
+//
+LOCUS       KT751454                 636 bp    DNA     linear   PLN 06-APR-2016
+DEFINITION  Canavalia plagiosperma voucher Johnson 1378 (BM) 18S ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 26S ribosomal RNA gene, partial sequence.
+ACCESSION   KT751454
+VERSION     KT751454.1
+KEYWORDS    .
+SOURCE      Canavalia plagiosperma
+  ORGANISM  Canavalia plagiosperma
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Canavalia.
+REFERENCE   1  (bases 1 to 636)
+  AUTHORS   Snak,C., Vatanparast,M., Silva,C., Lewis,G.P., Lavin,M., Kajita,T.
+            and Queiroz,L.P.
+  TITLE     A dated phylogeny of the papilionoid legume genus Canavalia reveals
+            recent diversification by a pantropical liana lineage
+  JOURNAL   Mol. Phylogenet. Evol. 98, 133-146 (2016)
+   PUBMED   26860339
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 636)
+  AUTHORS   Snak,C., Vatanparast,M., Silva,C., Lewis,G.P., Lavin,M., Kajita,T.
+            and Queiroz,L.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-SEP-2015) Departamento de Ciencias Biologicas,
+            Universidade Estadual de Feira de Santana, Avenida Transnordestina
+            sn, Feira de Santana, Bahia 44036900, Brazil
+FEATURES             Location/Qualifiers
+     source          1..636
+                     /country="Trinidad and Tobago"
+                     /db_xref="taxon:1820371"
+                     /identified_by="C. Snak"
+                     /mol_type="genomic DNA"
+                     /organism="Canavalia plagiosperma"
+                     /specimen_voucher="Johnson 1378 (BM)"
+     rRNA            <1..2
+                     /product="18S ribosomal RNA"
+     misc_RNA        3..233
+                     /product="internal transcribed spacer 1"
+     rRNA            234..397
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        398..613
+                     /product="internal transcribed spacer 2"
+     rRNA            614..>636
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 tgtcgatgcc tcacgatcag tttgacctgt gaatatgttt catcattagg gwtgactaag
+       61 atgttgatca tcttaacatc ccttgggttg gaagtaggtt atgcaatgca tggcttcctt
+      121 ccagcaaaac tcaaaccccg gcgcaacatg cgtcaaggaa cttgaaattg ttaacgatga
+      181 gcttgtagat ccggagacgg ttcctctaca tgtggtgtcg tgaaacatgt cccaaaatga
+      241 ctctcggcaa cggatatctc ggctcttgca tcgatgaaga acgtagcaaa atgcgatact
+      301 tggtgtgaat tgcagaatcc cgtgaaccat cgagtctttg aacgcaagtt gcgcccgaag
+      361 ccattaggtt gagggcacgc ctgcctgggt gtcacacaat gttcccccta cacctatgcc
+      421 ttttccaata aggtattttg tggggkgaar gttggcttyc cmtaarcatt gccttgtggk
+      481 tggttgaaat atgagtcctt ggkggaatgc cccmtgataa atggkagttg agtgatcctc
+      541 kaggccaatc atgcrtggst tcctctcaca ttttggacct tgaccccttg agttttcttt
+      601 agaacactca taatgagacc tcaggtcagg cgggat
+//
+LOCUS       KT751453                 636 bp    DNA     linear   PLN 06-APR-2016
+DEFINITION  Canavalia piperi voucher Coradin 7581 (HUEFS) 18S ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 26S ribosomal RNA gene, partial sequence.
+ACCESSION   KT751453
+VERSION     KT751453.1
+KEYWORDS    .
+SOURCE      Canavalia piperi
+  ORGANISM  Canavalia piperi
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Canavalia.
+REFERENCE   1  (bases 1 to 636)
+  AUTHORS   Snak,C., Vatanparast,M., Silva,C., Lewis,G.P., Lavin,M., Kajita,T.
+            and Queiroz,L.P.
+  TITLE     A dated phylogeny of the papilionoid legume genus Canavalia reveals
+            recent diversification by a pantropical liana lineage
+  JOURNAL   Mol. Phylogenet. Evol. 98, 133-146 (2016)
+   PUBMED   26860339
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 636)
+  AUTHORS   Snak,C., Vatanparast,M., Silva,C., Lewis,G.P., Lavin,M., Kajita,T.
+            and Queiroz,L.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-SEP-2015) Departamento de Ciencias Biologicas,
+            Universidade Estadual de Feira de Santana, Avenida Transnordestina
+            sn, Feira de Santana, Bahia 44036900, Brazil
+FEATURES             Location/Qualifiers
+     source          1..636
+                     /country="Brazil: Goias"
+                     /db_xref="taxon:1457450"
+                     /identified_by="C. Snak"
+                     /mol_type="genomic DNA"
+                     /organism="Canavalia piperi"
+                     /specimen_voucher="Coradin 7581 (HUEFS)"
+     rRNA            <1..3
+                     /product="18S ribosomal RNA"
+     misc_RNA        4..234
+                     /product="internal transcribed spacer 1"
+     rRNA            235..398
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        399..613
+                     /product="internal transcribed spacer 2"
+     rRNA            614..>636
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 ttgtcgatgc ctcacgatca gtttgacctg tgaatatgtt tcatcattag ggatgactaa
+       61 gatgttgatc atcttaacat cccttgggtt ggaagtaggt tatgcaatgc atggcttcct
+      121 tccagcgaaa ctcaaacccc ggcgcaacat gcgtcaagga acttgaaatt gttaacgatg
+      181 agcttgtaga tccggagacg gttcctctac atgtggtgtc gtgaaacatg tcccaaaatg
+      241 actctcggca acggatatct cggctcttgc atcgatgaag aacgtagcaa aatgcgatac
+      301 ttggtgtgaa ttgcagaatc ccgtgaacca tcgagtcttt gaacgcaagt tgcgcccgaa
+      361 gccattaggt tgagggcacg cctgcctggg tgtcacacaa tgttccccct acacctatgc
+      421 cttttccaat aaggtatttt gtggggtgaa ggttggcttc ccataagcat tgccttgtgg
+      481 ttggttgaaa tatgagtcct tggtggaatg ccccatgata aatggtagtt gagtgatcct
+      541 cgaggccaat catgcatggc ttcctctcac atttggacct tgaccccttg agttttcttt
+      601 agaacactca taatgagacc tcaggtcagg cgggat
+//
+LOCUS       KT751452                 764 bp    DNA     linear   PLN 06-APR-2016
+DEFINITION  Canavalia picta voucher Snak 916 (HUEFS) 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   KT751452
+VERSION     KT751452.1
+KEYWORDS    .
+SOURCE      Canavalia picta
+  ORGANISM  Canavalia picta
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Canavalia.
+REFERENCE   1  (bases 1 to 764)
+  AUTHORS   Snak,C., Vatanparast,M., Silva,C., Lewis,G.P., Lavin,M., Kajita,T.
+            and Queiroz,L.P.
+  TITLE     A dated phylogeny of the papilionoid legume genus Canavalia reveals
+            recent diversification by a pantropical liana lineage
+  JOURNAL   Mol. Phylogenet. Evol. 98, 133-146 (2016)
+   PUBMED   26860339
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 764)
+  AUTHORS   Snak,C., Vatanparast,M., Silva,C., Lewis,G.P., Lavin,M., Kajita,T.
+            and Queiroz,L.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-SEP-2015) Departamento de Ciencias Biologicas,
+            Universidade Estadual de Feira de Santana, Avenida Transnordestina
+            sn, Feira de Santana, Bahia 44036900, Brazil
+FEATURES             Location/Qualifiers
+     source          1..764
+                     /country="Brazil: Parana"
+                     /db_xref="taxon:1457449"
+                     /identified_by="C. Snak"
+                     /mol_type="genomic DNA"
+                     /organism="Canavalia picta"
+                     /specimen_voucher="Snak 916 (HUEFS)"
+     rRNA            <1..96
+                     /product="18S ribosomal RNA"
+     misc_RNA        97..334
+                     /product="internal transcribed spacer 1"
+     rRNA            335..498
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        499..713
+                     /product="internal transcribed spacer 2"
+     rRNA            714..>764
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 cccgcgacgt tgtgagaagt ccactgaacc ttatcattta gaggaaggag aagtcgtaac
+       61 aaggtttccg taggtgaacc tgcggaagga tcattgtcga tgcctcgcta tcagtttgac
+      121 ctgcgaattt gtttcatcaa tagggttgat gtagatgttg aacatcttaa catcccttct
+      181 gttgggagta ggtcatgcaa tgcaatgcat ggctgccctt cttccagcaa aacacaaacc
+      241 ccgacgcaac atgcgtcaag gaacttgaaa ttgttaatga tacacttgta ggtccggaga
+      301 cggttcctgc atgtggtgtc gtgaaacatg tcccaaaatg actctcggca acggatatct
+      361 cggctcttgc atcgatgaag aacgtagcaa aatgcgatac ttggtgtgaa ttgcagaatc
+      421 ccgtgaacca tcgagtcttt gaacgcaagt tgcgcccgaa gccattaggt tgagggcacg
+      481 cctgcctggg tgtcacacaa tgttccccta tacctatacc ttttatataa taaggtatct
+      541 tgttggggta aacgttggct tcccacaagt tgttgtcttg tggttggttg aaaaatgagt
+      601 ccttggtgga atgccccatg ataaatggtg gttgagtgat cctcgagacc aatcatgcat
+      661 ggcttccact taaatgtgga cttttgaccc ttgtgttttt agaacactcg atatgagacc
+      721 tcaggtcaga cgggattacc cgctgagttt aagcatatca ataa
+//
+LOCUS       KT751451                 758 bp    DNA     linear   PLN 06-APR-2016
+DEFINITION  Canavalia parviflora voucher Snak 1029 (HUEFS) 18S ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 26S ribosomal RNA gene, partial sequence.
+ACCESSION   KT751451
+VERSION     KT751451.1
+KEYWORDS    .
+SOURCE      Canavalia parviflora
+  ORGANISM  Canavalia parviflora
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Canavalia.
+REFERENCE   1  (bases 1 to 758)
+  AUTHORS   Snak,C., Vatanparast,M., Silva,C., Lewis,G.P., Lavin,M., Kajita,T.
+            and Queiroz,L.P.
+  TITLE     A dated phylogeny of the papilionoid legume genus Canavalia reveals
+            recent diversification by a pantropical liana lineage
+  JOURNAL   Mol. Phylogenet. Evol. 98, 133-146 (2016)
+   PUBMED   26860339
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 758)
+  AUTHORS   Snak,C., Vatanparast,M., Silva,C., Lewis,G.P., Lavin,M., Kajita,T.
+            and Queiroz,L.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-SEP-2015) Departamento de Ciencias Biologicas,
+            Universidade Estadual de Feira de Santana, Avenida Transnordestina
+            sn, Feira de Santana, Bahia 44036900, Brazil
+FEATURES             Location/Qualifiers
+     source          1..758
+                     /country="Brazil: Bahia"
+                     /db_xref="taxon:1048257"
+                     /identified_by="C. Snak"
+                     /mol_type="genomic DNA"
+                     /organism="Canavalia parviflora"
+                     /specimen_voucher="Snak 1029 (HUEFS)"
+     rRNA            <1..96
+                     /product="18S ribosomal RNA"
+     misc_RNA        97..327
+                     /product="internal transcribed spacer 1"
+     rRNA            328..491
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        492..707
+                     /product="internal transcribed spacer 2"
+     rRNA            708..>758
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 ctcgcgacgt tgtgagaagt ccactgaacc ttatcattta gaggaaggag aagtcgtaac
+       61 aaggtttccg taggtgaacc tgcggaagga tcattgtcga tgcctcacga ttagtttgac
+      121 ctgtgaattt gtttcatcat tagggttgac taagatgtca aacatcttaa cttcccttct
+      181 tttgggagta ggttatcaaa tgcatgactt acttcctgca aaacataaac cccgacgcaa
+      241 tgtgcgtcaa ggaacctcaa attgttaatg atacacttgt agatccggag acggtgcctc
+      301 tacatgtggt gttgtgaaac atgtcataaa atgactctcg gcaacggata tctcggctct
+      361 tgcatcgatg aagaacgtag caaaatgcga tacttggtgt gaattgcaga atcccgtgaa
+      421 ccatcgagtc tttgaacgca agttgcgcct gaagccatta ggttgagggc acgcctgcct
+      481 gggtgtcaca caatgctccc ctatacatgt gccttttaca attgggtgtt ttgtagggtg
+      541 aatgttggct tcccacaagc attgtctcgt ggttggttga aaaatgagtc cttggtggaa
+      601 tgccccatga taaatggtag ttgagtgatc ctcgagacca atcatgcatg gctttctctt
+      661 acaattggac cttgaccctt gtgttctctc ttttagaaca ctcataatga gacctcaggt
+      721 caggcgggat tacccgctga gtttaagcat atcaataa
+//
+LOCUS       KT751450                 762 bp    DNA     linear   PLN 06-APR-2016
+DEFINITION  Canavalia palmeri voucher Reyes-Garcia 5804 (HUEFS) 18S ribosomal
+            RNA gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 26S ribosomal RNA gene, partial sequence.
+ACCESSION   KT751450
+VERSION     KT751450.1
+KEYWORDS    .
+SOURCE      Canavalia palmeri
+  ORGANISM  Canavalia palmeri
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Canavalia.
+REFERENCE   1  (bases 1 to 762)
+  AUTHORS   Snak,C., Vatanparast,M., Silva,C., Lewis,G.P., Lavin,M., Kajita,T.
+            and Queiroz,L.P.
+  TITLE     A dated phylogeny of the papilionoid legume genus Canavalia reveals
+            recent diversification by a pantropical liana lineage
+  JOURNAL   Mol. Phylogenet. Evol. 98, 133-146 (2016)
+   PUBMED   26860339
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 762)
+  AUTHORS   Snak,C., Vatanparast,M., Silva,C., Lewis,G.P., Lavin,M., Kajita,T.
+            and Queiroz,L.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-SEP-2015) Departamento de Ciencias Biologicas,
+            Universidade Estadual de Feira de Santana, Avenida Transnordestina
+            sn, Feira de Santana, Bahia 44036900, Brazil
+FEATURES             Location/Qualifiers
+     source          1..762
+                     /country="Mexico: Chiapas"
+                     /db_xref="taxon:1820370"
+                     /identified_by="C. Snak"
+                     /mol_type="genomic DNA"
+                     /organism="Canavalia palmeri"
+                     /specimen_voucher="Reyes-Garcia 5804 (HUEFS)"
+     rRNA            <1..95
+                     /product="18S ribosomal RNA"
+     misc_RNA        96..333
+                     /product="internal transcribed spacer 1"
+     rRNA            334..497
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        498..711
+                     /product="internal transcribed spacer 2"
+     rRNA            712..>762
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 ccgcgacgtt gtgagaagtc cactgaacct tatcatttag aggaaggaga agtcgtaaca
+       61 aggtttccgt aggtgaacct gcggaaggat cattgtcgat gcctcgctat cagtttgacc
+      121 tgtgaatttg tttcatcaat agggttgacc tagatgttga acatcttaac atcccttctg
+      181 ttgggagtag gtcatgcaat gcaatgcatg gctgcccttc ttccagcaaa acacaaaccc
+      241 cgacgcaaca tgcgtcaagg aacttgaaat tgttaatgat acacttgtag gtccggagac
+      301 ggtttctgca tgtggtgtcg tgaaacatgt cccaaaatga ctctcggcaa cggatatctc
+      361 ggctcttgca tcgatgaaga acgtagcaaa atgcgatact tggtgtgaat tgcagaatcc
+      421 cgtgaaccat cgagtctttg aacgcaagtt gcgcccgaag ccattaggtt gagggcacgc
+      481 ctgcctgggt gtcacacaat gttcccccct atacctttta caataaggta tcttgttggg
+      541 ggtaaatgtt ggcctcccac aagtcgttgt cttgtggttg gttgaaaaat gagtccttgg
+      601 tggaatgccc catgataaat ggtggttgag ctatcctcga gaccaatcat gcatggcttc
+      661 cacttaaatg tggacttttg acccttgtgt tttctttcag aacactcaat atgagacctc
+      721 aggtcagacg ggattacccg ctgagtttaa gcatatcaat aa
+//
+LOCUS       KT751449                 757 bp    DNA     linear   PLN 06-APR-2016
+DEFINITION  Canavalia oxyphylla voucher Dobbeler 1644 (BM) 18S ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 26S ribosomal RNA gene, partial sequence.
+ACCESSION   KT751449
+VERSION     KT751449.1
+KEYWORDS    .
+SOURCE      Canavalia oxyphylla
+  ORGANISM  Canavalia oxyphylla
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Canavalia.
+REFERENCE   1  (bases 1 to 757)
+  AUTHORS   Snak,C., Vatanparast,M., Silva,C., Lewis,G.P., Lavin,M., Kajita,T.
+            and Queiroz,L.P.
+  TITLE     A dated phylogeny of the papilionoid legume genus Canavalia reveals
+            recent diversification by a pantropical liana lineage
+  JOURNAL   Mol. Phylogenet. Evol. 98, 133-146 (2016)
+   PUBMED   26860339
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 757)
+  AUTHORS   Snak,C., Vatanparast,M., Silva,C., Lewis,G.P., Lavin,M., Kajita,T.
+            and Queiroz,L.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-SEP-2015) Departamento de Ciencias Biologicas,
+            Universidade Estadual de Feira de Santana, Avenida Transnordestina
+            sn, Feira de Santana, Bahia 44036900, Brazil
+FEATURES             Location/Qualifiers
+     source          1..757
+                     /country="Costa Rica: Cartago"
+                     /db_xref="taxon:1820369"
+                     /identified_by="C. Snak"
+                     /mol_type="genomic DNA"
+                     /organism="Canavalia oxyphylla"
+                     /specimen_voucher="Dobbeler 1644 (BM)"
+     rRNA            <1..96
+                     /product="18S ribosomal RNA"
+     misc_RNA        97..331
+                     /product="internal transcribed spacer 1"
+     rRNA            332..495
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        496..706
+                     /product="internal transcribed spacer 2"
+     rRNA            707..>757
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 cccgcgacgt tgtgagaagt ccactgaacc ttatcattta gaggaaggag aagtcgtaac
+       61 aaggtttccg taggtgaacc tgcggaagga tcattgtcga tgcctcgcta tcagtttgac
+      121 ctgtgaattt gttttcatcc atagggttga cctagatgtt gaacatctta acatcccttc
+      181 tgttgggagt aggttatgca atgcatgtgc tgcccttctt ccagcaaatc acaaaccccg
+      241 acgcaacatg cgtcaaggaa cttgaaattg ttaatgatac acttgtaggt ccggagacgg
+      301 tttctgcatg tggtgtcgtg aaacatgtcc caaaatgact ctcggcaacg gatatctcgg
+      361 ctcttgcatc gatgaagaac gtagcaaaat gcgatacttg gtgtgaattg cagaatcccg
+      421 tgaaccatcg agtctttgaa cgcaagttgc gcccgaagcc attaggttga gggcacgcct
+      481 gcctgggtgt cacacaatgt tcccctatac cttttacaat aaggtatgtt gttggggcaa
+      541 atgttggctt cccacaagtc cttgtcttgt ggttggttga aaattgagtc cttggtggaa
+      601 tgccccatga taaatggtgg ttgagtgatc ctcgagacca atcatgcatg gcttccactt
+      661 aaatgtagac ttttgaccct tgtgtttact tttagaacac tcaatatgag acctcaggtc
+      721 agacgggatt acccgctgag tttaagcata tcaataa
+//
+LOCUS       KT751448                 769 bp    DNA     linear   PLN 06-APR-2016
+DEFINITION  Canavalia nitida voucher Howard 12238 (BM) 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   KT751448
+VERSION     KT751448.1
+KEYWORDS    .
+SOURCE      Canavalia nitida
+  ORGANISM  Canavalia nitida
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Canavalia.
+REFERENCE   1  (bases 1 to 769)
+  AUTHORS   Snak,C., Vatanparast,M., Silva,C., Lewis,G.P., Lavin,M., Kajita,T.
+            and Queiroz,L.P.
+  TITLE     A dated phylogeny of the papilionoid legume genus Canavalia reveals
+            recent diversification by a pantropical liana lineage
+  JOURNAL   Mol. Phylogenet. Evol. 98, 133-146 (2016)
+   PUBMED   26860339
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 769)
+  AUTHORS   Snak,C., Vatanparast,M., Silva,C., Lewis,G.P., Lavin,M., Kajita,T.
+            and Queiroz,L.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-SEP-2015) Departamento de Ciencias Biologicas,
+            Universidade Estadual de Feira de Santana, Avenida Transnordestina
+            sn, Feira de Santana, Bahia 44036900, Brazil
+FEATURES             Location/Qualifiers
+     source          1..769
+                     /country="Dominican Republic: Barahona"
+                     /db_xref="taxon:1820367"
+                     /identified_by="C. Snak"
+                     /mol_type="genomic DNA"
+                     /organism="Canavalia nitida"
+                     /specimen_voucher="Howard 12238 (BM)"
+     rRNA            <1..96
+                     /product="18S ribosomal RNA"
+     misc_RNA        97..338
+                     /product="internal transcribed spacer 1"
+     rRNA            339..502
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        503..718
+                     /product="internal transcribed spacer 2"
+     rRNA            719..>769
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 ctcgcgacgt tgtgagaagt ccactgaacc ttatcattta gaggaaggag aagtcgtaac
+       61 aaggtttccg taggtgaacc tgcggaagga tcattgtcga tgccttacga tcaatttgac
+      121 ctgcgaattt gtttcattgt tagggtagag atgaagatgt tgaacatctt aacttcttcc
+      181 cttgtggtag gagtaggtta tgcaatgcat cccttacttc caacccagca aaacacaaac
+      241 cccggcgcaa catgcgtcaa ggaaacctca tattgttaat gatgcccttg tagattcgga
+      301 gacggtgcct ttacatgtgg tgttgtgaaa catgtcctaa aatgactctc ggcaacggat
+      361 atctcggctc ttgcatcgat gaagaacgta gcaaaatgcg atacttggtg tgaattgcag
+      421 aatcccgtga accatcgagt ctttgaacgc aagttgcgcc cgaagccatt aggttgaggg
+      481 cacgcctgcc tgggtgtcac acaatgctcc cctataccta tgccttttac aattaggtgt
+      541 tttgtagggt gtatgttggc ttcccacaag cattgtcttg tggttggttg aaaaatgagt
+      601 ccttggtgga atgccccatg ataaatggta gttgagtgat gctcgagacc aatcatgcat
+      661 ggcttcctct tacaattgga ccttgacccc tgtgttctct ctttcagaac actcacaatg
+      721 agacctcagg tcaggcggga ttacccgctg agtttaagca tatcaataa
+//
+LOCUS       KT751447                 741 bp    DNA     linear   PLN 06-APR-2016
+DEFINITION  Canavalia megalantha voucher Fosberg 35275 (P) 18S ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 26S ribosomal RNA gene, partial sequence.
+ACCESSION   KT751447
+VERSION     KT751447.1
+KEYWORDS    .
+SOURCE      Canavalia megalantha
+  ORGANISM  Canavalia megalantha
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Canavalia.
+REFERENCE   1  (bases 1 to 741)
+  AUTHORS   Snak,C., Vatanparast,M., Silva,C., Lewis,G.P., Lavin,M., Kajita,T.
+            and Queiroz,L.P.
+  TITLE     A dated phylogeny of the papilionoid legume genus Canavalia reveals
+            recent diversification by a pantropical liana lineage
+  JOURNAL   Mol. Phylogenet. Evol. 98, 133-146 (2016)
+   PUBMED   26860339
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 741)
+  AUTHORS   Snak,C., Vatanparast,M., Silva,C., Lewis,G.P., Lavin,M., Kajita,T.
+            and Queiroz,L.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-SEP-2015) Departamento de Ciencias Biologicas,
+            Universidade Estadual de Feira de Santana, Avenida Transnordestina
+            sn, Feira de Santana, Bahia 44036900, Brazil
+FEATURES             Location/Qualifiers
+     source          1..741
+                     /db_xref="taxon:1820366"
+                     /identified_by="C. Snak"
+                     /isolation_source="Mariana-Bonin Islands"
+                     /mol_type="genomic DNA"
+                     /organism="Canavalia megalantha"
+                     /specimen_voucher="Fosberg 35275 (P)"
+     rRNA            <1..96
+                     /product="18S ribosomal RNA"
+     misc_RNA        97..326
+                     /product="internal transcribed spacer 1"
+     rRNA            327..490
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        491..705
+                     /product="internal transcribed spacer 2"
+     rRNA            706..>741
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 cccgcgacgt tgtgagaagt ccactgaacc ttatcattta gaggaaggag aagtcgtaac
+       61 aaggtttccg taggtgaacc tgcggaagga tcattgtcga tgcctcacga tcattttgac
+      121 ctgtgaatat gtttcatcat tagggttgac taagatgttg atcatcttaa catcccttgg
+      181 gttggaagta ggttatgcaa tgcatggctt ccttccagca aaactcaaac cccggcgcaa
+      241 catgcgtcaa ggaacttgaa attgttaacg atgagcttgt agatccggag acggttcctc
+      301 tacatgtggt gtcgtgaaac attcccaaaa tgactctcgg caacggatat ctcggctctt
+      361 gcatcgatga agaacgtagc aaaatgcgat acttggtgtg aattgcagaa tcccgtgaac
+      421 catcgagtct ttgaacgcaa gttgcgcccg aagccattag gttgagggca cgcctgcctg
+      481 ggtgtcacac aatgttcccc ctacacctat gccttttcca ataaggtatt ttgtggggtg
+      541 aaggttggct tcccataagc attgccttgt ggttggttga aatatgagtc cttggtggaa
+      601 tgccccatga taaatggtag ttgagtgatc ctcgaggcca atcatgcatg gcttcctctc
+      661 acatttggac cttgacccct tgagttttct ttagaacact cataatgaga cctcaggtca
+      721 ggcgggatta cccgctgagt t
+//

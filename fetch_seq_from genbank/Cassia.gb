@@ -1,0 +1,933 @@
+LOCUS       KT308094                 549 bp    DNA     linear   PLN 19-JAN-2017
+DEFINITION  Cassia fistula internal transcribed spacer 1, partial sequence; 5.8S
+            ribosomal RNA gene, complete sequence; and internal transcribed
+            spacer 2, partial sequence.
+ACCESSION   KT308094
+VERSION     KT308094.1
+KEYWORDS    .
+SOURCE      Cassia fistula
+  ORGANISM  Cassia fistula
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Cassia clade;
+            Cassia.
+REFERENCE   1  (bases 1 to 549)
+  AUTHORS   Mishra,P., Kumar,A., Rodrigues,V., Shukla,A.K. and Sundaresan,V.
+  TITLE     Feasibility of nuclear ribosomal region ITS1 over ITS2 in barcoding
+            taxonomically challenging genera of subtribe Cassiinae (Fabaceae)
+  JOURNAL   PeerJ 4, E2638 (2016)
+   PUBMED   27994958
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 549)
+  AUTHORS   Mishra,P. and Sundaresan,V.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-JUL-2015) Department of Plant Biology & Systematics,
+            Central Institute of Medicinal and Aromatic Plants Research Center,
+            Allalsandra GKVK Post, Bangalore, Karnataka 560065, India
+FEATURES             Location/Qualifiers
+     source          1..549
+                     /collected_by="Velusamy Sundaresan"
+                     /collection_date="15-Dec-2014"
+                     /country="India"
+                     /db_xref="taxon:53852"
+                     /isolation_source="leaves"
+                     /mol_type="genomic DNA"
+                     /organism="Cassia fistula"
+     misc_RNA        <1..>549
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, and internal transcribed spacer 2"
+ORIGIN
+        1 gaggccacrc tsrcrgsagg mcaacttcct tccccaacca ccccatcccg ccgctcygat
+       61 ggragggagc sakaaatggg gttgggaasa acgttgttgt gacgccccag gcagamgtsc
+      121 cctcggccta gtggcttcgg gcgcaacttg cgttcamaga ctcgatggtt cacgggattc
+      181 kscaattcac accaagtatc gcatttcgct acgttcttca tcgatgcgag agcctagata
+      241 tccgttgccg ggagtcgttt ttgttactag ttcagcggcg cttccctggc atggctccgt
+      301 ctccgggcag ccaaggccgt scctgtttct tatgggtcct tggcgcatct agsgccggaa
+      361 atkgtggttg kgttcgttgy gtcacggtkg ccgctagtgc ctcagtggcg ctggcttccc
+      421 catgcaacga cgtagggcag gtggctggag gcaggcatag cacgccccca tccctcctcc
+      481 cctggcatgg tacacttaac tggttcgcgt gtcgttctgg ttgaggcatc gacaatgatc
+      541 cttccgcag
+//
+LOCUS       KT308090                 680 bp    DNA     linear   PLN 19-JAN-2017
+DEFINITION  Cassia sulfurea internal transcribed spacer 1, partial sequence;
+            5.8S ribosomal RNA gene and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   KT308090
+VERSION     KT308090.1
+KEYWORDS    .
+SOURCE      Cassia sulfurea
+  ORGANISM  Cassia sulfurea
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Cassia clade;
+            Cassia.
+REFERENCE   1  (bases 1 to 680)
+  AUTHORS   Mishra,P., Kumar,A., Rodrigues,V., Shukla,A.K. and Sundaresan,V.
+  TITLE     Feasibility of nuclear ribosomal region ITS1 over ITS2 in barcoding
+            taxonomically challenging genera of subtribe Cassiinae (Fabaceae)
+  JOURNAL   PeerJ 4, E2638 (2016)
+   PUBMED   27994958
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 680)
+  AUTHORS   Mishra,P. and Sundaresan,V.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-JUL-2015) Department of Plant Biology & Systematics,
+            Central Institute of Medicinal and Aromatic Plants Research Center,
+            Allalsandra GKVK Post, Bangalore, Karnataka 560065, India
+FEATURES             Location/Qualifiers
+     source          1..680
+                     /collected_by="Velusamy Sundaresan"
+                     /collection_date="15-Dec-2014"
+                     /country="India"
+                     /db_xref="taxon:1752863"
+                     /isolation_source="leaves"
+                     /mol_type="genomic DNA"
+                     /organism="Cassia sulfurea"
+     misc_RNA        <1..>680
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, internal transcribed spacer 2, and 28S
+                     ribosomal RNA"
+ORIGIN
+        1 gatatgctta aaatccaagc gggtagcccc gcctgacctg gggtcgcgtc gagagagctt
+       61 cctcactcgc atggggcctg gcagcctaac cgtaggaaca acaagcgcac ggtcggtctc
+      121 gagccatctg ctcgtccacc gtggaacgtg gcaattgccc cccacaggct gctttttcga
+      181 ccatccacga ggcgtggctc gcgggaggcc aaattccacc cgaccacctc gccggccccc
+      241 accgatcgca gggacgaagt ggttcggggc gacaatgcgt gacacccagg cagacgtgcc
+      301 cttggcctag tggcttcggg cgcaacttgc gttcaaagac tcgatggttc acgggattct
+      361 gcaattcaca ccaagtatcg catttcgcta cgttcttcat cgatgcgaga gccgagatat
+      421 ccgttgccga gagtcgtttt gtacatcgct tacgtaggga ccccaggcta gaagcgtctc
+      481 cgatccgccg gggccacaca cattcgtttg agttccttgg cgcgtccaac gccggggtta
+      541 ttgttgaggg gttgcccgag gcgcaaggct gcacgtaggc cacaatcacg ccccggacac
+      601 ccagcggggg actgagggcg acgcacgccc ctcgcctccc gcctcgggag catttcaacc
+      661 cgttcgcgag tggtaccgtt
+//
+LOCUS       KT338798                 417 bp    DNA     linear   PLN 19-JAN-2017
+DEFINITION  Cassia javanica voucher CIMAP 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, complete sequence; and 5.8S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   KT338798
+VERSION     KT338798.1
+KEYWORDS    .
+SOURCE      Cassia javanica
+  ORGANISM  Cassia javanica
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Cassia clade;
+            Cassia.
+REFERENCE   1  (bases 1 to 417)
+  AUTHORS   Mishra,P., Kumar,A., Rodrigues,V., Shukla,A.K. and Sundaresan,V.
+  TITLE     Feasibility of nuclear ribosomal region ITS1 over ITS2 in barcoding
+            taxonomically challenging genera of subtribe Cassiinae (Fabaceae)
+  JOURNAL   PeerJ 4, E2638 (2016)
+   PUBMED   27994958
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 417)
+  AUTHORS   Mishra,P. and Sundaresan,V.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-JUL-2015) Department of Plant Biology and Systematics,
+            Central Institute of Medicinal and Aromatic Plants Research Center,
+            Allalsandra GKVK Post, Bangalore, Karnataka 560065, India
+FEATURES             Location/Qualifiers
+     source          1..417
+                     /db_xref="taxon:508996"
+                     /mol_type="genomic DNA"
+                     /organism="Cassia javanica"
+                     /specimen_voucher="CIMAP"
+     misc_RNA        <1..>417
+                     /note="contains 18S ribosomal RNA, internal transcribed
+                     spacer 1, and 5.8S ribosomal RNA"
+ORIGIN
+        1 taggtgaacc tgcggaagga tcattgtcga tgcctcaacc agaacgacaa gcgaaccggt
+       61 taaagagtac ctaccgaggg gggggaggga tgggggcgtg ctctgcctgc ctcctgccac
+      121 ccgacccccc tcgggtagtt gcacggggaa gccmgcgcct tcgaggcacg ggcggaaccg
+      181 tggcaacgaa atamccmcaa cccckgcsct trgrtgsgcc aaggamccrt aakaaacrgg
+      241 sacgaccctg gctgcccggr gacggakccc cgccagggaa ksgccgctga acttgtaacc
+      301 aaaacractc tcggcaacgg atatctaggc tctckcatcr atraakaacg takygaaact
+      361 gcgatmyttg ktgtgawttg masaatccct gtgaaacyrt cgagtctttt kaacgca
+//
+LOCUS       KM210313                 457 bp    DNA     linear   PLN 31-DEC-2016
+DEFINITION  Cassia fistula voucher S13229 5.8S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   KM210313
+VERSION     KM210313.1
+KEYWORDS    .
+SOURCE      Cassia fistula
+  ORGANISM  Cassia fistula
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Cassia clade;
+            Cassia.
+REFERENCE   1  (bases 1 to 457)
+  AUTHORS   Li,X.J. and Fan,C.Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-JUL-2014) Medicinal Materials Department, XinJiang
+            Institute of Chinese Traditional Medical and Ethical Materia Medica,
+            9 Xinming Road, Urumqi, Xinjiang 830002, China
+FEATURES             Location/Qualifiers
+     source          1..457
+                     /db_xref="taxon:53852"
+                     /mol_type="genomic DNA"
+                     /organism="Cassia fistula"
+                     /specimen_voucher="S13229"
+     rRNA            <1..84
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        85..316
+                     /product="internal transcribed spacer 2"
+     rRNA            317..>457
+                     /product="28S ribosomal RNA"
+ORIGIN
+        1 tgcagaatcc cgtgaaccat cgagtctttg aacgcaagtt gcgcccgaag ccactaggcc
+       61 gagggcacgt ctgcctgggc gtcacacaac gttgttcccg accccattct cgctccctcc
+      121 caccggagcg gcgggatggt ggttggggag gaagttggcc tcccgtgagc gtggcctcgc
+      181 ggatggctga aagacgagcc tgtgggggag cgatcaccac gttccacggt ggatgagcag
+      241 aaaatggctt gataccgatc gtgcgtgagt cgtgcccccc tgttgggctc ttggaccctc
+      301 gttcgttctc ctaacgcgac cccaggtcag gcggggctac ccgctgagtt taagcatatc
+      361 aataagcgga ggaaaagaaa ctaacaagga ttcccctagt aacggcgagc gaaccgggaa
+      421 aagcccacca tgagaatcgg tcgcccccgg cgtccga
+//
+LOCUS       KM210312                 477 bp    DNA     linear   PLN 31-DEC-2016
+DEFINITION  Cassia fistula voucher 20130328095 5.8S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   KM210312
+VERSION     KM210312.1
+KEYWORDS    .
+SOURCE      Cassia fistula
+  ORGANISM  Cassia fistula
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Cassia clade;
+            Cassia.
+REFERENCE   1  (bases 1 to 477)
+  AUTHORS   Li,X.J. and Fan,C.Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-JUL-2014) Medicinal Materials Department, XinJiang
+            Institute of Chinese Traditional Medical and Ethical Materia Medica,
+            9 Xinming Road, Urumqi, Xinjiang 830002, China
+FEATURES             Location/Qualifiers
+     source          1..477
+                     /db_xref="taxon:53852"
+                     /mol_type="genomic DNA"
+                     /organism="Cassia fistula"
+                     /specimen_voucher="20130328095"
+     rRNA            <1..93
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        94..325
+                     /product="internal transcribed spacer 2"
+     rRNA            326..>477
+                     /product="28S ribosomal RNA"
+ORIGIN
+        1 cgggtgaatt gcagaatccc gtgaaccatc gagtctttga acgcaagttg cgcccgaagc
+       61 cactaggccg agggcacgtc tgcctgggcg tcacacaacg ttgttcccaa ccccattctc
+      121 gctccctccc accggagcgg cgggatggtg gttggggagg aagttggcct cccgtgagcg
+      181 tggcctcgcg gatggctgaa agacgagcct gtgggggagc gatcaccacg ttccacggtg
+      241 gatgagcaga aaatggcttg ataccgatcg tgcgtgagtc gtgcccccct gttgggctct
+      301 tggaccctcg ttcgttctcc taacgcgacc ccaggtcagg cggggctacc cgctgagttt
+      361 aagcatatca ataagcggag gaaaagaaac taacaaggat tcccctagta acggcgagcg
+      421 aaccgggaaa agcccaccat gagaatcggt cgcccccggc gtccgaattg tagcaga
+//
+LOCUS       KX372778                 684 bp    DNA     linear   PLN 30-OCT-2016
+DEFINITION  Cassia javanica voucher Fougere-Danezan 6 (MT) internal transcribed
+            spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete
+            sequence; and internal transcribed spacer 2, partial sequence.
+ACCESSION   KX372778
+VERSION     KX372778.1
+KEYWORDS    .
+SOURCE      Cassia javanica
+  ORGANISM  Cassia javanica
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Cassia clade;
+            Cassia.
+REFERENCE   1  (bases 1 to 684)
+  AUTHORS   Gagnon,E., Bruneau,A., Hughes,C.E., de Queiroz,L.P. and Lewis,G.P.
+  TITLE     A new generic system for the pantropical Caesalpinia group
+            (Leguminosae)
+  JOURNAL   PhytoKeys 71, 1-160 (2016)
+REFERENCE   2  (bases 1 to 684)
+  AUTHORS   Gagnon,E., Bruneau,A., Hughes,C.E., de Queiroz,L.P. and Lewis,G.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JUN-2016) Departement de sciences biologiques, Jardin
+            Botanique de Montreal, Institut de recherche en biologie vegetale,
+            4141 Sherbrooke Ouest, Montreal, Quebec H1X 2B2, Canada
+FEATURES             Location/Qualifiers
+     source          1..684
+                     /country="Singapore"
+                     /db_xref="taxon:508996"
+                     /mol_type="genomic DNA"
+                     /note="cultivated specimen"
+                     /organism="Cassia javanica"
+                     /specimen_voucher="Fougere-Danezan 6 (MT)"
+     misc_RNA        <1..>684
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, and internal transcribed spacer 2"
+ORIGIN
+        1 tgcggaagga tcattgtcga tgcctcaacc agaacgacaa gcgaaccggt taaagagtac
+       61 ctaccgaggg gggggaggga tgggggcgtg ctctgcctgc ctcctgccac ccgaccccct
+      121 cgggtagttg cacggggaag ccagcgcctt cgaggcacgg gcggaaccgt ggcaacgaaa
+      181 taaccacaac cccggcgcta gatgcgccaa ggacccataa gaaacaggca cgaccctggc
+      241 tgcccggaga cggagccccg ccagggaagc gccgctgaac ttgtaaccaa aacgactctc
+      301 ggcaacggat atctaggctc tcgcatcgat gaagaacgta gcgaaatgcg atacttggtg
+      361 tgaattgcag aatcccgtga accatcgagt ctttgaacgc aagttgcgcc cgaagccact
+      421 aggccgaggg cacgtctgcc tgggcgtcac acaacgttgc ccctaatccc attcgcactc
+      481 cctccccatc ggaggggcga gcggtgggcg gggcggaatc tggcctcccg tgagcgcggc
+      541 ctcgcggatg gctgaaagat gagcctgtgg gggagcgatc accacggtcc acggtggatg
+      601 agcagggaat gccttgatac cgaccgtgcg tgcgccgtgt cccccccgag ccaggctcct
+      661 ggaccctcgt tctcccatcg cgac
+//
+LOCUS       KJ638411                 721 bp    DNA     linear   PLN 29-MAR-2016
+DEFINITION  Cassia fistula voucher ATREE103 internal transcribed spacer 1,
+            partial sequence; 5.8S ribosomal RNA gene and internal transcribed
+            spacer 2, complete sequence; and 28S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   KJ638411
+VERSION     KJ638411.1
+KEYWORDS    .
+SOURCE      Cassia fistula
+  ORGANISM  Cassia fistula
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Cassia clade;
+            Cassia.
+REFERENCE   1  (bases 1 to 721)
+  AUTHORS   Seethapathy,G.S., Ganesh,D., Santhosh Kumar,J.U., Senthil kumar,U.,
+            Newmaster,S.G., Ragupathy,S., Uma Shaanker,R. and Ravikanth,G.
+  TITLE     Assessing product adulteration in natural health products for
+            laxative yielding plants, Cassia, Senna, and Chamaecrista, in
+            Southern India using DNA barcoding
+  JOURNAL   Int. J. Legal Med. 129 (4), 693-700 (2015)
+   PUBMED   25425095
+REFERENCE   2  (bases 1 to 721)
+  AUTHORS   Seethapathy,G.S., Santhosh Kumar,J.U., Senthil Kumar,U.,
+            Ravikanth,G., Ganesh,D., Ganeshaiah,K.N. and Uma Shaanker,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-MAR-2014) Conservation Genetics Lab, Ashoka Trust for
+            Research in Ecology and the Environment (ATREE), Royal Enclave
+            Srirampura, Jakkur (Post), Bangalore, Karnataka 560064, India
+FEATURES             Location/Qualifiers
+     source          1..721
+                     /db_xref="taxon:53852"
+                     /mol_type="genomic DNA"
+                     /organism="Cassia fistula"
+                     /specimen_voucher="ATREE103"
+     misc_RNA        <1..>721
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, internal transcribed spacer 2, and 28S
+                     ribosomal RNA"
+ORIGIN
+        1 tgccggttag gcagaacgac cgcgaccagt taagtgtacc atgccagggg aggaggaagg
+       61 atgggggcct gctcttcctg cctccagcca cccgcccttc gtcgttgtac ggggaagcca
+      121 gcgccgctga ggcactagcg gaaccgtggc gcaacgaaac aaccacaatt tcggcgctag
+      181 atgcacctac gacccataaa aaacaggcgc cgccttggct gcccggagac agaaccatgc
+      241 cggggaagcg ccgcggaact agcaacaaaa acgactctcg gcaacggata tctaggctct
+      301 cgcatcgatg aagaaagtag agaaatgcga tacttgtggt gaattgcaca atcccgtgaa
+      361 tcatctagtt ttttaaccca tgttgcgccc gaaaccacta cgacgagggc acgtctgcgt
+      421 gggcgtcaca caacgttgtt cccaacctca ttctcgctcc ctcccaccgg agcggcggga
+      481 tggtggttgg ggaggaagtt ggcctcccgt gagcgtgtcc tcgaggatgg ctgaaagacg
+      541 atcctgtggg ggagccatca ccacgttcca cggtggatga gcaaaaaatg gcttgatact
+      601 gatcgtgggt gagtcgtgcc cccttgttgg gttcttggac cctctgttgt tctcctaacg
+      661 cgaccccggg ggaggcggtg ctacctgctt agtttaagct tatcaataag aggaggaaaa
+      721 g
+//
+LOCUS       KJ638410                 715 bp    DNA     linear   PLN 29-MAR-2016
+DEFINITION  Cassia fistula voucher ATREE102 internal transcribed spacer 1,
+            partial sequence; 5.8S ribosomal RNA gene and internal transcribed
+            spacer 2, complete sequence; and 28S ribosomal RNA gene, partial
+            sequence.
+ACCESSION   KJ638410
+VERSION     KJ638410.1
+KEYWORDS    .
+SOURCE      Cassia fistula
+  ORGANISM  Cassia fistula
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Cassia clade;
+            Cassia.
+REFERENCE   1  (bases 1 to 715)
+  AUTHORS   Seethapathy,G.S., Ganesh,D., Santhosh Kumar,J.U., Senthil kumar,U.,
+            Newmaster,S.G., Ragupathy,S., Uma Shaanker,R. and Ravikanth,G.
+  TITLE     Assessing product adulteration in natural health products for
+            laxative yielding plants, Cassia, Senna, and Chamaecrista, in
+            Southern India using DNA barcoding
+  JOURNAL   Int. J. Legal Med. 129 (4), 693-700 (2015)
+   PUBMED   25425095
+REFERENCE   2  (bases 1 to 715)
+  AUTHORS   Seethapathy,G.S., Santhosh Kumar,J.U., Senthil Kumar,U.,
+            Ravikanth,G., Ganesh,D., Ganeshaiah,K.N. and Uma Shaanker,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-MAR-2014) Conservation Genetics Lab, Ashoka Trust for
+            Research in Ecology and the Environment (ATREE), Royal Enclave
+            Srirampura, Jakkur (Post), Bangalore, Karnataka 560064, India
+FEATURES             Location/Qualifiers
+     source          1..715
+                     /db_xref="taxon:53852"
+                     /mol_type="genomic DNA"
+                     /organism="Cassia fistula"
+                     /specimen_voucher="ATREE102"
+     misc_RNA        <1..>715
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, internal transcribed spacer 2, and 28S
+                     ribosomal RNA"
+ORIGIN
+        1 agccggcatg gaaccggggg accagttaag tgtacaatgc cgggggagga ggagggatgg
+       61 gggcgtgcta tgcctgcctc cagccacccg ccctacgtcg ttgcacgggg aagccagcgc
+      121 cactgaggca ctagcggaac cgtggcgcaa cgaaacaacc acaatttcgg cgctagatgc
+      181 gccaaggacc cataagaaac aggcacggcc ttggctgccc ggagacggag ccatgccagg
+      241 gaagcgccgc ggaactagta acaaaaacga ctctcggcaa cggatatcta ggctctcgca
+      301 tcgatgaaaa acgtagcgaa atgcgatact tggtgtgaat tgcagaatcc cgtgaaccat
+      361 cgagtctttg aacgcaagtt gcgcccgaag ccactaggct gagggcacgt ctgcctgggc
+      421 gtcacacaac gttgttccca accccattct cgctccctcc caccggagtg gcgggatggt
+      481 ggttggggag gaagttggcc tcccgtgagc gtggcctcgc ggatggctga aagacgagcc
+      541 tgtgggggag cgatcaccac gttccacggt ggatgagcag aaaatggctt gataccgatc
+      601 gtgcgtgagt cgtgccccct tgttgggctc ttggaccctc gttcgttctc ctaacgcgac
+      661 cccaggtcag ggggggctac ccgctgagtt taagcatatc aataagcgga agaaa
+//
+LOCUS       KJ638409                 718 bp    DNA     linear   PLN 29-MAR-2016
+DEFINITION  Cassia fistula voucher ATREE101 internal transcribed spacer 1,
+            partial sequence; 5.8S ribosomal RNA gene, complete sequence; and
+            internal transcribed spacer 2, partial sequence.
+ACCESSION   KJ638409
+VERSION     KJ638409.1
+KEYWORDS    .
+SOURCE      Cassia fistula
+  ORGANISM  Cassia fistula
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Cassia clade;
+            Cassia.
+REFERENCE   1  (bases 1 to 718)
+  AUTHORS   Seethapathy,G.S., Ganesh,D., Santhosh Kumar,J.U., Senthil kumar,U.,
+            Newmaster,S.G., Ragupathy,S., Uma Shaanker,R. and Ravikanth,G.
+  TITLE     Assessing product adulteration in natural health products for
+            laxative yielding plants, Cassia, Senna, and Chamaecrista, in
+            Southern India using DNA barcoding
+  JOURNAL   Int. J. Legal Med. 129 (4), 693-700 (2015)
+   PUBMED   25425095
+REFERENCE   2  (bases 1 to 718)
+  AUTHORS   Seethapathy,G.S., Santhosh Kumar,J.U., Senthil Kumar,U.,
+            Ravikanth,G., Ganesh,D., Ganeshaiah,K.N. and Uma Shaanker,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-MAR-2014) Conservation Genetics Lab, Ashoka Trust for
+            Research in Ecology and the Environment (ATREE), Royal Enclave
+            Srirampura, Jakkur (Post), Bangalore, Karnataka 560064, India
+FEATURES             Location/Qualifiers
+     source          1..718
+                     /db_xref="taxon:53852"
+                     /mol_type="genomic DNA"
+                     /organism="Cassia fistula"
+                     /specimen_voucher="ATREE101"
+     misc_RNA        <1..>718
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, and internal transcribed spacer 2"
+ORIGIN
+        1 ggaagccagg aacgacacgc ggaaccagtt aagtgtacca tgccagggga ggaggaagga
+       61 tgggggtttg ctctggctgc ctcccgcctc cccccctacg tcgttgggcg gggaagccag
+      121 cgccgctgag gtactagcgg aaccgtggcg caacgaaaca accactattt cggcgcttga
+      181 tgcgccgagg acccataaaa aacaggcgcc gccttggctg cccggagacg gaatcgtgcc
+      241 ggggaagcgc cgcggaacta acaacaaaaa ctactctcgg caactgatat ctatcctctc
+      301 tcatcgatga acaacgtaac gaaatgcaat acttggtgtg aattgaataa tcccgagaac
+      361 catctagtct ttgaacgcat gttgcgcccg aaaccactac gacgagggct cgtctgcctg
+      421 ggcgtcacac aacgttgttc ccaacctcat tctccctccc tcccaccgga gtggcgggat
+      481 ggtggttggg gaagaagttg gcctcccgtg agcgtgtcct cgatgatgga tgaaagacga
+      541 tcctgtggag gaatcatcac caccttccat ggaggatgag aaaaaaatgg cttgatactg
+      601 atcgtgcgtg agtcccgccc ccttggtggc ttcttggatc cttcgttctt ctcctaacgc
+      661 cacccgtggg gagggggggc tccccgatta ttttaatctt attaataaga ggaaggaa
+//
+LOCUS       KU551111                 374 bp    DNA     linear   PLN 12-MAR-2016
+DEFINITION  Cassia fistula voucher SUP362-D42 internal transcribed spacer 2,
+            complete sequence.
+ACCESSION   KU551111
+VERSION     KU551111.1
+KEYWORDS    .
+SOURCE      Cassia fistula
+  ORGANISM  Cassia fistula
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Cassia clade;
+            Cassia.
+REFERENCE   1  (bases 1 to 374)
+  AUTHORS   Sheth,B.P. and Thaker,V.S.
+  TITLE     Molecular phylogenetics of some Cassia species
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 374)
+  AUTHORS   Sheth,B.P. and Thaker,V.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-JAN-2016) Department of Biosciences, Saurashtra
+            University, Rajkot, Gujarat 360005, India
+FEATURES             Location/Qualifiers
+     source          1..374
+                     /db_xref="taxon:53852"
+                     /mol_type="genomic DNA"
+                     /organism="Cassia fistula"
+                     /specimen_voucher="SUP362-D42"
+     misc_RNA        1..374
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 cccattctcg gtccctccca ccggtgcggc ggggtggtgg ttggggagga agttggcctc
+       61 ccgtgagcgt ggcctcgcgg atggttgaaa gacgagcctg tgggggagcg atctccacgt
+      121 tccacggtgg atgagcagaa aatggcttga taccgatcgt gtgtgagtcg tgcccccctg
+      181 ttgggctctt ggaccctcgt tcgttctcct aacgcgaccc caggtcaggc ggggctaccc
+      241 gctgagttta agcatatcaa taagcggagg aaaagaaact aaaaaggatt cccctcgtaa
+      301 cggtgagcga accgggaaaa gcccaccatg agaatcggtc gcccccggtg tccgaattgt
+      361 agtctggaag aagc
+//
+LOCUS       KU551110                 456 bp    DNA     linear   PLN 12-MAR-2016
+DEFINITION  Cassia javanica voucher SUP361-D37 internal transcribed spacer 2,
+            complete sequence.
+ACCESSION   KU551110
+VERSION     KU551110.1
+KEYWORDS    .
+SOURCE      Cassia javanica
+  ORGANISM  Cassia javanica
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Cassia clade;
+            Cassia.
+REFERENCE   1  (bases 1 to 456)
+  AUTHORS   Sheth,B.P. and Thaker,V.S.
+  TITLE     Molecular phylogenetics of some Cassia species
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 456)
+  AUTHORS   Sheth,B.P. and Thaker,V.S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (15-JAN-2016) Department of Biosciences, Saurashtra
+            University, Rajkot, Gujarat 360005, India
+FEATURES             Location/Qualifiers
+     source          1..456
+                     /db_xref="taxon:508996"
+                     /mol_type="genomic DNA"
+                     /organism="Cassia javanica"
+                     /specimen_voucher="SUP361-D37"
+     misc_RNA        1..456
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 cagaatccca tcaaccatcg agtctttgga cgcaagttgc gcccgaagcc actaggctga
+       61 gggcacgtct gcgtgggctt cacacaatgt tgcctccaat cccattccca ctccctcccc
+      121 atcagaaggg caagagcgat gggcggggtg gaagctggcc tcttgtgagc atggcctcgc
+      181 gaatggctga aagatgagcc tttgggggag cgatcaccag agtccatgat agatgagcag
+      241 ggaatgcctt gataccgacc atgcatgcgt cgtgtccccc tcgagctgag ctcctggacc
+      301 ctcgttctat caatgcgact tcaggtcagg cgggactacc tgctgagttt aagcatatca
+      361 ataaggggag gaaaagaaac taacaaggat tcccctagta acggcgagcg aaccgggaag
+      421 agcccaccat gagaatcggt cgcccgcggc gtccga
+//
+LOCUS       JX856562                 445 bp    DNA     linear   PLN 09-MAR-2015
+DEFINITION  Cassia sp. AMT-2013 isolate 208 5.8S ribosomal RNA gene and internal
+            transcribed spacer 2, partial sequence.
+ACCESSION   JX856562
+VERSION     JX856562.1
+KEYWORDS    .
+SOURCE      Cassia sp. AMT-2013
+  ORGANISM  Cassia sp. AMT-2013
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Cassia clade;
+            Cassia.
+REFERENCE   1  (bases 1 to 445)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Kumar,A., Singh,A., Singh,S.,
+            Chaudhary,L.B. and Roy,S.
+  TITLE     The Internal Transcribed Spacer (ITS) Region and trnhH-psbA Are
+            Suitable Candidate Loci for DNA Barcoding of Tropical Tree Species
+            of India
+  JOURNAL   PLoS ONE 8 (2), E57934 (2013)
+   PUBMED   23460915
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 445)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Chaudhary,L.B. and Roy,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2012) National Botanical Research Institute, Rana
+            Pratap Marg, Lucknow, U.P 226001, India
+FEATURES             Location/Qualifiers
+     source          1..445
+                     /db_xref="taxon:1295406"
+                     /isolate="208"
+                     /mol_type="genomic DNA"
+                     /organism="Cassia sp. AMT-2013"
+     misc_RNA        <1..>445
+                     /note="contains 5.8S ribosomal RNA and internal transcribed
+                     spacer 2"
+ORIGIN
+        1 acgcagttgc gcccgaagcc attaggcaga gggcacgtct gcctgggtgt cacgcattgt
+       61 tgccccaatc cacttcgtcc ctccgatcgg tgtggggcgg cgaggtgctt gggtagaatt
+      121 tggcctccca cgagccatgc ctcgcggatg gtcgaaaaaa gtagcctgtg tggggcaatc
+      181 gccacgttcc acggtggatg accagatggc tcgagaccga ccgtgcgtgt gttgtcccta
+      241 cgcttgggct gccagacccc ttgcgagcga ggaagctctc tcaatgcgac cccaggtcag
+      301 gcggggctac ccgctgagtt taagcatatc aataagcgga ggaaaagaaa ctaacaagga
+      361 ttcccctagt aacggcgagc gaaccgggaa gagcccacca tgagaatcgg ttgccctcgg
+      421 cattcgaatt gtagtctgga gaagc
+//
+LOCUS       JX856561                 423 bp    DNA     linear   PLN 09-MAR-2015
+DEFINITION  Cassia sp. AMT-2013 isolate 108 5.8S ribosomal RNA gene and internal
+            transcribed spacer 2, partial sequence.
+ACCESSION   JX856561
+VERSION     JX856561.1
+KEYWORDS    .
+SOURCE      Cassia sp. AMT-2013
+  ORGANISM  Cassia sp. AMT-2013
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Cassia clade;
+            Cassia.
+REFERENCE   1  (bases 1 to 423)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Kumar,A., Singh,A., Singh,S.,
+            Chaudhary,L.B. and Roy,S.
+  TITLE     The Internal Transcribed Spacer (ITS) Region and trnhH-psbA Are
+            Suitable Candidate Loci for DNA Barcoding of Tropical Tree Species
+            of India
+  JOURNAL   PLoS ONE 8 (2), E57934 (2013)
+   PUBMED   23460915
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 423)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Chaudhary,L.B. and Roy,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2012) National Botanical Research Institute, Rana
+            Pratap Marg, Lucknow, U.P 226001, India
+FEATURES             Location/Qualifiers
+     source          1..423
+                     /db_xref="taxon:1295406"
+                     /isolate="108"
+                     /mol_type="genomic DNA"
+                     /organism="Cassia sp. AMT-2013"
+     misc_RNA        <1..>423
+                     /note="contains 5.8S ribosomal RNA and internal transcribed
+                     spacer 2"
+ORIGIN
+        1 aggccgaggg cacgtctgcc tgggtgtcac gcattgctgt cccaaaccca gacgcccctc
+       61 gaactgatcg gaggggggga ggcgcttggg cgaaagttgg cctcccgcga gcattgcctc
+      121 gcggatggtt gaaaaacgag cccacgagtg atgaccgcca cgttcacggt ggacgagcga
+      181 aagcctcgag cccgaccgtg cgcatgatgt ccctttgtct aggctgcgag acccgtgcaa
+      241 gcaagaaagc gctcacaacg cgaccccagg tcaggcgggg ccacccgctg agtttaagca
+      301 tatcaataag cggaggaaaa gaaactaacg aggattcccc tagtaacggc gagcgaaccg
+      361 ggaaaagccc accatgagaa tcggtcgccc tcggcgtccg aattgtagtc tggagaagcg
+      421 tca
+//
+LOCUS       JX856560                 441 bp    DNA     linear   PLN 09-MAR-2015
+DEFINITION  Cassia fistula isolate 363 5.8S ribosomal RNA gene and internal
+            transcribed spacer 2, partial sequence.
+ACCESSION   JX856560
+VERSION     JX856560.1
+KEYWORDS    .
+SOURCE      Cassia fistula
+  ORGANISM  Cassia fistula
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Cassia clade;
+            Cassia.
+REFERENCE   1  (bases 1 to 441)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Kumar,A., Singh,A., Singh,S.,
+            Chaudhary,L.B. and Roy,S.
+  TITLE     The Internal Transcribed Spacer (ITS) Region and trnhH-psbA Are
+            Suitable Candidate Loci for DNA Barcoding of Tropical Tree Species
+            of India
+  JOURNAL   PLoS ONE 8 (2), E57934 (2013)
+   PUBMED   23460915
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 441)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Chaudhary,L.B. and Roy,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2012) National Botanical Research Institute, Rana
+            Pratap Marg, Lucknow, U.P 226001, India
+FEATURES             Location/Qualifiers
+     source          1..441
+                     /db_xref="taxon:53852"
+                     /isolate="363"
+                     /mol_type="genomic DNA"
+                     /organism="Cassia fistula"
+     misc_RNA        <1..>441
+                     /note="contains 5.8S ribosomal RNA and internal transcribed
+                     spacer 2"
+ORIGIN
+        1 aagttgcgcc cgaagccact aggccgaggg cacgtctgcc tgggcgtcac acaacgttgt
+       61 tcccaacccc attctcgctc cctcccaccg gagcggcggg atggtggttg gggaggaagt
+      121 tggcctcccg tgagcgtggc ctcgcggatg gctgaaagac gagcctgtgg gggagcgatc
+      181 accacgttcc acggtggatg agcagaaaat ggcttgatac cgatcgtgcg tgagtcgtgc
+      241 ccccctgttg ggctcttgga ccctcgttcg ttctcctaac gcgaccccag gtcaggcggg
+      301 gctacccgct gagtttaagc atatcaataa gcggaggaaa agaaactaac aaggattccc
+      361 ctagtaacgg cgagcgaacc gggaaaagcc caccatgaga atcggtcgcc cccggcgtcc
+      421 gaattgtagt ctggaagaag c
+//
+LOCUS       JX856437                 685 bp    DNA     linear   PLN 09-MAR-2015
+DEFINITION  Cassia sp. AMT-2013 isolate 208 internal transcribed spacer 1,
+            partial sequence; 5.8S ribosomal RNA gene, complete sequence; and
+            internal transcribed spacer 2, partial sequence.
+ACCESSION   JX856437
+VERSION     JX856437.1
+KEYWORDS    .
+SOURCE      Cassia sp. AMT-2013
+  ORGANISM  Cassia sp. AMT-2013
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Cassia clade;
+            Cassia.
+REFERENCE   1  (bases 1 to 685)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Kumar,A., Singh,A., Singh,S.,
+            Chaudhary,L.B. and Roy,S.
+  TITLE     The Internal Transcribed Spacer (ITS) Region and trnhH-psbA Are
+            Suitable Candidate Loci for DNA Barcoding of Tropical Tree Species
+            of India
+  JOURNAL   PLoS ONE 8 (2), E57934 (2013)
+   PUBMED   23460915
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 685)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Chaudhary,L.B. and Roy,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2012) National Botanical Research Institute, Rana
+            Pratap Marg, Lucknow, U.P 226001, India
+FEATURES             Location/Qualifiers
+     source          1..685
+                     /db_xref="taxon:1295406"
+                     /isolate="208"
+                     /mol_type="genomic DNA"
+                     /organism="Cassia sp. AMT-2013"
+     misc_RNA        <1..>685
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, and internal transcribed spacer 2"
+ORIGIN
+        1 ctgcggagga tcattgtcga tgcctcgcaa cggtaccact ggcgaacagg tggaagtgcc
+       61 ctcgaggcgg gaggcgtggg gtgtgcgtca cccttagtcc cccgctgggt gcccggggcg
+      121 tgatagtggc ctacgtgcag cattgcgcct cgggcaaccc ctcaacaata accccggcgc
+      181 cggacgcgcc aaggaactca aacgaatgtg cgtggccccg gcaaatcgga gacggttctt
+      241 gcctggggtc ccgacgtaaa tgatgtccag aatgactctc ggcaacggat atctcggctc
+      301 tcgcatcgat gaagaacgta gcgaaatgcg atacttggtg tgaattgcag aatcccgtga
+      361 accatcgagt ctttgaacgc aagttgcgcc cgaagccatt aggcagaggg cacgtctgcc
+      421 tgggtgtcac gcattgttgc cccaatccac ttcgtccctc cgatcggtgt ggggcggcga
+      481 ggtgcttggg tagaatttgg cctcccacga gccatgcctc gcggatggtc gaaaaaagta
+      541 gcctgtgtgg ggcaatcgcc acgttccacg gtggatgacc agatggctcg agaccgaccg
+      601 tgcgtgtgtt gtccctacgc ttgggctgcc agaccccttg cgagcgagga agctctctca
+      661 atgcgacccc agtcaggctt ccacc
+//
+LOCUS       JX856436                 678 bp    DNA     linear   PLN 09-MAR-2015
+DEFINITION  Cassia sp. AMT-2013 isolate 108 internal transcribed spacer 1,
+            partial sequence; 5.8S ribosomal RNA gene, complete sequence; and
+            internal transcribed spacer 2, partial sequence.
+ACCESSION   JX856436
+VERSION     JX856436.1
+KEYWORDS    .
+SOURCE      Cassia sp. AMT-2013
+  ORGANISM  Cassia sp. AMT-2013
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Cassia clade;
+            Cassia.
+REFERENCE   1  (bases 1 to 678)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Kumar,A., Singh,A., Singh,S.,
+            Chaudhary,L.B. and Roy,S.
+  TITLE     The Internal Transcribed Spacer (ITS) Region and trnhH-psbA Are
+            Suitable Candidate Loci for DNA Barcoding of Tropical Tree Species
+            of India
+  JOURNAL   PLoS ONE 8 (2), E57934 (2013)
+   PUBMED   23460915
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 678)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Chaudhary,L.B. and Roy,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2012) National Botanical Research Institute, Rana
+            Pratap Marg, Lucknow, U.P 226001, India
+FEATURES             Location/Qualifiers
+     source          1..678
+                     /db_xref="taxon:1295406"
+                     /isolate="108"
+                     /mol_type="genomic DNA"
+                     /organism="Cassia sp. AMT-2013"
+     misc_RNA        <1..>678
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, and internal transcribed spacer 2"
+ORIGIN
+        1 ctgcggagga tcattgttga tgcctcgcaa acaggacgac ttgcgaactg gttgaattaa
+       61 tctcggggag gcacacgagg ggtccacatt gccccgagtt gccagcccct tgccgggggc
+      121 gcaagagcgg cctcgtgctg ctgctagtgt gccccgggca gcacaacaac tatggccccg
+      181 gcgccggacg cgccaaggaa ctcgaacaaa cgtgcgtagc cccggcgatc cggatacgga
+      241 tcccgctcgg ggtaagtcgc gagaatggtg tccaaaatga ctctcggcaa cggatatctc
+      301 ggctctcgca tcgatgaaga acgtagcgaa atgcgatact tggtgtgaat tgcagaatcc
+      361 cgtgaaccat cgagtctttg aacgcaagtt gcgcccgaag ccattaggcc gagggcacgt
+      421 ctgcctgggt gtcacgcatt gctgtcccaa acccagacgc ccctcgaact gatcggaggg
+      481 ggggaggcgc ttgggcgaaa gttggcctcc cgcgagcatt gcctcgcgga tggttgaaaa
+      541 acgagcccac gagtgatgac cgccacgttc acggtggacg agcgaaagcc tcgagcccga
+      601 ccgtgcgcat gatgtccctt tgtctaggct gcgagacccg tgcaagcaag aaagcgctca
+      661 caacgcgacc ccaggtca
+//
+LOCUS       JX856435                 413 bp    DNA     linear   PLN 09-MAR-2015
+DEFINITION  Cassia roxburghii isolate 362 internal transcribed spacer 1, partial
+            sequence; 5.8S ribosomal RNA gene, complete sequence; and internal
+            transcribed spacer 2, partial sequence.
+ACCESSION   JX856435
+VERSION     JX856435.1
+KEYWORDS    .
+SOURCE      Cassia roxburghii
+  ORGANISM  Cassia roxburghii
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Cassia clade;
+            Cassia.
+REFERENCE   1  (bases 1 to 413)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Kumar,A., Singh,A., Singh,S.,
+            Chaudhary,L.B. and Roy,S.
+  TITLE     The Internal Transcribed Spacer (ITS) Region and trnhH-psbA Are
+            Suitable Candidate Loci for DNA Barcoding of Tropical Tree Species
+            of India
+  JOURNAL   PLoS ONE 8 (2), E57934 (2013)
+   PUBMED   23460915
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 413)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Chaudhary,L.B. and Roy,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2012) National Botanical Research Institute, Rana
+            Pratap Marg, Lucknow, U.P 226001, India
+FEATURES             Location/Qualifiers
+     source          1..413
+                     /db_xref="taxon:948717"
+                     /isolate="362"
+                     /mol_type="genomic DNA"
+                     /organism="Cassia roxburghii"
+     misc_RNA        <1..>413
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, and internal transcribed spacer 2"
+ORIGIN
+        1 ccacccgacc cccctggggc cgttgcacgc ggaagccagc gcctcttcga ggcacgggcg
+       61 gaagcgtggc agcgggataa ccacaacccc ggcgctagat gcgccaagga cccacaagaa
+      121 acagggacga ccctggctgc ccggagacgg agcactgcca gggaagtgcc gctgaactcg
+      181 taacgaaaac gactctcggc aacggatatc taggctctcg catcgatgaa gaacgtagcg
+      241 aaatgcgata cttggtgtga attgcagaat cccgtgaacc atcgagtctt tgaacgcaag
+      301 ttgcgcccga agccactagg ccgagggcac gtctgcctgg gcgtcacacg acgttgcccc
+      361 caatcccatt cccgctccct ctccccgtcg gagggagggg cgaggggtgg gcg
+//
+LOCUS       JX856434                 434 bp    DNA     linear   PLN 09-MAR-2015
+DEFINITION  Cassia javanica isolate CN2 internal transcribed spacer 1, partial
+            sequence; 5.8S ribosomal RNA gene, complete sequence; and internal
+            transcribed spacer 2, partial sequence.
+ACCESSION   JX856434
+VERSION     JX856434.1
+KEYWORDS    .
+SOURCE      Cassia javanica
+  ORGANISM  Cassia javanica
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Cassia clade;
+            Cassia.
+REFERENCE   1  (bases 1 to 434)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Kumar,A., Singh,A., Singh,S.,
+            Chaudhary,L.B. and Roy,S.
+  TITLE     The Internal Transcribed Spacer (ITS) Region and trnhH-psbA Are
+            Suitable Candidate Loci for DNA Barcoding of Tropical Tree Species
+            of India
+  JOURNAL   PLoS ONE 8 (2), E57934 (2013)
+   PUBMED   23460915
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 434)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Chaudhary,L.B. and Roy,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2012) National Botanical Research Institute, Rana
+            Pratap Marg, Lucknow, U.P 226001, India
+FEATURES             Location/Qualifiers
+     source          1..434
+                     /db_xref="taxon:508996"
+                     /isolate="CN2"
+                     /mol_type="genomic DNA"
+                     /organism="Cassia javanica"
+     misc_RNA        <1..>434
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, and internal transcribed spacer 2"
+ORIGIN
+        1 tgcgccaagg acccataaga aacaggcacg accctggctg cccggagacg gagccccgcc
+       61 agggaagcgc cgctgaactt gtaaccaaaa cgactctcgg caacggatat ctaggctctc
+      121 gcatcgatga agaacgtagc gaaatgcgat acttggtgtg aattgcagaa tcccgtgaac
+      181 catcgagtct ttgaacgcaa gttgcgcccg aagccaatag gccgagggca tgtctgcctg
+      241 ggcgtcacac aacgttgccc ataatcccat tcgctctccc tccccatcag aggggcgagc
+      301 ggtgggcggg gcggaatgct ggcctcccgt gagcgcggcc tcgcggatgg ctgaaagatg
+      361 agcctgtggg ggagcgatca ccacggtcca cggtggatga gcagggaatg ccttgatacc
+      421 gaccgtgcgt gcgt
+//
+LOCUS       JX856433                 358 bp    DNA     linear   PLN 09-MAR-2015
+DEFINITION  Cassia javanica isolate 105 internal transcribed spacer 1, partial
+            sequence; 5.8S ribosomal RNA gene, complete sequence; and internal
+            transcribed spacer 2, partial sequence.
+ACCESSION   JX856433
+VERSION     JX856433.1
+KEYWORDS    .
+SOURCE      Cassia javanica
+  ORGANISM  Cassia javanica
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Cassia clade;
+            Cassia.
+REFERENCE   1  (bases 1 to 358)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Kumar,A., Singh,A., Singh,S.,
+            Chaudhary,L.B. and Roy,S.
+  TITLE     The Internal Transcribed Spacer (ITS) Region and trnhH-psbA Are
+            Suitable Candidate Loci for DNA Barcoding of Tropical Tree Species
+            of India
+  JOURNAL   PLoS ONE 8 (2), E57934 (2013)
+   PUBMED   23460915
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 358)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Chaudhary,L.B. and Roy,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2012) National Botanical Research Institute, Rana
+            Pratap Marg, Lucknow, U.P 226001, India
+FEATURES             Location/Qualifiers
+     source          1..358
+                     /db_xref="taxon:508996"
+                     /isolate="105"
+                     /mol_type="genomic DNA"
+                     /organism="Cassia javanica"
+     misc_RNA        <1..>358
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, and internal transcribed spacer 2"
+ORIGIN
+        1 cggtgaactt gtaaccaaaa cgactctcgg caacggatat ctaggctctc gcatcgatga
+       61 agaacgtagc gaaatgcgat acttggtgtg aattgcagaa tcccgtgaac catcgagtct
+      121 ttgaacgcaa gttgcgcccg aagacaatag gccgagggca tgtctgcctg ggtgtcacac
+      181 aacgttgccc attatcacat tcgctctccc tcccatcaga ggggcgagcg gtgggcgggg
+      241 cggaatctgg cctcccgtga gcgcggcctc gcggatggct gaaagatgag cctgtggggg
+      301 agcgatcacc acggtccacg gtggatgagc agggaatgcc ttgataccga ccgtgcgt
+//
+LOCUS       JX856432                 677 bp    DNA     linear   PLN 09-MAR-2015
+DEFINITION  Cassia fistula isolate CF2 internal transcribed spacer 1, partial
+            sequence; 5.8S ribosomal RNA gene, complete sequence; and internal
+            transcribed spacer 2, partial sequence.
+ACCESSION   JX856432
+VERSION     JX856432.1
+KEYWORDS    .
+SOURCE      Cassia fistula
+  ORGANISM  Cassia fistula
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Cassia clade;
+            Cassia.
+REFERENCE   1  (bases 1 to 677)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Kumar,A., Singh,A., Singh,S.,
+            Chaudhary,L.B. and Roy,S.
+  TITLE     The Internal Transcribed Spacer (ITS) Region and trnhH-psbA Are
+            Suitable Candidate Loci for DNA Barcoding of Tropical Tree Species
+            of India
+  JOURNAL   PLoS ONE 8 (2), E57934 (2013)
+   PUBMED   23460915
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 677)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Chaudhary,L.B. and Roy,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2012) National Botanical Research Institute, Rana
+            Pratap Marg, Lucknow, U.P 226001, India
+FEATURES             Location/Qualifiers
+     source          1..677
+                     /db_xref="taxon:53852"
+                     /isolate="CF2"
+                     /mol_type="genomic DNA"
+                     /organism="Cassia fistula"
+     misc_RNA        <1..>677
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, and internal transcribed spacer 2"
+ORIGIN
+        1 ggatcattgt cgatgcctca accagaacga cacgcgaacc agttaagtgt accatgccag
+       61 gggaggaggg atgggggcgt gctatgcctg cctccagcca cctgccctac gtcgttgcat
+      121 ggggaagcca gcgccactga ggcactagcg gaaccgtgac gcaacgaaac aaccacaatt
+      181 tcggcgctag atgcgccaag gacccataag aaacaggcac ggccttggct gcccggagac
+      241 ggagccatgc cagggaagcg ccgctgaact agtaacaaaa acgactcccg gcaacggata
+      301 tctaggctct cgcatcgatg aagaacgtag cgaaatgcga tacttggtgt gaattgcaga
+      361 atcccgtgaa ccatcgagtc tttgaacgca agttgcgccc gaagccacta ggccgagggc
+      421 acgtctgcct gggcgtcaca caacgttgtt cccaacccca ttctcgctcc ctcccaccgg
+      481 agcggcggga tggtggttgg ggaggaagtt ggcctcccgt gagcgtggcc tcgcggatgg
+      541 ctgaaagacg agcctgtggg ggagcgatca ccacgttcca cggtggatga gcagaaaatg
+      601 gcttgatacc gatcgtgcgt gagtcgtgcc cccctgttgg gctcttggac cctcgttcgt
+      661 tctcctaacg cgacccc
+//

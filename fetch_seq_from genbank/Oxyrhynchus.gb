@@ -1,0 +1,227 @@
+LOCUS       JN008329                 643 bp    DNA     linear   PLN 25-OCT-2011
+DEFINITION  Oxyrhynchus volubilis bio-material DNA 253 small subunit ribosomal
+            RNA gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   JN008329
+VERSION     JN008329.1
+KEYWORDS    .
+SOURCE      Oxyrhynchus volubilis
+  ORGANISM  Oxyrhynchus volubilis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Oxyrhynchus.
+REFERENCE   1  (bases 1 to 643)
+  AUTHORS   Delgado-Salinas,A., Thulin,M., Pasquet,R., Weeden,N. and Lavin,M.
+  TITLE     Vigna (Leguminosae) sensu lato: The names and identities of the
+            American segregate genera
+  JOURNAL   Am. J. Bot. 98 (10), 1694-1715 (2011)
+   PUBMED   21980163
+REFERENCE   2  (bases 1 to 643)
+  AUTHORS   Delgado-Salinas,A., Thulin,M., Pasquet,R., Weeden,N. and Lavin,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-MAY-2011) Plant Sciences and Plant Pathology, Montana
+            State University, 119 PBB, Bozeman, MT 59717, USA
+FEATURES             Location/Qualifiers
+     source          1..643
+                     /PCR_primers="fwd_name: its18, fwd_seq:
+                     gtccactgaaccttatcatttagagg, rev_name: its26, rev_seq:
+                     gccgttactaagggaatccttgttag"
+                     /bio_material="DNA 253"
+                     /country="Mexico: Veracruz"
+                     /db_xref="taxon:77321"
+                     /mol_type="genomic DNA"
+                     /organism="Oxyrhynchus volubilis"
+                     /specimen_voucher="Di Constanzzo 289 (MEXU)"
+     misc_RNA        <1..248
+                     /note="contains small subunit ribosomal RNA and internal
+                     transcribed spacer 1"
+     rRNA            249..411
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        412..>643
+                     /note="contains internal transcribed spacer 2 and 28S
+                     ribosomal RNA"
+ORIGIN
+        1 tcattgtcga tgcctcaacc aaccagtttg accagtgaat ctgtccatat ccacaccaca
+       61 ggggtctggc ttgtcctccc ttgtgcgtcg agagggaggg agggggtcaa gcgcctcgtg
+      121 caattggcca agtaactctc tctcgacaaa cactaacccc ggcgcttcat gcgccaagga
+      181 aatctgaact tgttaggcgc ggcacccggg gacggtgttc cacgggtgtt gtcacgacat
+      241 gttatgtaaa atgactctcg gcaacggata tctcggctct tgcatcgatg aagaacgtag
+      301 cgaaatgcga tacttggtgt gaattgcaga atcccgtgaa ccatcgagtc tttgaacgca
+      361 agttgcgccc aaagccatta ggttgagggc acgcctgcct gggtgtcaca catcgccacc
+      421 ccccccactt aaacgtgtag cagggtgaaa gttgacctcc cgtgagctag ttcctcgtgg
+      481 ttggttgaaa agcaagttca cggcggagtt ccccgcgata aatggtggat gagcaatgct
+      541 cgagaccaat cgtgcttgtg tgactccgac gtatcggact ggttgaccct atgcgtcctt
+      601 ttccaaggcg ctcttagcga gacctcaggt caggcggggc tac
+//
+LOCUS       AY508735                 642 bp    DNA     linear   PLN 30-JUL-2004
+DEFINITION  Oxyrhynchus volubilis from Mexico small subunit ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and
+            large subunit ribosomal RNA gene, partial sequence.
+ACCESSION   AY508735
+VERSION     AY508735.1
+KEYWORDS    .
+SOURCE      Oxyrhynchus volubilis
+  ORGANISM  Oxyrhynchus volubilis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Oxyrhynchus.
+REFERENCE   1  (bases 1 to 642)
+  AUTHORS   Riley-Hulting,E.T., Delgado-Salinas,A. and Lavin,M.
+  TITLE     Phylogenetic systematics of Strophostyles (Fabaceae): a North
+            American temperate genus within a neotropical diversification
+  JOURNAL   Syst. Bot. 29 (3), 627-653 (2004)
+REFERENCE   2  (bases 1 to 642)
+  AUTHORS   Riley-Hulting,E.T., Delgado-Salinas,A. and Lavin,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-DEC-2003) Plant Sciences, Montana State University,
+            119 Ag Biosciences Bldg, Bozmeman, MT 59717, USA
+FEATURES             Location/Qualifiers
+     source          1..642
+                     /country="Mexico"
+                     /db_xref="taxon:77321"
+                     /mol_type="genomic DNA"
+                     /organism="Oxyrhynchus volubilis"
+                     /specimen_voucher="Mexico, Veracruz, Cedillo 3006 (MEXU)"
+     rRNA            <1..6
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        7..243
+                     /product="internal transcribed spacer 1"
+     rRNA            244..411
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        412..618
+                     /product="internal transcribed spacer 2"
+     rRNA            619..>642
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 tcattgtcga tgcctcaacc aaccagtttg accagtgaat ctgtccatat ccacaacaca
+       61 ggggtctggc ttgtcctccc ttgtgcgtcg agagggaggg agggggtcaa gcgcctcgtg
+      121 caattggcca agtaactctc tctcgacaaa cactaacccc ggcgcttcat gcgccaagga
+      181 aatctaaact tgttaggcgc ggcacccggg gacggtgttc cacgggtgtt gtcacgacat
+      241 gttatgtaaa atgactctcg gcaacggata tctcggctct tgcatcgatg aagaacgtag
+      301 cgaaatgcga tacttggtgt gaattgcaga atcccgtgaa ccatcgagtc tttgaacgca
+      361 agttgcgccc aaagccatta ggttgagggc acgcctgcct gggtgtcaca catcgccacc
+      421 cccccactta aacgtgtagc agggtgaaag ttgacctccc gtgagctagt tcctcgtggt
+      481 tggttgaaaa gcaagttcac ggcggagttc cccgcgataa atggtggatg agcaatgctc
+      541 gagaccaatc gtgcttgtgt gactccgacg tatcggactg gttgacccta tgcgtccttt
+      601 tccaaggcgc tcttagcgag acctcaggtc aggcggggct ac
+//
+LOCUS       AF115135                 646 bp    DNA     linear   PLN 14-MAR-2006
+DEFINITION  Oxyrhynchus trinervius small subunit ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene and
+            internal transcribed spacer 2, complete sequence; and large subunit
+            ribosomal RNA gene, partial sequence.
+ACCESSION   AF115135
+VERSION     AF115135.1
+KEYWORDS    .
+SOURCE      Oxyrhynchus trinervius
+  ORGANISM  Oxyrhynchus trinervius
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Oxyrhynchus.
+REFERENCE   1  (bases 1 to 646)
+  AUTHORS   Delgado-Salinas,A., Turley,T., Richman,A. and Lavin,M.
+  TITLE     Phylogenetic analysis of cultivated and wild species of Phaseolus
+            (Fabaceae)
+  JOURNAL   Syst. Bot. 24 (3), 438-460 (1999)
+REFERENCE   2  (bases 1 to 646)
+  AUTHORS   Delgado-Salinas,A., Turley,T., Richman,A. and Lavin,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-DEC-1998) Plant Sciences, Montana State University,
+            Bozeman, MT 59717, USA
+FEATURES             Location/Qualifiers
+     source          1..646
+                     /country="Mexico: Queretaro"
+                     /db_xref="taxon:90551"
+                     /mol_type="genomic DNA"
+                     /organism="Oxyrhynchus trinervius"
+                     /specimen_voucher="Mexico, Queretaro, Carranza 1069 (MEXU)"
+     rRNA            <1..6
+                     /note="small subunit RNA"
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        7..247
+                     /product="internal transcribed spacer 1"
+     rRNA            248..415
+                     /note="5.8S"
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        416..621
+                     /product="internal transcribed spacer 2"
+     rRNA            622..>646
+                     /note="large subunits RNA"
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 tcattgtcga tgccttaacc aaccagtttg accagtgaac ctgtccatat ccacaccaca
+       61 agggtccggc tcgtcctccc ttgtgcgtcg agagggaggg agggaggggg gtcaagcgcc
+      121 tcgtgcaatt ggccaagtaa ctctctctcg acaaacacta accccggcgc ttcatgcgcc
+      181 aaggaatctg aacttgttag gtgcggcacc cggggacggt gttccacggg tgttgtcacg
+      241 acatgttatg taaaatgact ctcggcaacg gatatctcgg ctcttgcatc gatgaagaac
+      301 gtagcgaaat gcgatacttg gtgtgaattg cagaatcccg tgaaccatcg agtctttgaa
+      361 cgcaagttgc gcccaaagcc attaggttga gggcacgcct gcctgggtgt cacacatcgc
+      421 caccccccca cttaaacgtg cggcagggtg aaagttgacc tcccgcgagc cagttcctcg
+      481 tggttggttg aaaagcaagt tcacggcgga gttccccgcg attaatggtg gatgagcaat
+      541 gctcgagacc aatcgtgctc gtgtgactct gacgtatcgg actggttgat cctatgcgtc
+      601 ctttttgaag gcgctcttag cgagacctca ggtcaggcgg ggctac
+//
+LOCUS       AF069114                 642 bp    DNA     linear   PLN 19-MAR-2008
+DEFINITION  Oxyrhynchus volubilis small subunit ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and large
+            subunit ribosomal RNA gene, partial sequence.
+ACCESSION   AF069114
+VERSION     AF069114.1
+KEYWORDS    .
+SOURCE      Oxyrhynchus volubilis
+  ORGANISM  Oxyrhynchus volubilis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Oxyrhynchus.
+REFERENCE   1  (bases 1 to 642)
+  AUTHORS   Delgado-Salinas,A., Turley,T., Richman,A. and Lavin,M.
+  TITLE     Phylogenetic analysis of cultivated and wild species of Phaseolus
+            (Fabaceae)
+  JOURNAL   Syst. Bot. 24 (3), 438-460 (1999)
+REFERENCE   2  (bases 1 to 642)
+  AUTHORS   Thulin,M., Lavin,M., Pasquet,R. and Delgado-Salinas,A.
+  TITLE     Phylogeny and Biogeography of Wajira (Leguminosae): A Monophyletic
+            Segregate of Vigna Centered in the Horn of Africa Region
+  JOURNAL   Syst. Bot. 29 (4), 903-920 (2004)
+REFERENCE   3  (bases 1 to 642)
+  AUTHORS   Delgado-Salinas,A., Turley,T. and Lavin,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-MAY-1998) Biology, Montana State University, 310 Lewis
+            Hall, Bozeman, MT 59717, USA
+FEATURES             Location/Qualifiers
+     source          1..642
+                     /country="Mexico: Queretero"
+                     /db_xref="taxon:77321"
+                     /mol_type="genomic DNA"
+                     /organism="Oxyrhynchus volubilis"
+                     /specimen_voucher="E. Carranza 1069 (DNA 95) (MEXU)"
+     rRNA            <1..6
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        7..243
+                     /product="internal transcribed spacer 1"
+     rRNA            244..411
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        412..617
+                     /product="internal transcribed spacer 2"
+     rRNA            618..>642
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 tcattgtcga tgcctcaacc aaccagtttg accagtgaat ctgtccatat ccacaacaca
+       61 ggggtctggc ttgtcctccc ttgtgcgtcg agagggaggg agggggtcaa gcgcctcgtg
+      121 caattggcca agtaactctc tctcgacaaa cactaacccc ggcgcttcat gcgccaagga
+      181 aatctaaact tgttaggcgc ggcacccggg gacggtgttc cacgggtgtt gtcacgacat
+      241 gttatgtaaa atgactctcg gcaacggata tctcggctct tgcatcgatg aagaacgtag
+      301 cgaaatgcga tacttggtgt gaattgcaga atcccgtgaa ccatcgagtc tttgaacgca
+      361 agttgcgccc aaagccatta ggttgagggc acgcctgcct gggtgtcaca catcgccacc
+      421 cccccactta aacgtgtagc agggtgaaag ttgacctccc gtgagctagt tcctcgtggt
+      481 tggttgaaaa gcaagttcac ggcggagttc cccgcgataa atggtggatg agcaatgctc
+      541 gagaccaatc gtgcttgtgt gactccgacg tatcggactg gttgacccta tgcgtccttt
+      601 tccaaggcgc tcttagcgag acctcaggtc aggcggggct ac
+//

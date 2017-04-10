@@ -1,0 +1,55 @@
+LOCUS       AF467036                 656 bp    DNA     linear   PLN 04-DEC-2002
+DEFINITION  Centrosema pubescens specimen-voucher Hu 1093 (DAV) small subunit
+            ribosomal RNA gene, partial sequence; internal transcribed spacer 1,
+            5.8S ribosomal RNA gene and internal transcribed spacer 2, complete
+            sequence; and large subunit ribosomal RNA gene, partial sequence.
+ACCESSION   AF467036
+VERSION     AF467036.1
+KEYWORDS    .
+SOURCE      Centrosema pubescens
+  ORGANISM  Centrosema pubescens
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Centrosema.
+REFERENCE   1  (bases 1 to 656)
+  AUTHORS   Hu,J.-M., Lavin,M., Wojciechowski,M.F. and Sanderson,M.J.
+  TITLE     Phylogenetic analysis of nuclear ribosomal ITS/5.8S sequences in the
+            tribe Millettieae (Fabaceae): Poecilanthe-Cyclolobium, the core
+            Millettieae, and the Callerya group
+  JOURNAL   Syst. Bot. 27 (4), 722-733 (2002)
+REFERENCE   2  (bases 1 to 656)
+  AUTHORS   Hu,J.-M., Lavin,M., Wojciechowski,M. and Sanderson,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JAN-2002) Plant Sciences, Montana State University,
+            119 Ag Bioscience Bldg., Bozeman, MT 59717, USA
+FEATURES             Location/Qualifiers
+     source          1..656
+                     /country="Taiwan"
+                     /db_xref="taxon:185703"
+                     /mol_type="genomic DNA"
+                     /organism="Centrosema pubescens"
+                     /specimen_voucher="Hu 1093 (DAV)"
+     rRNA            <1..6
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        7..246
+                     /product="internal transcribed spacer 1"
+     rRNA            247..412
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        413..636
+                     /product="internal transcribed spacer 2"
+     rRNA            637..>656
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 tcattgtcga tgcctaccca ataagtttga ctcgcgaatt tgttcaacga cgcggggttg
+       61 gctcggggcg tcgaacgtcg cggcctccct tcggcgggga gggcgtcgcg ggccctgcct
+      121 gcggcttcct cccggccaaa aaccctaaac ccgggcgctt tgcgcgccaa ggaaattcgg
+      181 aatcgtacgg ggcgttcccg cggacccgga gacggagctt ccgcgggtgc cgttccggca
+      241 aaagtacacg aaacgactcc cggcaacgga tatctcggct cttgcatcga tgaagaacgt
+      301 agcgaaatgc gatacttggt gtgaattgca gaatcccgtg aaccatcgag tctttgaacg
+      361 caagttgcgc ccgaagccat taggttgagg gcacgcctgc ctgggtgtca tacgtcgtcg
+      421 cccccaacgc cgttgcgtcc cttgggttcg gcaacgagct gggcggatgc tggcctcccg
+      481 cgagcacggt ctcgtggctg gttgaaaatc gagtcccgcg gtggagttcg ccgcgataca
+      541 ggtggttggt tgagcgaatg ctcgaaggcc gatcgcgcgc gagtctccgc gggtttgggg
+      601 ctccgatacc cccccgcgtc ctacggatgc tcacagcgag acctcaggtc agacgg
+//

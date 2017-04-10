@@ -1,0 +1,111 @@
+LOCUS       AY583515                 608 bp    DNA     linear   PLN 04-JAN-2005
+DEFINITION  Dipogon lignosus small subunit ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal
+            transcribed spacer 2, complete sequence; and large subunit ribosomal
+            RNA gene, partial sequence.
+ACCESSION   AY583515
+VERSION     AY583515.1
+KEYWORDS    .
+SOURCE      Dipogon lignosus
+  ORGANISM  Dipogon lignosus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Dipogon.
+REFERENCE   1  (bases 1 to 608)
+  AUTHORS   Thulin,M., Lavin,M., Pasquet,R. and Delgado-Salinas,A.
+  TITLE     Phylogeny and Biogeography of Wajira (Leguminosae): A Monophyletic
+            Segregate of Vigna Centered in the Horn of Africa Region
+  JOURNAL   Syst. Bot. 29 (4), 903-920 (2004)
+REFERENCE   2  (bases 1 to 608)
+  AUTHORS   Thulin,M., Lavin,M., Pasquet,R. and Delgado-Salinas,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-MAR-2004) Plant Sciences, Montana State University,
+            119 Ag Biosciences Bldg, Bozeman, MT 59717, USA
+FEATURES             Location/Qualifiers
+     source          1..608
+                     /db_xref="taxon:132441"
+                     /mol_type="genomic DNA"
+                     /note="cultivated"
+                     /organism="Dipogon lignosus"
+                     /specimen_voucher="J. Gibson 145 (UCD)"
+     rRNA            <1..6
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        7..205
+                     /product="internal transcribed spacer 1"
+     rRNA            206..373
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        376..583
+                     /product="internal transcribed spacer 2"
+     rRNA            584..>608
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 tcattgtcga tgcctcaacc aaccaatttg accggtgaac ctgtctatat ccgcaagggt
+       61 ctggctcgtc ctcccctgtg cgtcgagagg ggggtcaact ctctctcggc aaacactaac
+      121 cccggcgctt cgtgcgccaa ggaatttaaa gctgttaggt gcggcccccg gggacggtgt
+      181 cccacgggtg tcgtcacgac atgttatgta aaatgactct cggcaacgga tatctcggct
+      241 cttgcatcga tgaagaacgt agcgaaatgc gatacttggt gtgaattgca gaatcccgtg
+      301 aaccatcgag tctttgaacg caagttgcgc ccaaagccat taggttgagg gcacgcctgc
+      361 ctgggtgtca cacatcgtca ccccccacgc aaatgctcgg cggggtgata agctgacttc
+      421 ccgcgagccg gtctcgggtt ggttgaaaac taagttcacg gtggagttcg ccgcgataaa
+      481 tggtggatga gcaatgctcg agaccaatcg cgcgtgcatg actctggcct atcggactgg
+      541 ttgaccctgt gcgtcctctg tgcaaaccga aggcgctctt agcgagacct caggtcaggc
+      601 ggggctac
+//
+LOCUS       JN008277                 608 bp    DNA     linear   PLN 25-OCT-2011
+DEFINITION  Dipogon lignosus bio-material DNA 136 small subunit ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   JN008277
+VERSION     JN008277.1
+KEYWORDS    .
+SOURCE      Dipogon lignosus
+  ORGANISM  Dipogon lignosus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Dipogon.
+REFERENCE   1  (bases 1 to 608)
+  AUTHORS   Delgado-Salinas,A., Thulin,M., Pasquet,R., Weeden,N. and Lavin,M.
+  TITLE     Vigna (Leguminosae) sensu lato: The names and identities of the
+            American segregate genera
+  JOURNAL   Am. J. Bot. 98 (10), 1694-1715 (2011)
+   PUBMED   21980163
+REFERENCE   2  (bases 1 to 608)
+  AUTHORS   Delgado-Salinas,A., Thulin,M., Pasquet,R., Weeden,N. and Lavin,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-MAY-2011) Plant Sciences and Plant Pathology, Montana
+            State University, 119 PBB, Bozeman, MT 59717, USA
+FEATURES             Location/Qualifiers
+     source          1..608
+                     /PCR_primers="fwd_name: its18, fwd_seq:
+                     gtccactgaaccttatcatttagagg, rev_name: its26, rev_seq:
+                     gccgttactaagggaatccttgttag"
+                     /bio_material="DNA 136"
+                     /country="USA: California"
+                     /db_xref="taxon:132441"
+                     /mol_type="genomic DNA"
+                     /organism="Dipogon lignosus"
+                     /specimen_voucher="Dean SAF-960031 (UCD)"
+     misc_RNA        <1..210
+                     /note="contains small subunit ribosomal RNA and internal
+                     transcribed spacer 1"
+     rRNA            211..373
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        374..>608
+                     /note="contains internal transcribed spacer 2 and 28S
+                     ribosomal RNA"
+ORIGIN
+        1 tcattgtcga tgcctcaacc aaccaatttg accggtgaac ctgtctatat ctgcaagggt
+       61 ctggctcgtc ctcccttgtg cgtcgagagg ggggtcaact ctctctcggc aaacactaac
+      121 cccggcgctt cgtgcgccaa ggaatttaaa gctgttaggt gcggctcccg gggacggtgt
+      181 cccacgggtg tcgtcacgac atgttatgta aaatgactct cggcaacgga tatctcggct
+      241 cttgcatcga tgaagaacgt agcgaaatgc gatacttggt gtgaattgca gaatcccgtg
+      301 aaccatcgag tctttgaacg caagttgcgc ccaaagccat taggttgagg gcacgcctgc
+      361 ctgggtgtca cacatcgtca ccccccacgc aaatgctcgg cggggtgaaa gctgacttcc
+      421 cgcgagccgg tctcgtggtt ggttgaaaac taagttcacg gtggagttcg ccgcgataaa
+      481 tggtggatga gcaatgctcg agaccaatcg cgcgtgcatg actctgtcct atcggactgg
+      541 ttgaccctgt gcgtcctctg tgcaaaccga aggcgctctt agcgagacct caggtcaggc
+      601 ggggctac
+//

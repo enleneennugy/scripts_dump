@@ -1,0 +1,1155 @@
+LOCUS       KJ402386                 849 bp    DNA     linear   PLN 26-MAR-2016
+DEFINITION  Bionia tomentosa voucher E.R. Souza 888(HUEFS) 18S ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   KJ402386
+VERSION     KJ402386.1
+KEYWORDS    .
+SOURCE      Bionia tomentosa
+  ORGANISM  Bionia tomentosa
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Bionia.
+REFERENCE   1  (bases 1 to 849)
+  AUTHORS   Lima,A.V.F., Queiroz,L.P. and Souza,E.R.
+  TITLE     Three new species of Bionia Mart. ex Benth. (Leguminosae:
+            Papilionoideae: Phaseoleae) from Cadeia do Espinhaco
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 849)
+  AUTHORS   Lima,A.V.F., Queiroz,L.P. and Souza,E.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2014) Ciencias Biologicas, Universidade Estadual
+            de Feira de Santana, Av Transnordestina sn, Novo Horizonte, Feira de
+            Santana, Bahia 44036900, Brazil
+FEATURES             Location/Qualifiers
+     source          1..849
+                     /db_xref="taxon:1457441"
+                     /mol_type="genomic DNA"
+                     /note="authority: Bionia tomentosa (Benth.) L.P.de Queiroz"
+                     /organism="Bionia tomentosa"
+                     /specimen_voucher="E.R. Souza 888(HUEFS)"
+     misc_RNA        <1..366
+                     /note="contains 18S ribosomal RNA and internal transcribed
+                     spacer 1"
+     rRNA            373..536
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        537..>849
+                     /note="contains internal transcribed spacer 2 and 28S
+                     ribosomal RNA"
+ORIGIN
+        1 tccggtgaag tgttcggatt gcggcgacgt aggcggtttg ctgcccacga cgttgtgaga
+       61 agtccactga accttatcat ttagaggaag gagaagtcgt aacaaggttt ccgtaggtga
+      121 acctgcggaa ggatcattgt cgatgcctca caatcaattc aacttgtgaa tttgttttac
+      181 tatgcagggt tgattggatg ttcaacatct taccttccct tgtgttgggg gtaggtttat
+      241 gcgatgcgtg gccttcttcc aacaaaaaca caaaccccga cgcaacatgc gtcaaggaac
+      301 ttgaaattgt ttgatacact tgtagacccg gagacggtgt ttctacaagt gatgtcgttc
+      361 aacatgtctc aaaatgactc tcggcaacgg atatctcggc tcttgcatcg atgaagaacg
+      421 tagcaaaatg cgatacttgg tgtgaattgc agaatcccgt gaaccatcga gtctttgaac
+      481 gcaagttgcg cctgaaacca ttaggttgag ggcacgtctg cctgggtgtc acacaatgtt
+      541 gccctatgcc aatgcctttg aataatcggt gttcagcagg gcgaatgttg gcttcccacg
+      601 agcatcgtct cgtggttggt tgaaaaatga gtcctcggtg gaatgctcca tgataaatgg
+      661 tggttgagtg atgctcgaga ccaaacatgc gtggcttcct cctgaatgtg ggacctttga
+      721 cccttgcgtt ctcttacaac gctcacaacg agacctcagg tcaggcggga ctacccgctg
+      781 agtttaagca tatcaataag cggaggaaaa gaaactaaca aggattcccc tagtaacggc
+      841 gagcgaacc
+//
+LOCUS       KJ402385                 845 bp    DNA     linear   PLN 26-MAR-2016
+DEFINITION  Bionia sp. 3 Souza 692 18S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal
+            transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene,
+            partial sequence.
+ACCESSION   KJ402385
+VERSION     KJ402385.1
+KEYWORDS    .
+SOURCE      Bionia sp. 3 Souza 692
+  ORGANISM  Bionia sp. 3 Souza 692
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Bionia.
+REFERENCE   1  (bases 1 to 845)
+  AUTHORS   Lima,A.V.F., Queiroz,L.P. and Souza,E.R.
+  TITLE     Three new species of Bionia Mart. ex Benth. (Leguminosae:
+            Papilionoideae: Phaseoleae) from Cadeia do Espinhaco
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 845)
+  AUTHORS   Lima,A.V.F., Queiroz,L.P. and Souza,E.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2014) Ciencias Biologicas, Universidade Estadual
+            de Feira de Santana, Av Transnordestina sn, Novo Horizonte, Feira de
+            Santana, Bahia 44036900, Brazil
+FEATURES             Location/Qualifiers
+     source          1..845
+                     /db_xref="taxon:1470999"
+                     /mol_type="genomic DNA"
+                     /organism="Bionia sp. 3 Souza 692"
+                     /specimen_voucher="E.R. Souza 692(HUEFS)"
+     misc_RNA        <1..366
+                     /note="contains 18S ribosomal RNA and internal transcribed
+                     spacer 1"
+     rRNA            373..536
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        537..>845
+                     /note="contains internal transcribed spacer 2 and 28S
+                     ribosomal RNA"
+ORIGIN
+        1 tccggtgaag tgttcggatt gcggcgacgt aggcggtttg ctgcccacga cgttgtgaga
+       61 agtccactga accttatcat ttagaggaag gagaagtcgt aacaaggttt ccgtaggtga
+      121 acctgcggaa ggatcattgt cgatgcctca caatcaattc aacttgtgaa tttgtttaac
+      181 tatgcagggt tgattggatg ttcaacatct taccttccct tgtgttgggg gtaggtttat
+      241 gcgatgcgtg gccttcttcc aacaaaaaca caaaccccga cgcaacatgc gtcaaggaac
+      301 ttgaaattgt ttgatacact tgtagacccg gatacggtgt ttctacaagt gatgtcgttc
+      361 aacatgtctc aaaatgactc tcggcaacgg atatctcggc tcttgcatcg atgaagaacg
+      421 tagcaaaatg cgatacttgg tgtgaattgc agaatcccgt gaaccatcga gtctttgaac
+      481 gcaagttgcg cctgaaacca ttaggttgag ggcacgtctg cctgggtgtc acacaatgtt
+      541 gccctatgcc aatgcctttg aattatcggt gttgagcagg gcgaatgttg gcttcccacg
+      601 agcatcgtct cgtggttggt tgaaaaatga gtcctcggtg gaatgctcca tgataaatgg
+      661 tggttgagtg atgctcgaga ccaaacatgc gtggcgtcct cctgaatgtg ggacctttga
+      721 cccttgcgtt ctcttacaac gctcacaacg agacctcagg tcaggcggga ctacccgctg
+      781 agtttaagca tatcaataag cggaggaaaa gaaactaaca aggattcccc tagtaacggc
+      841 gagcg
+//
+LOCUS       KJ402384                 823 bp    DNA     linear   PLN 26-MAR-2016
+DEFINITION  Bionia pedicellata voucher L.P. de Queiroz 14851(HUEFS) 18S
+            ribosomal RNA gene, partial sequence; internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   KJ402384
+VERSION     KJ402384.1
+KEYWORDS    .
+SOURCE      Bionia pedicellata
+  ORGANISM  Bionia pedicellata
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Bionia.
+REFERENCE   1  (bases 1 to 823)
+  AUTHORS   Lima,A.V.F., Queiroz,L.P. and Souza,E.R.
+  TITLE     Three new species of Bionia Mart. ex Benth. (Leguminosae:
+            Papilionoideae: Phaseoleae) from Cadeia do Espinhaco
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 823)
+  AUTHORS   Lima,A.V.F., Queiroz,L.P. and Souza,E.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2014) Ciencias Biologicas, Universidade Estadual
+            de Feira de Santana, Av Transnordestina sn, Novo Horizonte, Feira de
+            Santana, Bahia 44036900, Brazil
+FEATURES             Location/Qualifiers
+     source          1..823
+                     /db_xref="taxon:232302"
+                     /mol_type="genomic DNA"
+                     /note="authority: Bionia pedicellata (Benth.) L.P.de
+                     Queiroz"
+                     /organism="Bionia pedicellata"
+                     /specimen_voucher="L.P. de Queiroz 14851(HUEFS)"
+     misc_RNA        <1..349
+                     /note="contains 18S ribosomal RNA and internal transcribed
+                     spacer 1"
+     rRNA            356..519
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        520..>823
+                     /note="contains internal transcribed spacer 2 and 28S
+                     ribosomal RNA"
+ORIGIN
+        1 attgcggcga cgtaggcggt ttgctgccca cgacgttgtg agaagtccac tgaaccttat
+       61 catttagagg aaggagaagt cgtaacaagg tttccgtagg tgaacctgcg gaaggatcat
+      121 tgtcgatgcc tcacatcaaa ttcaacttgt gaatttgttt aactatgcag ggttgattgg
+      181 atgttcaaca tcttaccttc ccttgtgttg ggggtaggtt tatgcgatgc gtggccttct
+      241 tccaacaaaa acacaaaccc cgacgcaaca tgcgtcaagg aacttgaaat tgtttgatac
+      301 acttgtagac ccggatacgg tgtttctaca agtgatgtcg ttcaacatgt ctcaaaatga
+      361 ctctcggcaa cggatatctc ggctcttgca tcgatgaaga acgtagcaaa atgcgatact
+      421 tggtgtgaat tgcagaatcc cgtgaaccat cgagtctttg aacgcaagtt gcgcctgaaa
+      481 ccattaggtt gagggcacgt ctgcctgggt gtcacacaat gttgccctat gccaattcct
+      541 ttgaattatc ggtgttgagc agggcgaatg ttggcttccc acgagcatcg tctcgtggtt
+      601 ggttgaaaaa tgagtcctcg gtggaatgct ccatgataaa tggtggttga gtgatgctcg
+      661 agaccaaaca tgcgtggcgt cctcctgaat gtgggacctt tgacccttgc gttctcttac
+      721 aacgctcaca acgagacctc aggtcaggcg ggactacccg ctgagtttaa gcatatcaat
+      781 aagcggagga aaagaaacta acaaggattc ccctagtaac ggc
+//
+LOCUS       KJ402383                 845 bp    DNA     linear   PLN 26-MAR-2016
+DEFINITION  Bionia sp. 2 Souza 844 18S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal
+            transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene,
+            partial sequence.
+ACCESSION   KJ402383
+VERSION     KJ402383.1
+KEYWORDS    .
+SOURCE      Bionia sp. 2 Souza 844
+  ORGANISM  Bionia sp. 2 Souza 844
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Bionia.
+REFERENCE   1  (bases 1 to 845)
+  AUTHORS   Lima,A.V.F., Queiroz,L.P. and Souza,E.R.
+  TITLE     Three new species of Bionia Mart. ex Benth. (Leguminosae:
+            Papilionoideae: Phaseoleae) from Cadeia do Espinhaco
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 845)
+  AUTHORS   Lima,A.V.F., Queiroz,L.P. and Souza,E.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2014) Ciencias Biologicas, Universidade Estadual
+            de Feira de Santana, Av Transnordestina sn, Novo Horizonte, Feira de
+            Santana, Bahia 44036900, Brazil
+FEATURES             Location/Qualifiers
+     source          1..845
+                     /db_xref="taxon:1470997"
+                     /mol_type="genomic DNA"
+                     /organism="Bionia sp. 2 Souza 844"
+                     /specimen_voucher="E.R. Souza 844(HUEFS)"
+     misc_RNA        <1..366
+                     /note="contains 18S ribosomal RNA and internal transcribed
+                     spacer 1"
+     rRNA            373..536
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        537..>845
+                     /note="contains internal transcribed spacer 2 and 28S
+                     ribosomal RNA"
+ORIGIN
+        1 tccggtgaag tgttcggatt gcggcgacgt aggcggtttg ctgcccacga cgttgtgaga
+       61 agtccactga accttatcat ttagaggaag gagaagtcgt aacaaggttt ccgtaggtga
+      121 acctgcggaa ggatcattgt cgatgcctca caatcaattc aacttgtgaa tttgttttac
+      181 tatgcagggt tgattggatg ttcaacatct taccttccct tgtgttgggg gtaggtttat
+      241 gcgatgcgtg gccttcttcc aacaaaaaca caaaccccga cgcaacatgc gtcaaggaac
+      301 ttgaaattgt ttgatacact tgtagacccg gagacggtgt ttctacaagt gatgtcgttc
+      361 aacatgtctc aaaatgactc tcggcaacgg atatctcggc tcttgcatcg atgaagaacg
+      421 tagcaaaatg cgatacttgg tgtgaattgc agaatcccgt gaaccatcga gtctttgaac
+      481 gcaagttgcg cctgaaacca ttaggttgag ggcacgtctg cctgggtgtc acacaatgtt
+      541 gccctatgcc aatgcctttg aataatcggt gttcagcagg gcgaatgttg gcttcccacg
+      601 agcatcgtct cgtggttggt tgaaaaatga gtcctcggtg gaatgctcca tgataaatgg
+      661 tggttgagtg atgctcgaga ccaaacatgc gtggcttcct cctgaatgtg ggacctttga
+      721 cccttgcgtt ctcttacaac gctcacaacg agacctcagg tcaggcggga ctacccgctg
+      781 agtttaagca tatcaataag cggaggaaaa gaaactaaca aggattcccc tagtaacggc
+      841 gagcg
+//
+LOCUS       KJ402382                 837 bp    DNA     linear   PLN 26-MAR-2016
+DEFINITION  Bionia coriacea voucher K.R.B. Leite 432(HUEFS) 18S ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   KJ402382
+VERSION     KJ402382.1
+KEYWORDS    .
+SOURCE      Bionia coriacea
+  ORGANISM  Bionia coriacea
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Bionia.
+REFERENCE   1  (bases 1 to 837)
+  AUTHORS   Lima,A.V.F., Queiroz,L.P. and Souza,E.R.
+  TITLE     Three new species of Bionia Mart. ex Benth. (Leguminosae:
+            Papilionoideae: Phaseoleae) from Cadeia do Espinhaco
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 837)
+  AUTHORS   Lima,A.V.F., Queiroz,L.P. and Souza,E.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2014) Ciencias Biologicas, Universidade Estadual
+            de Feira de Santana, Av Transnordestina sn, Novo Horizonte, Feira de
+            Santana, Bahia 44036900, Brazil
+FEATURES             Location/Qualifiers
+     source          1..837
+                     /db_xref="taxon:584677"
+                     /mol_type="genomic DNA"
+                     /note="authority: Bionia coriacea (Nees & Mart.) Benth"
+                     /organism="Bionia coriacea"
+                     /specimen_voucher="K.R.B. Leite 432(HUEFS)"
+     misc_RNA        <1..366
+                     /note="contains 18S ribosomal RNA and internal transcribed
+                     spacer 1"
+     rRNA            373..536
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        537..>837
+                     /note="contains internal transcribed spacer 2 and 28S
+                     ribosomal RNA"
+ORIGIN
+        1 tccggtgaag tgttcggatt gcggcgacgt aggcggtttg ctgcccacga cgttgtgaga
+       61 agtccactga accttatcat ttagaggaag gagaagtcgt aacaaggttt ccgtaggtga
+      121 acctgcggaa ggatcattgt cgatgcctca caatcaattc aacttgtgaa tttgtttaac
+      181 tatgcagggt tgattggatg ttcaacatct taccttccct tgtgttgggg gtaggtttat
+      241 gcgatgcgtg gccttcttcc aacaaaaaca caaaccccga cgcaacatgc gtcaaggaac
+      301 ttgaaattgt ttgatacact tgtagacccg gatacggtgt ttctacaagt gatgtcgttc
+      361 aacatgtctc aaaatgactc tcggcaacgg atatctcggc tcttgcatcg atgaagaacg
+      421 tagcaaaatg cgatacttgg tgtgaattgc agaatcccgt gaaccatcga gtctttgaac
+      481 gcaagttgcg cctgaaacca ttaggttgag ggcacgtctg cctgggtgtc acacaatgtt
+      541 gccctatgcc aatgcctttg aattatcggt gttgagcagg gcgaatgttg gcttcccacg
+      601 agcatcgtct cgtggttggt tgaaaaatga gtcctcggtg gaatgctcca tgataaatgg
+      661 tggttgagtg atgctcgaga ccaaacatgc gtggcgtcct cctgaatgtg ggacctttga
+      721 cccttgcgtt ctcttacaac gctcacaacg agacctcagg tcaggcggga ctacccgctg
+      781 agtttaagca tatcaataag cggaggaaaa gaaactaaca aggattcccc tagtaac
+//
+LOCUS       KJ402381                 849 bp    DNA     linear   PLN 26-MAR-2016
+DEFINITION  Bionia coccinea voucher E.R. Souza 875(HUEFS) 18S ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   KJ402381
+VERSION     KJ402381.1
+KEYWORDS    .
+SOURCE      Bionia coccinea
+  ORGANISM  Bionia coccinea
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Bionia.
+REFERENCE   1  (bases 1 to 849)
+  AUTHORS   Lima,A.V.F., Queiroz,L.P. and Souza,E.R.
+  TITLE     Three new species of Bionia Mart. ex Benth. (Leguminosae:
+            Papilionoideae: Phaseoleae) from Cadeia do Espinhaco
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 849)
+  AUTHORS   Lima,A.V.F., Queiroz,L.P. and Souza,E.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2014) Ciencias Biologicas, Universidade Estadual
+            de Feira de Santana, Av Transnordestina sn, Novo Horizonte, Feira de
+            Santana, Bahia 44036900, Brazil
+FEATURES             Location/Qualifiers
+     source          1..849
+                     /db_xref="taxon:584676"
+                     /mol_type="genomic DNA"
+                     /note="authority: Bionia coccinea Mart. ex Benth"
+                     /organism="Bionia coccinea"
+                     /specimen_voucher="E.R. Souza 875(HUEFS)"
+     misc_RNA        <1..366
+                     /note="contains 18S ribosomal RNA and internal transcribed
+                     spacer 1"
+     rRNA            373..536
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        537..>849
+                     /note="contains internal transcribed spacer 2 and 28S
+                     ribosomal RNA"
+ORIGIN
+        1 tccggtgaag tgttcggatt gcggcgacgt aggcggtttg ctgcccacga cgttgtgaga
+       61 agtccactga accttatcat ttagaggaag gagaagtcgt aacaaggttt ccgtaggtga
+      121 acctgcggaa ggatcattgt cgatgcctca caatcaattc aacttgtgaa tttgttttac
+      181 tatgcagggt tgattggatg ttcaacatct taccttccct tgtgttgggg gtaggtttat
+      241 gcgatgcgtg gccttcttcc aacaaaaaca caaaccccga cgcaacatgc gtcaaggaac
+      301 ttgaaattgt ttgatacact tgtagacccg gagacggtgt ttctacaagt gatgtcgttc
+      361 aacatgtctc aaaatgactc tcggcaacgg atatctcggc tcttgcatcg atgaagaacg
+      421 tagcaaaatg cgatacttgg tgtgaattgc agaatcccgt gaaccatcga gtctttgaac
+      481 gcaagttgcg cctgaaacca ttaggttgaa ggcacgtctg cctgggtgtc acacaatgtt
+      541 gccctatgcc aatgcctttg aataatcggt gttcagcagg gcgaatgttg gcttcccacg
+      601 agcatcgtct cgtggttggt tgaaaaatga gtcctcggtg gaatgctcca tgataaatgg
+      661 tggttgagtg atgctcgaga ccaaacatgc gtggcttcct cctgaatgtg ggacctttga
+      721 cccttgcgtt ctcttacaac gctcacaacg agacctcagg tcaggcggga ctacccgctg
+      781 agtttaagca tatcaataag cggaggaaaa gaaactaaca aggattcccc tagtaacggc
+      841 gagcgaacc
+//
+LOCUS       KJ402380                 847 bp    DNA     linear   PLN 26-MAR-2016
+DEFINITION  Bionia sp. 1 Souza 684 18S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal
+            transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene,
+            partial sequence.
+ACCESSION   KJ402380
+VERSION     KJ402380.1
+KEYWORDS    .
+SOURCE      Bionia sp. 1 Souza 684
+  ORGANISM  Bionia sp. 1 Souza 684
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Bionia.
+REFERENCE   1  (bases 1 to 847)
+  AUTHORS   Lima,A.V.F., Queiroz,L.P. and Souza,E.R.
+  TITLE     Three new species of Bionia Mart. ex Benth. (Leguminosae:
+            Papilionoideae: Phaseoleae) from Cadeia do Espinhaco
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 847)
+  AUTHORS   Lima,A.V.F., Queiroz,L.P. and Souza,E.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2014) Ciencias Biologicas, Universidade Estadual
+            de Feira de Santana, Av Transnordestina sn, Novo Horizonte, Feira de
+            Santana, Bahia 44036900, Brazil
+FEATURES             Location/Qualifiers
+     source          1..847
+                     /db_xref="taxon:1470996"
+                     /mol_type="genomic DNA"
+                     /organism="Bionia sp. 1 Souza 684"
+                     /specimen_voucher="E.R. Souza 684(HUEFS)"
+     misc_RNA        <1..361
+                     /note="contains 18S ribosomal RNA and internal transcribed
+                     spacer 1"
+     rRNA            368..531
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        532..>847
+                     /note="contains internal transcribed spacer 2 and 28S
+                     ribosomal RNA"
+ORIGIN
+        1 gaagtgttcg gattgcggcg acgtaggcgg tttgctgccc acgacgttgt gagaagtcca
+       61 ctgaacctta tcatttagag gaaggagaag tcgtaaacaa ggtttccgta ggtgaacctg
+      121 cggaaggatc attgtcgatg cctcacaatc aattcaactt gtgaatttgt ttaactatgc
+      181 agggttgatt ggatgttcaa catcttacct tcccttgtgt tgggggtagg tttatgcgat
+      241 gcgtggcctt cttccaacaa aaacacaaac cccgacgcaa catgcgtcaa ggaacttgaa
+      301 attgtttgat acacttgtag acccggatac ggtgtttcta caagtgatgt cgttcaacat
+      361 gtctcaaaat gactctcggc aacggatatc tcggctcttg catcgatgaa gaacgtagca
+      421 aaatgcgata cttggtgtga attgcagaat cccgtgaacc atcgagtctt tgaacgcaag
+      481 ttgcgcctga aaccattagg ttgagggcac gtctgcctgg gtgtcacaca atgttgccct
+      541 atgccaatgc ctttgaatta tcggtgttga gcagggcgaa tgttggcttc ccacgagcat
+      601 cgtctcgtgg ttggttgaaa aatgagtcct cggtggaatg ctccatgata aatggtggtt
+      661 gagtgatgct cgagaccaaa catgcgtggc gtcctcctga atgtgggacc tttgaccctt
+      721 gcgttctctt acaacgctca caacgagacc tcaggtcagg cgggactacc cgctgagttt
+      781 aaagcatatc aataagcgga ggaaaaagaa actaacaagg atttccccta gtaacggcga
+      841 gcgaacc
+//
+LOCUS       KC779660                 817 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Bionia sp. JFBP-2014a voucher Queiroz 7737 (HUEFS) 18S rRNA
+            ribosomal gene, partial sequence; internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 26S ribosomal RNA gene, partial sequence.
+ACCESSION   KC779660
+VERSION     KC779660.1
+KEYWORDS    .
+SOURCE      Bionia sp. JFBP-2014a
+  ORGANISM  Bionia sp. JFBP-2014a
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Bionia.
+REFERENCE   1  (bases 1 to 817)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 817)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..817
+                     /db_xref="taxon:1457440"
+                     /mol_type="genomic DNA"
+                     /organism="Bionia sp. JFBP-2014a"
+                     /specimen_voucher="Queiroz 7737 (HUEFS)"
+     rRNA            <1..130
+                     /product="18S rRNA ribosomal"
+     misc_RNA        131..360
+                     /product="internal transcribed spacer 1"
+     rRNA            361..525
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        526..739
+                     /product="internal transcribed spacer 2"
+     rRNA            740..>817
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 gtgttcggat tgcggcgacg taggcggttt gctgcccacg acgttgtgag aagtccactg
+       61 aaccttatca tttagaggaa ggagaagtcg taacaaggtt tccgtaggtg aacctgcgga
+      121 aggatcattg tcgatgcctc acaatcaatt caacttgtga atttgtttaa ctatgcaggg
+      181 ttgattggat gttcaacatc ttaccttccc ttgtgttggg ggtaggttta tgcgatgcgt
+      241 ggccttcttc caacaaaaac acaaaccccg acgcaacatg cgtcaaggaa cttgaaattg
+      301 tttgatacac ttgtagaccc ggatacggtg tttctacaag tgatgtcgtt caacatgtct
+      361 caaaatgact ctcggcaacg gatatctcgg ctcttgcatc gatgaagaac gtagcaaaat
+      421 gcgatacttg gtgtgaattg cagaatcccg tgaaccatcg agtctttgaa cgcaagttgc
+      481 gcctgaaacc attaggttga gggcacgtct gcctgggtgt cacacaatgt tgccctatgc
+      541 caatgccttt gaattatcgg tgttgagcag ggcgaatgtt ggcttcccac gagcatcgtc
+      601 tcgtggttgg ttgaaaaatg agtcctcggt ggaatgctcc atgataaatg gtggttgagt
+      661 gatgctcgag accaaacatg cgtggcgtcc tcctgaatgt gggacctttg acccttgcgt
+      721 tctcttacaa cgctcacaac gagacctcag gtcaggcggg actacccgct gagtttaagc
+      781 atatcaataa gcggaggaaa agaaactaac aaggatt
+//
+LOCUS       KC779659                 794 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Bionia sp. JFBP-2014e voucher Souza 692 (HUEFS) 18S rRNA ribosomal
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 26S ribosomal RNA gene, partial sequence.
+ACCESSION   KC779659
+VERSION     KC779659.1
+KEYWORDS    .
+SOURCE      Bionia sp. 3 Souza 692
+  ORGANISM  Bionia sp. 3 Souza 692
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Bionia.
+REFERENCE   1  (bases 1 to 794)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 794)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..794
+                     /db_xref="taxon:1470999"
+                     /mol_type="genomic DNA"
+                     /organism="Bionia sp. 3 Souza 692"
+                     /specimen_voucher="Souza 692 (HUEFS)"
+     rRNA            <1..87
+                     /product="18S rRNA ribosomal"
+     misc_RNA        88..317
+                     /product="internal transcribed spacer 1"
+     rRNA            318..482
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        483..696
+                     /product="internal transcribed spacer 2"
+     rRNA            697..>794
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 ttgtgagaag tccactgaac cttatcattt agaggaagga gaagtcgtaa caaggtttcc
+       61 gtaggtgaac ctgcggaagg atcattgtcg atgcctcaca atcaattcaa cttgtgaatt
+      121 tgtttaacta tgcagggttg attggatgtt caacatctta ccttcccttg tgttgggggt
+      181 aggtttatgc gatgcgtggc cttcttccaa caaaaacaca aaccccgacg caacatgcgt
+      241 caaggaactt gaaattgttt gatacacttg tagacccgga tacggtgttt ctacaagtga
+      301 tgtcgttcaa catgtctcaa aatgactctc ggcaacggat atctcggctc ttgcatcgat
+      361 gaagaacgta gcaaaatgcg atacttggtg tgaattgcag aatcccgtga accatcgagt
+      421 ctttgaacgc aagttgcgcc tgaaaccatt aggttgaggg cacgtctgcc tgggtgtcac
+      481 acaatgttgc cctatgccaa tgcctttgaa ttatcggtgt tgagcagggc gaatgttggc
+      541 ttcccacgag catcgtctcg tggttggttg aaaaatgagt cctcggtgga atgctccatg
+      601 ataaatggtg gttgagtgat gctcgagacc aaacatgcgt ggcgtcctcc tgaatgtggg
+      661 acctttgacc cttgcgttct cttacaacgc tcacaacgag acctcaggtc aggcgggact
+      721 acccgctgag tttaagcata tcaataagcg gaggaaaaga aactaacaag gattccccta
+      781 gtaacggcga gcga
+//
+LOCUS       KC779658                 555 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Bionia pedicellata voucher Queiroz 14820 (HUEFS) internal
+            transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene,
+            complete sequence; and internal transcribed spacer 2, partial
+            sequence.
+ACCESSION   KC779658
+VERSION     KC779658.1
+KEYWORDS    .
+SOURCE      Bionia pedicellata
+  ORGANISM  Bionia pedicellata
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Bionia.
+REFERENCE   1  (bases 1 to 555)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 555)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..555
+                     /db_xref="taxon:232302"
+                     /mol_type="genomic DNA"
+                     /organism="Bionia pedicellata"
+                     /specimen_voucher="Queiroz 14820 (HUEFS)"
+     misc_RNA        <1..208
+                     /product="internal transcribed spacer 1"
+     rRNA            209..373
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        374..>555
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 acttgtgaat ttgtttaact atgcagggtt gattggatgt tcaacatctt accttccctt
+       61 gtgttggggg taggtttatg cgatgcgtgg ccttcttcca acaaaaacac aaaccccgac
+      121 gcaacatgcg tcaaggaact tgaaattgtt tgatacactt gtagacccgg atacggtgtt
+      181 tctacaagtg atgtcgttca acatgtctca aaatgactct cggcaacgga tatctcggct
+      241 cttgcatcga tgaagaacgt agcaaaatgc gatacttggt gtgaattgca gaatcccgtg
+      301 aaccatcgag tctttgaacg caagttgcgc ctgaaaccat taggttgagg gcacgtctgc
+      361 ctgggtgtca cacaatgttg ccctatgcca atgcctttga attatcggtg ttgagcaggg
+      421 cgaatgttgg cttcccacga gcatcgtctc gtggttggtt gaaaaatgag tcctcggtgg
+      481 aatgctccat gataaatggt ggttgagtga tgctcgagac caaacatgcg tggcgtcctc
+      541 ctgaatgtgg gacct
+//
+LOCUS       KC779657                 754 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Bionia pedicellata voucher Queiroz 13648 (HUEFS) 18S rRNA ribosomal
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 26S ribosomal RNA gene, partial sequence.
+ACCESSION   KC779657
+VERSION     KC779657.1
+KEYWORDS    .
+SOURCE      Bionia pedicellata
+  ORGANISM  Bionia pedicellata
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Bionia.
+REFERENCE   1  (bases 1 to 754)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 754)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..754
+                     /db_xref="taxon:232302"
+                     /mol_type="genomic DNA"
+                     /organism="Bionia pedicellata"
+                     /specimen_voucher="Queiroz 13648 (HUEFS)"
+     rRNA            <1..88
+                     /product="18S rRNA ribosomal"
+     misc_RNA        89..318
+                     /product="internal transcribed spacer 1"
+     rRNA            319..483
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        484..697
+                     /product="internal transcribed spacer 2"
+     rRNA            698..>754
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 gttgtgagaa gtccactgaa cyttatcatt tagaggaagg agaagtcgta acaaggtttc
+       61 cgtaggtgaa cctgcggaag gatcattgtc gatgcctcac aatcaattca acttgtgaat
+      121 ttgtttaact atgcagggtt gattggatgt tcaacatctt accttccctt gtgttggggg
+      181 taggtttatg cgatgcgtgg ccttcttcca acaaaaacac aaaccccgac gcaacatgcg
+      241 tcaaggaact tgaaattgtt tgatacactt gtagacccgg atacggtgtt tctacaagtg
+      301 atgtcgttca acatgtctca aaatgactct cggcaacgga tatctcggct cttgcatcga
+      361 tgaagaacgt agcaaaatgc gatacttggt gtgaattgca gaatcccgtg aaccatcgag
+      421 tctttgaacg caagttgcgc ctgaaaccat taggttgagg gcacgtctgc ctgggtgtca
+      481 cacaatgttg ccctatgcca atgcctttga attatcggtg ttgagcaggg cgaatgttgg
+      541 cttcccacga gcatcgtctc gtggttggtt gaaaaatgag tcctcggtgg aatgctccat
+      601 gataaatggt ggttgagtga tgctcgagac caaacatgcg tggcgtcctc ctgaatgtgg
+      661 gacctttgac ccttgcgttc tcttacaacg ctcacaacga gacctcagnt cagncgggac
+      721 tacccgctga gtttaagcat atcaataagc ggag
+//
+LOCUS       KC779656                 597 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Bionia sp. JFBP-2014d voucher Queiroz 10259 (HUEFS) internal
+            transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and
+            internal transcribed spacer 2, complete sequence; and 26S ribosomal
+            RNA gene, partial sequence.
+ACCESSION   KC779656
+VERSION     KC779656.1
+KEYWORDS    .
+SOURCE      Bionia sp. JFBP-2014d
+  ORGANISM  Bionia sp. JFBP-2014d
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Bionia.
+REFERENCE   1  (bases 1 to 597)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 597)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..597
+                     /db_xref="taxon:1470998"
+                     /mol_type="genomic DNA"
+                     /organism="Bionia sp. JFBP-2014d"
+                     /specimen_voucher="Queiroz 10259 (HUEFS)"
+     misc_RNA        <1..212
+                     /product="internal transcribed spacer 1"
+     rRNA            213..377
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        378..591
+                     /product="internal transcribed spacer 2"
+     rRNA            592..>597
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 ttcaacttgt gaatttgttt tactatgcag ggttgattgg atgttcaaca tcttaccttc
+       61 ccttgtgttg ggggtaggtt tatgcgatgc gtggccttct tccaacaaaa acacaaaccc
+      121 cgacgcaaca tgcgtcaagg aacttgaaat tgtttgatac acttgtagac ccggagacgg
+      181 tgtttctaca agtgatgtcg ttcaacatgt ctcaaaatga ctctcggcaa cggatatctc
+      241 ggctcttgca tcgatgaaga acgtagcaaa atgcgatact tggtgtgaat tgcagaatcc
+      301 cgtgaaccat cgagtctttg aacgcaagtt gcgcctgaaa ccattaggtt gagggcacgt
+      361 ctgcctgggt gtcacacaat gttgccctat gccaatgcct ttgaataatc ggtgttcagc
+      421 agggtgaatg ttggcttccc acgagcatcg tctcgtggtt ggttgaaaaa tgagtcctcg
+      481 gtggaatgct tcatgataaa tggtggttga gtgatgctcg agaccaaaca tgcgtggctt
+      541 cctcctgaat gtgggacctt tgacccttgc gttctcttac aacgctcaca acgagac
+//
+LOCUS       KC779655                 603 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Bionia sp. JFBP-2014d voucher Queiroz 14712 (HUEFS) internal
+            transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and
+            internal transcribed spacer 2, complete sequence; and 26S ribosomal
+            RNA gene, partial sequence.
+ACCESSION   KC779655
+VERSION     KC779655.1
+KEYWORDS    .
+SOURCE      Bionia sp. JFBP-2014d
+  ORGANISM  Bionia sp. JFBP-2014d
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Bionia.
+REFERENCE   1  (bases 1 to 603)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 603)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..603
+                     /db_xref="taxon:1470998"
+                     /mol_type="genomic DNA"
+                     /organism="Bionia sp. JFBP-2014d"
+                     /specimen_voucher="Queiroz 14712 (HUEFS)"
+     misc_RNA        <1..215
+                     /product="internal transcribed spacer 1"
+     rRNA            216..380
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        381..594
+                     /product="internal transcribed spacer 2"
+     rRNA            595..>603
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 tcaattcaac ttgtgaattt gtttaactat gcagggttga ttggatgttc aaatccaacc
+       61 ttcccttgtg ttgggggtag gtttatgcga tgcgtggcct tcttccaaca aaaacacaaa
+      121 ccccgacgca acatgcgtca aggaacttga aattgtttga tacacttgta gacccggata
+      181 cggtgtttct acaagtgatg tcgttcaaca tgtctcaaaa tgactctcgg caacggatat
+      241 ctcggctctt gcatcgatga agaacgtagc aaaatgcgat acttggtgtg aattgcaraa
+      301 tcccgtgaac catcgagtct ttgaacgcaa gttgcgcctg aaaccattag gttgagggca
+      361 cgtctgcctg ggtgtcacac aatgttgccc tatgccaatg cctttgaatw atcggtgttg
+      421 agcagggcga atgttggctt cccacgagca tcgtctcgtg gttggttgaa aaatgagtcc
+      481 tcggtggaat gctccatgat aaatggtggt tgagtgatgc tcgagaccaa acatgcgtgg
+      541 cgtcctcctg aatgtgggac ctttgaccct tgcgttctct tacaacgctc acaacgagac
+      601 ctc
+//
+LOCUS       KC779654                 846 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Bionia sp. JFBP-2014c voucher Queiroz 7525 (HUEFS) 18S rRNA
+            ribosomal gene, partial sequence; internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 26S ribosomal RNA gene, partial sequence.
+ACCESSION   KC779654
+VERSION     KC779654.1
+KEYWORDS    .
+SOURCE      Bionia sp. 2 Souza 844
+  ORGANISM  Bionia sp. 2 Souza 844
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Bionia.
+REFERENCE   1  (bases 1 to 846)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 846)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..846
+                     /db_xref="taxon:1470997"
+                     /mol_type="genomic DNA"
+                     /organism="Bionia sp. 2 Souza 844"
+                     /specimen_voucher="Queiroz 7525 (HUEFS)"
+     rRNA            <1..135
+                     /product="18S rRNA ribosomal"
+     misc_RNA        136..365
+                     /product="internal transcribed spacer 1"
+     rRNA            366..530
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        531..744
+                     /product="internal transcribed spacer 2"
+     rRNA            745..>846
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 gtgaagtgtt cggattgcgg cgacgtaggc ggtttgctgc ccacgacgtt gtgagaagtc
+       61 cactgaacct tatcatttag aggaaggaga agtcgtaaca aggtttccgt aggtgaacct
+      121 gcggaaggat cattgtcgat gcctcacaat caattcaact tgtgaatttg ttttactatg
+      181 cagggttgat tggatgttca acatcttacc ttcccttgtg ttgggggtag gtttatgcga
+      241 tgcgtggcct tcttccaaca aaaacacaaa ccccgacgca acatgcgtca aggaacttga
+      301 aattgtttga tacacttgta gacccggaga cggtgtttct acaagtgatg tcgttcaaca
+      361 tgtctcaaaa tgactctcgg caacggatat ctcggctctt gcatcgatga agaacgtagc
+      421 aaaatgcgat acttggtgtg aattgcagaa tcccgtgaac catcgagtct ttgaacgcaa
+      481 gttgcgcctg aaaccattag gttgagggca cgtctgcctg ggtgtcacac aatgttgccc
+      541 tatgccaatg cctttgaata atcggtgttc agcagggcga atgttggctt cccacgagca
+      601 tcgtctcgtg gttggttgaa aaatgagtcc tcggtggaat gctccatgat aaatggtggt
+      661 tgagtgatgc tcgagaccaa acatgcgtgg cttcctcctg aatgtgggac ctttgaccct
+      721 tgcgttctct tacaacgctc acaacgagac ctcaggtcag gcgggactac ccgctgagtt
+      781 taagcatatc aataagcgga ggaaaagaaa ctaacaagga ttcccctagt aacggcgagc
+      841 gaaccg
+//
+LOCUS       KC779653                 765 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Bionia coriacea voucher Queiroz 13632 (HUEFS) 18S rRNA ribosomal
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 26S ribosomal RNA gene, partial sequence.
+ACCESSION   KC779653
+VERSION     KC779653.1
+KEYWORDS    .
+SOURCE      Bionia coriacea
+  ORGANISM  Bionia coriacea
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Bionia.
+REFERENCE   1  (bases 1 to 765)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 765)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..765
+                     /db_xref="taxon:584677"
+                     /mol_type="genomic DNA"
+                     /organism="Bionia coriacea"
+                     /specimen_voucher="Queiroz 13632 (HUEFS)"
+     rRNA            <1..88
+                     /product="18S rRNA ribosomal"
+     misc_RNA        89..318
+                     /product="internal transcribed spacer 1"
+     rRNA            319..483
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        484..697
+                     /product="internal transcribed spacer 2"
+     rRNA            698..>765
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 gttgtgagaa gtccactgaa ccttatcatt tagaggaagg agaagtcgta acaaggtttc
+       61 cgtaggtgaa cctgcggaag gatcattgtc gatgcctcac aatcaattca acttgtgaat
+      121 ttgtttaact atgcagggtt gattggatgt tcaacatctt accttccctt gtgttggggg
+      181 taggtttatg cgatgcgtgg ccttcttcca acaaaaacac aaaccccgac gcaacmtgcg
+      241 tcaaggaact tgaaattgtt tgatacactt gtagacccgg atacggtgtt tctacaagtg
+      301 atgtcgttca acatgtctca aaatgactct cggcaacgga tatctyggct cttgcatcga
+      361 tgaagaacgt agcaaaatgc gatacttggt gtgaattgca gaatcccgtg aaccatcgag
+      421 tctttgaacg caagttgcgc ctgaaaccat taggttgagg gcacgtctgc ctgggtgtca
+      481 cacaatgttg ccctatgcca atgcctttga attatcggtg ttgagcaggg cgaatgttgg
+      541 cttcccacga gcatcgtctc gtggttggtt gaaaaatgag tcctcggtgg aatgctccat
+      601 gataaatggt ggttgagtga tgctcgagac caaacatgcg tggcgtcctc ctgaatgtgg
+      661 gacctttgac ccttgcgttc tcttacaacg ctcacaacga gacctcaggt caggcgggac
+      721 tacccgctga gtttaagcat atcaataagc ggaggaaaag aaact
+//
+LOCUS       KC779652                 795 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Bionia coriacea voucher Queiroz 13611 (HUEFS) 18S rRNA ribosomal
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 26S ribosomal RNA gene, partial sequence.
+ACCESSION   KC779652
+VERSION     KC779652.1
+KEYWORDS    .
+SOURCE      Bionia coriacea
+  ORGANISM  Bionia coriacea
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Bionia.
+REFERENCE   1  (bases 1 to 795)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 795)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..795
+                     /db_xref="taxon:584677"
+                     /mol_type="genomic DNA"
+                     /organism="Bionia coriacea"
+                     /specimen_voucher="Queiroz 13611 (HUEFS)"
+     rRNA            <1..88
+                     /product="18S rRNA ribosomal"
+     misc_RNA        89..318
+                     /product="internal transcribed spacer 1"
+     rRNA            319..483
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        484..697
+                     /product="internal transcribed spacer 2"
+     rRNA            698..>795
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 gttgtgagaa gtccactgaa ccttatcatt tagaggaagg agaagtcgta acaaggtttc
+       61 cgtaggtgaa cctgcggaag gatcattgtc gatgcctcac aatcaattca acttgtgaat
+      121 ttgtttaact atgcagggtt gattggatgt tcaacatctt accttccctt gtgttggggg
+      181 taggtttatg cgatgcgtgg ccttcttcca acaaaaacac aaaccccgac gcaacatgcg
+      241 tcaaggaact tgaaattgtt tgatacactt gtagacccgg atacggtgtt tctacaagtg
+      301 atgtcgttca acatgtctca aaatgactct cggcaacgga tatctcggct cttgcatcga
+      361 tgaagaacgt agcaaaatgc gatacttggt gtgaattgca gaatcccgtg aaccatcgag
+      421 tctttgaacg caagttgcgc ctgaaaccat taggttgagg gcacgtctgc ctgggtgtca
+      481 cacaatgttg ccctatgcca atgcctttga attatcggtg ttgagcaggg cgaatgttgg
+      541 cttcccacga gcatcgtctc gtggttggtt gaaaaatgag tcctcggtgg aatgctccat
+      601 gataaatggt ggttgagtga tgctcgagac caaacatgcg tggcgtcctc ctgaatgtgg
+      661 gacctttgac ccttgcgttc tcttacaacg ctcacaacga gacctcaggt caggcgggac
+      721 tacccgctga gtttaagcat atcaataagc ggaggaaaag aaactaacaa ggattcccct
+      781 agtaacggcg agcga
+//
+LOCUS       KC779651                 848 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Bionia coriacea voucher Borba 2012 (HUEFS) 18S rRNA ribosomal gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   KC779651
+VERSION     KC779651.1
+KEYWORDS    .
+SOURCE      Bionia coriacea
+  ORGANISM  Bionia coriacea
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Bionia.
+REFERENCE   1  (bases 1 to 848)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 848)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..848
+                     /db_xref="taxon:584677"
+                     /mol_type="genomic DNA"
+                     /organism="Bionia coriacea"
+                     /specimen_voucher="Borba 2012 (HUEFS)"
+     rRNA            <1..137
+                     /product="18S rRNA ribosomal"
+     misc_RNA        138..367
+                     /product="internal transcribed spacer 1"
+     rRNA            368..532
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        533..746
+                     /product="internal transcribed spacer 2"
+     rRNA            747..>848
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 cggtgaagtg ttcggattgc ggcgacgtag gcggtttgct gcccacgacg ttgtgagaag
+       61 tccactgaac cttatcattt agaggaagga gaagtcgtaa caaggtttcc gtaggtgaac
+      121 ctgcggaagg atcattgtcg atgcctcaca atcaattcaa cttgtgaatt tgttttacta
+      181 tgcagggttg attggatgtt caacatctta ccttcccttg tgttgggggt aggtttatgc
+      241 gatgcgtggc cttcttccaa caaaaacaca aaccccgacg caacatgcgt caaggaactt
+      301 gaaattgttt gatacacttg tagacccgga gacggtgttt ctacaagtga tgtcgttcaa
+      361 catgtctcaa aatgactctc ggcaacggat atctcggctc ttgcatcgat gaagaacgta
+      421 gcaaaatgcg atacttggtg tgaattgcag aatcccgtga accatcgagt ctttgaacgc
+      481 aagttgcgcc tgaaaccatt aggttgaggg cacgtctgcc tgggtgtcac acaatgttgc
+      541 cctatgccaa tgcctttgaa taatcggtgt tcagcagggc gaatgttggc ttcccacgag
+      601 catcgtctcg tggttggttg aaaaatgagt cctcggtgga atgctccatg ataaatggtg
+      661 gttgagtgat gctcgagacc aaacatgcgt ggcttcctcc tgaatgtggg acctttgacc
+      721 cttgcgttct cttacaacgc tcacaacgag acctcaggtc aggcgggact acccgctgag
+      781 tttaagcata tcaataagcg gaggaaaaga aactaacaag gattccccta gtaacggcga
+      841 gcgaaccg
+//
+LOCUS       KC779650                 702 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Bionia coccinea voucher jesus 32 (HUEFS) 18S rRNA ribosomal gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   KC779650
+VERSION     KC779650.1
+KEYWORDS    .
+SOURCE      Bionia coccinea
+  ORGANISM  Bionia coccinea
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Bionia.
+REFERENCE   1  (bases 1 to 702)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 702)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..702
+                     /db_xref="taxon:584676"
+                     /mol_type="genomic DNA"
+                     /organism="Bionia coccinea"
+                     /specimen_voucher="jesus 32 (HUEFS)"
+     rRNA            <1..83
+                     /product="18S rRNA ribosomal"
+     misc_RNA        84..313
+                     /product="internal transcribed spacer 1"
+     rRNA            314..478
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        479..692
+                     /product="internal transcribed spacer 2"
+     rRNA            693..>702
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 gagaagtcca ctgaacctta tcatttagag gaaggagaag tcgtaacaag gtttccgtag
+       61 gtgaacctgc ggaaggatca ttgtcgatgc ctcacaatca attcaacttg tgaatttgtt
+      121 ttactatgca gggttgattg gatgttcaac atcttacctt cccttgtgtt gggggtaggt
+      181 ttatgcgatg cgtggccttc ttccaacaaa aacacaaacc ccgacgcaac atgcgtcaag
+      241 gaacttgaaa ttgtttgata cacttgtaga cccggagacg gtgtttctac aagtgatgtc
+      301 gttcaacatg tctcaaaatg actctcggca acggatatct cggctcttgc atcgatgaag
+      361 aacgtagcaa aatgcgatac ttggtgtgaa ttgcagaatc ccgtgaacca tcgagtcttt
+      421 gaacgcaagt tgcgcctgaa accattaggt tgagggcacg tctgcctggg tgtcacacaa
+      481 tgttgcccta tgccaatgcc tttgaataat cggtgttcag cagggcgaat gttggcttcc
+      541 cacgagcatc gtctcgtggt tggttgaaaa atgagtcctc ggtggaatgc tccatgataa
+      601 atggtggttg agtgatgctc gagaccaaac atgcgtggct tcctcctgaa tgtgggacct
+      661 ttgacccttg cgttctctta caacgctcac aacgagacct ca
+//
+LOCUS       KC779649                 845 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Bionia sp. JFBP-2014b voucher Souza 684 (HUEFS) 18S rRNA ribosomal
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 26S ribosomal RNA gene, partial sequence.
+ACCESSION   KC779649
+VERSION     KC779649.1
+KEYWORDS    .
+SOURCE      Bionia sp. 1 Souza 684
+  ORGANISM  Bionia sp. 1 Souza 684
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Bionia.
+REFERENCE   1  (bases 1 to 845)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 845)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..845
+                     /db_xref="taxon:1470996"
+                     /mol_type="genomic DNA"
+                     /organism="Bionia sp. 1 Souza 684"
+                     /specimen_voucher="Souza 684 (HUEFS)"
+     rRNA            <1..134
+                     /product="18S rRNA ribosomal"
+     misc_RNA        135..364
+                     /product="internal transcribed spacer 1"
+     rRNA            365..529
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        530..743
+                     /product="internal transcribed spacer 2"
+     rRNA            744..>845
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 tgaagtgttc ggattgcggc gacgtaggcg gtttgctgcc cacgacgttg tgagaagtcc
+       61 actgaacctt atcatttaga ggaaggagaa gtcgtaacaa ggtttccgta ggtgaacctg
+      121 cggaaggatc attgtcgatg cctcacaatc aattcaactt gtgaatttgt ttaactatgc
+      181 agggttgatt ggatgttcaa catcttacct tcccttgtgt tgggggtagg tttatgcgat
+      241 gcgtggcctt cttccaacaa aaacacaaac cccgacgcaa catgcgtcaa ggaacttgaa
+      301 attgtttgat acacttgtag acccggatac ggtgtttcta caagtgatgt cgttcaacat
+      361 gtctcaaaat gactctcggc aacggatatc tcggctcttg catcgatgaa gaacgtagca
+      421 aaatgcgata cttggtgtga attgcagaat cccgtgaacc atcgagtctt tgaacgcaag
+      481 ttgcgcctga aaccattagg ttgagggcac gtctgcctgg gtgtcacaca atgttgccct
+      541 atgccaatgc ctttgaatta tcggtgttga gcagggcgaa tgttggcttc ccacgagcat
+      601 cgtctcgtgg ttggttgaaa aatgagtcct cggtggaatg ctccatgata aatggtggtt
+      661 gagtgatgct cgagaccaaa catgcgtggc gtcctcctga atgtgggacc tttgaccctt
+      721 gcgttctctt acaacgctca caacgagacc tcaggtcagg cgggactacc cgctgagttt
+      781 aagcatatca ataagcggag gaaaagaaac taacaaggat tcccctagta acggcgagcg
+      841 aaccg
+//
+LOCUS       KC779648                 791 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Bionia bella voucher Torres 12 (HUEFS) 18S rRNA ribosomal gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   KC779648
+VERSION     KC779648.1
+KEYWORDS    .
+SOURCE      Bionia bella
+  ORGANISM  Bionia bella
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Bionia.
+REFERENCE   1  (bases 1 to 791)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 791)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..791
+                     /db_xref="taxon:1457439"
+                     /mol_type="genomic DNA"
+                     /organism="Bionia bella"
+                     /specimen_voucher="Torres 12 (HUEFS)"
+     rRNA            <1..81
+                     /product="18S rRNA ribosomal"
+     misc_RNA        82..311
+                     /product="internal transcribed spacer 1"
+     rRNA            312..475
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        476..693
+                     /product="internal transcribed spacer 2"
+     rRNA            694..>791
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 gaagtccact gaaccttatc atttagagga aggagaagtc gtaacaaggt ttccgtaggt
+       61 gaacctgcgg aaggatcatt gtcgatgcct cacaatcagt tcaacctgtg aatttgttta
+      121 actatgcagg gtttgattgg atgttcaaca tcttatcttt ccttatgttg gtggtaggtt
+      181 tatgcggtgc ctggccttct tccaacaaaa cacaaacccc gacgcaacat gcgtcaagga
+      241 acttgaaatt gtttgataag cttgtggacc cggagacggt gtttctacaa gtgatgtcgt
+      301 tcaacatatc tcaaatgact ctcggcaacg gatatctcgg ctcttgcatc gatgaagaac
+      361 gtagcaaaat gcgatacttg gtgtgaattg cagaatcccg tgaaccatcg agtctttgaa
+      421 cgcaagttgc gcctgaaacc attaggttga gggcacgtct gcctgggtgt cactccatgt
+      481 tgccctatat gccaatgcct ttgaataatc ggtgttgagc cagagcgaat gttggcttcc
+      541 catgagcgtc gtctcgtggt tggttgaaaa aatgagtcct cggtggaatg ctccatgaga
+      601 aatggtggtt gagtgatgct cgagaccaaa catgcgtggc ttcctcctaa atgtgggacc
+      661 attgaccctt gcgttttcta acaacgctca caacgagacc tcaggtcagg cgggactacc
+      721 cgctgagttt aagcatatca ataagcggag gaaaagaaac taacaaggat tcccctagta
+      781 acggcgagcg a
+//

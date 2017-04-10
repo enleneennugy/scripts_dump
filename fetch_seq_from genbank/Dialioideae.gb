@@ -1,0 +1,57 @@
+LOCUS       KY306663                 728 bp    DNA     linear   PLN 03-APR-2017
+DEFINITION  Zenia insignis voucher LiaoWenBo 1 (US) 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   KY306663
+VERSION     KY306663.1
+KEYWORDS    .
+SOURCE      Zenia insignis
+  ORGANISM  Zenia insignis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Cassieae; Zenia.
+REFERENCE   1  (bases 1 to 728)
+  AUTHORS   de la Estrella,M., Forest,F., Wieringa,J.J., Fougere-Danezan,M. and
+            Bruneau,A.
+  TITLE     Insights on the evolutionary origin of Detarioideae, a clade of
+            ecologically dominant tropical African trees
+  JOURNAL   New Phytol. (2017) In press
+   PUBMED   28323330
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 728)
+  AUTHORS   de la Estrella,M. and Bruneau,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-DEC-2016) Comparative Plant and Fungal Biology, Royal
+            Botanic Gardens, Kew, Jodrell Lab, Richmond TW9 3DS, UK
+FEATURES             Location/Qualifiers
+     source          1..728
+                     /db_xref="taxon:162940"
+                     /mol_type="genomic DNA"
+                     /organism="Zenia insignis"
+                     /specimen_voucher="LiaoWenBo 1 (US)"
+     rRNA            <1..102
+                     /product="18S ribosomal RNA"
+     misc_RNA        103..306
+                     /product="internal transcribed spacer 1"
+     rRNA            307..472
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        473..669
+                     /product="internal transcribed spacer 2"
+     rRNA            670..>728
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 cggcgtacgt tcgcgagaag tccactgaac cttatcattt agaggaagga gaagtcgtaa
+       61 caaggtttcc gtaggtgaac ctgyggaagg atcattgtcr aaacctcycg aactgaatga
+      121 cccgcgaacy ggttacctga ccgggggcgg cctcggcccc ccctccygtg cagggaggag
+      181 cctgctcctc ctggmgcaca acaacacccg gcgccagacg cgccaaggaa accgaaccaa
+      241 cgagcgtgct cccgcacggc cyggaagcgg tgcccgrgyg rcgagccttg cgagatcacg
+      301 atccaraayg actctcgaca acggatatct crcctctcgc atcgatgaag aatgtagcra
+      361 aatgcgacac ttggtgtgaa ttgcagaatc ycgtgaacca tcragtcttt gaatgcaagt
+      421 tgcgycygaa gccattaggc cgagggcacg tttgactggg tgtcaygtaa cgtctcccca
+      481 aacgcactgc ctcccccggg gggcaccgcg ggcgggscgg atgctggcct ctcgctagcc
+      541 yckcctygcg gatggtccaa aatcgatccc gcgaygcwcg gtggccgagt aacgctcgag
+      601 atcyggtcac gcacgcatgc tgtccccctg tcgkgatcca agaccccyra ggcrtcaccg
+      661 caygctcacg gcatgacccc agttcgggcg gagccacccg ctgagtttaa gcatatcwat
+      721 aagcggat
+//

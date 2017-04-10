@@ -1,0 +1,1064 @@
+LOCUS       KJ402379                 756 bp    DNA     linear   PLN 26-MAR-2016
+DEFINITION  Galactia remansoana voucher L.P. de Queiroz 14659(HUEFS) 18S
+            ribosomal RNA gene, partial sequence; internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   KJ402379
+VERSION     KJ402379.1
+KEYWORDS    .
+SOURCE      Galactia remansoana
+  ORGANISM  Galactia remansoana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Galactia.
+REFERENCE   1  (bases 1 to 756)
+  AUTHORS   Lima,A.V.F., Queiroz,L.P. and Souza,E.R.
+  TITLE     Three new species of Bionia Mart. ex Benth. (Leguminosae:
+            Papilionoideae: Phaseoleae) from Cadeia do Espinhaco
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 756)
+  AUTHORS   Lima,A.V.F., Queiroz,L.P. and Souza,E.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2014) Ciencias Biologicas, Universidade Estadual
+            de Feira de Santana, Av Transnordestina sn, Novo Horizonte, Feira de
+            Santana, Bahia 44036900, Brazil
+FEATURES             Location/Qualifiers
+     source          1..756
+                     /db_xref="taxon:1457496"
+                     /mol_type="genomic DNA"
+                     /note="authority: Galactia remansoana Harms."
+                     /organism="Galactia remansoana"
+                     /specimen_voucher="L.P. de Queiroz 14659(HUEFS)"
+     misc_RNA        <1..361
+                     /note="contains 18S ribosomal RNA and internal transcribed
+                     spacer 1"
+     rRNA            368..531
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        532..>756
+                     /note="contains internal transcribed spacer 2 and 28S
+                     ribosomal RNA"
+ORIGIN
+        1 tgaagtgttc ggattgcggc gacgtaggcg gttcgctgcc cgcgacgttg tgagaagtcc
+       61 actgaacctt atcatttaga ggaaggagaa gtcgtaacaa ggtttccgta ggtgaacctg
+      121 cggaaggatc attgtcgatg cctcacaatc agttcaactc gtgaacctgt tttaaccatc
+      181 tagggttgat tggatgtctg acatcttagc ttcccttatg ttgcgggctg gcttgtgctc
+      241 tgcatggcct tcttccaaca aaacaaaacc ccggcgcaac atgcgtcaag gaacttgaaa
+      301 ttgtttgatg cacccgtaga ccccggagac ggtgtctcta cgggtgatgt cgttcaaaat
+      361 gtctcaaaat gactctcggc aacggatatc tcggctcttg catcgatgaa gaacgtagca
+      421 aaatgcgata cttggtgtga attgcagaat cccgtgaacc atcgagtttt tgaacgcaag
+      481 ttgcgcctga aaccattagg ttgagggcac gtctgcctgg gtgtcacaca atgttgccca
+      541 atgcccaacg cctttccatg atcggtgttt gagcggggcg aatgctggct tcccacgagc
+      601 acggtctcgt ggttggttga aaaatgagtc ctcggtggaa tgctccatga gaaatggtgg
+      661 ttgagtgatg ctcgagacca aacatgcggg cttcccccta aatgttggac ctctgacccc
+      721 tgcgttttct cacaacgctc acaacgagac ctcagt
+//
+LOCUS       KJ402378                 827 bp    DNA     linear   PLN 26-MAR-2016
+DEFINITION  Galactia glaucescens voucher L.P. de Queiroz 14060(HUEFS) 18S
+            ribosomal RNA gene, partial sequence; internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   KJ402378
+VERSION     KJ402378.1
+KEYWORDS    .
+SOURCE      Galactia glaucescens
+  ORGANISM  Galactia glaucescens
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Galactia.
+REFERENCE   1  (bases 1 to 827)
+  AUTHORS   Lima,A.V.F., Queiroz,L.P. and Souza,E.R.
+  TITLE     Three new species of Bionia Mart. ex Benth. (Leguminosae:
+            Papilionoideae: Phaseoleae) from Cadeia do Espinhaco
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 827)
+  AUTHORS   Lima,A.V.F., Queiroz,L.P. and Souza,E.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2014) Ciencias Biologicas, Universidade Estadual
+            de Feira de Santana, Av Transnordestina sn, Novo Horizonte, Feira de
+            Santana, Bahia 44036900, Brazil
+FEATURES             Location/Qualifiers
+     source          1..827
+                     /db_xref="taxon:1457482"
+                     /mol_type="genomic DNA"
+                     /note="authority: Galactia glaucescens Kunth."
+                     /organism="Galactia glaucescens"
+                     /specimen_voucher="L.P. de Queiroz 14060(HUEFS)"
+     misc_RNA        <1..365
+                     /note="contains 18S ribosomal RNA and internal transcribed
+                     spacer 1"
+     rRNA            372..535
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        536..>827
+                     /note="contains internal transcribed spacer 2 and 28S
+                     ribosomal RNA"
+ORIGIN
+        1 tccggtgaag tgttcggatt gcggcgacgt aggcggttcg ctgcccgcga cgttgtgaga
+       61 agtccactga accttatcat ttagaggaag gagaagtcgt aacaaggttt ccgtaggtga
+      121 acctgcggaa ggatcattgt cgatgcctca caatcagttc aactcgcgaa tctgtttaac
+      181 cacttagggt tgattggatg tctaacatcc tagcctccct tatgttgtgg gcaggcttgt
+      241 gctctgcatg gcctccttcc aacaaaacac aaaccccggc gcaacatgcg tcaaggaact
+      301 tggaattgtt tgatgcacct gtaggcccgg agacggtgtt tctgcaggtg atgtcgttca
+      361 acatgtatca aaatgactct cggcaacgga tatctcggct cttgcatcga tgaagaacgt
+      421 agcaaaatgc gatacttggt gtgaattgca gaatcccgtg aaccatcgag tctttgaacg
+      481 caagttgcgc ctgaaaccat taggttgagg gcacgtctgc ctgggtgtca cacaatgttg
+      541 cccaatcatt ttcggggcga aagttggcct cccaggagct tggtctcgtg gttggttgaa
+      601 aaatgagtcc tcggtggaat gctccatgag aaatggtggt tgagtgatgc tcgataccaa
+      661 acatgcgtgg cttccactaa aagggtggac cttcgaaccc ttgtgtcctc aacaggacgc
+      721 acgctcacaa cgagacctca ggtcaggcgg gactacccgc tgagtttaag catatcaata
+      781 agcggaggaa aagaaactaa caaggattcc cctagtaacg gcgagcg
+//
+LOCUS       KC779796                 796 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Galactia wrightii voucher Whahl s.n. (HUEFS) 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   KC779796
+VERSION     KC779796.1
+KEYWORDS    .
+SOURCE      Galactia wrightii
+  ORGANISM  Galactia wrightii
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Galactia.
+REFERENCE   1  (bases 1 to 796)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 796)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..796
+                     /db_xref="taxon:457901"
+                     /mol_type="genomic DNA"
+                     /organism="Galactia wrightii"
+                     /specimen_voucher="Whahl s.n. (HUEFS)"
+     misc_RNA        <1..>796
+                     /note="contains 18S ribosomal RNA, internal transcribed
+                     spacer 1, 5.8S ribosomal RNA, internal transcribed spacer
+                     2, and 28S ribosomal RNA"
+ORIGIN
+        1 ttgtgagaag tccactgaac cttatcattt agaggaagga gaagtcgtaa caaggtttcc
+       61 gtaggtgaac ctgcggaagg atcattgtcg atgcctcaca atcagttcaa ctcgtgaacc
+      121 tgtttaaccg cttagggttg gttggatgtc taacatctta gcttcccttg tgttgtgggc
+      181 gggcctgtgc tctgcacggc ctccttcaac aaaacacaaa ccccggcgca acatgcgtca
+      241 aggaacctgg aattgtttga tgcgcctgta gaccccggag acggtgtttc tgcaggtgat
+      301 gtcgttcaac atgtatcaaa atgactctcg gcaacggata tctcggctct tgcatcgatg
+      361 aagaacgtag caaaatgcga tacttggtgt gaattgcaga atcccgtgaa ccatcgagtc
+      421 tttgaacgca agttgcgcct gaaaccatta ggttgagggc acgtctgcct gggtgtcaca
+      481 caatgttgcc caacgccaac gccgttccac gatcggtgtt tgagcggggc gaaagttggc
+      541 ttcccacgag ctctgtcccg tggttggttg aaaaacgagt cctcggtgga atgctccatg
+      601 agaaatggtg gttgagtcat gctcgagacc aaacatgcgt ggcttcccct taaggtggac
+      661 ctccgacccc cttgcgtcct aacacgacgc tcacaacgag acctcaggtc aggcgggact
+      721 acccgctgag tttaagcata tcaataagcg gaggaaaaga aactaacaag gattccccta
+      781 gtaacggcga gcgaac
+//
+LOCUS       KC779795                 755 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Galactia volubilis voucher Rebman 428 (HUEFS) 18S ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   KC779795
+VERSION     KC779795.1
+KEYWORDS    .
+SOURCE      Galactia volubilis
+  ORGANISM  Galactia volubilis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Galactia.
+REFERENCE   1  (bases 1 to 755)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 755)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..755
+                     /db_xref="taxon:1089625"
+                     /mol_type="genomic DNA"
+                     /organism="Galactia volubilis"
+                     /specimen_voucher="Rebman 428 (HUEFS)"
+     misc_RNA        <1..>755
+                     /note="contains 18S ribosomal RNA, internal transcribed
+                     spacer 1, 5.8S ribosomal RNA, internal transcribed spacer
+                     2, and 28S ribosomal RNA"
+ORIGIN
+        1 tatcatttag aggaaggaga agtcgtaaca aggtttccgt aggtgaacct gcggaaggat
+       61 cattgtcgat gcctcacaat cagttcaact cgtgaacctg ttttaaccat tcagggttga
+      121 tcggatgtct gacatcctag cttcccttat gttgcgggcg ggcttatgct ttgcatggcc
+      181 tcctcccaac aaaacaaaac cccggcgcaa cacgcgtcaa ggaacttgaa attgtttgat
+      241 gcacccgtgg accccggaga cggtgtttcc acgggtgatg tcgttcaaaa tgtcttaaaa
+      301 tgactctcgg caacggatat ctcggctctt gcatcgatga agaacgtagc aaaatgcgat
+      361 acttggtgtg aattgcagaa tcccgtgaac catcgagttt ttgaacgcaa gttgcgcctg
+      421 aaaccattag gttgagggca cgtctgcctg ggtgtcacac aatgttgccc aatgcccaac
+      481 gcctttccat gatcggtgtt gagcggggcg aatgctggct tcccacgagc acggtctcgt
+      541 ggttggttga aaaatgagtc ctcggtggaa tgctccatga gaaatggtgg ttgagtgatg
+      601 ctcgagacca aacatgcggg cttcccccta aacgttggac ctctgaccct tgcgttttgt
+      661 aacaacgctc acaacgagac ctcaggtcag gcgggactac ccgctgagtt taagcatatc
+      721 aataagcgga ggaaaagaaa ctaacaagga ttccc
+//
+LOCUS       KC779794                 755 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Galactia volubilis voucher Nelson 14617 (HUEFS) 18S ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   KC779794
+VERSION     KC779794.1
+KEYWORDS    .
+SOURCE      Galactia volubilis
+  ORGANISM  Galactia volubilis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Galactia.
+REFERENCE   1  (bases 1 to 755)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 755)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..755
+                     /db_xref="taxon:1089625"
+                     /mol_type="genomic DNA"
+                     /organism="Galactia volubilis"
+                     /specimen_voucher="Nelson 14617 (HUEFS)"
+     misc_RNA        <1..>755
+                     /note="contains 18S ribosomal RNA, internal transcribed
+                     spacer 1, 5.8S ribosomal RNA, internal transcribed spacer
+                     2, and 28S ribosomal RNA"
+ORIGIN
+        1 ttatcattta gaggaaggag aagtcgtaac aaggtttccg taggtgaacc tgcggaagga
+       61 tcattgtcga tgcctcacaa tcagttcaac tcgtgaacct gttttaacca tttagggttg
+      121 atcggatgtc tgacatccta gcttccctta tgttgcgggc ggccttatgc tttgcatggc
+      181 ctccttccaa caaaacaaaa ccccggcgca acacgcgtca aggaacttga aattgtttga
+      241 tgcacccgtg gaccccggag acggtgtttc tacgggtgat gtcgttcaaa atgtcttaaa
+      301 atgactctcg gcaacggata tctcggctct tgcatcgatg aagaacgtag caaaatgcga
+      361 tacttggtgt gaattgcaga atcccgtgaa ccatcgagtt tttgaacgca agttgcgcct
+      421 gaaaccatta ggttgagggc acgtctgcct gggtgtcaca caatgttgcc caatgcccaa
+      481 cgcctttcca cgatcggtgt tgagcggggc gaatgctggc ttcccacgag catggtctcg
+      541 tggttggttg aaaaatgagt cctcggtgga atgctccatg agaaatggtg gttgagtgat
+      601 gctcgagacc aaacatgcgg gcttccccct aaacgctgga cctctgaccc ttgcgttttg
+      661 taacaacgct cacaacgaga cctcaggtca ggcgggacta cccgctgagt ttaagcatat
+      721 caataagcgg aggaaaagaa actaacaagg attcc
+//
+LOCUS       KC779793                 697 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Galactia viridiflora voucher Tellez 792 (HUEFS) internal transcribed
+            spacer 1, partial sequence; 5.8S ribosomal RNA gene and internal
+            transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene,
+            partial sequence.
+ACCESSION   KC779793
+VERSION     KC779793.1
+KEYWORDS    .
+SOURCE      Galactia viridiflora
+  ORGANISM  Galactia viridiflora
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Galactia.
+REFERENCE   1  (bases 1 to 697)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 697)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..697
+                     /db_xref="taxon:1457501"
+                     /mol_type="genomic DNA"
+                     /organism="Galactia viridiflora"
+                     /specimen_voucher="Tellez 792 (HUEFS)"
+     misc_RNA        <1..>697
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, internal transcribed spacer 2, and 28S
+                     ribosomal RNA"
+ORIGIN
+        1 cattgtcgat gcctcacaat cagttcaacc tgtgaatttg tttaaccatg cagggttgat
+       61 gggatgtcca acatcctagc ttcccttacg ttgggggtag gtttatgcga tgcgtggcct
+      121 tctaccaaca aaccacaaat cccgacgcaa catgcgtcaa ggaacttgaa attgtttgat
+      181 atgcttgtat agacccggag acggtgtttc taacaagcaa tgtcgttcaa catgtctcaa
+      241 aatgactctc ggcaacggat atctcggctc ttgcatcgat gaagaacgta gcaaaatgcg
+      301 atacttggtg tgaattgcag aatcccgtga accatcgagt ctttgaacgc aagttgcgcc
+      361 tgaaaccatt aggttgaggg cacgtctgcc tgggtgtcac acgatgttgc cctatgccaa
+      421 tgcctttgaa taattggtgt tgagcagggc gaatgatggc ttcccacgag catcgtctcg
+      481 tggttggttg aaaaatgagt cctcggtgga atgctccatg ataaatggtg gttgagtgat
+      541 gctcgagacc aaacatgcgt gccttcctcc caaatgtggg acctttgacc cttgcgttct
+      601 cttacaacgc tcacaacgag acctcaggtc aggcgggatt acccgctgag tttaagcata
+      661 tcaataagcg gaggaaaaga aactaacaag gattccc
+//
+LOCUS       KC779792                 794 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Galactia texana voucher Queiroz 15267 (HUEFS) 18S ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   KC779792
+VERSION     KC779792.1
+KEYWORDS    .
+SOURCE      Galactia texana
+  ORGANISM  Galactia texana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Galactia.
+REFERENCE   1  (bases 1 to 794)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 794)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..794
+                     /db_xref="taxon:584694"
+                     /mol_type="genomic DNA"
+                     /organism="Galactia texana"
+                     /specimen_voucher="Queiroz 15267 (HUEFS)"
+     misc_RNA        <1..>794
+                     /note="contains 18S ribosomal RNA, internal transcribed
+                     spacer 1, 5.8S ribosomal RNA, internal transcribed spacer
+                     2, and 28S ribosomal RNA"
+ORIGIN
+        1 gacgttgtga gaagtccact gaaccttatc atttagagga aggagaagtc gtaacaaggt
+       61 ttccgtaggt gaacctgcgg aaggatcatt gtcgatgcct cacaatcagt tcaactcgcg
+      121 aacctgttta accgcatagg gttggttgga tgtctaacat cttagcttcc cttgtgttgt
+      181 gggcgggctt gtgctctgca cggcctcctt cgacaaaaca caaaccccgg ygcaacatgc
+      241 gtcaaggaac ctggaattgt ttgatgcgcc tgcagacccc ggagacggtg tttgtaggtg
+      301 acgtcgttca acatgtatca aaatgactct cggcaacgga tatctcggct cttgcatcga
+      361 tgaagaacgt agcaaaatgc gatacttggt gtgaattgca gaatcccgtg aaccatcgag
+      421 tctttgaacg caagttgcgc ctgaaaccat taggttgagg gcacgtctgc ctgggtgtca
+      481 cacaatgttg cccgacgcca acgccgttcc acgatcggtg tttgagcggg gcgaaagttg
+      541 gcttcccacg agctctgtcc cgtggttggt tgaaaaacga gtcctcggtg gaatgctcca
+      601 tgagaaatgg tggttgagtc atgctcgaga ccaaacatgc gcggcttccc cttaaggtgg
+      661 acctccgacc ccttgcgtcc taacacgacg ctcacaacga gacctcaggt caggcgggac
+      721 tacccgctga gtttaagcat atcaataagc ggaggaaaag aaactaacaa ggattcccct
+      781 agtaacggcg agcg
+//
+LOCUS       KC779791                 856 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Galactia tenuiflora voucher Olashi 20414 (HUEFS) 18S ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   KC779791
+VERSION     KC779791.1
+KEYWORDS    .
+SOURCE      Galactia tenuiflora
+  ORGANISM  Galactia tenuiflora
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Galactia.
+REFERENCE   1  (bases 1 to 856)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 856)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..856
+                     /db_xref="taxon:1457500"
+                     /mol_type="genomic DNA"
+                     /organism="Galactia tenuiflora"
+                     /specimen_voucher="Olashi 20414 (HUEFS)"
+     misc_RNA        <1..>856
+                     /note="contains 18S ribosomal RNA, internal transcribed
+                     spacer 1, 5.8S ribosomal RNA, internal transcribed spacer
+                     2, and 28S ribosomal RNA"
+ORIGIN
+        1 tgaagtgttc ggattgcggc gacgtaggcg gttcgctgcc cgcgacgttg tgagaagtcc
+       61 actgaacctt atcatttaga ggaaggagaa gtcgtaacaa ggtttccgta ggtgaacctg
+      121 cggaaggatc attgtcgatg cctcacaatc agttcaactc gtgaacctgt ttaaccgctt
+      181 agggttggtt ggatgtctaa catcttagct tcccttgtgt tgtgggcggg cttgtgctct
+      241 gcacggcctc cttcaacaaa acacaaaccc cggcgcaaca tgcgtcaagg aacctggaat
+      301 tgtttgatgc gcctgtagac cccggagacg gtgtttctgc aggtgatgtc gttcaacatg
+      361 tatcaaaatg actctcggca acggatatct cggctcttgc atcgatgaag aacgtagcaa
+      421 aatgcgatac ttggtgtgaa ttgcagaatc ccgtgaacca tcgagtcttt gaacgcaagt
+      481 tgcgcctgaa accattaggt tgagggcacg tctgcctggg tgtcacacaa tgttgcccga
+      541 cgccaacgcc gttccacgat cggtgtttga gcggggcgaa agttggcttc ccacgaggtc
+      601 tgtcccgtgg ttggttgaaa aacgagtcct cggtggaatg ctccatgaga aatggtggtt
+      661 gagtcatgct cgagaccaaa catgcgtggc ttccccttaa ggtggacctc cgaccccttg
+      721 cgtcctaacg tgacgctcac aacgagacct caggtcaggc gggactaccc gctgagttta
+      781 agcatatcaa taagcggagg aaaagaaact aacaaggatt cccctagtaa cggcgagcga
+      841 accggggaat tctaaa
+//
+LOCUS       KC779790                 861 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Galactia striata voucher Queiroz 10179 (HUEFS) 18S ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   KC779790
+VERSION     KC779790.1
+KEYWORDS    .
+SOURCE      Galactia striata
+  ORGANISM  Galactia striata
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Galactia.
+REFERENCE   1  (bases 1 to 861)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 861)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..861
+                     /db_xref="taxon:100146"
+                     /mol_type="genomic DNA"
+                     /organism="Galactia striata"
+                     /specimen_voucher="Queiroz 10179 (HUEFS)"
+     misc_RNA        <1..>861
+                     /note="contains 18S ribosomal RNA, internal transcribed
+                     spacer 1, 5.8S ribosomal RNA, internal transcribed spacer
+                     2, and 28S ribosomal RNA"
+ORIGIN
+        1 ggtgaagtgt tcggattgcg gcgacgtagg cggttcgctg cccgcgacgt tgtgagaagt
+       61 ccactgaacc ttatcattta gaggaaggag aagtcgtaac aaggtttccg taggtgaacc
+      121 tgcggaagga tcattgtcga tgcctcacaa tcagttcaac tcgtgaacct gttttaacca
+      181 tttagggttg attggatgtc tgacatctta gcttccctta cgttgcgggc ggtctttatg
+      241 ctttgcatgg cctccttcca acaaaacaaa accccggcgc aacatgcgtc aaggaacttg
+      301 aaattgtttg atgcgcctgt agaccccgga gacggtgttt ctacgggtga tgtcgttcaa
+      361 aatgtcttaa aatgactctc ggcaacggat atctcggctc ttgcatcgat gaagaacgta
+      421 gcaaaatgcg atacttggtg tgaattgcag aatcccgtga accatcgagt ttttgaacgc
+      481 aagttgcgcc tgaaaccatt aggttgaggg cacgtctgcc tgggtgtcac acaatgttgc
+      541 ccaatgccca acgcctttcc acgatcggtg ttgagcgggg cgaatgctgg cttcccacga
+      601 gcatggtatc gtggttggtt gaaaaatgag tcctcggtgg aatgctccat gagaaatggt
+      661 ggttgagtga tgctcgagac caatcatgcg tggcttcccc tcaaagggtg gaccttcgac
+      721 cccttgcgtc ttcatacgac gctcacaacg agacctcagg tcaggcggga ctacccgctg
+      781 agtttaagca tatcaataag cggaggaaaa gaaactaaca aggattcccc tagtaacggc
+      841 gagcgaaccg gggaattcta a
+//
+LOCUS       KC779789                 779 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Galactia striata voucher Conceicao 629 (HUEFS) 18S ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   KC779789
+VERSION     KC779789.1
+KEYWORDS    .
+SOURCE      Galactia striata
+  ORGANISM  Galactia striata
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Galactia.
+REFERENCE   1  (bases 1 to 779)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 779)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..779
+                     /db_xref="taxon:100146"
+                     /mol_type="genomic DNA"
+                     /organism="Galactia striata"
+                     /specimen_voucher="Conceicao 629 (HUEFS)"
+     misc_RNA        <1..>779
+                     /note="contains 18S ribosomal RNA, internal transcribed
+                     spacer 1, 5.8S ribosomal RNA, internal transcribed spacer
+                     2, and 28S ribosomal RNA"
+ORIGIN
+        1 tgcccgcgac gttgtgagaa gtccactgaa ccttatcatt tagaggaagg agaagtcgta
+       61 acaaggtttc cgtaggtgaa cctgcggaag gatcattgtc gatgcctcac aatcagttca
+      121 actcgtgaac ctgttttaac catttagggt tgattggatg tctgacatct tagcttccct
+      181 tacgttgcgg gcggtcttta tgctttgcat ggcctccttc caacaaaaca aaaccccggc
+      241 gcaacatgcg tcaaggaact tgaaattgtt tgatgcgcct gtagaccccg gagacggtgt
+      301 ttctacgggt gatgtcgttc aaaacgtctt aaaatgactc tcggcaacgg atatctcggc
+      361 tcttgcatcg atgaagaacg tagcaaaatg cgatacttgg tgtgaattgc agaatcccgt
+      421 gaaccatcga gtttttgaac gcaagttgcg cctgaaacca ttaggttgag ggcacgtctg
+      481 cctgggtgtc acacaatgtt gcccaatgcc caacgccttt ccacgatcgg tgttgagcgg
+      541 ggcgaatgct ggcttcccac gagcatggtc tcgtggttgg ttgaaaaatg agtcctcggt
+      601 ggaatgctcc atgagaaatg gtggttgagt gatgctcgag accaatcatg cgtggcttcc
+      661 cctcaaaggg tggaccttcg accccttgcg tcttcatacg acgctcacaa cgagacctca
+      721 ggtcaggcgg gactacccgc tgagtttaag catatcaata agcggaggaa aagaaacta
+//
+LOCUS       KC779788                 419 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Galactia striata voucher Queiroz 15232 (HUEFS) 18S ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 1, complete
+            sequence; and 5.8S ribosomal RNA gene, partial sequence.
+ACCESSION   KC779788
+VERSION     KC779788.1
+KEYWORDS    .
+SOURCE      Galactia striata
+  ORGANISM  Galactia striata
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Galactia.
+REFERENCE   1  (bases 1 to 419)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 419)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..419
+                     /db_xref="taxon:100146"
+                     /mol_type="genomic DNA"
+                     /organism="Galactia striata"
+                     /specimen_voucher="Queiroz 15232 (HUEFS)"
+     misc_RNA        <1..>419
+                     /note="contains 18S ribosomal RNA, internal transcribed
+                     spacer 1, and 5.8S ribosomal RNA"
+ORIGIN
+        1 ggtccggtga agtgttcgga ttgcggcgac gtaggcggtt cgctgcccgc gacgttgtga
+       61 gaagtccact gaaccttatc atttagagga aggagaagtc gtaacaaggt ttccgtaggt
+      121 gaacctgcgg aaggatcatt gtcgatgcct cacaatcagt tcaactcgcg aacctgttta
+      181 accgcatagg gttggttgga tgtctaacat cttagcttcc cttgtgttgt gggcgggctt
+      241 gtgctctgca cggcctcctt cgacaaaaca caaaccccgg cgcaacatgc gtcaaggaac
+      301 ctggaattgt ttgatgcgcc tgcagacccc ggagacggtg tttgtaggtg acgtcgttca
+      361 acatgtatca aaatgactct cggcaacgga tatctcggct cttgcatcga tgaagaacg
+//
+LOCUS       KC779787                 794 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Galactia striata voucher Lima 464 (HUEFS) 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   KC779787
+VERSION     KC779787.1
+KEYWORDS    .
+SOURCE      Galactia striata
+  ORGANISM  Galactia striata
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Galactia.
+REFERENCE   1  (bases 1 to 794)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 794)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..794
+                     /db_xref="taxon:100146"
+                     /mol_type="genomic DNA"
+                     /organism="Galactia striata"
+                     /specimen_voucher="Lima 464 (HUEFS)"
+     misc_RNA        <1..>794
+                     /note="contains 18S ribosomal RNA, internal transcribed
+                     spacer 1, 5.8S ribosomal RNA, internal transcribed spacer
+                     2, and 28S ribosomal RNA"
+ORIGIN
+        1 gttgtgagaa gtccactgaa ccttatcatt tagaggaagg agaagtcgta acaaggtttc
+       61 cgtaggtgaa cctgcggaag gatcattgtc gatgcctcac aatcagttca actcgtgaac
+      121 ctgtttaacc gcttagggtt ggttggatgt ctaacatctt agcttccctt gtgttgtggg
+      181 tgggcttgtg ctctgcacac cctccttcga caaaacacaa accccggcgc aacatgcgtc
+      241 aaggaacctg gaattgtttg atgcgcctgt agaccccgga gacggtgttt ctgcaggtga
+      301 tgtcgttcaa catgtatcaa aatgactctc ggcaacggat atctcggctc ttgcatcgat
+      361 gaagaacgta gcaaaatgcg atacttggtg tgaattgcag aatcccgtga accatcgagt
+      421 ctttgaacgc aagttgcgcc tgaaaccatt aggttgaggg cacgtctgcc tgggtgtcac
+      481 acaatgttgc ccaacgccaa cgccgttcca cgatcggtgt ttgagcgggg caaaagttgg
+      541 cttcccacga gctctgtctc gtggttggtt gaaaaacgag tcctcggtgg aatgctccat
+      601 gagaaatggt ggttgagtga tgctcgagac caaacatgcg tggcttcccc ttaaggtgga
+      661 ccttcgaccc cttgcgtcct aacacgacgc tcacaacgag acctcaggtc aggcgggact
+      721 acccgctgag tttaagcata tcaataagcg gaggaaaaga aactaacaag gattccccta
+      781 gtaacggcga gcga
+//
+LOCUS       KC779786                 796 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Galactia stereophylla voucher Queiroz 14290 (HUEFS) 18S ribosomal
+            RNA gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   KC779786
+VERSION     KC779786.1
+KEYWORDS    .
+SOURCE      Galactia stereophylla
+  ORGANISM  Galactia stereophylla
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Galactia.
+REFERENCE   1  (bases 1 to 796)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 796)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..796
+                     /db_xref="taxon:1457499"
+                     /mol_type="genomic DNA"
+                     /organism="Galactia stereophylla"
+                     /specimen_voucher="Queiroz 14290 (HUEFS)"
+     misc_RNA        <1..>796
+                     /note="contains 18S ribosomal RNA, internal transcribed
+                     spacer 1, 5.8S ribosomal RNA, internal transcribed spacer
+                     2, and 28S ribosomal RNA"
+ORIGIN
+        1 gttgtgagaa gtccactgaa ccttatcatt tagaggaagg agaagtcgta acaaggtttc
+       61 cgtaggtgaa cctgcggaag gatcattgtc gatgcctcac aatcagttca acttgtgaac
+      121 ctgtttaacc attcagggtt grttggatgt ctaacatctt agcttccctt atgttggggg
+      181 cagggttatg ctttgcatgg cctccttcca acaaaacaca aaccccggcg caacatgcgt
+      241 caaggaactt gaaattgttt gatgcgcctg taggcmccgg agacggtgtt tctacaggtg
+      301 atgtcgttca aaatgtctta aaatgactct cggcaacgga tatctcggct cttgcatcga
+      361 tgaagaacgt agcaaaatgc gatacttggt gtgaattgca gaatcccgtg aaccatcgag
+      421 tctttgaacg caagttgcgc ctgaaaccat taggttgagg gcacgtctgc ctgggtgtca
+      481 cacaatgttg cccaatgccc aacgcctttc catgatcggt gttgagcggg mcgaatgttg
+      541 gcttcccacg agcatggtct cgtggttggt tgaaaaatga gtcctcggtg gaatgctcca
+      601 tgagaaatgg tggttgagtg atgctcgaga ccaaacatgc gtggcttccc ccmaaatgtt
+      661 ggacctctga cccctgcgtc ttcatacgac gctcacttcg agacctcagg tcaggcggga
+      721 ctacccgctg agtttaagca tatcaataag cggaggaaaa gaaactaaca aggattcccc
+      781 tagtaacggc gagcga
+//
+LOCUS       KC779785                 822 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Galactia sp. JFBP-2014b voucher CIAT 8010 (HUEFS) 18S ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   KC779785
+VERSION     KC779785.1
+KEYWORDS    .
+SOURCE      Galactia sp. JFBP-2014b
+  ORGANISM  Galactia sp. JFBP-2014b
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Galactia.
+REFERENCE   1  (bases 1 to 822)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 822)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..822
+                     /db_xref="taxon:1471004"
+                     /mol_type="genomic DNA"
+                     /organism="Galactia sp. JFBP-2014b"
+                     /specimen_voucher="CIAT 8010 (HUEFS)"
+     misc_RNA        <1..>822
+                     /note="contains 18S ribosomal RNA, internal transcribed
+                     spacer 1, 5.8S ribosomal RNA, internal transcribed spacer
+                     2, and 28S ribosomal RNA"
+ORIGIN
+        1 ggtccggtga agtgttcgga ttgcggcgac gtaggcggtt cgctgcccgc gacgttgtga
+       61 gaagtccact gaaccttatc atttagagga aggagaagtc gtaacaaggt ttccgtaggt
+      121 gaacctgcgg aaggatcatt gtcgatgcct cacaatcagt tcaactggcg aatctgttta
+      181 accatttagg gttgatggga tgtctaacat cctagcttcc cttatgttgt gggaaggctt
+      241 gtgctctgca cagcctcctt ccaacaaaac acataccccg gcgcaacatg cgtcaaggaa
+      301 cttggaattg tttgatgcac ctgtaggccc cggagacggt gtttctgcag gtgatgtcgt
+      361 tcaacacgta tcaaaatgac tctcggcaac ggatatctcg gctcttgcat cgatgaagaa
+      421 cgtagcaaaa tgcgatactt ggtgtgaatt gcagaatccc gtgaaccatc gagtctttga
+      481 acgcaagttg cgcctgaaac cattaggttg agggcacgtc tgcctgggtg tcacacaatg
+      541 ttgcccaaac tttgtcaggg tgaaagttgg cctcccagga gcttggtctc gtggttggtt
+      601 gaaaaatgaa tcctcggtgg aatgctccat gagaaatggt ggttgagtga tgctcgatgc
+      661 cgaacatgcg tggcttccac ttaaagggtg gtgtaacgag taccctgtgc gttttcacac
+      721 gacgctcaca acgagacctc aggtcaggcg ggactacccg ctgagtttaa gcatatcaat
+      781 aagcggagga aaagaaacta acaaggattc ccctagtaac gg
+//
+LOCUS       KC779784                 604 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Galactia sp. JFBP-2014a voucher CIAT 17445 (HUEFS) internal
+            transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene,
+            complete sequence; and internal transcribed spacer 2, partial
+            sequence.
+ACCESSION   KC779784
+VERSION     KC779784.1
+KEYWORDS    .
+SOURCE      Galactia sp. JFBP-2014a
+  ORGANISM  Galactia sp. JFBP-2014a
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Galactia.
+REFERENCE   1  (bases 1 to 604)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 604)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..604
+                     /db_xref="taxon:1457497"
+                     /mol_type="genomic DNA"
+                     /organism="Galactia sp. JFBP-2014a"
+                     /specimen_voucher="CIAT 17445 (HUEFS)"
+     misc_RNA        <1..>604
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, and internal transcribed spacer 2"
+ORIGIN
+        1 atcagttcaa ctcgcgaacc tgtttaaccg cttagggttg gttggatgtc taacatctta
+       61 gcttcccttg tgttgtgggy gggcttgtgc tctgcacggc ctccttcaac aaaacacaaa
+      121 ccccggcgca acatgcgtca aggaacctgg aattgtttga tgcgcctgta gaccccggag
+      181 acggtgtttc tgcaggtgat gtcgttcaac atgtatcaaa atgactctcg gcaacggata
+      241 tctcggctct tgcatcgatg aagaacgtag caaaatgcga tacttggtgt gaattgcaga
+      301 atcccgtgaa ccatcgagtc tttgaacgca agttgcgcct gaaaccatta ggttgagggc
+      361 acgtctgcct gggtgtcaca caatgttgcc caacgccaac gccgttccac gatcggtgtt
+      421 tgagcggggc gaaagttggc ttcccacgag ctttgtcccg tggttggttg aaaaacgagt
+      481 cctcggtgga atgctccatg ggaaatggtg gttgagtcat gctcgagacc aaacatgcgt
+      541 ggcttcccct taaggtggac ctccgacccc ttgcgtccta acacgacgct cacaacgaga
+      601 cctc
+//
+LOCUS       KC779783                 828 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Galactia remansoana voucher Queiroz 7190 (HUEFS) 18S ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   KC779783
+VERSION     KC779783.1
+KEYWORDS    .
+SOURCE      Galactia remansoana
+  ORGANISM  Galactia remansoana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Galactia.
+REFERENCE   1  (bases 1 to 828)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 828)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..828
+                     /db_xref="taxon:1457496"
+                     /mol_type="genomic DNA"
+                     /organism="Galactia remansoana"
+                     /specimen_voucher="Queiroz 7190 (HUEFS)"
+     misc_RNA        <1..>828
+                     /note="contains 18S ribosomal RNA, internal transcribed
+                     spacer 1, 5.8S ribosomal RNA, internal transcribed spacer
+                     2, and 28S ribosomal RNA"
+ORIGIN
+        1 gtgaagtgtt cggattgcgg cgacgtaggc ggttcgctgc ccgcgacgtt gtgagaagtc
+       61 cactgaacct tatcatttag aggaaggaga agtcgtaaca aggtttccgt aggtgaacct
+      121 gcggaaggat cattgtcgat gcctcacaat cagttcaact cgtgaacctg ttttaaccat
+      181 ctagggttga ttggatgtct gacatcttag cttcccttat gttgcgggct ggcttgtgct
+      241 ctgcatggcc ttcttccaac aaaacaaaac cccggcgcaa catgcgtcaa ggaacttgaa
+      301 attgtttgat gcacccgtag accccggaga cggtgtctct acgggtgatg tcgttcaaaa
+      361 tgtctcaaaa tgactctcgg caacggatat ctcggctctt gcatcgatga agaacgtagc
+      421 aaaatgcgat acttggtgtg aattgcagaa tcccgtgaac catcgagttt ttgaacgcaa
+      481 gttgcgcctg aaaccattag gttgagggca cgtctgcctg ggtgtcacac aatgttgccc
+      541 aatgcccaac gcctttccat gatcggtgtt tgagcggggc gaatgctggc ttcccacgag
+      601 cacggtctcg tggttggttg aaaaatgagt cctcggtgga atgctccatg agaaatggtg
+      661 gttgagtgat gctcgagacc aaacatgcgg gctttccccc taaatgttgg acctctgacc
+      721 cctgcgtttt ctcacaacgc tcacaacaag acctcaggtc aggcgggact acccgctgag
+      781 tttaagcata tcaataagcg gaggaaaaga aactaacaag gattcccc
+//
+LOCUS       KC779782                 784 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Galactia remansoana voucher Queiroz 14659 (HUEFS) 18S ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   KC779782
+VERSION     KC779782.1
+KEYWORDS    .
+SOURCE      Galactia remansoana
+  ORGANISM  Galactia remansoana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Galactia.
+REFERENCE   1  (bases 1 to 784)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 784)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..784
+                     /db_xref="taxon:1457496"
+                     /mol_type="genomic DNA"
+                     /organism="Galactia remansoana"
+                     /specimen_voucher="Queiroz 14659 (HUEFS)"
+     misc_RNA        <1..>784
+                     /note="contains 18S ribosomal RNA, internal transcribed
+                     spacer 1, 5.8S ribosomal RNA, internal transcribed spacer
+                     2, and 28S ribosomal RNA"
+ORIGIN
+        1 catttagagg aaggagaagt cgtaacaagg tttccgtagg tgaacctgcg gaaggatcat
+       61 tgtcgatgcc tcacaatcag ttcaactcgt gaacctgttt taaccatcta gggttgattg
+      121 gatgtctgac atcttagctt cccttatgtt gcgggctggc ttgtgctctg catggccttc
+      181 ttccaacaaa acaaaacccc ggcgcaacat gcgtcaagga acttgaaatt gtttgatgca
+      241 cccgtagacc ccggagacgg tgtctctacg ggtgatgtcg ttcaaaatgt ctcaaaatga
+      301 ctctcggcaa cggatatctc ggctcttgca tcgatgaaga acgtagcaaa atgcgatact
+      361 tggtgtgaat tgcagaatcc cgtgaaccat cgagtttttg aacgcaagtt gcgcctgaaa
+      421 ccattaggtt gagggcacgt ctgcctgggt gtcacacaat gttgcccaat gcccaacgcc
+      481 tttccatgat cggtgtttga gcggggcgaa tgctggcttc ccacgagcac ggtctcgtgg
+      541 ttggttgaaa aatgagtcct cggtggaatg ctccatgaga aatggtggtt gagtgatgct
+      601 cgagaccaaa catgcgggct tccccctaaa tgttggacct ctgacccctg cgttttctca
+      661 caacgctcac aacgagacct caggtcaggc gggactaccc gctgagttta agcatatcaa
+      721 taagcggagg aaaagaaact aacaaggatt cccctagtaa cggcgagcga accggggaat
+      781 tcta
+//
+LOCUS       KC779781                 756 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Galactia regularis voucher Nelson 13375 (HUEFS) 18S ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   KC779781
+VERSION     KC779781.1
+KEYWORDS    .
+SOURCE      Galactia regularis
+  ORGANISM  Galactia regularis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Galactia.
+REFERENCE   1  (bases 1 to 756)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 756)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..756
+                     /db_xref="taxon:1457495"
+                     /mol_type="genomic DNA"
+                     /organism="Galactia regularis"
+                     /specimen_voucher="Nelson 13375 (HUEFS)"
+     misc_RNA        <1..>756
+                     /note="contains 18S ribosomal RNA, internal transcribed
+                     spacer 1, 5.8S ribosomal RNA, internal transcribed spacer
+                     2, and 28S ribosomal RNA"
+ORIGIN
+        1 ttatcattta gaggaaggag aagtcgtaac aaggtttccg taggtgaacc tgcggaagga
+       61 tcattgtcga tacctcacaa tcagttcaac tcgtgaacct gttttaacca tttagggttg
+      121 atcggatgtc tgacatccta gcttccctta tgttgcgggc gggcttatgc tttgcattgc
+      181 ctccttccaa caaaacaaaa ccccggcgca acacgcgtca aggaacttga aattgtttga
+      241 tgcacccgtg gacctcggag acggtgtgtc tacgggtgat gtcgttcaaa atgtcttaaa
+      301 atgactctcg gcaacggata tctcggctct tgcatcgatg aagaacgtag caaaatgcga
+      361 tacttggtgt gaattgcaga atcccgtgaa ccatcgagtt tttgaacgca agttgcgcct
+      421 gaaaccatta ggttgagggc acgtctgcct gggtgtcaca caatgttgcc caatgcccaa
+      481 cgcctttcca cgatcggtgt tgagcggggc gaatgctggc ttcccacgag catggtctcg
+      541 tggttggttg aaaaatgagt cctcggtgga atgctccatg agaaatggtg gttgagtgat
+      601 gctcgagacc aaacatgcgg gcttccccct aaatgttgga cctctgaccc ttgcgtttta
+      661 taacaacgct cacaacgaga cctcaggtca ggcgggatta cccgctgagt ttaagcatat
+      721 caataagcgg aggaaaagaa actaacaagg attccc
+//
+LOCUS       KC779780                 755 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Galactia regularis voucher Aubach 613 (HUEFS) 18S ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   KC779780
+VERSION     KC779780.1
+KEYWORDS    .
+SOURCE      Galactia regularis
+  ORGANISM  Galactia regularis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Galactia.
+REFERENCE   1  (bases 1 to 755)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 755)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..755
+                     /db_xref="taxon:1457495"
+                     /mol_type="genomic DNA"
+                     /organism="Galactia regularis"
+                     /specimen_voucher="Aubach 613 (HUEFS)"
+     misc_RNA        <1..>755
+                     /note="contains 18S ribosomal RNA, internal transcribed
+                     spacer 1, 5.8S ribosomal RNA, internal transcribed spacer
+                     2, and 28S ribosomal RNA"
+ORIGIN
+        1 tatcatttag aggaaggaga agtcgtaaca aggtttccgt aggtgaacct gcggaaggat
+       61 cattgtcgat acctcacaat cagttcaact cgtgaacctg ttttaaccat ttagggttga
+      121 tcggatgtct gacatcctag cttcccttat gttgcgggcg ggcttatgct ttgcattgcc
+      181 tccttccaac aaaacaaaac cccggcgcaa cacgcgtcaa ggaacttgaa attgtttgat
+      241 gcacccgtgg acctcggaga cggtgtgtct acgggtgatg tcgttcaaaa tgtcttaaaa
+      301 tgactctcgg caacggatat ctcggctctt gcatcgatga agaacgtagc aaaatgcgat
+      361 acttggtgtg aattgcagaa tcccgtgaac catcgagttt ttgaacgcaa gttgcgcctg
+      421 aaaccattag gttgagggca cgtctgcctg ggtgtcacac aatgttgccc aatgcccaac
+      481 gcctttccac gatcggtgtt gagcggggcg aatgctggct tcccacgagc atggtctcgt
+      541 ggttggttga aaaatgagtc ctcggtggaa tgctccatga gaaatggtgg ttgagtgatg
+      601 ctcgagacca aacatgcggg cttcccccta aatgttggac ctctgaccct tgcgttttat
+      661 aacaacgctc acaacgagac ctcaggtcag gcgggattac ccgctgagtt taagcatatc
+      721 aataagcgga ggaaaagaaa ctaacaagga ttccc
+//
+LOCUS       KC779779                 756 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Galactia pendula voucher Harris 11659 (HUEFS) 18S ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   KC779779
+VERSION     KC779779.1
+KEYWORDS    .
+SOURCE      Galactia pendula
+  ORGANISM  Galactia pendula
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Galactia.
+REFERENCE   1  (bases 1 to 756)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 756)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..756
+                     /db_xref="taxon:1457493"
+                     /mol_type="genomic DNA"
+                     /organism="Galactia pendula"
+                     /specimen_voucher="Harris 11659 (HUEFS)"
+     misc_RNA        <1..>756
+                     /note="contains 18S ribosomal RNA, internal transcribed
+                     spacer 1, 5.8S ribosomal RNA, internal transcribed spacer
+                     2, and 28S ribosomal RNA"
+ORIGIN
+        1 ttatcattta gaggaaggag aagtcgtaac aaggtttccg taggtgaacc tgcggaagga
+       61 tcattgtcga tgcctcacaa tcagttcaac ttgtgaacct gttttaacca tttagggttg
+      121 atcggatgtc tgacatccaa gcttccctta tgttgcgggc gggcttatgc tttgcatggc
+      181 ctccttccaa caaaacaaaa ccccggcgca acacgcgtca aggaacttga aattgtttga
+      241 tgcacccgtg gaccccggag acggtgtttc tacgggtgac gtcgttcaaa atgtcttaaa
+      301 atgactctcg gcaacggata tctcggctct tgcatcgatg aagaacgtag caaaatgcga
+      361 tacttggtgt gaattgcaga atcccgtgaa ccatcgagtt tttgaacgca agttgcgcct
+      421 gaaaccatta ggttgagggc acgtctgcct gggtgtcaca caatgttgcc caatgcccaa
+      481 cgcctttcca tgatcggtgt tgagcggggt gaatgctggc ttcccacgag catggcctcg
+      541 tggttggttg aaaaatgagt cctcggtgga atgctccatg agaaatggtg gttgagtgat
+      601 gctcgagacc aaacatgcgg gcttccccct aaacgttgga cctctgaccc ctgcgttttg
+      661 taccaacgct cacaacgaga cctcaggtca ggcgggacta cccgctgagt ttaagcatat
+      721 caataagcgg aggaaaagaa actaacaagg attccc
+//

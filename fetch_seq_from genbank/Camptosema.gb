@@ -1,0 +1,914 @@
+LOCUS       KJ402377                 846 bp    DNA     linear   PLN 26-MAR-2016
+DEFINITION  Camptosema spectabile voucher L.P. de Queiroz 5087(HUEFS) 18S
+            ribosomal RNA gene, partial sequence; internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   KJ402377
+VERSION     KJ402377.1
+KEYWORDS    .
+SOURCE      Camptosema spectabile
+  ORGANISM  Camptosema spectabile
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Camptosema.
+REFERENCE   1  (bases 1 to 846)
+  AUTHORS   Lima,A.V.F., Queiroz,L.P. and Souza,E.R.
+  TITLE     Three new species of Bionia Mart. ex Benth. (Leguminosae:
+            Papilionoideae: Phaseoleae) from Cadeia do Espinhaco
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 846)
+  AUTHORS   Lima,A.V.F., Queiroz,L.P. and Souza,E.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-FEB-2014) Ciencias Biologicas, Universidade Estadual
+            de Feira de Santana, Av Transnordestina sn, Novo Horizonte, Feira de
+            Santana, Bahia 44036900, Brazil
+FEATURES             Location/Qualifiers
+     source          1..846
+                     /db_xref="taxon:1457444"
+                     /mol_type="genomic DNA"
+                     /note="authority: Cratylia spectabilis Tul."
+                     /organism="Camptosema spectabile"
+                     /specimen_voucher="L.P. de Queiroz 5087(HUEFS)"
+     misc_RNA        <1..363
+                     /note="contains 18S ribosomal RNA and internal transcribed
+                     spacer 1"
+     rRNA            370..533
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        534..>846
+                     /note="contains internal transcribed spacer 2 and 28S
+                     ribosomal RNA"
+ORIGIN
+        1 cggtgaagtg ttcggattgc ggcgacgtgg gcggttcgct gcccgcgacg ttgtgagaag
+       61 tccactgaac cttatcattt agaggaagga gaagtcgtaa caaggtttcc gtaggtgaac
+      121 ctgcggaagg atcattgtcg atgcctcata atcagttcaa cttgtgaatt tgttttacta
+      181 tgcagggttg attggatgtt caacatccta gcttccctta tgttgggggt aggttcatgc
+      241 gatgcgtggc cgccttccag caaaacacaa accccgacgc aacatgcgtc aaggaacttg
+      301 aaattgtttg atacgcttgt agacccggag acggggtttc aacaagtgat gtcgttcaac
+      361 atgtctcaaa atgactctcg gcaacggata tctcggctct tgcatcgatg aagaacgtag
+      421 caaaatgcga tacttggtgt gaattgcaga atcccgtgca ccatcgagtc tttgaacgca
+      481 agttgcgcct gaaaccatta ggttgagggc acgtctgcct gggtgtcaca caatgttgtc
+      541 ctatgccaat gcctttgaac aatcggtgtt gagcaaggcg aatgttggct tcccacgagc
+      601 atcgtctcgt ggttggttga aaaatgagtc ctcggtggaa tgctccatga taaatggtgg
+      661 ttgagtcatg ctcgagacca aacatgcgtg gcttcctcct agatgtggga cctttgaccc
+      721 ttgcgttctc ttacaacgct cacaacgaga cctcaggtca ggcgggacta cccgctgagt
+      781 ttaagcatat caataagcgg aggaaaagaa actaacaagg attcccctag taacggcgag
+      841 cgaacc
+//
+LOCUS       KC779671                 753 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Camptosema spectabile voucher Queiroz 7088 (HUEFS) 18S rRNA
+            ribosomal gene, partial sequence; internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 26S ribosomal RNA gene, partial sequence.
+ACCESSION   KC779671
+VERSION     KC779671.1
+KEYWORDS    .
+SOURCE      Camptosema spectabile
+  ORGANISM  Camptosema spectabile
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Camptosema.
+REFERENCE   1  (bases 1 to 753)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 753)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..753
+                     /db_xref="taxon:1457444"
+                     /mol_type="genomic DNA"
+                     /organism="Camptosema spectabile"
+                     /specimen_voucher="Queiroz 7088 (HUEFS)"
+     rRNA            <1..88
+                     /product="18S rRNA ribosomal"
+     misc_RNA        89..317
+                     /product="internal transcribed spacer 1"
+     rRNA            318..482
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        483..696
+                     /product="internal transcribed spacer 2"
+     rRNA            697..>753
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 gttgtgagaa gtccactgaa ccttatcatt tagaggaagg agaagtcgta acaaggtttc
+       61 cgtaggtgaa cctgcggaag gatcattgtc gatgcctcat aatcagttca acttgtgaat
+      121 ttgttttact atgcagggtt gattggatgt tcaacatcct agcttccctt atgttggggg
+      181 taggttcatg cgatgcgtgg ccgccttcca gcaaaacaca aaccccgacg caacatgcgt
+      241 caaggaactt gaaattgttt gatacgcttg tagacccgga gacggggttt caacaagtga
+      301 tgtcgttcaa catgtctcaa aatgactctc ggcaacggat atctcggctc ttgcatcgat
+      361 gaagaacgta gcaaaatgcg atacttggtg tgaattgcag aatcccgtga accatcgagt
+      421 ctttgaacgc aagttgcgcc tgaaaccatt aggttgaggg cacgtctgcc tgggtgtcac
+      481 acaatgttgt cctatgccaa tgcctttgaa caatcggtgt tgagcaaggc gaatgttggc
+      541 ttcccacgag catcgtctcg tggttggttg aaaaatgagt cctcggtgga atgctccatg
+      601 ataaatggtg gttgagtcat gctcgagacc aaacatgcgt ggcttcctcc tagatgtggg
+      661 acctttgacc cttgcgttct cttacaacgc tcacaacgag acctcaggtc aggcgggact
+      721 acccgctgag tttaagcata tcaataagcg gag
+//
+LOCUS       KC779670                 847 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Camptosema spectabile voucher Queiroz 5087 (HUEFS) 18S rRNA
+            ribosomal gene, partial sequence; internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 26S ribosomal RNA gene, partial sequence.
+ACCESSION   KC779670
+VERSION     KC779670.1
+KEYWORDS    .
+SOURCE      Camptosema spectabile
+  ORGANISM  Camptosema spectabile
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Camptosema.
+REFERENCE   1  (bases 1 to 847)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 847)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..847
+                     /db_xref="taxon:1457444"
+                     /mol_type="genomic DNA"
+                     /organism="Camptosema spectabile"
+                     /specimen_voucher="Queiroz 5087 (HUEFS)"
+     rRNA            <1..137
+                     /product="18S rRNA ribosomal"
+     misc_RNA        138..366
+                     /product="internal transcribed spacer 1"
+     rRNA            367..531
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        532..745
+                     /product="internal transcribed spacer 2"
+     rRNA            746..>847
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 cggtgaagtg ttcggattgc ggcgacgtgg gcggttcgct gcccgcgacg ttgtgagaag
+       61 tccactgaac cttatcattt agaggaagga gaagtcgtaa caaggtttcc gtaggtgaac
+      121 ctgcggaagg atcattgtcg atgcctcata atcagttcaa cttgtgaatt tgttttacta
+      181 tgcagggttg attggatgtt caacatccta gcttccctta tgttgggggt aggttcatgc
+      241 gatgcgtggc cgccttccag caaaacacaa accccgacgc aacatgcgtc aaggaacttg
+      301 aaattgtttg atacgcttgt agacccggag acggggtttc aacaagtgat gtcgttcaac
+      361 atgtctcaaa atgactctcg gcaacggata tctcggctct tgcatcgatg aagaacgtag
+      421 caaaatgcga tacttggtgt gaattgcaga atcccgtgaa ccatcgagtc tttgaacgca
+      481 agttgcgcct gaaaccatta ggttgagggc acgtctgcct gggtgtcaca caatgttgtc
+      541 ctatgccaat gcctttgaac aatcggtgtt gagcaaggcg aatgttggct tcccacgagc
+      601 atcgtctcgt ggttggttga aaaatgagtc ctcggtggaa tgctccatga taaatggtgg
+      661 ttgagtcatg ctcgagacca aacatgcgtg gcttcctcct agatgtggga cctttgaccc
+      721 ttgcgttctc ttacaacgct cacaacgaga cctcaggtca ggcgggacta cccgctgagt
+      781 ttaagcatat caataagcgg aggaaaagaa actaacaagg attcccctag taacggcgag
+      841 cgaaccg
+//
+LOCUS       KC779669                 863 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Camptosema sp. JFBP-2014 voucher Queiroz 5044 (HUEFS) 18S rRNA
+            ribosomal gene, partial sequence; internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 26S ribosomal RNA gene, partial sequence.
+ACCESSION   KC779669
+VERSION     KC779669.1
+KEYWORDS    .
+SOURCE      Camptosema sp. JFBP-2014
+  ORGANISM  Camptosema sp. JFBP-2014
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Camptosema.
+REFERENCE   1  (bases 1 to 863)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 863)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..863
+                     /db_xref="taxon:1457443"
+                     /mol_type="genomic DNA"
+                     /organism="Camptosema sp. JFBP-2014"
+                     /specimen_voucher="Queiroz 5044 (HUEFS)"
+     rRNA            <1..140
+                     /product="18S rRNA ribosomal"
+     misc_RNA        141..370
+                     /product="internal transcribed spacer 1"
+     rRNA            371..535
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        536..750
+                     /product="internal transcribed spacer 2"
+     rRNA            751..>863
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 gtccggtgaa gtgttcggat tgcggcgacg taggcggttc gctgcccgcg acgttgtgag
+       61 aagtccactg aaccttatca tttagaggaa ggagaagtcg taacaaggtt tccgtaggtg
+      121 aacctgcgga aggatcattg tcgatgcctc acaatcagtt caacttgcga acctgtttaa
+      181 ccatttaggg ttgattggat gtctaacatc ttagcttccc ttatgttgcg ggcgggctta
+      241 tgctttgcat ggcctccttc caacaaaaca caaaccccgg cgcaacatgc gtcaaggaac
+      301 ttgaaattgt ttgatgcacc tgtaggcccc ggagacggtg tttctgcagg tggtgtcgtt
+      361 caacatgtct taaaatgact ctcggcaacg gatatctcgg ctcttgcatc gatgaagaac
+      421 gtagcaaaat gcgatacttg gtgtgaattg cagaatcccg tgaaccatcg agtctttgaa
+      481 cgcaagttgc gcctgaaacc attaggttga gggcacgtct gcctgggtgt cacacaatgt
+      541 tgcccaatgc ccaacgcctt tccatgatcg gtgttgagcg gggcgaatgt tggcttccca
+      601 cgagcacggt ctcgtggttg gttgaaaaat gagtcctcgg tggaatgctc catgagaaat
+      661 ggtggttgag tgatgctcga gaccaaacat gcgtggcttc cccctaaatg taggacctgt
+      721 gacccttgcg tcttcatacg acgctcacaa cgagacctca ggtcaggcgg gactacccgc
+      781 tgagtttaag catatcaata agcggaggaa aagaaactaa caaggattcc cctagtaacg
+      841 gcgagcgaac cggggaattc taa
+//
+LOCUS       KC779668                 526 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Camptosema scarlatinum voucher Queiroz 14331 (HUEFS) internal
+            transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene,
+            complete sequence; and internal transcribed spacer 2, partial
+            sequence.
+ACCESSION   KC779668
+VERSION     KC779668.1
+KEYWORDS    .
+SOURCE      Camptosema scarlatinum
+  ORGANISM  Camptosema scarlatinum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Camptosema.
+REFERENCE   1  (bases 1 to 526)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 526)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..526
+                     /db_xref="taxon:584680"
+                     /mol_type="genomic DNA"
+                     /organism="Camptosema scarlatinum"
+                     /specimen_voucher="Queiroz 14331 (HUEFS)"
+     misc_RNA        <1..207
+                     /product="internal transcribed spacer 1"
+     rRNA            208..372
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        373..>526
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 cttgtgaacc tgtttaacca ttcagggttg attggatgtc taacatctta tcttccctta
+       61 tgttgggggc agggttatgc tttgcatggc ctccttccaa caaaacacaa accccggcgc
+      121 aacatgcgtc aaggaacttg aaattgtttg atgcgcctgt aggccccgga gacggtgttt
+      181 ctacgggtga tgtcgttcaa catgtcttaa aatgactctc ggcaacggat atctcggctc
+      241 ttgcatcgat gaagaacgta gcaaaatgcg atacttggtg tgaattgcag aatcccgtga
+      301 accatcgagt ctttgaacgc aagttgcgcc tgaaaccatt aggttgaggg cacgtctgcc
+      361 tgggtgtcac acaatgttgc ccaatgccca acgcctttcc atgatcggtg tttgagcggg
+      421 ccgaatgttg gcttcccacg agcatggtct cgtggttggt tgaaaaatga gtcctcggtg
+      481 gaatgctcca tgagaaatgg tggttgagtg atgctcgaga ccaaac
+//
+LOCUS       KC779667                 772 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Camptosema scarlatinum voucher Jesus 43 (HUEFS) 18S rRNA ribosomal
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 26S ribosomal RNA gene, partial sequence.
+ACCESSION   KC779667
+VERSION     KC779667.1
+KEYWORDS    .
+SOURCE      Camptosema scarlatinum
+  ORGANISM  Camptosema scarlatinum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Camptosema.
+REFERENCE   1  (bases 1 to 772)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 772)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..772
+                     /db_xref="taxon:584680"
+                     /mol_type="genomic DNA"
+                     /organism="Camptosema scarlatinum"
+                     /specimen_voucher="Jesus 43 (HUEFS)"
+     rRNA            <1..98
+                     /product="18S rRNA ribosomal"
+     misc_RNA        99..327
+                     /product="internal transcribed spacer 1"
+     rRNA            328..492
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        493..707
+                     /product="internal transcribed spacer 2"
+     rRNA            708..>772
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 tgcccgcgac gttgtgagaa gtccactgaa ccttatcatt tagaggaagg agaagtcgta
+       61 acaaggtttc cgtaggtgaa cctgcggaag gatcattgtc gatgcctcac aatcagttca
+      121 acttgcgaac ctgtttaacc attcagggtt gattggatgt ctaacatctt agcttccctt
+      181 atgttggggg cagggttatg ctttgcatgg cctcttccaa caaaacacaa accccggcgc
+      241 aacatgcgtc aaggaacttg aaattgtttg atgcgcctgt aggccccgga gacggtgttt
+      301 ctacgggtga tgtcgttcaa catgtcttaa aatgactctc ggcaacggat atctcggctc
+      361 ttgcatcgat gaagaacgta gcaaaatgcg atacttggtg tgaattgcag aatcccgtga
+      421 accatcgagt ctttgaacgc aagttgcgcc tgaaaccatt aggttgaggg cacgtctgcc
+      481 tgggtgtcac acaatgttgc ccaatgccca acgcctttcc atgatcggtg ttgagcgggg
+      541 cgaatgttgg cttcccacga gcatggtctc gtggttggtt gaaaaatgag tcctcggtgg
+      601 aatgctccat gagaaatggt ggttgagtga tgctcgagac caaacatgcg tggcttcccc
+      661 ctaaatgttg gacctctgac ccgtgcgtct tcatacgacg ctcacaacga gacctcaggt
+      721 caggcgggac tacccgctga gtttaagcat atcaataagc ggaggaaaag aa
+//
+LOCUS       KC779666                 740 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Camptosema rubicundum voucher Queiroz 12525 (HUEFS) 18S rRNA
+            ribosomal gene, partial sequence; internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 26S ribosomal RNA gene, partial sequence.
+ACCESSION   KC779666
+VERSION     KC779666.1
+KEYWORDS    .
+SOURCE      Camptosema rubicundum
+  ORGANISM  Camptosema rubicundum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Camptosema.
+REFERENCE   1  (bases 1 to 740)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 740)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..740
+                     /db_xref="taxon:510209"
+                     /mol_type="genomic DNA"
+                     /organism="Camptosema rubicundum"
+                     /specimen_voucher="Queiroz 12525 (HUEFS)"
+     rRNA            <1..34
+                     /product="18S rRNA ribosomal"
+     misc_RNA        35..263
+                     /product="internal transcribed spacer 1"
+     rRNA            264..428
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        429..642
+                     /product="internal transcribed spacer 2"
+     rRNA            643..>740
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 ggtttccgta ggtgaacctg cggaaggatc attgtcgatg cctcacaatc agttcaactc
+       61 gcgaatctgt tcaactattt ggggtcggtt ggatgtctga catcctagct tccctcatgt
+      121 tgtgggcggg tttatgctat gcatggcctc ctttcaacaa aacacaaacc ccgacgcaac
+      181 atgcgtcaag gaatctaaaa ttgtttgata cgcctgtaga cccggagacg gtgtttctgc
+      241 aggcgatgtc gttcaacatg tatcaaaatg actctcggca acggatatct cggctcttgc
+      301 atcgatgaag aacgtagcaa aatgcgatac ttggtgtgaa ttgcagaatc ccgtgaacca
+      361 tcgagtcttt gaacgcaagt tgcgcctgaa accattaggt tgagggcacg tctgcctggg
+      421 tgtcacacaa tgttgcccca cgccaacgcc tttgaataat cggtgttgar ycgggcgaat
+      481 gttggcctcc cacgagcacg gtctcgtggt tggttgaaaa acgagtcctc ggtggaatgc
+      541 tccatgagaa atggtggttg agtgaygctc gagaccaaac atgcgtggct tcctcctaaa
+      601 tgttggaccc tagacccttg cgtttcctta caacgctcac aacgagacct caggtcaggc
+      661 gggactaccc gctgagttta agcatatcaa taagcggagg aaaagaaact aacaaggatt
+      721 cccctagtaa cggcgagcga
+//
+LOCUS       KC779665                 848 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Camptosema praeandinum voucher Queiroz 13393 (HUEFS) 18S rRNA
+            ribosomal gene, partial sequence; internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 26S ribosomal RNA gene, partial sequence.
+ACCESSION   KC779665
+VERSION     KC779665.1
+KEYWORDS    .
+SOURCE      Camptosema praeandinum
+  ORGANISM  Camptosema praeandinum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Camptosema.
+REFERENCE   1  (bases 1 to 848)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 848)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..848
+                     /db_xref="taxon:584679"
+                     /mol_type="genomic DNA"
+                     /organism="Camptosema praeandinum"
+                     /specimen_voucher="Queiroz 13393 (HUEFS)"
+     rRNA            <1..125
+                     /product="18S rRNA ribosomal"
+     misc_RNA        126..355
+                     /product="internal transcribed spacer 1"
+     rRNA            356..520
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        521..735
+                     /product="internal transcribed spacer 2"
+     rRNA            736..>848
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 ttcggattgc ggcgacgtag gcggttcgct gcccgcgacg ttgtgagaag tccactgaac
+       61 cttatcattt agaggaggag aagtcgtaac aaggtttccg taggtgacct gcggaaggat
+      121 cattgtcgat gcctcacaat cagttcaact tgcgaacctg tttaaccatt tagggttgat
+      181 tggatgtcca acatyttagc ttcccttatg ttgcgggcgg gcttatgctt tgcatggcct
+      241 ccttccaaca aaacacaaac cccggcgcaa catgcgtcaa ggaacttgaa attgtttgat
+      301 gcacctgtag gccccggaga cggtgtttct gcaggtggtg tcgttcaaca tgtcttaaaa
+      361 tgactctcgg caacggatat ctcggctctt gcatcgatga agaacgtagc aaaatgcgat
+      421 acttggtgtg aattgcagaa tcccgtgaac catcgagtct ttgaacgcaa gttgcgcctg
+      481 aaaccattag gttgagggca cgtctgcctg ggtgtcacac aatgttgccc aatgcccaac
+      541 gcctttccat gatcggtgtt gagcggggcg aatgttggct tcccacgagc acggtctcgt
+      601 ggttggttga aaaatgagtc ctcggtggaa tgctccatga gaaatggtgg ttgagtgatg
+      661 ctcgagacca aacatgcgtg gcttccccct aaatgtagga cctgtgaccc ttgcgtcttc
+      721 atacgacgct cacaacgara cctcaggtca ggcgggacta cccgctgagt ttaagcatat
+      781 caataagcgg aggaaaagaa actaacaagg attcccctag taacggcgag cgaaccgggg
+      841 aattctaa
+//
+LOCUS       KC779664                 826 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Camptosema isopetalum voucher Queiroz 4979 (HUEFS) 18S rRNA
+            ribosomal gene, partial sequence; internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 26S ribosomal RNA gene, partial sequence.
+ACCESSION   KC779664
+VERSION     KC779664.1
+KEYWORDS    .
+SOURCE      Camptosema isopetalum
+  ORGANISM  Camptosema isopetalum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Camptosema.
+REFERENCE   1  (bases 1 to 826)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 826)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..826
+                     /db_xref="taxon:1457442"
+                     /mol_type="genomic DNA"
+                     /organism="Camptosema isopetalum"
+                     /specimen_voucher="Queiroz 4979 (HUEFS)"
+     rRNA            <1..116
+                     /product="18S rRNA ribosomal"
+     misc_RNA        117..345
+                     /product="internal transcribed spacer 1"
+     rRNA            346..510
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        511..724
+                     /product="internal transcribed spacer 2"
+     rRNA            725..>826
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 gcgacgtggg cggttcgctg cccgcgacgt tgtgagaagt ccactgaacc ttatcattta
+       61 gaggaaggag aagtcgtaac aaggtttccg taggtgaacc tgcggaagga tcattgtcga
+      121 tgcctcataa tcnattcaac ttgtgaattt gtttaactat gcagggttga ttggatgttc
+      181 aacatcttag cttcccttat gttgggggta ggtttatgcg atgcgtggcc gccttccagc
+      241 aaaacacaaa ccccgacgca acatgcgtca aggaacttga aattgtttga tacgcttgta
+      301 gacccggaca cggtgtttca acaagtgatg tcgttcaaca tgtctcaaaa tgactctcgg
+      361 caacggatat ctcggctctt gcatcgatga agaacgtagc aaaatgcgat acttggtgtg
+      421 aattgcagaa tcccgtgaac catcgagtct ttgaacgcaa gttgcgcctg aaaccattag
+      481 gttgagggca cgtctgcctg ggtgtcacac aatgttgtcc tatgccaatg cctttgaata
+      541 atcggtgttg agcaaggcga atgttggctt cccacgagca tcgtctcgtg gttggttgaa
+      601 aaatgagtcc tcggtggaat gctccatgat aaatggtggt tgagtcatgc tcgagaccaa
+      661 acatgtgtgg cttcctccta aatgtgggac ctttgaccct tgcgttctct tgcaacgctc
+      721 acgacgagac ctcaggtcag gcgggactac ccgctgagtt taagcatatc aataagcgga
+      781 ggaaaagaaa ctaacaagga ttcccctagt aacggcgagc gaaccg
+//
+LOCUS       KC779663                 678 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Camptosema isopetalum voucher Fiaschi 281 (HUEFS) 18S rRNA ribosomal
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 26S ribosomal RNA gene, partial sequence.
+ACCESSION   KC779663
+VERSION     KC779663.1
+KEYWORDS    .
+SOURCE      Camptosema isopetalum
+  ORGANISM  Camptosema isopetalum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Camptosema.
+REFERENCE   1  (bases 1 to 678)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 678)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..678
+                     /db_xref="taxon:1457442"
+                     /mol_type="genomic DNA"
+                     /organism="Camptosema isopetalum"
+                     /specimen_voucher="Fiaschi 281 (HUEFS)"
+     rRNA            <1..26
+                     /product="18S rRNA ribosomal"
+     misc_RNA        27..255
+                     /product="internal transcribed spacer 1"
+     rRNA            256..420
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        421..634
+                     /product="internal transcribed spacer 2"
+     rRNA            635..>678
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 taggtgaacc tgcggaagga tcattgtcga tgcctcataa tcaattcaac ttgtgaattt
+       61 gtttaactat gcagggttga ttggatgttc aacatcttag cttcccttat gttgggggta
+      121 ggtttatgcg atgcgtggcc gccttccagc aaaacacaaa ccccgacgca acatgcgtca
+      181 aggaacttga aattgtttga tacgcttgta gacccggaca cggtgtttca acaagtgatg
+      241 tcgttcaaca tgtctcaaaa tgactctcgg caacggatat ctcggctctt gcatcgatga
+      301 agaacgtagc aaaatgcgat acttggtgtg aattgcagaa tcccgtgaac catcgagtct
+      361 ttgaacgcaa gttgcgcctg aaaccattag gttgagggca cgtctgcctg ggtgtcacac
+      421 aatgttgtcc tatgccaatg cctttgaata atcggtgttg agcaaggcga atgttggctt
+      481 cccacgagca tcgtctcgtg gttggttgaa aaatgagtcc tcggtggaat gctccatgat
+      541 aaatggtggt tgagtnatgc tcgagaccaa acatgtgtgg cttcctccta aatgtgggac
+      601 ctttgaccct tgcgttctct tgcaacgctc acgacgagac ctcaggtcag gcgggactac
+      661 ccgctgagtt taagcata
+//
+LOCUS       KC779662                 506 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Camptosema ellipticum voucher Queiroz 7517 (HUEFS) internal
+            transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene,
+            complete sequence; and internal transcribed spacer 2, partial
+            sequence.
+ACCESSION   KC779662
+VERSION     KC779662.1
+KEYWORDS    .
+SOURCE      Camptosema ellipticum
+  ORGANISM  Camptosema ellipticum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Camptosema.
+REFERENCE   1  (bases 1 to 506)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 506)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..506
+                     /db_xref="taxon:644008"
+                     /mol_type="genomic DNA"
+                     /organism="Camptosema ellipticum"
+                     /specimen_voucher="Queiroz 7517 (HUEFS)"
+     misc_RNA        <1..136
+                     /product="internal transcribed spacer 1"
+     rRNA            137..301
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        302..>506
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 ggcttatgct ttgcatggcc tccttccaac aaaacacaaa ccccggcgca acatgcgtca
+       61 aggaacttga aattgtttga tgcacctgta ggccccggag acggtgtttc tgcaggtggt
+      121 gtcgttcaac atgtcttaaa atgactctcg gcaacggata tctcggctct tgcatcgatg
+      181 aagaacgtag caaaatgcga tacttggtgt gaattgcaga atcccgtgaa ccatcgagtc
+      241 tttgaacgca agttgcgcct gaaaccatta ggttgagggc acgtctgcct gggtgtcaca
+      301 caatgttgcc caatgcccaa cgcctttcca tgatcggtgt tgagcggggc gaatgttggc
+      361 ttcccacgag cacggtctcg tggttggttg aaaaatgagt cctcggtgga atgctccatg
+      421 agaaatggtg gttgagtgat gctcgagacc aaaacatgcg tggcttcccc ctaaatgtgg
+      481 accttgccct gcgtctcata cgacgc
+//
+LOCUS       KC779661                 796 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Camptosema ellipticum voucher Queiroz 14037 (HUEFS) 18S rRNA
+            ribosomal gene, partial sequence; internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 26S ribosomal RNA gene, partial sequence.
+ACCESSION   KC779661
+VERSION     KC779661.1
+KEYWORDS    .
+SOURCE      Camptosema ellipticum
+  ORGANISM  Camptosema ellipticum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Camptosema.
+REFERENCE   1  (bases 1 to 796)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 796)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..796
+                     /db_xref="taxon:644008"
+                     /mol_type="genomic DNA"
+                     /organism="Camptosema ellipticum"
+                     /specimen_voucher="Queiroz 14037 (HUEFS)"
+     rRNA            <1..88
+                     /product="18S rRNA ribosomal"
+     misc_RNA        89..318
+                     /product="internal transcribed spacer 1"
+     rRNA            319..483
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        484..698
+                     /product="internal transcribed spacer 2"
+     rRNA            699..>796
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 gttgtgagaa gtccactgaa ccttatcatt tagaggaagg agaagtcgta acaaggtttc
+       61 cgtaggtgaa cctgcggaag gatcattgtc gatgcctcac aatcagttca acttgcgaac
+      121 ctgtttaacc atttagggtt gattggatgt ctaacatctt agcttccctt atgttgcggg
+      181 cgggcttatg ctttgcatgg cctccttcca acaaaacaca aaccccggcg caacatgcgt
+      241 caaggaactt gaaattgttt gatgcacctg taggccccgg agacggtgtt tctgcaggtg
+      301 gtgtcgttca acatgtctta aaatgactct cggcaacgga tatctcggct cttgcatcga
+      361 tgaagaacgt agcaaaatgc gatacttggt gtgaattgca gaatcccgtg aaccatcgag
+      421 tctttgaacg caagttgcgc ctgaaaccat taggttgagg gcacgtctgc ctgggtgtca
+      481 cacaatgttg cccaatgccc aacgcctttc catgatcggt gttgagcggg gcgaatgttg
+      541 gcttcccacg agcatggtct cgtggttggt tgaaaaatga gtcctcggtg gaatgctcca
+      601 tgagaaatgg tggttgagtg atgctcgaga ccaaacatgc gtggcttccc cctaaatgta
+      661 ggacctctga cccttgcgtc ttcatacgac gctcacaacg agacctcagg tcaggcggga
+      721 ctacccgctg agtttaagca tatcaataag cggaggaaaa gaaactaaca aggattcccc
+      781 tagtaacggc gagcga
+//
+LOCUS       EU927594                 635 bp    DNA     linear   PLN 31-JUL-2009
+DEFINITION  Camptosema scarlatinum voucher Fortunato 8003 (BAB) 18S ribosomal
+            RNA gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   EU927594
+VERSION     EU927594.1
+KEYWORDS    .
+SOURCE      Camptosema scarlatinum
+  ORGANISM  Camptosema scarlatinum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Camptosema.
+REFERENCE   1  (bases 1 to 635)
+  AUTHORS   Sede,S.M., Tosto,D., Talia,P., Luckow,M., Poggio,L. and Fortunato,R.
+  TITLE     Phylogenetic relationships among southern South American species of
+            Camptosema, Galactia and Collaea (Diocleinae: Papilionoideae:
+            Leguminosae) based on molecular and morphological data
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 635)
+  AUTHORS   Sede,S.M., Tosto,D., Talia,P., Luckow,M., Poggio,L. and Fortunato,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-JUL-2008) Instituto de Botanica Darwinion, Labarden
+            200, San Isidro, Buenos Aires B1642HYD, Argentina
+FEATURES             Location/Qualifiers
+     source          1..635
+                     /db_xref="taxon:584680"
+                     /mol_type="genomic DNA"
+                     /organism="Camptosema scarlatinum"
+                     /specimen_voucher="Fortunato 8003 (BAB)"
+     rRNA            <1..5
+                     /product="18S ribosomal RNA"
+     misc_RNA        6..235
+                     /product="internal transcribed spacer 1"
+     rRNA            236..400
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        401..615
+                     /product="internal transcribed spacer 2"
+     rRNA            616..>635
+                     /product="28S ribosomal RNA"
+ORIGIN
+        1 cattgtcgat gcctcacaat cagttcaact tgcgaacctg tttaaccatt cagggttgat
+       61 tggatgtcta acatcttagc ttcccttatg ttgggggcag ggtcatgctt tgcatggcct
+      121 ccttccaaca aaacacaaac cccggcgcaa catgcgtcaa ggaacttgaa attgtttgat
+      181 gcacctgtag gccccggaga cggtgtttct acgggtgatg tcgttcaaca tgtcttaaaa
+      241 tgactctcgg caacggatat ctcggctctt gcatcgatga agaacgtagc aaaatgcgat
+      301 acttggtgtg aattgcagaa tcccgtgaac catcgagtct ttgaacgcaa gttgcgcctg
+      361 aaaccattag gttgagggca cgtctgcctg ggtgtcacac aatgttgccc aatgcccaac
+      421 gcctttccat gatcggtgtt gagcgggacg aatgttggct tcccacgagc atggtctcgt
+      481 ggttggttga aaaatgagtc ctcggtggaa tgctccatga gaaatggtgg ttgagtgatg
+      541 ctcgagacca aacatgcgtg gcttccccct aaatgttgga cctctgaccc gtgcgtcttc
+      601 atacgacgct cacaacgaga cctcaggtca ggcgg
+//
+LOCUS       EU927593                 636 bp    DNA     linear   PLN 31-JUL-2009
+DEFINITION  Camptosema praeandinum voucher Fortunato 6936 (BAB) 18S ribosomal
+            RNA gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   EU927593
+VERSION     EU927593.1
+KEYWORDS    .
+SOURCE      Camptosema praeandinum
+  ORGANISM  Camptosema praeandinum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Camptosema.
+REFERENCE   1  (bases 1 to 636)
+  AUTHORS   Sede,S.M., Tosto,D., Talia,P., Luckow,M., Poggio,L. and Fortunato,R.
+  TITLE     Phylogenetic relationships among southern South American species of
+            Camptosema, Galactia and Collaea (Diocleinae: Papilionoideae:
+            Leguminosae) based on molecular and morphological data
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 636)
+  AUTHORS   Sede,S.M., Tosto,D., Talia,P., Luckow,M., Poggio,L. and Fortunato,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-JUL-2008) Instituto de Botanica Darwinion, Labarden
+            200, San Isidro, Buenos Aires B1642HYD, Argentina
+FEATURES             Location/Qualifiers
+     source          1..636
+                     /db_xref="taxon:584679"
+                     /mol_type="genomic DNA"
+                     /organism="Camptosema praeandinum"
+                     /specimen_voucher="Fortunato 6936 (BAB)"
+     rRNA            <1..5
+                     /product="18S ribosomal RNA"
+     misc_RNA        6..236
+                     /product="internal transcribed spacer 1"
+     rRNA            237..401
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        402..616
+                     /product="internal transcribed spacer 2"
+     rRNA            617..>636
+                     /product="28S ribosomal RNA"
+ORIGIN
+        1 cattgtcgat gcctcacaat cagttcaact tgcgaacctg tttaaccatt tagggttgat
+       61 tggatgtcca acatcttagc ttcccttatg ttgcgggcag ggcttatgct ttgcatggcc
+      121 tccttccaac aaaacacaaa ccccggcgca acatgcgtca aggaacttga aattgtttga
+      181 tgcacctgta ggccccggag acggtgtttc tgcaggtggt gtcgttcaac atgtcttaaa
+      241 atgactctcg gcaacggata tctcggctct tgcatcgatg aagaacgtag caaaatgcga
+      301 tacttggtgt gaattgcaga atcccgtgaa ccatcgagtc tttgaacgca agttgcgcct
+      361 gaaaccatta ggttgagggc acgtctgcct gggtgtcaca caatgttgcc caatgcccaa
+      421 cgcctttcca tgatcggtgt tgagcggggc gaatgttggc ttcccacgag cacggtctcg
+      481 tggttggttg aaaaatgagt cctcggtgga atgctccatg agaaatggtg gttgagtgat
+      541 gctcgagacc aaacatgcgt ggcttccccc taaatgtagg acctgtgacc cttgcgtctt
+      601 catacgacgc tcacaacgag acctcaggtc aggcgg
+//
+LOCUS       EU927592                 635 bp    DNA     linear   PLN 31-JUL-2009
+DEFINITION  Camptosema paraguariense voucher Fortunato 6805 (BAB) 18S ribosomal
+            RNA gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   EU927592
+VERSION     EU927592.1
+KEYWORDS    .
+SOURCE      Camptosema paraguariense
+  ORGANISM  Camptosema paraguariense
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Camptosema.
+REFERENCE   1  (bases 1 to 635)
+  AUTHORS   Sede,S.M., Tosto,D., Talia,P., Luckow,M., Poggio,L. and Fortunato,R.
+  TITLE     Phylogenetic relationships among southern South American species of
+            Camptosema, Galactia and Collaea (Diocleinae: Papilionoideae:
+            Leguminosae) based on molecular and morphological data
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 635)
+  AUTHORS   Sede,S.M., Tosto,D., Talia,P., Luckow,M., Poggio,L. and Fortunato,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-JUL-2008) Instituto de Botanica Darwinion, Labarden
+            200, San Isidro, Buenos Aires B1642HYD, Argentina
+FEATURES             Location/Qualifiers
+     source          1..635
+                     /db_xref="taxon:584678"
+                     /mol_type="genomic DNA"
+                     /organism="Camptosema paraguariense"
+                     /specimen_voucher="Fortunato 6805 (BAB)"
+     rRNA            <1..5
+                     /product="18S ribosomal RNA"
+     misc_RNA        6..236
+                     /product="internal transcribed spacer 1"
+     rRNA            237..401
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        402..615
+                     /product="internal transcribed spacer 2"
+     rRNA            616..>635
+                     /product="28S ribosomal RNA"
+ORIGIN
+        1 cattgtcgat gcctcacaat cagttcaact tgcgaacctg tttaactatt tagggttgat
+       61 tggatgtcta acatcttggc ttcccttaat gttgctagta ggtttatgct atgcatggcc
+      121 tccttccaac acaacacaaa ccccgacgca acatgcgtca aggaacttca aattgtttga
+      181 tatgcttgta gaccccggag acggtgtttc tacaagttat gtcgttcaac atgttacaaa
+      241 atgactctcg gcaacggata tctcggctct tgcatcgatg aagaacgtag caaaatgcga
+      301 tacttggtgt gaattgcaga atcccgtgaa ccatcgagtc tttgaacgca agttgcgcct
+      361 gaaaccatta ggttgagggc acgtctgcct gggtgtcaca caatgttgcc caatgccaat
+      421 gccttccaat gatcggcgtt gtgcggggcg aatgttggcc tcccacgagc atggtcttgt
+      481 ggttggttga aaaacgagtc cttggtggaa agctccatga gaaatggtgg ttgagtgatg
+      541 ctcgagacca aacatgcgtg gcttcctcca aaatgttgga cccttgaccc ttgcgttttc
+      601 ttagaacgct cacaacgaga cctcaggtca ggcgg
+//
+LOCUS       EU499368                 631 bp    DNA     linear   PLN 15-OCT-2008
+DEFINITION  Camptosema rubicundum 18S small subunit ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and 28S large
+            subunit ribosomal RNA gene, partial sequence.
+ACCESSION   EU499368
+VERSION     EU499368.1
+KEYWORDS    .
+SOURCE      Camptosema rubicundum
+  ORGANISM  Camptosema rubicundum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Camptosema.
+REFERENCE   1  (bases 1 to 631)
+  AUTHORS   Espert,S.M., Sede,S.M., Ruiz,L.K., Fortunato,R.H. and Poggio,L.
+  TITLE     New chromosome reports in the subtribes Diocleinae and Glycininae
+            (Phaseoleae: Papilionoideae: Fabaceae)
+  JOURNAL   Bot. J. Linn. Soc. 158 (2), 336-341 (2008)
+REFERENCE   2  (bases 1 to 631)
+  AUTHORS   Espert,S.M., Sede,S.M., Ruiz,L.K., Fortunato,R.H. and Poggio,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-FEB-2008) Ecologia, Genetica y Evolucion, Universidad
+            de Buenos Aires, Int. Guiraldes 2160, Buenos Aires C1428EHA,
+            Argentina
+FEATURES             Location/Qualifiers
+     source          1..631
+                     /country="Argentina"
+                     /db_xref="taxon:510209"
+                     /mol_type="genomic DNA"
+                     /organism="Camptosema rubicundum"
+                     /specimen_voucher="Sede 17 (BAB)"
+     rRNA            <1..9
+                     /product="18S small subunit ribosomal RNA"
+     misc_RNA        10..234
+                     /product="internal transcribed spacer 1"
+     rRNA            235..399
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        400..613
+                     /product="internal transcribed spacer 2"
+     rRNA            614..>631
+                     /product="28S large subunit ribosomal RNA"
+ORIGIN
+        1 cattgtcgat gcctcacaat cagttcaact cgcgaatctg ttcaactatt tggggtcggt
+       61 tggatgtctg acatcctagc ttccctcatg ttgtgggcgg gtttatgcta tgcatggcct
+      121 cctttcaaca aaacacaaac cccgacgcaa catgcgtcaa ggaatctaaa attgtttgat
+      181 acgcctgtag acccggagac ggtgtttctg caggcgatgt cgttcaacat gtatcaaaat
+      241 gactctcggc aacggatatc tcggctcttg catcgatgaa gaacgtagca aaatgcgata
+      301 cttggtgtga attgcagaat cccgtgaacc atcgagtctt tgaacgcaag ttgcgcctga
+      361 aaccattagg ttgagggcac gtctgcctgg gtgtcacaca atgttgcccc acgccaacgc
+      421 ctttgaataa tcggtgttga gtcgggcgaa tgttggcctc ccacgagcac ggtctcgtgg
+      481 ttggttgaaa aacgagtcct cggtggaatg ctccatgaga aatggtggtt gagtgatgct
+      541 cgagaccaaa catgcgtggc ttcctcctaa atgttggacc ctagaccctt gcgtttcctt
+      601 acaacgctca caacgagacc tcaggtcagg c
+//

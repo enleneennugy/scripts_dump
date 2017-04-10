@@ -1,0 +1,672 @@
+LOCUS       KX302794                 207 bp    DNA     linear   PLN 14-SEP-2016
+DEFINITION  Spatholobus suberectus voucher S-JXTeng-09 internal transcribed
+            spacer 2, partial sequence.
+ACCESSION   KX302794
+VERSION     KX302794.1
+KEYWORDS    .
+SOURCE      Spatholobus suberectus
+  ORGANISM  Spatholobus suberectus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Spatholobus.
+REFERENCE   1  (bases 1 to 207)
+  AUTHORS   Xiao,B., Li,W., Nie,P., Luo,H. and Liu,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-MAY-2016) Hunan Institute for Drug Control, No. 60
+            Bayi Road, Changsha, Hunan 410001, P.R. China
+FEATURES             Location/Qualifiers
+     source          1..207
+                     /db_xref="taxon:455371"
+                     /mol_type="genomic DNA"
+                     /organism="Spatholobus suberectus"
+                     /specimen_voucher="S-JXTeng-09"
+     misc_RNA        <1..>207
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 cacatcgttg ccctcccgca agcgtcgttg cggagggcgt gtgctggctt cccgcgagcg
+       61 ccgtctcgcg gttggctgaa aatcgagttc gtggtcgggc gagccacgac gcaatggtgg
+      121 acgagcgacg ctcgagaccg atcgatcgtg cgcggcccgg ccggtgcgga ctctccgacc
+      181 cctgcgcgtc cccggacgct ctcggcg
+//
+LOCUS       KX302793                 208 bp    DNA     linear   PLN 14-SEP-2016
+DEFINITION  Spatholobus suberectus voucher S-JXTeng-07 internal transcribed
+            spacer 2, partial sequence.
+ACCESSION   KX302793
+VERSION     KX302793.1
+KEYWORDS    .
+SOURCE      Spatholobus suberectus
+  ORGANISM  Spatholobus suberectus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Spatholobus.
+REFERENCE   1  (bases 1 to 208)
+  AUTHORS   Xiao,B., Li,W., Nie,P., Luo,H. and Liu,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-MAY-2016) Hunan Institute for Drug Control, No. 60
+            Bayi Road, Changsha, Hunan 410001, P.R. China
+FEATURES             Location/Qualifiers
+     source          1..208
+                     /db_xref="taxon:455371"
+                     /mol_type="genomic DNA"
+                     /organism="Spatholobus suberectus"
+                     /specimen_voucher="S-JXTeng-07"
+     misc_RNA        <1..>208
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 cacatcgttg ccctcccgca aacgtcgtcg cggagggtgt gcgctggctt cccgcgggca
+       61 ccgtctcgcg gttggttgaa aaccgagttc gcggtcgggt cagccgcggc gcaatggtgg
+      121 acgagcgacg ctcgagaccg accgaccgtg cgcgacccgg cccggtgcgg actctatgac
+      181 ccccgtgcgt ccccggacgc tctcggcg
+//
+LOCUS       KX302792                 207 bp    DNA     linear   PLN 14-SEP-2016
+DEFINITION  Spatholobus suberectus voucher S-JXTeng-06 internal transcribed
+            spacer 2, partial sequence.
+ACCESSION   KX302792
+VERSION     KX302792.1
+KEYWORDS    .
+SOURCE      Spatholobus suberectus
+  ORGANISM  Spatholobus suberectus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Spatholobus.
+REFERENCE   1  (bases 1 to 207)
+  AUTHORS   Xiao,B., Li,W., Nie,P., Luo,H. and Liu,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-MAY-2016) Hunan Institute for Drug Control, No. 60
+            Bayi Road, Changsha, Hunan 410001, P.R. China
+FEATURES             Location/Qualifiers
+     source          1..207
+                     /db_xref="taxon:455371"
+                     /mol_type="genomic DNA"
+                     /organism="Spatholobus suberectus"
+                     /specimen_voucher="S-JXTeng-06"
+     misc_RNA        <1..>207
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 cacatcgttg ccctcccgca agcgtcgttg cggagggcgt gtgctggctt cccgcgagcg
+       61 ccgtctcgcg gttggctgaa aatcgagttc gtggtcgggc gagccacgac gcaatggtgg
+      121 acgagcgacg ctcgagaccg atcgatcgtg cgcggcccgg ccggtgcgga ctctccgacc
+      181 cctgcgcgtc cccggacgct ctcggcg
+//
+LOCUS       KX302791                 207 bp    DNA     linear   PLN 14-SEP-2016
+DEFINITION  Spatholobus suberectus voucher S-JXTeng-05 internal transcribed
+            spacer 2, partial sequence.
+ACCESSION   KX302791
+VERSION     KX302791.1
+KEYWORDS    .
+SOURCE      Spatholobus suberectus
+  ORGANISM  Spatholobus suberectus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Spatholobus.
+REFERENCE   1  (bases 1 to 207)
+  AUTHORS   Xiao,B., Li,W., Nie,P., Luo,H. and Liu,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-MAY-2016) Hunan Institute for Drug Control, No. 60
+            Bayi Road, Changsha, Hunan 410001, P.R. China
+FEATURES             Location/Qualifiers
+     source          1..207
+                     /db_xref="taxon:455371"
+                     /mol_type="genomic DNA"
+                     /organism="Spatholobus suberectus"
+                     /specimen_voucher="S-JXTeng-05"
+     misc_RNA        <1..>207
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 cacatcgttg ccctcccgca agcgtcgttg cggagggcgt gtgctggctt cccgcgagcg
+       61 ccgtctcgcg gttggctgaa aatcgagttc gtggtcgggc gagccacgac gcaatggtgg
+      121 acgagcgacg ctcgagaccg atcgatcgtg cgcggcccgg ccggtgcgga ctctccgacc
+      181 cctgcgcgtc cccggacgct ctcggcg
+//
+LOCUS       KX302790                 208 bp    DNA     linear   PLN 14-SEP-2016
+DEFINITION  Spatholobus suberectus voucher S-JXTeng-04 internal transcribed
+            spacer 2, partial sequence.
+ACCESSION   KX302790
+VERSION     KX302790.1
+KEYWORDS    .
+SOURCE      Spatholobus suberectus
+  ORGANISM  Spatholobus suberectus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Spatholobus.
+REFERENCE   1  (bases 1 to 208)
+  AUTHORS   Xiao,B., Li,W., Nie,P., Luo,H. and Liu,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-MAY-2016) Hunan Institute for Drug Control, No. 60
+            Bayi Road, Changsha, Hunan 410001, P.R. China
+FEATURES             Location/Qualifiers
+     source          1..208
+                     /db_xref="taxon:455371"
+                     /mol_type="genomic DNA"
+                     /organism="Spatholobus suberectus"
+                     /specimen_voucher="S-JXTeng-04"
+     misc_RNA        <1..>208
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 cacatcgttg ccctcccgca aacgtcgtcg cggagggtgt gcgctggctt cccgcgagca
+       61 ccgtctcgcg gttggttgaa aaccgagttc gcggtcgggt cagccgcggc acaatggtgg
+      121 acgagcagcg ctcgagaccg atcgaccgtg cgcgacccgg cccggtgcgg actctctgac
+      181 ccctgtgcgt ccccggacgc tctcggcg
+//
+LOCUS       KX302789                 208 bp    DNA     linear   PLN 14-SEP-2016
+DEFINITION  Spatholobus suberectus voucher S-JXTeng-03 internal transcribed
+            spacer 2, partial sequence.
+ACCESSION   KX302789
+VERSION     KX302789.1
+KEYWORDS    .
+SOURCE      Spatholobus suberectus
+  ORGANISM  Spatholobus suberectus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Spatholobus.
+REFERENCE   1  (bases 1 to 208)
+  AUTHORS   Xiao,B., Li,W., Nie,P., Luo,H. and Liu,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-MAY-2016) Hunan Institute for Drug Control, No. 60
+            Bayi Road, Changsha, Hunan 410001, P.R. China
+FEATURES             Location/Qualifiers
+     source          1..208
+                     /db_xref="taxon:455371"
+                     /mol_type="genomic DNA"
+                     /organism="Spatholobus suberectus"
+                     /specimen_voucher="S-JXTeng-03"
+     misc_RNA        <1..>208
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 cacatcgttg ccctcccgca aacgtcgttg cggagggtgt gcgctggctt cccgcgagca
+       61 ccgtctcgcg gttggttgaa aaccgagttc gtggtcgggt cagccgcggc acaatggtgg
+      121 acgagcaacg ctcgagaccg atcgatcgtg cgcgacccgg cccggtgcgg actctctgac
+      181 ccctgtgcgt ccccggacgc tctcggcg
+//
+LOCUS       KX302788                 207 bp    DNA     linear   PLN 14-SEP-2016
+DEFINITION  Spatholobus suberectus voucher S-JXTeng-02 internal transcribed
+            spacer 2, partial sequence.
+ACCESSION   KX302788
+VERSION     KX302788.1
+KEYWORDS    .
+SOURCE      Spatholobus suberectus
+  ORGANISM  Spatholobus suberectus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Spatholobus.
+REFERENCE   1  (bases 1 to 207)
+  AUTHORS   Xiao,B., Li,W., Nie,P., Luo,H. and Liu,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-MAY-2016) Hunan Institute for Drug Control, No. 60
+            Bayi Road, Changsha, Hunan 410001, P.R. China
+FEATURES             Location/Qualifiers
+     source          1..207
+                     /db_xref="taxon:455371"
+                     /mol_type="genomic DNA"
+                     /organism="Spatholobus suberectus"
+                     /specimen_voucher="S-JXTeng-02"
+     misc_RNA        <1..>207
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 cacatcgttg ccctcccgca agcgtcgttg cggagggcgt gtgctggctt cccgcgagcg
+       61 ccgtctcgcg gttggctgaa aatcgagttc gtggtcgggc gagccacgac gcaatggtgg
+      121 acgagcgacg ctcgagaccg atcgatcgtg cgcggcccgg ccggtgcgga ctctccgacc
+      181 cctgcgcgtc cccggacgct ctcggcg
+//
+LOCUS       KX302787                 207 bp    DNA     linear   PLN 14-SEP-2016
+DEFINITION  Spatholobus suberectus voucher S-JXTeng-01 internal transcribed
+            spacer 2, partial sequence.
+ACCESSION   KX302787
+VERSION     KX302787.1
+KEYWORDS    .
+SOURCE      Spatholobus suberectus
+  ORGANISM  Spatholobus suberectus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Spatholobus.
+REFERENCE   1  (bases 1 to 207)
+  AUTHORS   Xiao,B., Li,W., Nie,P., Luo,H. and Liu,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-MAY-2016) Hunan Institute for Drug Control, No. 60
+            Bayi Road, Changsha, Hunan 410001, P.R. China
+FEATURES             Location/Qualifiers
+     source          1..207
+                     /db_xref="taxon:455371"
+                     /mol_type="genomic DNA"
+                     /organism="Spatholobus suberectus"
+                     /specimen_voucher="S-JXTeng-01"
+     misc_RNA        <1..>207
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 cacatcgttg ccctcccgca agcgtcgttg cggagggcgt gtgctggctt cccgcgagcg
+       61 ccgtctcgcg gttggctgaa aatcgagttc gtggtcgggc gagccacgac gcaatggtgg
+      121 acgagcgacg ctcgagaccg atcgatcgtg cgcggcccgg ccggtgcgga ctctccgacc
+      181 cctgcgcgtc cccggacgct ctcggcg
+//
+LOCUS       KX302728                 207 bp    DNA     linear   PLN 14-SEP-2016
+DEFINITION  Spatholobus suberectus voucher S-JXTeng-21 internal transcribed
+            spacer 2, partial sequence.
+ACCESSION   KX302728
+VERSION     KX302728.1
+KEYWORDS    .
+SOURCE      Spatholobus suberectus
+  ORGANISM  Spatholobus suberectus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Spatholobus.
+REFERENCE   1  (bases 1 to 207)
+  AUTHORS   Xiao,B., Li,W., Nie,P., Luo,H. and Liu,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-MAY-2016) Hunan Institute for Drug Control, No. 60
+            Bayi Road, Changsha, Hunan 410001, P.R. China
+FEATURES             Location/Qualifiers
+     source          1..207
+                     /db_xref="taxon:455371"
+                     /mol_type="genomic DNA"
+                     /organism="Spatholobus suberectus"
+                     /specimen_voucher="S-JXTeng-21"
+     misc_RNA        <1..>207
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 cacatcgttg ccctcccgca agcgtcgttg cggagggcgt gtgctggctt cccgcgagcg
+       61 ccgtctcgcg gttggctgaa aatcgagttc gtggtcgggc gagccacgac gcaatggtgg
+      121 acgagcgacg ctcgagaccg atcgatcgtg cgcggcccgg ccggtgcgga ctctccgacc
+      181 cctgcgcgtc cccggacgct ctcggcg
+//
+LOCUS       KX302727                 207 bp    DNA     linear   PLN 14-SEP-2016
+DEFINITION  Spatholobus suberectus voucher S-JXTeng-20 internal transcribed
+            spacer 2, partial sequence.
+ACCESSION   KX302727
+VERSION     KX302727.1
+KEYWORDS    .
+SOURCE      Spatholobus suberectus
+  ORGANISM  Spatholobus suberectus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Spatholobus.
+REFERENCE   1  (bases 1 to 207)
+  AUTHORS   Xiao,B., Li,W., Nie,P., Luo,H. and Liu,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-MAY-2016) Hunan Institute for Drug Control, No. 60
+            Bayi Road, Changsha, Hunan 410001, P.R. China
+FEATURES             Location/Qualifiers
+     source          1..207
+                     /db_xref="taxon:455371"
+                     /mol_type="genomic DNA"
+                     /organism="Spatholobus suberectus"
+                     /specimen_voucher="S-JXTeng-20"
+     misc_RNA        <1..>207
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 cacatcgttg ccctcccgca agcgtcgttg cggagggcgt gtgctggctt cccgcgagcg
+       61 ccgtctcgcg gttggctgaa aatcgagttc gtggtcgggc gagccacgac gcaatggtgg
+      121 acgagcgacg ctcgagaccg atcgatcgtg cgcggcccgg ccggtgcgga ctctccgacc
+      181 cctgcgcgtc cccggacgct ctcggcg
+//
+LOCUS       KX302726                 208 bp    DNA     linear   PLN 14-SEP-2016
+DEFINITION  Spatholobus suberectus voucher S-JXTeng-19 internal transcribed
+            spacer 2, partial sequence.
+ACCESSION   KX302726
+VERSION     KX302726.1
+KEYWORDS    .
+SOURCE      Spatholobus suberectus
+  ORGANISM  Spatholobus suberectus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Spatholobus.
+REFERENCE   1  (bases 1 to 208)
+  AUTHORS   Xiao,B., Li,W., Nie,P., Luo,H. and Liu,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-MAY-2016) Hunan Institute for Drug Control, No. 60
+            Bayi Road, Changsha, Hunan 410001, P.R. China
+FEATURES             Location/Qualifiers
+     source          1..208
+                     /db_xref="taxon:455371"
+                     /mol_type="genomic DNA"
+                     /organism="Spatholobus suberectus"
+                     /specimen_voucher="S-JXTeng-19"
+     misc_RNA        <1..>208
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 cacatcgttg ccctcccgca aacgtcgtcg cggagggtgt gcgctggctt cccgcgggca
+       61 ccgtctcgcg gttggttgaa aaccgagttc gcggtcgggt cagccgcggc gcaatggtgg
+      121 acgagcgacg ctcgagaccg accgaccgtg cgcgacccgg cccggtgcgg actctatgac
+      181 ccccgtgcgt ccccggacgc tctcggcg
+//
+LOCUS       KX302725                 207 bp    DNA     linear   PLN 14-SEP-2016
+DEFINITION  Spatholobus suberectus voucher S-JXTeng-17 internal transcribed
+            spacer 2, partial sequence.
+ACCESSION   KX302725
+VERSION     KX302725.1
+KEYWORDS    .
+SOURCE      Spatholobus suberectus
+  ORGANISM  Spatholobus suberectus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Spatholobus.
+REFERENCE   1  (bases 1 to 207)
+  AUTHORS   Xiao,B., Li,W., Nie,P., Luo,H. and Liu,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-MAY-2016) Hunan Institute for Drug Control, No. 60
+            Bayi Road, Changsha, Hunan 410001, P.R. China
+FEATURES             Location/Qualifiers
+     source          1..207
+                     /db_xref="taxon:455371"
+                     /mol_type="genomic DNA"
+                     /organism="Spatholobus suberectus"
+                     /specimen_voucher="S-JXTeng-17"
+     misc_RNA        <1..>207
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 cacatcgttg ccctcccgca agcgtcgttg cggagggcgt gtgctggctt cccgcgagcg
+       61 ccgtctcgcg gttggctgaa aatcgagttc gtggtcgggc gagccacgac gcaatggtgg
+      121 acgagcgacg ctcgagaccg atcgatcgtg cgcggcccgg ccggtgcgga ctctccgacc
+      181 cctgcgcgtc cccggacgct ctcggcg
+//
+LOCUS       KX302724                 208 bp    DNA     linear   PLN 14-SEP-2016
+DEFINITION  Spatholobus suberectus voucher S-JXTeng-14 internal transcribed
+            spacer 2, partial sequence.
+ACCESSION   KX302724
+VERSION     KX302724.1
+KEYWORDS    .
+SOURCE      Spatholobus suberectus
+  ORGANISM  Spatholobus suberectus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Spatholobus.
+REFERENCE   1  (bases 1 to 208)
+  AUTHORS   Xiao,B., Li,W., Nie,P., Luo,H. and Liu,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-MAY-2016) Hunan Institute for Drug Control, No. 60
+            Bayi Road, Changsha, Hunan 410001, P.R. China
+FEATURES             Location/Qualifiers
+     source          1..208
+                     /db_xref="taxon:455371"
+                     /mol_type="genomic DNA"
+                     /organism="Spatholobus suberectus"
+                     /specimen_voucher="S-JXTeng-14"
+     misc_RNA        <1..>208
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 cacatcgttg ccctcccgca aacgtcgtcg cggagggtgt gcgctggctt cccgcgggca
+       61 ccgtctcgcg gttggttgaa aaccgagttc gcggtcgggt cagccgcggc gcaatggtgg
+      121 acgagcgacg ctcgagaccg accgaccgtg cgcgacccgg cccggtgcgg actctatgac
+      181 ccccgtgcgt ccccggacgc tctcggcg
+//
+LOCUS       KX302723                 208 bp    DNA     linear   PLN 14-SEP-2016
+DEFINITION  Spatholobus suberectus voucher S-JXTeng-13 internal transcribed
+            spacer 2, partial sequence.
+ACCESSION   KX302723
+VERSION     KX302723.1
+KEYWORDS    .
+SOURCE      Spatholobus suberectus
+  ORGANISM  Spatholobus suberectus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Spatholobus.
+REFERENCE   1  (bases 1 to 208)
+  AUTHORS   Xiao,B., Li,W., Nie,P., Luo,H. and Liu,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-MAY-2016) Hunan Institute for Drug Control, No. 60
+            Bayi Road, Changsha, Hunan 410001, P.R. China
+FEATURES             Location/Qualifiers
+     source          1..208
+                     /db_xref="taxon:455371"
+                     /mol_type="genomic DNA"
+                     /organism="Spatholobus suberectus"
+                     /specimen_voucher="S-JXTeng-13"
+     misc_RNA        <1..>208
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 cacatcgttg ccctcccgca aacgtcgtcg cggagggtgt gcgctggctt cccgcgggca
+       61 ccgtctcgcg gttggttgaa aaccgagttc gcggtcgggt cagccgcggc gcaatggtgg
+      121 acgagcgacg ctcgagaccg accgaccgtg cgcgacccgg cccggtgcgg actctatgac
+      181 ccccgtgcgt ccccggacgc tctcggcg
+//
+LOCUS       KX302722                 208 bp    DNA     linear   PLN 14-SEP-2016
+DEFINITION  Spatholobus suberectus voucher S-JXTeng-12 internal transcribed
+            spacer 2, partial sequence.
+ACCESSION   KX302722
+VERSION     KX302722.1
+KEYWORDS    .
+SOURCE      Spatholobus suberectus
+  ORGANISM  Spatholobus suberectus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Spatholobus.
+REFERENCE   1  (bases 1 to 208)
+  AUTHORS   Xiao,B., Li,W., Nie,P., Luo,H. and Liu,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-MAY-2016) Hunan Institute for Drug Control, No. 60
+            Bayi Road, Changsha, Hunan 410001, P.R. China
+FEATURES             Location/Qualifiers
+     source          1..208
+                     /db_xref="taxon:455371"
+                     /mol_type="genomic DNA"
+                     /organism="Spatholobus suberectus"
+                     /specimen_voucher="S-JXTeng-12"
+     misc_RNA        <1..>208
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 cacatcgttg ccctcccgca aacgtcgttg cggagggtgt gcgctggctt cccgcgagca
+       61 ccgtctcgcg gttggttgaa aaccgagttc gtggtcgggt cagccgcggc acaatggtgg
+      121 acgagcaacg ctcgagaccg atcgatcgtg cgcgacccgg cccggtgcgg actctctgac
+      181 ccctgtgcgt ccccggacgc tctcggcg
+//
+LOCUS       KX302721                 207 bp    DNA     linear   PLN 14-SEP-2016
+DEFINITION  Spatholobus suberectus voucher S-JXTeng-11 internal transcribed
+            spacer 2, partial sequence.
+ACCESSION   KX302721
+VERSION     KX302721.1
+KEYWORDS    .
+SOURCE      Spatholobus suberectus
+  ORGANISM  Spatholobus suberectus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Spatholobus.
+REFERENCE   1  (bases 1 to 207)
+  AUTHORS   Xiao,B., Li,W., Nie,P., Luo,H. and Liu,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-MAY-2016) Hunan Institute for Drug Control, No. 60
+            Bayi Road, Changsha, Hunan 410001, P.R. China
+FEATURES             Location/Qualifiers
+     source          1..207
+                     /db_xref="taxon:455371"
+                     /mol_type="genomic DNA"
+                     /organism="Spatholobus suberectus"
+                     /specimen_voucher="S-JXTeng-11"
+     misc_RNA        <1..>207
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 cacatcgttg ccctcccgca agcgtcgttg cggagggcgt gtgctggctt cccgcgagcg
+       61 ccgtctcgcg gttggctgaa aatcgagttc gtggtcgggc gagccacgac gcaatggtgg
+      121 acgagcgacg ctcgagaccg atcgatcgtg cgcggcccgg ccggtgcgga ctctccgacc
+      181 cctgcgcgtc cccggacgct ctcggcg
+//
+LOCUS       KM285413                 257 bp    DNA     linear   PLN 25-JAN-2015
+DEFINITION  Spatholobus sp. XY-2015 isolate Dashenlin Guangzhou 5.8S ribosomal
+            RNA gene, partial sequence; internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   KM285413
+VERSION     KM285413.1
+KEYWORDS    .
+SOURCE      Spatholobus sp. XY-2015
+  ORGANISM  Spatholobus sp. XY-2015
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Spatholobus.
+REFERENCE   1  (bases 1 to 257)
+  AUTHORS   Yu,X., Xu,X. and Xie,Z.
+  TITLE     DNA barcoding identification of Kadsurae Caulis and Spatholobi
+            Caulis based on ITS2 region and secondary structure prediction
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 257)
+  AUTHORS   Yu,X., Xu,X. and Xie,Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-AUG-2014) School of Pharmaceutical Sciences, Sun
+            Yat-sen University, 132, East Waihuan Rd, Guangzhou Higher Education
+            Mega Center, Guangzhou, Guangdong 510006, China
+FEATURES             Location/Qualifiers
+     source          1..257
+                     /db_xref="taxon:1602198"
+                     /isolate="Dashenlin Guangzhou"
+                     /mol_type="genomic DNA"
+                     /organism="Spatholobus sp. XY-2015"
+                     /tissue_type="stem"
+     rRNA            <1..25
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        26..232
+                     /product="internal transcribed spacer 2"
+     rRNA            233..>257
+                     /product="28S ribosomal RNA"
+ORIGIN
+        1 cgagggcacg cctgcctggg tgtcacacat cgttgccctc ccgcaagcgt cgttgcggag
+       61 ggcgtgtgct ggcttcccgc gagcgccgtc tcgcggttgg ctgaaaatcg agttcgtggt
+      121 cgggcgagcc acgacgcaat ggtggacgag cgacgctcga gaccgatcga tcgtgcgcgg
+      181 cccggccggt gcggactctc cgacccctgc gcgtccccgg acgctctcgg cgagacctca
+      241 ggtcaggcgg ggctacc
+//
+LOCUS       KM285410                 257 bp    DNA     linear   PLN 25-JAN-2015
+DEFINITION  Spatholobus sp. XY-2015 isolate Ertiantang Guangzhou 5.8S ribosomal
+            RNA gene, partial sequence; internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   KM285410
+VERSION     KM285410.1
+KEYWORDS    .
+SOURCE      Spatholobus sp. XY-2015
+  ORGANISM  Spatholobus sp. XY-2015
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Spatholobus.
+REFERENCE   1  (bases 1 to 257)
+  AUTHORS   Yu,X., Xu,X. and Xie,Z.
+  TITLE     DNA barcoding identification of Kadsurae Caulis and Spatholobi
+            Caulis based on ITS2 region and secondary structure prediction
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 257)
+  AUTHORS   Yu,X., Xu,X. and Xie,Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-AUG-2014) School of Pharmaceutical Sciences, Sun
+            Yat-sen University, 132, East Waihuan Rd, Guangzhou Higher Education
+            Mega Center, Guangzhou, Guangdong 510006, China
+FEATURES             Location/Qualifiers
+     source          1..257
+                     /db_xref="taxon:1602198"
+                     /isolate="Ertiantang Guangzhou"
+                     /mol_type="genomic DNA"
+                     /organism="Spatholobus sp. XY-2015"
+                     /tissue_type="stem"
+     rRNA            <1..25
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        26..232
+                     /product="internal transcribed spacer 2"
+     rRNA            233..>257
+                     /product="28S ribosomal RNA"
+ORIGIN
+        1 cgagggcacg cctgcctggg tgtcacacat cgttgccctc ccgcaagcgt cgttgcggag
+       61 ggcgtgtgct ggcttcccgc gagcgccgtc tcgcggttgg ctgaaaaccg agttcgtggt
+      121 cgggcgagcc acgacgcaat ggtggacgag cgacgctcga gaccgatcga tcgtgcgcgg
+      181 cccggccggt gcggactctc cgacccctgc gcgtccccgg acgctctcgg cgagacctca
+      241 ggtcaggcgg ggctacc
+//
+LOCUS       KM285412                 257 bp    DNA     linear   PLN 25-JAN-2015
+DEFINITION  Spatholobus sp. XY-2015 isolate Jinkang Guangzhou 5.8S ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   KM285412
+VERSION     KM285412.1
+KEYWORDS    .
+SOURCE      Spatholobus sp. XY-2015
+  ORGANISM  Spatholobus sp. XY-2015
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Spatholobus.
+REFERENCE   1  (bases 1 to 257)
+  AUTHORS   Yu,X., Xu,X. and Xie,Z.
+  TITLE     DNA barcoding identification of Kadsurae Caulis and Spatholobi
+            Caulis based on ITS2 region and secondary structure prediction
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 257)
+  AUTHORS   Yu,X., Xu,X. and Xie,Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-AUG-2014) School of Pharmaceutical Sciences, Sun
+            Yat-sen University, 132, East Waihuan Rd, Guangzhou Higher Education
+            Mega Center, Guangzhou, Guangdong 510006, China
+FEATURES             Location/Qualifiers
+     source          1..257
+                     /db_xref="taxon:1602198"
+                     /isolate="Jinkang Guangzhou"
+                     /mol_type="genomic DNA"
+                     /organism="Spatholobus sp. XY-2015"
+                     /tissue_type="stem"
+     rRNA            <1..25
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        26..232
+                     /product="internal transcribed spacer 2"
+     rRNA            233..>257
+                     /product="28S ribosomal RNA"
+ORIGIN
+        1 cgagggcacg cctgcctggg tgtcacacat cgttgccctc ccgcaagcgt cgttgcggag
+       61 ggcgtgtgct ggcttcccgc gagcgccgtc tcgcggttgg ctgaaaatcg agttcgcggt
+      121 cgggcgagcc acgacgcaat ggtggacgag cgacgctcga gaccgatcga tcgtgcgcgg
+      181 cccggccggt gcggactctc cgacccctgc gcgtccccgg acgctctcgg cgagacctca
+      241 ggtcaggcgg ggctacc
+//
+LOCUS       KM285411                 257 bp    DNA     linear   PLN 25-JAN-2015
+DEFINITION  Spatholobus sp. XY-2015 isolate Jianmin Guangzhou 5.8S ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   KM285411
+VERSION     KM285411.1
+KEYWORDS    .
+SOURCE      Spatholobus sp. XY-2015
+  ORGANISM  Spatholobus sp. XY-2015
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Spatholobus.
+REFERENCE   1  (bases 1 to 257)
+  AUTHORS   Yu,X., Xu,X. and Xie,Z.
+  TITLE     DNA barcoding identification of Kadsurae Caulis and Spatholobi
+            Caulis based on ITS2 region and secondary structure prediction
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 257)
+  AUTHORS   Yu,X., Xu,X. and Xie,Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-AUG-2014) School of Pharmaceutical Sciences, Sun
+            Yat-sen University, 132, East Waihuan Rd, Guangzhou Higher Education
+            Mega Center, Guangzhou, Guangdong 510006, China
+FEATURES             Location/Qualifiers
+     source          1..257
+                     /db_xref="taxon:1602198"
+                     /isolate="Jianmin Guangzhou"
+                     /mol_type="genomic DNA"
+                     /organism="Spatholobus sp. XY-2015"
+                     /tissue_type="stem"
+     rRNA            <1..25
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        26..232
+                     /product="internal transcribed spacer 2"
+     rRNA            233..>257
+                     /product="28S ribosomal RNA"
+ORIGIN
+        1 cgagggcacg cctgcctggg tgtcacacat cgttgccctc ccgcaagcgt cgttgcggag
+       61 ggcgtgtgct ggcttcccgc gagcgccgtc tcgcggttgg ctgaaaatcg agttcgtggt
+      121 cgggcgagcc acgacgcaat ggtggacgag cgacgctcga gaccgatcga tcgtgcgcgg
+      181 cccggccggt gcggactctc cgacccctgc gcgtccccgg acgctctcgg cgagacctca
+      241 ggtcaggcgg ggctacc
+//

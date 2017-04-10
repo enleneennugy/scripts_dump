@@ -1,0 +1,515 @@
+LOCUS       JN008328                 637 bp    DNA     linear   PLN 25-OCT-2011
+DEFINITION  Ramirezella penduliflora bio-material DNA 1508 small subunit
+            ribosomal RNA gene, partial sequence; internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   JN008328
+VERSION     JN008328.1
+KEYWORDS    .
+SOURCE      Ramirezella penduliflora
+  ORGANISM  Ramirezella penduliflora
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Ramirezella.
+REFERENCE   1  (bases 1 to 637)
+  AUTHORS   Delgado-Salinas,A., Thulin,M., Pasquet,R., Weeden,N. and Lavin,M.
+  TITLE     Vigna (Leguminosae) sensu lato: The names and identities of the
+            American segregate genera
+  JOURNAL   Am. J. Bot. 98 (10), 1694-1715 (2011)
+   PUBMED   21980163
+REFERENCE   2  (bases 1 to 637)
+  AUTHORS   Delgado-Salinas,A., Thulin,M., Pasquet,R., Weeden,N. and Lavin,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-MAY-2011) Plant Sciences and Plant Pathology, Montana
+            State University, 119 PBB, Bozeman, MT 59717, USA
+FEATURES             Location/Qualifiers
+     source          1..637
+                     /PCR_primers="fwd_name: its18, fwd_seq:
+                     gtccactgaaccttatcatttagagg, rev_name: its26, rev_seq:
+                     gccgttactaagggaatccttgttag"
+                     /bio_material="DNA 1508"
+                     /country="Mexico: Chiapas"
+                     /db_xref="taxon:1094729"
+                     /mol_type="genomic DNA"
+                     /organism="Ramirezella penduliflora"
+                     /specimen_voucher="Martinez 20746 (MEXU)"
+     misc_RNA        <1..235
+                     /note="contains small subunit ribosomal RNA and internal
+                     transcribed spacer 1"
+     rRNA            236..398
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        399..>637
+                     /note="contains internal transcribed spacer 2 and 28S
+                     ribosomal RNA"
+ORIGIN
+        1 tcattgtcga tgcctcaacc agtttgaccg gcgaatctgt ccatacccac accgcacaag
+       61 ggtcctcccc tgtgcgcgcc gagagggacg gggtaacgtg cctcgtgcaa ttggccaagt
+      121 ctccctcggc aaacactaac cccggcgctt cacgcgccaa ggaatctgaa cctgttaggt
+      181 gccggcaccc gggggacaac gtaccccgtg tgctgtcacc acatgttgtc atgtaaaatg
+      241 actctcggca acggatatct cggctcttgc atcgatgaag aacgtagcga aatgcgatac
+      301 ttggtgtgaa ttgcagaatc ccgtgaacca tcgagtcttt gaacgcaagt tgcgcccaaa
+      361 gccattaggt tgagggcacg cctgcctggg tgtcacacat cgccaccccc cccacatact
+      421 ctgtgtgccg ggtgaaagct gacctcccgc gagcctctgc ctcgtggttg gttcaaaagc
+      481 aagttcacgg cggggtcccc gcgataaatg gtggatgggc aacgcccgag accaatcgtg
+      541 tggccttgcg gctccgccgt tttggactag ttgaccctat gcgtccttgg ggaaacccac
+      601 ggcgctctta rcgagacctc aggtcaggcg gggctac
+//
+LOCUS       JN008327                 637 bp    DNA     linear   PLN 25-OCT-2011
+DEFINITION  Ramirezella penduliflora bio-material DNA 268 small subunit
+            ribosomal RNA gene, partial sequence; internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   JN008327
+VERSION     JN008327.1
+KEYWORDS    .
+SOURCE      Ramirezella penduliflora
+  ORGANISM  Ramirezella penduliflora
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Ramirezella.
+REFERENCE   1  (bases 1 to 637)
+  AUTHORS   Delgado-Salinas,A., Thulin,M., Pasquet,R., Weeden,N. and Lavin,M.
+  TITLE     Vigna (Leguminosae) sensu lato: The names and identities of the
+            American segregate genera
+  JOURNAL   Am. J. Bot. 98 (10), 1694-1715 (2011)
+   PUBMED   21980163
+REFERENCE   2  (bases 1 to 637)
+  AUTHORS   Delgado-Salinas,A., Thulin,M., Pasquet,R., Weeden,N. and Lavin,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-MAY-2011) Plant Sciences and Plant Pathology, Montana
+            State University, 119 PBB, Bozeman, MT 59717, USA
+FEATURES             Location/Qualifiers
+     source          1..637
+                     /PCR_primers="fwd_name: its18, fwd_seq:
+                     gtccactgaaccttatcatttagagg, rev_name: its26, rev_seq:
+                     gccgttactaagggaatccttgttag"
+                     /bio_material="DNA 268"
+                     /country="Mexico: Chiapas"
+                     /db_xref="taxon:1094729"
+                     /mol_type="genomic DNA"
+                     /organism="Ramirezella penduliflora"
+                     /specimen_voucher="Martinez, 20746 (MEXU)"
+     misc_RNA        <1..235
+                     /note="contains small subunit ribosomal RNA and internal
+                     transcribed spacer 1"
+     rRNA            236..398
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        399..>637
+                     /note="contains internal transcribed spacer 2 and 28S
+                     ribosomal RNA"
+ORIGIN
+        1 tcattgtcga tgcctcaacc agtttgaccg gcgaatctgt ccatacccac accgcacaag
+       61 ggtcctcccc tgtgcgcgcc gagagggacg gggtaacgtg cctcgtgcaa ttggccaagt
+      121 ctccctcggc aaacactaac cccggcgctt cacgcgccaa ggaatctgaa cctgttaggt
+      181 gccggcaccc gggggacaac gtaccccgtg tgctgtcacc acatgttgtc atgtaaaatg
+      241 actctcggca acggatatct cggctcttgc atcgatgaag aacgtagcga aatgcgatac
+      301 ttggtgtgaa ttgcagaatc ccgtgaacca tcgagtcttt gaacgcaagt tgcgcccaaa
+      361 gccattaggt tgagggcacg cctgcctggg tgtcacacat cgccaccccc cccacatact
+      421 ctgtgtgccg ggtgaaagct gacctcccgc gagcctctgc ctcgtggttg gttcaaaagc
+      481 aagttcacgg cggggtcccc gcgataaatg gtggatgggc aacgcccgag accaatcgtg
+      541 tggccttgcg gctccgccgt tttggactag ttgaccctat gcgtccttgg ggaaacccac
+      601 ggcgctctta gcgagacctc aggtcaggcg gggctac
+//
+LOCUS       JN008326                 641 bp    DNA     linear   PLN 25-OCT-2011
+DEFINITION  Ramirezella nitida bio-material DNA 1506 small subunit ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   JN008326
+VERSION     JN008326.1
+KEYWORDS    .
+SOURCE      Ramirezella nitida
+  ORGANISM  Ramirezella nitida
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Ramirezella.
+REFERENCE   1  (bases 1 to 641)
+  AUTHORS   Delgado-Salinas,A., Thulin,M., Pasquet,R., Weeden,N. and Lavin,M.
+  TITLE     Vigna (Leguminosae) sensu lato: The names and identities of the
+            American segregate genera
+  JOURNAL   Am. J. Bot. 98 (10), 1694-1715 (2011)
+   PUBMED   21980163
+REFERENCE   2  (bases 1 to 641)
+  AUTHORS   Delgado-Salinas,A., Thulin,M., Pasquet,R., Weeden,N. and Lavin,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-MAY-2011) Plant Sciences and Plant Pathology, Montana
+            State University, 119 PBB, Bozeman, MT 59717, USA
+FEATURES             Location/Qualifiers
+     source          1..641
+                     /PCR_primers="fwd_name: its18, fwd_seq:
+                     gtccactgaaccttatcatttagagg, rev_name: its26, rev_seq:
+                     gccgttactaagggaatccttgttag"
+                     /bio_material="DNA 1506"
+                     /country="Mexico: Tamaulipas"
+                     /db_xref="taxon:1094728"
+                     /mol_type="genomic DNA"
+                     /organism="Ramirezella nitida"
+                     /specimen_voucher="Ochoterena-Booth 63 (MEXU)"
+     misc_RNA        <1..234
+                     /note="contains small subunit ribosomal RNA and internal
+                     transcribed spacer 1"
+     rRNA            235..397
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        398..>641
+                     /note="contains internal transcribed spacer 2 and 28S
+                     ribosomal RNA"
+ORIGIN
+        1 tcattgtcga tgcctcaacc agtatgaccg gcgaacctgt ccatacccac accgcacaag
+       61 ggttcccccc tgtgcgcgcc gagggggacg gggtaacgtg ccgcgtgcaa gtgcccaagt
+      121 ctccctctcg gcaaacacta accccggcgc tccacgcgcc aaggaatctg aacctgttag
+      181 gtgccggcac ccgggggaca acgttcctcg tgtgctgtca cgacatgtca tgtaaaatga
+      241 ctctcggcaa cggatatctc ggctcttgca tcgatgaaga acgtagcgaa atgcgatact
+      301 tggtgtgaat tgcagaatcc cgtgaaccat cgagtctttg aacgcaagtt gcgcccaaag
+      361 ccattaggtt gagggcacgc ctgcctgggt gtcacacatc gccacccccc cacacttaat
+      421 ccgtgtgccg gggtgaaagc tgacctcccg cgagcccgtg cctcgtggct ggttcaaaac
+      481 caagtccacg ccggagtggt ccccgcgata aatggtggat gggcaacgcc cgagaccaat
+      541 cgtgtggctt tgccgctccg ccgtttcgga ctagttgacc ctatgtgtct ttggggaaac
+      601 ccacggcgct cttagcgaga cctcaggtca ggcggggcta c
+//
+LOCUS       JN008325                 641 bp    DNA     linear   PLN 25-OCT-2011
+DEFINITION  Ramirezella nitida bio-material DNA 1505 small subunit ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   JN008325
+VERSION     JN008325.1
+KEYWORDS    .
+SOURCE      Ramirezella nitida
+  ORGANISM  Ramirezella nitida
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Ramirezella.
+REFERENCE   1  (bases 1 to 641)
+  AUTHORS   Delgado-Salinas,A., Thulin,M., Pasquet,R., Weeden,N. and Lavin,M.
+  TITLE     Vigna (Leguminosae) sensu lato: The names and identities of the
+            American segregate genera
+  JOURNAL   Am. J. Bot. 98 (10), 1694-1715 (2011)
+   PUBMED   21980163
+REFERENCE   2  (bases 1 to 641)
+  AUTHORS   Delgado-Salinas,A., Thulin,M., Pasquet,R., Weeden,N. and Lavin,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-MAY-2011) Plant Sciences and Plant Pathology, Montana
+            State University, 119 PBB, Bozeman, MT 59717, USA
+FEATURES             Location/Qualifiers
+     source          1..641
+                     /PCR_primers="fwd_name: its18, fwd_seq:
+                     gtccactgaaccttatcatttagagg, rev_name: its26, rev_seq:
+                     gccgttactaagggaatccttgttag"
+                     /bio_material="DNA 1505"
+                     /country="Mexico: Tamaulipas"
+                     /db_xref="taxon:1094728"
+                     /mol_type="genomic DNA"
+                     /organism="Ramirezella nitida"
+                     /specimen_voucher="Hernandez 2339 (MEXU)"
+     misc_RNA        <1..234
+                     /note="contains small subunit ribosomal RNA and internal
+                     transcribed spacer 1"
+     rRNA            235..397
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        398..>641
+                     /note="contains internal transcribed spacer 2 and 28S
+                     ribosomal RNA"
+ORIGIN
+        1 tcattgtcga tgcctcaacc agtatgaccg gcgaacctgt ccatacccac accgcacaag
+       61 ggttcccccc tgtgcgcgcc gagggggacg gggtaacgtg ccgcgtgcaa gtgcccaagt
+      121 ctccctctcg gcaaacacta accccggcgc tccacgcgcc aaggaatctg aacctgttag
+      181 gtgccggcac ccgggggaca acgttcctcg tgtgctgtca cgacatgtca tgtaaaatga
+      241 ctctcggcaa cggatatctc ggctcttgca tcgatgaaga acgtagcgaa atgcgatact
+      301 tggtgtgaat tgcagaatcc cgtgaaccat cgagtctttg aacgcaagtt gcgcccaaag
+      361 ccattaggtt gagggcacgc ctgcctgggt gtcacacatc gccacccccc cacacttaat
+      421 ccgtgtgccg gggtgaaagc tgacctcccg cgagcccgtg cctcgtggct ggttcaaaac
+      481 caagtccacg ccggagtggt ccccgcgata aatggtggat gggcaacgcc cgagaccaat
+      541 cgtgtggctt tgccgctccg ccgtttcgga ctagttgacc ctatgtgtct ttggggaaac
+      601 ccacggcgct cttagcgaga cctcaggtca ggcggggcta c
+//
+LOCUS       JN008324                 631 bp    DNA     linear   PLN 25-OCT-2011
+DEFINITION  Ramirezella lozanii bio-material DNA 1509 small subunit ribosomal
+            RNA gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   JN008324
+VERSION     JN008324.1
+KEYWORDS    .
+SOURCE      Ramirezella lozanii
+  ORGANISM  Ramirezella lozanii
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Ramirezella.
+REFERENCE   1  (bases 1 to 631)
+  AUTHORS   Delgado-Salinas,A., Thulin,M., Pasquet,R., Weeden,N. and Lavin,M.
+  TITLE     Vigna (Leguminosae) sensu lato: The names and identities of the
+            American segregate genera
+  JOURNAL   Am. J. Bot. 98 (10), 1694-1715 (2011)
+   PUBMED   21980163
+REFERENCE   2  (bases 1 to 631)
+  AUTHORS   Delgado-Salinas,A., Thulin,M., Pasquet,R., Weeden,N. and Lavin,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-MAY-2011) Plant Sciences and Plant Pathology, Montana
+            State University, 119 PBB, Bozeman, MT 59717, USA
+FEATURES             Location/Qualifiers
+     source          1..631
+                     /PCR_primers="fwd_name: its18, fwd_seq:
+                     gtccactgaaccttatcatttagagg, rev_name: its26, rev_seq:
+                     gccgttactaagggaatccttgttag"
+                     /bio_material="DNA 1509"
+                     /country="Mexico: Guerrero"
+                     /db_xref="taxon:1094727"
+                     /mol_type="genomic DNA"
+                     /organism="Ramirezella lozanii"
+                     /specimen_voucher="Calonico-Soto 13204 (MEXU)"
+     misc_RNA        <1..229
+                     /note="contains small subunit ribosomal RNA and internal
+                     transcribed spacer 1"
+     rRNA            230..292
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        293..>631
+                     /note="contains internal transcribed spacer 2 and 28S
+                     ribosomal RNA"
+ORIGIN
+        1 tcattgtcgt tgcctcaacc agttcgaccg gtgaacctgt ccatacccac accgcacaag
+       61 ggtctccctc gtgcgcgtcg ggagggaccg ggcaagtgcc ccgtgcagtt ggccaggtct
+      121 ctctcggcaa acactaaccc cggcgctccg tgcgccaagg aatctaaacc tgttaggtgc
+      181 ggcacccggg ggacaacctt ccccgtgtgc tgtcacgaca cgtcatgtaa aatgactctc
+      241 ggcaacggat atctcggctc ttgcatcgat gaagaacgta gcgaaatgcg atacttggtg
+      301 tgaattgcag aatcccgtga accatcgagt ctttgaacgc aagttgcgcc caaagccatt
+      361 aggttgaggg cacgcctgcc tgggtgtcac acatcgccac ccccccactt aaaccgtgtg
+      421 ccggggtgaa agctgacctc ccgcgagccc gttcctcgtg gttggttcaa aagcaagttc
+      481 acggcggagt ccccgcgata aatggtggat gggcaatgcc cgaggccaat cgtgtggatc
+      541 tgtggctcca ccttattgga ctagttgacc ctatgcgtct ttggggaaac ccacggcgct
+      601 cttagcgaga cctcaggtca ggcggggcta c
+//
+LOCUS       JN008323                 637 bp    DNA     linear   PLN 25-OCT-2011
+DEFINITION  Ramirezella crassa bio-material DNA 267 small subunit ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   JN008323
+VERSION     JN008323.1
+KEYWORDS    .
+SOURCE      Ramirezella crassa
+  ORGANISM  Ramirezella crassa
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Ramirezella.
+REFERENCE   1  (bases 1 to 637)
+  AUTHORS   Delgado-Salinas,A., Thulin,M., Pasquet,R., Weeden,N. and Lavin,M.
+  TITLE     Vigna (Leguminosae) sensu lato: The names and identities of the
+            American segregate genera
+  JOURNAL   Am. J. Bot. 98 (10), 1694-1715 (2011)
+   PUBMED   21980163
+REFERENCE   2  (bases 1 to 637)
+  AUTHORS   Delgado-Salinas,A., Thulin,M., Pasquet,R., Weeden,N. and Lavin,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-MAY-2011) Plant Sciences and Plant Pathology, Montana
+            State University, 119 PBB, Bozeman, MT 59717, USA
+FEATURES             Location/Qualifiers
+     source          1..637
+                     /PCR_primers="fwd_name: its18, fwd_seq:
+                     gtccactgaaccttatcatttagagg, rev_name: its26, rev_seq:
+                     gccgttactaagggaatccttgttag"
+                     /bio_material="DNA 267"
+                     /country="Mexico: Sinaloa"
+                     /db_xref="taxon:1094726"
+                     /mol_type="genomic DNA"
+                     /organism="Ramirezella crassa"
+                     /specimen_voucher="Bartholomew 2513 (MEXU)"
+     misc_RNA        <1..234
+                     /note="contains small subunit ribosomal RNA and internal
+                     transcribed spacer 1"
+     rRNA            235..397
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        398..>637
+                     /note="contains internal transcribed spacer 2 and 28S
+                     ribosomal RNA"
+ORIGIN
+        1 tcattgtcga tgcctcaacc agtttgaccg gtgaatctgt ccatacccac accgcacaag
+       61 ggtcctcccc tgtgcgcgcc gggagggacg gggtaacgtg cctcgtgcaa ttggccaagt
+      121 ctccctcggc aaacactaac cccggcgctt cacgcgccaa ggaatctgaa cctgttaggt
+      181 gccggcactc gggggacaca acgttcctcg tgtgttgtca cgacatgtca tgtaaaatga
+      241 ctctcggcaa cggatatctc ggctcttgca tcgatgaaga acgtagcgaa atgcgatact
+      301 tggtgtgaat tgcagaatcc cgtgaaccat cgagtctttg aacgcaagtt gcgcccaaag
+      361 ccattaggtt gagggcacgc ctgcctgggt gtcacacatc gccacccccc ccacttaatc
+      421 tgtgtgccgg ggtgaaagct gacttcccgc gagcctgtgc ctcgtggttg gttcaaaagc
+      481 aagttcacgg cggggtcccc gcgataaatg gtggatgggc aacgcccgag accaatcgtg
+      541 tggatctgtg gctcctccgt tccggactag ttgaccctat gcgtcctcgg ggaaacccat
+      601 ggcgctctta gcgagacctc aggtcaggcg gggctac
+//
+LOCUS       JN008322                 640 bp    DNA     linear   PLN 25-OCT-2011
+DEFINITION  Ramirezella calcoma bio-material DNA 1510 small subunit ribosomal
+            RNA gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   JN008322
+VERSION     JN008322.1
+KEYWORDS    .
+SOURCE      Ramirezella calcoma
+  ORGANISM  Ramirezella calcoma
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Ramirezella.
+REFERENCE   1  (bases 1 to 640)
+  AUTHORS   Delgado-Salinas,A., Thulin,M., Pasquet,R., Weeden,N. and Lavin,M.
+  TITLE     Vigna (Leguminosae) sensu lato: The names and identities of the
+            American segregate genera
+  JOURNAL   Am. J. Bot. 98 (10), 1694-1715 (2011)
+   PUBMED   21980163
+REFERENCE   2  (bases 1 to 640)
+  AUTHORS   Delgado-Salinas,A., Thulin,M., Pasquet,R., Weeden,N. and Lavin,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-MAY-2011) Plant Sciences and Plant Pathology, Montana
+            State University, 119 PBB, Bozeman, MT 59717, USA
+FEATURES             Location/Qualifiers
+     source          1..640
+                     /PCR_primers="fwd_name: its18, fwd_seq:
+                     gtccactgaaccttatcatttagagg, rev_name: its26, rev_seq:
+                     gccgttactaagggaatccttgttag"
+                     /bio_material="DNA 1510"
+                     /country="Mexico: Edo: de Mexico"
+                     /db_xref="taxon:1094725"
+                     /mol_type="genomic DNA"
+                     /organism="Ramirezella calcoma"
+                     /specimen_voucher="Tellez et al. 13054 (MEXU)"
+     misc_RNA        <1..237
+                     /note="contains small subunit ribosomal RNA and internal
+                     transcribed spacer 1"
+     rRNA            238..400
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        401..>640
+                     /note="contains internal transcribed spacer 2 and 28S
+                     ribosomal RNA"
+ORIGIN
+        1 tcattgtcga tgcctcaacc agtttgaccg gtgaatctgt ccatacccac accgcacaag
+       61 ggttctcccc tgtgcgcgcc gggggggacg gggcaacgtg cctcgtgcaa tcggccaagt
+      121 ctcccccggc aaacactaac cccggcgctt cacgcgccaa ggaatctgaa cctgttaggt
+      181 gccggcactc gggggacaca acaacgttcc tcgcgtgctg tcacgacatg tcatgtaaaa
+      241 tgactctcgg caacggatat ctcggytctt gcatcgatga agaacgtagc gaaatgcgat
+      301 acttggtgtg aattgcagaa tcccgtgaac catcgagtct ttgaacgcaa gttgcgccca
+      361 aagccattag gttgagggca cgcctgcctg ggtgtcacac atcgccaccc cccacaccta
+      421 atccgtgtgc cggggtgaaa gctgacctcc cgcgagcctg tgcctcgtgg ttggttcaaa
+      481 agcaagttca cggcggggtc cccgcgataa atggtggatg ggcatcgccc gagaccaatc
+      541 gtgtggatct rtggctcctc cgttccggac tagttgaccc tatgcgtcct cgggggaacc
+      601 cagggcgctc ttagcgagac ctcaggtcag gcggggctac
+//
+LOCUS       AF115139                 631 bp    DNA     linear   PLN 14-MAR-2006
+DEFINITION  Ramirezella micrantha small subunit ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene and
+            internal transcribed spacer 2, complete sequence; and large subunit
+            ribosomal RNA gene, partial sequence.
+ACCESSION   AF115139
+VERSION     AF115139.1
+KEYWORDS    .
+SOURCE      Ramirezella micrantha
+  ORGANISM  Ramirezella micrantha
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Ramirezella.
+REFERENCE   1  (bases 1 to 631)
+  AUTHORS   Delgado-Salinas,A., Turley,T., Richman,A. and Lavin,M.
+  TITLE     Phylogenetic analysis of cultivated and wild species of Phaseolus
+            (Fabaceae)
+  JOURNAL   Syst. Bot. 24 (3), 438-460 (1999)
+REFERENCE   2  (bases 1 to 631)
+  AUTHORS   Delgado-Salinas,A., Turley,T., Richman,A. and Lavin,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-DEC-1998) Plant Sciences, Montana State University,
+            Bozeman, MT 59717, USA
+FEATURES             Location/Qualifiers
+     source          1..631
+                     /country="Mexico: Jalisco"
+                     /db_xref="taxon:90592"
+                     /mol_type="genomic DNA"
+                     /organism="Ramirezella micrantha"
+                     /specimen_voucher="Mexico, Jalisco, Ochoterena 86 (MEXU)"
+     rRNA            <1..6
+                     /note="small subunit RNA"
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        7..224
+                     /product="internal transcribed spacer 1"
+     rRNA            225..392
+                     /note="5.8S"
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        393..626
+                     /product="internal transcribed spacer 2"
+     rRNA            627..>631
+                     /note="large subunits RNA"
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 tcattgtcgt tgcctcaacc agttcgaccg gtgaatctgt ccatacccac accgcacaag
+       61 ggtctccctc gtgcgcgtcg ggagggaccg ggcaagtgcc ccgtgcagtt ggccaggtct
+      121 ctctcggcaa acactaaccc cggcgctccg tgcgccaagg aatctaaacc tgttaggtgc
+      181 ggcacccggg ggacaacctt ccccgtgtgc tgtcacgaca tgtcatgtaa aatgactctc
+      241 ggcaacggat atctcggctc ttgcatcgat gaagaacgta gcgaaatgcg atacttggtg
+      301 tgaattgcag aatcccgtga accatcgagt ctttgaacgc aagttgcgcc caaagccatt
+      361 aggttgaggg cacgcctgcc tgggtgtcac acatcgccac ccccccactt aaaccgtgtg
+      421 ccggggtgaa agctgacctc ccgcgagccc gttcctcgtg gttggttcaa aagcaagttc
+      481 acggcggagt ccccgcgata aatggtggat gggcaatgcc cgaggccaat cgtgtggatc
+      541 tgtggctcca ccttattgga ctagttgacc ctatgcgtct ttggggaaac ccacgacgct
+      601 cttagcgaga cctcaggtca ggcggggcta c
+//
+LOCUS       AF069120                 636 bp    DNA     linear   PLN 19-MAR-2008
+DEFINITION  Ramirezella strobilophora small subunit ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and large
+            subunit ribosomal RNA gene, partial sequence.
+ACCESSION   AF069120
+VERSION     AF069120.1
+KEYWORDS    .
+SOURCE      Ramirezella strobilophora
+  ORGANISM  Ramirezella strobilophora
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Ramirezella.
+REFERENCE   1  (bases 1 to 636)
+  AUTHORS   Delgado-Salinas,A., Turley,T., Richman,A. and Lavin,M.
+  TITLE     Phylogenetic analysis of cultivated and wild species of Phaseolus
+            (Fabaceae)
+  JOURNAL   Syst. Bot. 24 (3), 438-460 (1999)
+REFERENCE   2  (bases 1 to 636)
+  AUTHORS   Thulin,M., Lavin,M., Pasquet,R. and Delgado-Salinas,A.
+  TITLE     Phylogeny and Biogeography of Wajira (Leguminosae): A Monophyletic
+            Segregate of Vigna Centered in the Horn of Africa Region
+  JOURNAL   Syst. Bot. 29 (4), 903-920 (2004)
+REFERENCE   3  (bases 1 to 636)
+  AUTHORS   Delgado-Salinas,A., Turley,T. and Lavin,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-MAY-1998) Biology, Montana State University, 310 Lewis
+            Hall, Bozeman, MT 59717, USA
+FEATURES             Location/Qualifiers
+     source          1..636
+                     /country="Mexico: Jalisco"
+                     /db_xref="taxon:77324"
+                     /mol_type="genomic DNA"
+                     /organism="Ramirezella strobilophora"
+                     /specimen_voucher="J.A. Perez J. s.n. (DNA 102) (MEXU)"
+     rRNA            <1..6
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        7..228
+                     /product="internal transcribed spacer 1"
+     rRNA            229..396
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        397..611
+                     /product="internal transcribed spacer 2"
+     rRNA            612..>636
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 tcattgtcga tgcctcaacc agtttgaccg gtgaatctgt ccatacccac accgcacaag
+       61 ggttctcccc tgtgcgcgcc gggagggacg gggtaacgtg cctcgtgcaa tggccaagtc
+      121 tcccccggca aacactaacc ccggcgctcc acgcgccaag gaatctgaac ctgttaggtg
+      181 ccggcacccg ggggacacaa cgtccctcgc gtgttgtcac gacatgtcat gtaaaatgac
+      241 tctcggcaac ggatatctcg gctcttgcat cgatgaagaa cgtagcgaaa tgcgatactt
+      301 ggtgtgaatt gcagaatccc gtgaaccatc gagtctttga acgcaagttg cgcccaaagc
+      361 cattaggttg agggcacgcc tgcctgggtg tcacacatcg ccacccccca cacctaatcc
+      421 gtgtgccggg gtgaaagctg acttcccgcg agcctgtgcc tcgtggttgg ttcaaaagca
+      481 agttcacggc ggggtccccg cgataaatgg tggatgggca tcgcccgaga ccaatcgtgt
+      541 ggatctgtgg ctcctccgtt ccggactagt tgaccctatg cgtcctcggg gaaacccacg
+      601 gcgctcttag cgagacctca ggtcaggcgg ggctac
+//

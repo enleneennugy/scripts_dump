@@ -1,0 +1,159 @@
+LOCUS       KC779729                 756 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Lackeya multiflora voucher Hale s.n. (HUEFS) 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   KC779729
+VERSION     KC779729.1
+KEYWORDS    .
+SOURCE      Lackeya multiflora
+  ORGANISM  Lackeya multiflora
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Lackeya.
+REFERENCE   1  (bases 1 to 756)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 756)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..756
+                     /db_xref="taxon:1457502"
+                     /mol_type="genomic DNA"
+                     /organism="Lackeya multiflora"
+                     /specimen_voucher="Hale s.n. (HUEFS)"
+     misc_RNA        <1..>756
+                     /note="contains 18S ribosomal RNA, internal transcribed
+                     spacer 1, 5.8S ribosomal RNA, internal transcribed spacer
+                     2, and 26S ribosomal RNA"
+ORIGIN
+        1 cttatcattt agaggaagga gaagtcgtaa caaggtttcc gtaggtgaac ctgcggaagg
+       61 atcattgtcg atgcctcaca atcagttcaa cttgtgaatt tgtttaacta tgcagggttg
+      121 atyggatgtt caacatctta ccttccctta tgttgggggt gggtttatgc gatgcatggc
+      181 cttcttctaa taaaacacaa accccgacgc aacatgcgtc aaggaacttg aaattgtttg
+      241 atacgcttgt agacccggag acggtgtttc taacaagtga tgtcgtttca acatgtctca
+      301 aaatgactct cggcaacgga tatctcggct cttgcatcga tgaagaacgt agcaaaatgc
+      361 gatacttggt gtgaattgca gaatcccgtg aaccatcgag tttttgaacg caagttgcgc
+      421 ctgaaaccat taggttgagg gcacgtctgc ctgggtgtca cacaatgttg ccctatgcca
+      481 atgcctttgw atgatcggtg ttgagcaggg tgaatgttgg cttcccacga gcatcgtctc
+      541 gtggttggtt gaaaaacaag tcctcggtgg aatgctccat gataaatggt ggttgagtga
+      601 tgctcgagac caaacatgtg tggcttcctc ctaaatgtgg acctttgacc cttgcgttct
+      661 cttgcaacgc tcacaacgag acctcaggtc aggcgggact acccgctgag tttaagcata
+      721 tcaataagcg gaggaaaata aactaacaag gattcc
+//
+LOCUS       KC779728                 756 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Lackeya multiflora voucher Nelson s.n.1 (HUEFS) 18S ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 26S ribosomal RNA gene, partial sequence.
+ACCESSION   KC779728
+VERSION     KC779728.1
+KEYWORDS    .
+SOURCE      Lackeya multiflora
+  ORGANISM  Lackeya multiflora
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Lackeya.
+REFERENCE   1  (bases 1 to 756)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 756)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..756
+                     /db_xref="taxon:1457502"
+                     /mol_type="genomic DNA"
+                     /organism="Lackeya multiflora"
+                     /specimen_voucher="Nelson s.n.1 (HUEFS)"
+     misc_RNA        <1..>756
+                     /note="contains 18S ribosomal RNA, internal transcribed
+                     spacer 1, 5.8S ribosomal RNA, internal transcribed spacer
+                     2, and 26S ribosomal RNA"
+ORIGIN
+        1 cttatcattt agaggaagga gaagtcgtaa caaggtttcc gtaggtgaac ctgcggaagg
+       61 atcattgtcg atgcctcaca atcagttcaa cttgtgaatt tgtttaacta tgcagggttg
+      121 atyggatgtt caacatctta ccttccctta tgttgggggt gggtttatgc gatgcatggc
+      181 cttcttctaa taaaacacaa accccgacgc aacatgcgtc aaggaacttg aaattgtttg
+      241 atacgcttgt agacccggag acggtgtttc taacaagtga tgtcgtttca acatgtctca
+      301 aaatgactct cggcaacgga tatctcggct cttgcatcga tgaagaacgt agcaaaatgc
+      361 gatacttggt gtgaattgca gaatcccgtg aaccatcgag tttttgaacg caagttgcgc
+      421 ctgaaaccat taggttgagg gcacgtctgc ctgggtgtca cacaatgttg ccctatgcca
+      481 atgcctttgw atgatcggtg ttgagcaggg tgaatgttgg cttcccacga gcatcgtctc
+      541 gtggttggtt gaaaaacaag tcctcggtgg aatgctccat gataaatggt ggttgagtga
+      601 tgctcgagac caaacatgtg tggcttcctc ctaaatgtgg acctttgacc cttgcgttct
+      661 cttgcaacgc tcacaacgag acctcaggtc aggcgggact acccgctgag tttaagcata
+      721 tcaataagcg gaggaaaata aactaacaag gattcc
+//
+LOCUS       KC779727                 757 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Lackeya multiflora voucher Nelson s.n. (HUEFS) 18S ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 26S ribosomal RNA gene, partial sequence.
+ACCESSION   KC779727
+VERSION     KC779727.1
+KEYWORDS    .
+SOURCE      Lackeya multiflora
+  ORGANISM  Lackeya multiflora
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Lackeya.
+REFERENCE   1  (bases 1 to 757)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 757)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..757
+                     /db_xref="taxon:1457502"
+                     /mol_type="genomic DNA"
+                     /organism="Lackeya multiflora"
+                     /specimen_voucher="Nelson s.n. (HUEFS)"
+     misc_RNA        <1..>757
+                     /note="contains 18S ribosomal RNA, internal transcribed
+                     spacer 1, 5.8S ribosomal RNA, internal transcribed spacer
+                     2, and 26S ribosomal RNA"
+ORIGIN
+        1 cttatcattt agaggaagga gaagtcgtaa caaggtttcc gtaggtgaac ctgcggaagg
+       61 atcattgtcg atgcctcaca atcagttcaa cttgtgaatt tgtttaacta tgcagggttg
+      121 atyggatgtt caacatctta ccttccctta tgttgggggt gggtttatgc gatgcatggc
+      181 cttcttctaa taaaacacaa accccgacgc aacatgcgtc aaggaacttg aaattgtttg
+      241 atacgcttgt agacccggag acggtgtttc taacaagtga tgtcgtttca acatgtctca
+      301 aaatgactct cggcaacgga tatctcggct cttgcatcga tgaagaacgt agcaaaatgc
+      361 gatacttggt gtgaattgca gaatcccgtg aaccatcgag tttttgaacg caagttgcgc
+      421 ctgaaaccat taggttgagg gcacgtctgc ctgggtgtca cacaatgttg ccctatgcca
+      481 atgcctttgw atgatcggtg ttgagcaggg tgaatgttgg cttcccacga gcatcgtctc
+      541 gtggttggtt gaaaaacaag tcctcggtgg aatgctccat gataaatggt ggttgagtga
+      601 tgctcgagac caaacatgtg tggcttcctc ctaaatgtgg gacctttgac ccttgcgttc
+      661 tcttgcaacg ctcacaacga gacctcaggt caggcgggac tacccgctga gtttaagcat
+      721 atcaataagc ggaggaaaat aaactaacaa ggattcc
+//

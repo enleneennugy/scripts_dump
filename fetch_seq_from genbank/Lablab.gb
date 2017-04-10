@@ -1,0 +1,668 @@
+LOCUS       KX675136                 218 bp    DNA     linear   PLN 19-FEB-2017
+DEFINITION  Lablab purpureus voucher PH23568 internal transcribed spacer 2,
+            partial sequence.
+ACCESSION   KX675136
+VERSION     KX675136.1
+KEYWORDS    .
+SOURCE      Lablab purpureus
+  ORGANISM  Lablab purpureus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Lablab.
+REFERENCE   1  (bases 1 to 218)
+  AUTHORS   Chen,X., Xiang,L., Shi,L., Li,G., Yao,H., Han,J., Lin,Y., Song,J.
+            and Chen,S.
+  TITLE     Identification of crude drugs in the Japanese pharmacopoeia using a
+            DNA barcoding system
+  JOURNAL   Sci Rep 7, 42325 (2017)
+   PUBMED   28186159
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 218)
+  AUTHORS   Chen,X. and Song,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-AUG-2016) Resource and Conservation Research Center,
+            The Institute of Medicinal Plant Development, No. 151, Malianwa
+            North Road, Hai Dian District, Beijing, Beijing 100193, China
+FEATURES             Location/Qualifiers
+     source          1..218
+                     /db_xref="taxon:35936"
+                     /mol_type="genomic DNA"
+                     /organism="Lablab purpureus"
+                     /specimen_voucher="PH23568"
+     misc_RNA        <1..>218
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 cacatcgtca cccccccacg tacatgtaca ttggggagtg aaagttgact tcccacgagc
+       61 ttgttctcgt ggttggttga aaattaagtt caaagtggag tttgccacgt aaaatggtgg
+      121 atgagtgatg ctcgagacca attgcgtgtg catgactttg gcatattgga ctagttgacc
+      181 ctatgcgtct ttggtgaaaa ttgaaggcgt tcttagcg
+//
+LOCUS       KX674860                 218 bp    DNA     linear   PLN 19-FEB-2017
+DEFINITION  Lablab purpureus voucher PH04135 internal transcribed spacer 2,
+            partial sequence.
+ACCESSION   KX674860
+VERSION     KX674860.1
+KEYWORDS    .
+SOURCE      Lablab purpureus
+  ORGANISM  Lablab purpureus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Lablab.
+REFERENCE   1  (bases 1 to 218)
+  AUTHORS   Chen,X., Xiang,L., Shi,L., Li,G., Yao,H., Han,J., Lin,Y., Song,J.
+            and Chen,S.
+  TITLE     Identification of crude drugs in the Japanese pharmacopoeia using a
+            DNA barcoding system
+  JOURNAL   Sci Rep 7, 42325 (2017)
+   PUBMED   28186159
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 218)
+  AUTHORS   Chen,X. and Song,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-AUG-2016) Resource and Conservation Research Center,
+            The Institute of Medicinal Plant Development, No. 151, Malianwa
+            North Road, Hai Dian District, Beijing, Beijing 100193, China
+FEATURES             Location/Qualifiers
+     source          1..218
+                     /db_xref="taxon:35936"
+                     /mol_type="genomic DNA"
+                     /organism="Lablab purpureus"
+                     /specimen_voucher="PH04135"
+     misc_RNA        <1..>218
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 cacatcgtca cccccccacg tacatgtaca ttggggagtg aaagttgact tcccacgagc
+       61 ttgttctcgt ggttggttga aaattaagtt caaagtggag tttgccacgt aaaatggtgg
+      121 atgagtgatg ctcgagacca attgcgtgtg catgactttg gcatattgga ctagttgacc
+      181 ctatgcgtct ttggtgaaaa ttgaaggcgt tcttagcg
+//
+LOCUS       KX674859                 218 bp    DNA     linear   PLN 19-FEB-2017
+DEFINITION  Lablab purpureus voucher PH04134 internal transcribed spacer 2,
+            partial sequence.
+ACCESSION   KX674859
+VERSION     KX674859.1
+KEYWORDS    .
+SOURCE      Lablab purpureus
+  ORGANISM  Lablab purpureus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Lablab.
+REFERENCE   1  (bases 1 to 218)
+  AUTHORS   Chen,X., Xiang,L., Shi,L., Li,G., Yao,H., Han,J., Lin,Y., Song,J.
+            and Chen,S.
+  TITLE     Identification of crude drugs in the Japanese pharmacopoeia using a
+            DNA barcoding system
+  JOURNAL   Sci Rep 7, 42325 (2017)
+   PUBMED   28186159
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 218)
+  AUTHORS   Chen,X. and Song,J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-AUG-2016) Resource and Conservation Research Center,
+            The Institute of Medicinal Plant Development, No. 151, Malianwa
+            North Road, Hai Dian District, Beijing, Beijing 100193, China
+FEATURES             Location/Qualifiers
+     source          1..218
+                     /db_xref="taxon:35936"
+                     /mol_type="genomic DNA"
+                     /organism="Lablab purpureus"
+                     /specimen_voucher="PH04134"
+     misc_RNA        <1..>218
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 cacatcgtca cccccccacg tacatgtaca ttggggagtg aaagttgact tcccacgagc
+       61 ttgttctcgt ggttggttga aaattaagtt caaagtggag tttgccacgt aaaatggtgg
+      121 atgagtgatg ctcgagacca attgcgtgtg catgactttg gcatattgga ctagttgacc
+      181 ctatgcgtct ttggtgaaaa ttgaaggcgt tcttagcg
+//
+LOCUS       KX270856                 218 bp    DNA     linear   PLN 15-NOV-2016
+DEFINITION  Lablab purpureus voucher S-BBDou-11 internal transcribed spacer 2,
+            partial sequence.
+ACCESSION   KX270856
+VERSION     KX270856.1
+KEYWORDS    .
+SOURCE      Lablab purpureus
+  ORGANISM  Lablab purpureus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Lablab.
+REFERENCE   1  (bases 1 to 218)
+  AUTHORS   Xiao,B., Rao,J., Nie,P., Luo,H. and Liu,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAY-2016) Hunan Institute for Drug Control, No. 60
+            Bayi Road, Changsha, Hunan 410001, P.R. China
+FEATURES             Location/Qualifiers
+     source          1..218
+                     /db_xref="taxon:35936"
+                     /mol_type="genomic DNA"
+                     /organism="Lablab purpureus"
+                     /specimen_voucher="S-BBDou-11"
+     misc_RNA        <1..>218
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 cacatcgtca cccccccacg tacatgtaca ttggggagtg aaagttgact tcccacgagc
+       61 ttgttctcgt ggttggttga aaattgagtt caaagtggag tttgccacgt aaaatggtgg
+      121 atgagtgatg ctcgagacca attgcgtgtg catgactttg gcatattgga ctanttgacc
+      181 ctatgcgtct ttggtgaaaa ttgaaggcgt tcttagcg
+//
+LOCUS       KX270855                 218 bp    DNA     linear   PLN 15-NOV-2016
+DEFINITION  Lablab purpureus voucher S-BBDou-10 internal transcribed spacer 2,
+            partial sequence.
+ACCESSION   KX270855
+VERSION     KX270855.1
+KEYWORDS    .
+SOURCE      Lablab purpureus
+  ORGANISM  Lablab purpureus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Lablab.
+REFERENCE   1  (bases 1 to 218)
+  AUTHORS   Xiao,B., Rao,J., Nie,P., Luo,H. and Liu,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAY-2016) Hunan Institute for Drug Control, No. 60
+            Bayi Road, Changsha, Hunan 410001, P.R. China
+FEATURES             Location/Qualifiers
+     source          1..218
+                     /db_xref="taxon:35936"
+                     /mol_type="genomic DNA"
+                     /organism="Lablab purpureus"
+                     /specimen_voucher="S-BBDou-10"
+     misc_RNA        <1..>218
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 cacatcgtca cccccccacg tacatgtaca ttggggagtg aaagttgact tcccacgagc
+       61 ttgttctcgt ggttggttga aaattgagtt caaagtggag tttgccacgt aaaatggtgg
+      121 atgagtgatg ctcgagacca attgcgtgtg catgactttg gcatattgga ctanttgacc
+      181 ctatgcgtct ttggtgaaaa ttgaaggcgt tcttagcg
+//
+LOCUS       KX270854                 218 bp    DNA     linear   PLN 15-NOV-2016
+DEFINITION  Lablab purpureus voucher S-BBDou-09 internal transcribed spacer 2,
+            partial sequence.
+ACCESSION   KX270854
+VERSION     KX270854.1
+KEYWORDS    .
+SOURCE      Lablab purpureus
+  ORGANISM  Lablab purpureus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Lablab.
+REFERENCE   1  (bases 1 to 218)
+  AUTHORS   Xiao,B., Rao,J., Nie,P., Luo,H. and Liu,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAY-2016) Hunan Institute for Drug Control, No. 60
+            Bayi Road, Changsha, Hunan 410001, P.R. China
+FEATURES             Location/Qualifiers
+     source          1..218
+                     /db_xref="taxon:35936"
+                     /mol_type="genomic DNA"
+                     /organism="Lablab purpureus"
+                     /specimen_voucher="S-BBDou-09"
+     misc_RNA        <1..>218
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 cacatcgtca cccccccacg tacatgtaca ttggggagtg aaagttgact tcccacgagc
+       61 ttgttctcgt ggttggttga aaattnagtt caaagtggag tttgccacgt aaaatggtgg
+      121 atgagtgatg ctcgagacca attgcgtgtg catgactttg gcatattgga ctagttgacc
+      181 ctatgcgtct ttggtgaaaa ttgaaggcgt tcttagcg
+//
+LOCUS       KX270853                 218 bp    DNA     linear   PLN 15-NOV-2016
+DEFINITION  Lablab purpureus voucher S-BBDou-08 internal transcribed spacer 2,
+            partial sequence.
+ACCESSION   KX270853
+VERSION     KX270853.1
+KEYWORDS    .
+SOURCE      Lablab purpureus
+  ORGANISM  Lablab purpureus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Lablab.
+REFERENCE   1  (bases 1 to 218)
+  AUTHORS   Xiao,B., Rao,J., Nie,P., Luo,H. and Liu,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAY-2016) Hunan Institute for Drug Control, No. 60
+            Bayi Road, Changsha, Hunan 410001, P.R. China
+FEATURES             Location/Qualifiers
+     source          1..218
+                     /db_xref="taxon:35936"
+                     /mol_type="genomic DNA"
+                     /organism="Lablab purpureus"
+                     /specimen_voucher="S-BBDou-08"
+     misc_RNA        <1..>218
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 cacatcgtca cccccccacg tacatgtaca ttggggagtg aaagttgact tcccacgagc
+       61 ttgttctcgt ggttggttga aaattgagtt caaagtggag tttgccacgt aaaatggtgg
+      121 atgagtgatg ctcgagacca attgcgtgtg catgactttg gcatattgga ctacttgacc
+      181 ctatgcgtct ttggtgaaaa ttgaaggcgt tcttagcg
+//
+LOCUS       KX270852                 218 bp    DNA     linear   PLN 15-NOV-2016
+DEFINITION  Lablab purpureus voucher S-BBDou-07 internal transcribed spacer 2,
+            partial sequence.
+ACCESSION   KX270852
+VERSION     KX270852.1
+KEYWORDS    .
+SOURCE      Lablab purpureus
+  ORGANISM  Lablab purpureus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Lablab.
+REFERENCE   1  (bases 1 to 218)
+  AUTHORS   Xiao,B., Rao,J., Nie,P., Luo,H. and Liu,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAY-2016) Hunan Institute for Drug Control, No. 60
+            Bayi Road, Changsha, Hunan 410001, P.R. China
+FEATURES             Location/Qualifiers
+     source          1..218
+                     /db_xref="taxon:35936"
+                     /mol_type="genomic DNA"
+                     /organism="Lablab purpureus"
+                     /specimen_voucher="S-BBDou-07"
+     misc_RNA        <1..>218
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 cacatcgtca cccccccacg tacatgtaca ttggggagtg aaagttgact tcccacgagc
+       61 ttgttctcgt ggttggttga aaattgagtt caaagtggag tttgccacgt aaaatggtgg
+      121 atgagtgatg ctcgagacca attgcgtgtg catgactttg gcatattgga ctacttgacc
+      181 ctatgcgtct ttggtgaaaa ttgaaggcgt tcttagcg
+//
+LOCUS       KX270851                 218 bp    DNA     linear   PLN 15-NOV-2016
+DEFINITION  Lablab purpureus voucher S-BBDou-06 internal transcribed spacer 2,
+            partial sequence.
+ACCESSION   KX270851
+VERSION     KX270851.1
+KEYWORDS    .
+SOURCE      Lablab purpureus
+  ORGANISM  Lablab purpureus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Lablab.
+REFERENCE   1  (bases 1 to 218)
+  AUTHORS   Xiao,B., Rao,J., Nie,P., Luo,H. and Liu,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAY-2016) Hunan Institute for Drug Control, No. 60
+            Bayi Road, Changsha, Hunan 410001, P.R. China
+FEATURES             Location/Qualifiers
+     source          1..218
+                     /db_xref="taxon:35936"
+                     /mol_type="genomic DNA"
+                     /organism="Lablab purpureus"
+                     /specimen_voucher="S-BBDou-06"
+     misc_RNA        <1..>218
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 cacatcgtca cccccccacg tacatgtaca ttggggagtg aaagttgact tcccacgagc
+       61 ttgttctcgt ggttggttga aaattgagtt caaagtggag tttgccacgt aaaatggtgg
+      121 atgagtgatg ctcgagacca attgcgtgtg catgactttg gcatattgga ctacttgacc
+      181 ctatgcgtct ttggtgaaaa ttgaaggcgt tcttagcg
+//
+LOCUS       KX270850                 218 bp    DNA     linear   PLN 15-NOV-2016
+DEFINITION  Lablab purpureus voucher S-BBDou-05 internal transcribed spacer 2,
+            partial sequence.
+ACCESSION   KX270850
+VERSION     KX270850.1
+KEYWORDS    .
+SOURCE      Lablab purpureus
+  ORGANISM  Lablab purpureus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Lablab.
+REFERENCE   1  (bases 1 to 218)
+  AUTHORS   Xiao,B., Rao,J., Nie,P., Luo,H. and Liu,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAY-2016) Hunan Institute for Drug Control, No. 60
+            Bayi Road, Changsha, Hunan 410001, P.R. China
+FEATURES             Location/Qualifiers
+     source          1..218
+                     /db_xref="taxon:35936"
+                     /mol_type="genomic DNA"
+                     /organism="Lablab purpureus"
+                     /specimen_voucher="S-BBDou-05"
+     misc_RNA        <1..>218
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 cacatcgtca cccccccacg tacatgtaca ttggggagtg aaagttgact tcccacgagc
+       61 ttgttctcgt ggttggttga aaattaagtt caaagtggag tttgccacgt aaaatggtgg
+      121 atgagtgatg ctcgagacca attgcgtgtg catgactttg gcatattgga ctaattgacc
+      181 ctatgcgtct ttggtgaaaa ttgaaggcgt tcttagcg
+//
+LOCUS       KX270849                 218 bp    DNA     linear   PLN 15-NOV-2016
+DEFINITION  Lablab purpureus voucher S-BBDou-04 internal transcribed spacer 2,
+            partial sequence.
+ACCESSION   KX270849
+VERSION     KX270849.1
+KEYWORDS    .
+SOURCE      Lablab purpureus
+  ORGANISM  Lablab purpureus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Lablab.
+REFERENCE   1  (bases 1 to 218)
+  AUTHORS   Xiao,B., Rao,J., Nie,P., Luo,H. and Liu,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAY-2016) Hunan Institute for Drug Control, No. 60
+            Bayi Road, Changsha, Hunan 410001, P.R. China
+FEATURES             Location/Qualifiers
+     source          1..218
+                     /db_xref="taxon:35936"
+                     /mol_type="genomic DNA"
+                     /organism="Lablab purpureus"
+                     /specimen_voucher="S-BBDou-04"
+     misc_RNA        <1..>218
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 cacatcgtca cccccccacg tacatgtaca ttggggagtg aaagttgact tcccacgagc
+       61 ttgttctcgt ggttggttga aaattgagtt caaagtggag tttgccacgt aaaatggtgg
+      121 atgagtgatg ctcgagacca attgcgtgtg catgactttg gcatattgga ctanttgacc
+      181 ctatgcgtct ttggtgaaaa ttgaaggcgt tcttagcg
+//
+LOCUS       KX270848                 218 bp    DNA     linear   PLN 15-NOV-2016
+DEFINITION  Lablab purpureus voucher S-BBDou-03 internal transcribed spacer 2,
+            partial sequence.
+ACCESSION   KX270848
+VERSION     KX270848.1
+KEYWORDS    .
+SOURCE      Lablab purpureus
+  ORGANISM  Lablab purpureus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Lablab.
+REFERENCE   1  (bases 1 to 218)
+  AUTHORS   Xiao,B., Rao,J., Nie,P., Luo,H. and Liu,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAY-2016) Hunan Institute for Drug Control, No. 60
+            Bayi Road, Changsha, Hunan 410001, P.R. China
+FEATURES             Location/Qualifiers
+     source          1..218
+                     /db_xref="taxon:35936"
+                     /mol_type="genomic DNA"
+                     /organism="Lablab purpureus"
+                     /specimen_voucher="S-BBDou-03"
+     misc_RNA        <1..>218
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 cacatcgtca cccccccacg tacatgtaca ttggggagtg aaagttgact tcccacgagc
+       61 ttgttctcgt ggttggttga aaattaagtt caaagtggag tttgccacgt aaaatggtgg
+      121 atgagtgatg ctcgagacca attgcgtgtg catgactttg gcatattgga ctagttgacc
+      181 ctatgcgtct ttggtgaaaa ttgaaggcgt tcttagcg
+//
+LOCUS       KX270847                 218 bp    DNA     linear   PLN 15-NOV-2016
+DEFINITION  Lablab purpureus voucher S-BBDou-02 internal transcribed spacer 2,
+            partial sequence.
+ACCESSION   KX270847
+VERSION     KX270847.1
+KEYWORDS    .
+SOURCE      Lablab purpureus
+  ORGANISM  Lablab purpureus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Lablab.
+REFERENCE   1  (bases 1 to 218)
+  AUTHORS   Xiao,B., Rao,J., Nie,P., Luo,H. and Liu,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAY-2016) Hunan Institute for Drug Control, No. 60
+            Bayi Road, Changsha, Hunan 410001, P.R. China
+FEATURES             Location/Qualifiers
+     source          1..218
+                     /db_xref="taxon:35936"
+                     /mol_type="genomic DNA"
+                     /organism="Lablab purpureus"
+                     /specimen_voucher="S-BBDou-02"
+     misc_RNA        <1..>218
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 cacatcgtca cccccccacg tacatgtaca ttggggagtg aaagttgact tcccacgagc
+       61 ttgttctcgt ggttggttga aaattaagtt caaagtggag tttgccacgt aaaatggtgg
+      121 atgagtgatg ctcgagacca attgcgtgtg catgactttg gcatattgga ctagttgacc
+      181 ctatgcgtct ttggtgaaaa ttgaaggcgt tcttagcg
+//
+LOCUS       KT898282                 218 bp    DNA     linear   PLN 13-APR-2016
+DEFINITION  Lablab purpureus voucher YC0242MT03 internal transcribed spacer 2,
+            partial sequence.
+ACCESSION   KT898282
+VERSION     KT898282.1
+KEYWORDS    .
+SOURCE      Lablab purpureus
+  ORGANISM  Lablab purpureus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Lablab.
+REFERENCE   1  (bases 1 to 218)
+  AUTHORS   Chen,S., Song,J., Yao,H. and Sun,W.
+  TITLE     Medicinal plants in China
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 218)
+  AUTHORS   Chen,S., Song,C., Yao,H. and Sun,W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (11-OCT-2015) Institute of Chinese Materia Medica, China
+            Academy of Chinese Medical Sciences, No. 16, Nanxiao Road,
+            Dongzhimen, Dongcheng District, Beijing 100700, China
+FEATURES             Location/Qualifiers
+     source          1..218
+                     /db_xref="taxon:35936"
+                     /mol_type="genomic DNA"
+                     /organism="Lablab purpureus"
+                     /specimen_voucher="YC0242MT03"
+     misc_RNA        <1..>218
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 cacatcgtca cccccccacg tacatgtaca ttggggagtg aaagttgact tcccacgagc
+       61 ttgttctcgt ggttggttga aaattaagtt caaagtggag tttgccacgt aaaatggtgg
+      121 atgagtgatg ctcgagacca attgcgtgtg catgactttg gcatattgga ctagttgacc
+      181 ctatgcgtct ttggtgaaaa ttgaaggcgt tcttagcg
+//
+LOCUS       JF421493                 443 bp    DNA     linear   PLN 29-FEB-2012
+DEFINITION  Lablab purpureus voucher PS0268MT01 5.8S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   JF421493
+VERSION     JF421493.1
+KEYWORDS    .
+SOURCE      Lablab purpureus
+  ORGANISM  Lablab purpureus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Lablab.
+REFERENCE   1  (bases 1 to 443)
+  AUTHORS   Yao,H., Liu,M.-Z., Song,J.-Y. and Chen,S.-L.
+  TITLE     DNA barcoding medicinal plants in Chinese pharmacopoeia
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 443)
+  AUTHORS   Yao,H., Liu,M.-Z., Song,J.-Y. and Chen,S.-L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (22-FEB-2011) Institute of Medicinal Plant Development,
+            Chinese Academy of Medical Sciences, No. 151 Malianwa North Road,
+            Haidian District, Beijing 100193, P.R. China
+FEATURES             Location/Qualifiers
+     source          1..443
+                     /db_xref="taxon:35936"
+                     /mol_type="genomic DNA"
+                     /organism="Lablab purpureus"
+                     /specimen_voucher="PS0268MT01"
+     rRNA            <1..83
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        84..303
+                     /product="internal transcribed spacer 2"
+     rRNA            304..>443
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 tgcagaatcc cgtgaaccat cgagtctttg aacgcaagtt gcgcccgaag ccactaggtt
+       61 gagggcacgc ctgcctgggt gtcacacatc gtcacccccc cacgtacatg tacattgggg
+      121 agtgaaagtt gacttcccac gagcttgttc tcgtggttgg ttgaaaatta agttcaaagt
+      181 ggagtttgcc acgtaaaatg gtggatgagt gatgctcgag accaattgcg tgtgcatgac
+      241 tttggcatat tggactagtt gaccctatgc gtctttggtg aaaattgaag gcgttcttag
+      301 cgagacctca ggtcaggcgg ggctacccgc tgagtttaag catatcaata agcggaggaa
+      361 aagaaactaa caaggattcc cctagtaacg gcgagcgaac cgggaagagc ccaccatgag
+      421 aatcggtcgc cttcggcgtt cga
+//
+LOCUS       AY583516                 635 bp    DNA     linear   PLN 04-JAN-2005
+DEFINITION  Lablab purpureus small subunit ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal
+            transcribed spacer 2, complete sequence; and large subunit ribosomal
+            RNA gene, partial sequence.
+ACCESSION   AY583516
+VERSION     AY583516.1
+KEYWORDS    .
+SOURCE      Lablab purpureus
+  ORGANISM  Lablab purpureus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Lablab.
+REFERENCE   1  (bases 1 to 635)
+  AUTHORS   Thulin,M., Lavin,M., Pasquet,R. and Delgado-Salinas,A.
+  TITLE     Phylogeny and Biogeography of Wajira (Leguminosae): A Monophyletic
+            Segregate of Vigna Centered in the Horn of Africa Region
+  JOURNAL   Syst. Bot. 29 (4), 903-920 (2004)
+REFERENCE   2  (bases 1 to 635)
+  AUTHORS   Thulin,M., Lavin,M., Pasquet,R. and Delgado-Salinas,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (27-MAR-2004) Plant Sciences, Montana State University,
+            119 Ag Biosciences Bldg, Bozeman, MT 59717, USA
+FEATURES             Location/Qualifiers
+     source          1..635
+                     /country="USA: New York, Ithaca"
+                     /db_xref="taxon:35936"
+                     /mol_type="genomic DNA"
+                     /note="cultivated"
+                     /organism="Lablab purpureus"
+                     /specimen_voucher="Lavin s.n. (MONT)"
+     rRNA            <1..6
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        7..228
+                     /product="internal transcribed spacer 1"
+     rRNA            229..396
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        397..610
+                     /product="internal transcribed spacer 2"
+     rRNA            611..>635
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 tcattgtcga tgcctcaaac caatttgacc agtgaatttg tctatatcta aagcacaagg
+       61 actaggctag tccatccttg cgtgtgttga gagggagggg ggcatgcctt gtgcaactga
+      121 cctactctct cttgacaaac attaaccccg acgcttcgtg cgtcaaggaa tttaaagttt
+      181 agtgcaattc ttagggacga tgtctcatga gtgttgtcac gacacgttat ttaaaatgac
+      241 tctcggcaac ggatatctcg gctcttgcat cgatgaagaa cgtagcgaaa tgcgatactt
+      301 ggtgtgaatt gcagaatccc gtgaaccatc gagtctttga acgcaagttg cgcccgaagc
+      361 cactaggttg agggcacgcc tgcctgggtg tcacacatcg tcaccccccc acgtacatgt
+      421 acattgggga gtgaaagttg acttcccacg agcttgttct cgtggttggt tgaaaattaa
+      481 gttcaaagtg gagtttgcca cgtaaaatgg tggatgagtg atgctcgaga ccaattgcgt
+      541 gtgcatgact ttggcatatt ggactagttg accctatgcg tctttggtga aaattgaagg
+      601 cgttcttagc gagacctcag gtcaggcggg gctac
+//
+LOCUS       GU217604                 687 bp    DNA     linear   PLN 30-NOV-2010
+DEFINITION  Lablab purpureus 18S ribosomal RNA gene, partial sequence; internal
+            transcribed spacer 1, 5.8S ribosomal RNA gene, and internal
+            transcribed spacer 2, complete sequence; and 28S ribosomal RNA gene,
+            partial sequence.
+ACCESSION   GU217604
+VERSION     GU217604.1
+KEYWORDS    .
+SOURCE      Lablab purpureus
+  ORGANISM  Lablab purpureus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Lablab.
+REFERENCE   1  (bases 1 to 687)
+  AUTHORS   Chen,S.L. and Gao,T.
+  TITLE     Molecular Identification of medicinal plants in a large family,
+            FABACEAE by a potential DNA barcode ITS2
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 687)
+  AUTHORS   Chen,S.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-NOV-2009) Institute of Medicinal Plant Development,
+            Chinese Academy of Medical Sciences, Peking Union Medical College,
+            No. 151 Malianwa North Road, Haidian District, Beijing 100193, China
+FEATURES             Location/Qualifiers
+     source          1..687
+                     /db_xref="taxon:35936"
+                     /mol_type="genomic DNA"
+                     /organism="Lablab purpureus"
+     misc_RNA        <1..>687
+                     /note="contains 18S ribosomal RNA, internal transcribed
+                     spacer 1, 5.8S ribosomal RNA, internal transcribed spacer
+                     2, and 28S ribosomal RNA"
+ORIGIN
+        1 aagtcgtaac aaggtttccg taggtgaacc tgcggaagga tcattgtcga tgccttaaac
+       61 caatttgacc agtgaatttg tctatatcta aagcacaagg actaggctag tccatccttg
+      121 tgtgttgaga gggagggggg tcatgccttg tgcaactgac ctactctctc ttgacaaaca
+      181 ttaaccccga cgcttcgtgc gtcaaggaat ttaaagttta gtgcaattct tagggacgat
+      241 gtctcatgag tgttgtcacg acacgttatt taaaatgact ctcggcaacg gatatctcgg
+      301 ctcttgcatc gatgaagaac gtagcgaaat gcgatacttg gtgtgaattg cagaatcccg
+      361 tgaaccatcg agtctttgaa cgcaagttgc gcccgaagcc actaggttga gggcacgcct
+      421 gcctgggtgt cacacatcgt caccccccca cgtacatgta cattggggag tgaaagttga
+      481 cttcccacga gcttgttctc gtggttggtt gaaaattaag ttcaaagtgg agtttgccac
+      541 gtaaaatggt ggatgagtga tgctcgagac caattgcgtg tgcatgactt tggcatattg
+      601 gactagttga ccctatgcgt ctttggtgaa aattgaaggc gttcttagcg agacctcagg
+      661 tcaggcgggg ctacccgctg agtttaa
+//
+LOCUS       FJ599758                 707 bp    DNA     linear   PLN 02-FEB-2009
+DEFINITION  Lablab purpureus voucher cdK113 18S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   FJ599758
+VERSION     FJ599758.1
+KEYWORDS    .
+SOURCE      Lablab purpureus
+  ORGANISM  Lablab purpureus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Lablab.
+REFERENCE   1  (bases 1 to 707)
+  AUTHORS   Daniel,C. and Knoess,W.
+  TITLE     Identification of medicinal plants
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 707)
+  AUTHORS   Daniel,C. and Knoess,W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-DEC-2008) Institute for Pharmaceutical Biology,
+            University of Bonn, Nussallee 6, Bonn 53115, Germany
+FEATURES             Location/Qualifiers
+     source          1..707
+                     /db_xref="taxon:35936"
+                     /mol_type="genomic DNA"
+                     /organism="Lablab purpureus"
+                     /specimen_voucher="cdK113"
+                     /tissue_type="semen album"
+     rRNA            <1..46
+                     /product="18S ribosomal RNA"
+     misc_RNA        47..270
+                     /product="internal transcribed spacer 1"
+     rRNA            271..428
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        429..647
+                     /product="internal transcribed spacer 2"
+     rRNA            648..>707
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 cgtaacaagg tttccgtagg tgaacctgcg gaaggatcat tgtcgatgcc ttaaaccaat
+       61 ttgaccagtg aatttgtcta tatctaaagc acaaggacta ggctagtcca tccttgtgtg
+      121 ttgagaggga ggggggtcat gccttgtgca actgacctac tctctcttga caaacattaa
+      181 ccccgacgct tcgtgcgtca aggaatttaa agtttagtgc aattcttagg gacgatgtct
+      241 catgagtgtt gtcacgacac gttatttaaa atgactctcg gcaacggata tctcggctct
+      301 tgcatcgatg aagaacgtag cgaaatgcga tacttggtgt gaattgcaga atcccgtgaa
+      361 ccatcgagtc tttgaacgca agttgcgccc gaagccacta ggttgagggc acgcctgcct
+      421 gggtgtcaca catcgtcacc cccccacgta catgtacatt ggggagtgaa agttgacttc
+      481 ccacgagctt gttctcgtgg ttggttgaaa attaagttca aagtggagtt tgccacgtaa
+      541 aatggtggat gagtgatgct cgagaccaat tgcgtgtgca tgactttggc atattggact
+      601 agttgaccct atgcgtcttt ggtgaaaatt gaaggcgttc ttagcgagac ctcaggtcag
+      661 gcggggctac ccgctgagtt taagcatatc aataagcgga ggaaaag
+//

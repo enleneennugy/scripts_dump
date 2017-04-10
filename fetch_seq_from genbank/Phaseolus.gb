@@ -1,0 +1,1166 @@
+LOCUS       KM210322                 480 bp    DNA     linear   PLN 31-DEC-2016
+DEFINITION  Phaseolus vulgaris voucher 20130328085 5.8S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 2, complete sequence;
+            and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   KM210322
+VERSION     KM210322.1
+KEYWORDS    .
+SOURCE      Phaseolus vulgaris
+  ORGANISM  Phaseolus vulgaris
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Phaseolus.
+REFERENCE   1  (bases 1 to 480)
+  AUTHORS   Li,X.J. and Fan,C.Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (17-JUL-2014) Medicinal Materials Department, XinJiang
+            Institute of Chinese Traditional Medical and Ethical Materia Medica,
+            9 Xinming Road, Urumqi, Xinjiang 830002, China
+FEATURES             Location/Qualifiers
+     source          1..480
+                     /db_xref="taxon:3885"
+                     /mol_type="genomic DNA"
+                     /organism="Phaseolus vulgaris"
+                     /specimen_voucher="20130328085"
+     rRNA            <1..95
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        96..330
+                     /product="internal transcribed spacer 2"
+     rRNA            331..>480
+                     /product="28S ribosomal RNA"
+ORIGIN
+        1 tttgtgtgaa ttgcagaatc ccgtgaacca tcgagtcttt gaacgcaagt tgcgcccaaa
+       61 gccattaggc tgagggcacg cctgcctggg tgtcacacat cgtcacccct tcctccacac
+      121 ttaaccagtt aaatgtgagg cagtgggtga aagttgacct cccgcgagcc agttcctcgt
+      181 ggttggttga aaagcaagtt cggggcggag tcccccacga taacggtgga tgagcccacg
+      241 ctcgagacca atcgtgcctg tgggactccg acgtaacgga cttatcgacc ccacacgcgc
+      301 cctctgtgca aaccgagtgt gccatgtacg agacctcagg tcaggcgggg ctacccgctg
+      361 agtttaagca tatcaataag cggaggaaaa gaaactaaca aggattcccc tagtaacggc
+      421 gagcgaaccg ggaaaagccc accatgagaa tcggtcgcct tcggcgttcg aattgtagca
+//
+LOCUS       LC082303                 554 bp    DNA     linear   PLN 06-JAN-2016
+DEFINITION  Phaseolus vulgaris genes for ITS1, 5.8S rRNA, ITS2, partial and
+            complete sequence, strain: JP219310.
+ACCESSION   LC082303
+VERSION     LC082303.1
+KEYWORDS    .
+SOURCE      Phaseolus vulgaris
+  ORGANISM  Phaseolus vulgaris
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Phaseolus.
+REFERENCE   1
+  AUTHORS   Takahashi,Y., Somta,P., Muto,C., Iseki,K., Naito,K., Pandiyan,M.,
+            Natesan,S. and Tomooka,N.
+  TITLE     Novel Genetic Resources in the Genus Vigna Unveiled from Gene Bank
+            Accessions
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 554)
+  AUTHORS   Muto,C., Takahashi,Y. and Tomooka,N.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-SEP-2015) Contact:Chiaki Muto National Institute of
+            Agrobiological Sciences, Genetic Resources Center; 2-1-2 Kannondai,
+            Tsukuba, Ibaraki 305-8602, Japan
+FEATURES             Location/Qualifiers
+     source          1..554
+                     /country="Japan"
+                     /db_xref="taxon:3885"
+                     /mol_type="genomic DNA"
+                     /organism="Phaseolus vulgaris"
+                     /specimen_voucher="NIAS:JP219310"
+                     /strain="JP219310"
+     misc_RNA        <1..>554
+                     /note="contains internal transcribed spacer 1, 5.8S,
+                     ribosomal RNA, internal transcribed spacer 2"
+ORIGIN
+        1 agcgggggyg ggcgtcttga tgccttgtgc atccggtcgc aaacccgtgt ctcccgacaa
+       61 aaactaaccc cggcgtttta cgcgccaagg aaaacgaagc tgttaggtga ggcaaacggg
+      121 ggacgtgtcc cgcgggcgcc ttcacgacga catgttatgt aaaatgactc tcggcaacgg
+      181 atatctcggc tcttgcatcg atgaagaacg tagcgaaatg cgatacttgg tgtgaattgc
+      241 agaatcccgt gaaccatcga gtctttgaac gcaagttgcg cccaaagcca ttaggctgag
+      301 ggcacgcctg cctgggtgtc acacatcgtc accccttcct ccacacttaa ccagttaaat
+      361 gtgaggcagt gggtgaaagt tgacctcccg cgagccagtt cctcgtggtt ggttgaaaag
+      421 caagttcggg gcggagtccc ccrcgataac ggtggatgag cccacgctcg agaccaatcg
+      481 tgcctgtggg actccgacgt aacggactta tcgaccccac acgcgccctc tgtgcaaacc
+      541 gagtgtgcca tcta
+//
+LOCUS       KP096371                 391 bp    DNA     linear   PLN 22-APR-2015
+DEFINITION  Phaseolus lunatus 5.8S ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 2, complete sequence; and 28S ribosomal
+            RNA gene, partial sequence.
+ACCESSION   KP096371
+VERSION     KP096371.1
+KEYWORDS    .
+SOURCE      Phaseolus lunatus (lima bean)
+  ORGANISM  Phaseolus lunatus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Phaseolus.
+REFERENCE   1  (bases 1 to 391)
+  AUTHORS   Lopez-Gonzalez,R.C., Gomez-Cornelio,S., De la Rosa-Garcia,S.C.,
+            Garrido,E., Oropeza-Mariano,O., Heil,M. and Partida-Martinez,L.P.
+  TITLE     Diversity of endophytic fungi increases along leaf ontogeny in lima
+            bean (Phaseolus lunatus L.) and may have an influence in plant
+            defense
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 391)
+  AUTHORS   Lopez-Gonzalez,R.C., Gomez-Cornelio,S., De la Rosa-Garcia,S.C.,
+            Garrido,E., Oropeza-Mariano,O., Heil,M. and Partida-Martinez,L.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-NOV-2014) Departamento de Ingenieria Genetica, Centro
+            de Investigacion y de Estudios Avanzados, Km. 9.6 Libramiento Norte
+            Carr. Irapuato-Leon, Irapuato, Guanajuato 36821, Mexico
+FEATURES             Location/Qualifiers
+     source          1..391
+                     /country="Mexico"
+                     /db_xref="taxon:3884"
+                     /mol_type="genomic DNA"
+                     /organism="Phaseolus lunatus"
+     misc_RNA        <1..>391
+                     /note="contains 5.8S ribosomal RNA, internal transcribed
+                     spacer 2, and 28S ribosomal RNA"
+ORIGIN
+        1 tgcgatactt ggtgtgaatt gcagaatccc gtgaaccatc gagtctttga acgcaagttg
+       61 cgcccaaagc cattaggctg agggcacgcc tgcctgggtg tcacacatcg tcaccccccc
+      121 gcccgccaca cttaactaat taaatgtgtg cagcaggggg tggtggaagt tgacctcccg
+      181 cgagacgtcc tcgtggttgg ttgaaaagca agttcgggac ggagtctccc gcgatatcgg
+      241 tggatgagcc cacgctcgag accaatcgtg gctttgggac tccggacgta atggacttac
+      301 tgaccccaca cgcgccctct gtgcgccatc tacgagacct caggtcaggc ggggctaccc
+      361 gctgagttta agcatatcaa taagcggagg a
+//
+LOCUS       KF943753                 732 bp    DNA     linear   PLN 07-OCT-2014
+DEFINITION  Phaseolus microcarpus voucher Luis Servin:Pmic-02 small subunit
+            ribosomal RNA gene, partial sequence; internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and large subunit ribosomal RNA gene, partial sequence.
+ACCESSION   KF943753
+VERSION     KF943753.1
+KEYWORDS    .
+SOURCE      Phaseolus microcarpus
+  ORGANISM  Phaseolus microcarpus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Phaseolus.
+REFERENCE   1  (bases 1 to 732)
+  AUTHORS   Servin-Garciduenas,L.E., Zayas-Del Moral,A., Ormeno-Orrillo,E.,
+            Rogel,M.A., Delgado-Salinas,A., Sanchez,F. and Martinez-Romero,E.
+  TITLE     Symbiont shift towards Rhizobium nodulation in a group of
+            phylogenetically related Phaseolus species
+  JOURNAL   Mol. Phylogenet. Evol. 79, 1-11 (2014)
+   PUBMED   24952318
+REFERENCE   2  (bases 1 to 732)
+  AUTHORS   Servin-Garciduenas,L.E. and Martinez-Romero,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-DEC-2013) Ecological Genomics, Center for Genomic
+            Sciences - UNAM, Av. Universidad s/n Col. Chamilpa, Cuernavaca,
+            Morelos 62210, Mexico
+FEATURES             Location/Qualifiers
+     source          1..732
+                     /country="Mexico: Durango"
+                     /db_xref="taxon:87068"
+                     /mol_type="genomic DNA"
+                     /note="wild"
+                     /organism="Phaseolus microcarpus"
+                     /specimen_voucher="personal:Luis Servin:Pmic-02"
+                     /tissue_type="leaf"
+     rRNA            <1..32
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        33..242
+                     /product="internal transcribed spacer 1"
+     rRNA            243..410
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        411..652
+                     /product="internal transcribed spacer 2"
+     rRNA            653..>732
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 gtttccgtag gtgacctgcg gaaggatcat tgtcgatgcc tcaacaagtt cgacccgcga
+       61 atctgtactc atccacaaac gcacaaaggg tcctcctgcg tgcgtcgtcg tgagtacggg
+      121 cgctcgcgcc tgtgtctccc gacaaaacac taaccccggc gcttcacgcg ccaaggaaca
+      181 cgaagctgtt aggtgaggca accgggggac gtgtcccgcg ggtgtcgtca cgacaacatg
+      241 tcatgtaaaa tgactctcgg caacggatat ctcggctctt gcatcgatga agaacgtagc
+      301 gaaatgcgat acttggtgtg aattgcagaa tcccgtgaac catcgagtct ttgaacgcaa
+      361 gttgcgccca aagccattag gctgagggca cgcctgcctg ggtgtcacac atcgtcaccc
+      421 cccgcccgcc acacttatcc aaataagggt gcggcagggg gtgaaagatg acctcccacg
+      481 agcgagtccc tcgtggttgg ttgaaaagca agttcggggc ggagtccccc acgataacgg
+      541 tggatgagcc aacgctcgag accaagacca atcgtgcctg cgcgactccg acgtaacgga
+      601 cttaccgacc ccacgcgcgc cactcagtga aaacttagtg cgtgccatct acgagacctc
+      661 aggtcaggcg gggctacccg ctgagtttaa gcatatcaat aagcggagga aaagaaacta
+      721 acaaggattc ca
+//
+LOCUS       KF943752                 733 bp    DNA     linear   PLN 07-OCT-2014
+DEFINITION  Phaseolus microcarpus voucher Luis Servin:Pmic-01 small subunit
+            ribosomal RNA gene, partial sequence; internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and large subunit ribosomal RNA gene, partial sequence.
+ACCESSION   KF943752
+VERSION     KF943752.1
+KEYWORDS    .
+SOURCE      Phaseolus microcarpus
+  ORGANISM  Phaseolus microcarpus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Phaseolus.
+REFERENCE   1  (bases 1 to 733)
+  AUTHORS   Servin-Garciduenas,L.E., Zayas-Del Moral,A., Ormeno-Orrillo,E.,
+            Rogel,M.A., Delgado-Salinas,A., Sanchez,F. and Martinez-Romero,E.
+  TITLE     Symbiont shift towards Rhizobium nodulation in a group of
+            phylogenetically related Phaseolus species
+  JOURNAL   Mol. Phylogenet. Evol. 79, 1-11 (2014)
+   PUBMED   24952318
+REFERENCE   2  (bases 1 to 733)
+  AUTHORS   Servin-Garciduenas,L.E. and Martinez-Romero,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-DEC-2013) Ecological Genomics, Center for Genomic
+            Sciences - UNAM, Av. Universidad s/n Col. Chamilpa, Cuernavaca,
+            Morelos 62210, Mexico
+FEATURES             Location/Qualifiers
+     source          1..733
+                     /country="Mexico: Morelos"
+                     /db_xref="taxon:87068"
+                     /mol_type="genomic DNA"
+                     /note="wild"
+                     /organism="Phaseolus microcarpus"
+                     /specimen_voucher="personal:Luis Servin:Pmic-01"
+                     /tissue_type="nodule"
+     rRNA            <1..32
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        33..242
+                     /product="internal transcribed spacer 1"
+     rRNA            243..410
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        411..653
+                     /product="internal transcribed spacer 2"
+     rRNA            654..>733
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 gtttccgtag gtgacctgcg gaaggatcat tgtcgatgcc tcaacaagtt cgacccgcga
+       61 atctgtactc atccacaaac gcacaaaggg tcctcctgcg tgcgtcgtcg tgagtacggg
+      121 cgctcgcgcc tgtgtctccc gacaaaacac taaccccggc gcttcacgcg ccaaggaaca
+      181 cgaagctgtt aggtgaggca accgggggac gtgtcccgtg ggtgtcgtca cgacaacatg
+      241 tcatgtaaaa tgactctcgg caacggatat ctcggctctt gcatcgatga agaacgtagc
+      301 gaaatgcgat acttggtgtg aattgcagaa tcccgtgaac catcgagtct ttgaacgcaa
+      361 gttgcgccca aagccattag gctgagggca cgcctgcctg ggtgtcacac atcgtcaccc
+      421 ccccgcccgc cacacttagc caaataaggg tgcggcaggg ggtgaaagat gacctcccgc
+      481 gagcgaatcc ctcgtggttg gttgaaaagc aagttcgggg cggagtcccc cacgataacg
+      541 gtggatgagc caacgctcga gaccaagacc aatcgtgcct gcgcgactcc gacgtaacgg
+      601 acttaccgac cccacgcgcg ccactcagtg aaaacttagt gcgtgccatc tacgagacct
+      661 caggtcaggc ggggctaccc gctgagttta agcatatcaa taagcggagg aaaagaaact
+      721 aacaaggatt cca
+//
+LOCUS       KF943751                 741 bp    DNA     linear   PLN 07-OCT-2014
+DEFINITION  Phaseolus hintonii voucher Luis Servin:Phin-01 small subunit
+            ribosomal RNA gene, partial sequence; internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and large subunit ribosomal RNA gene, partial sequence.
+ACCESSION   KF943751
+VERSION     KF943751.1
+KEYWORDS    .
+SOURCE      Phaseolus hintonii
+  ORGANISM  Phaseolus hintonii
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Phaseolus.
+REFERENCE   1  (bases 1 to 741)
+  AUTHORS   Servin-Garciduenas,L.E., Zayas-Del Moral,A., Ormeno-Orrillo,E.,
+            Rogel,M.A., Delgado-Salinas,A., Sanchez,F. and Martinez-Romero,E.
+  TITLE     Symbiont shift towards Rhizobium nodulation in a group of
+            phylogenetically related Phaseolus species
+  JOURNAL   Mol. Phylogenet. Evol. 79, 1-11 (2014)
+   PUBMED   24952318
+REFERENCE   2  (bases 1 to 741)
+  AUTHORS   Servin-Garciduenas,L.E. and Martinez-Romero,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-DEC-2013) Ecological Genomics, Center for Genomic
+            Sciences - UNAM, Av. Universidad s/n Col. Chamilpa, Cuernavaca,
+            Morelos 62210, Mexico
+FEATURES             Location/Qualifiers
+     source          1..741
+                     /country="Mexico: Oaxaca"
+                     /db_xref="taxon:90559"
+                     /mol_type="genomic DNA"
+                     /note="wild"
+                     /organism="Phaseolus hintonii"
+                     /specimen_voucher="personal:Luis Servin:Phin-01"
+                     /tissue_type="leaf"
+     rRNA            <1..43
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        44..282
+                     /product="internal transcribed spacer 1"
+     rRNA            283..450
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        451..685
+                     /product="internal transcribed spacer 2"
+     rRNA            686..>741
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 tcgtaacaag gtttccgtag gtgaacctgc ggaaggatca ttgtcgatac ctcaaccagt
+       61 tcgacccgtg aatctgtaat catccacaaa cgcacaacgg gtcctccccc tgtgcgtcgt
+      121 cgagagggcg ggcgggcggc ccgatgccgt gtgcattcgg ccgcaagccc gtgtctcgcg
+      181 acaaaacact aaccccggcg cttcaacgtg ccaaggaata cgaagctgtt aggtgaggca
+      241 tccaagggac gtgtcccgtg ggtgtcgtca cgacaacatg ttatgtaaaa tgactctcgg
+      301 caacggatat ctcggctctt gcatcgatga agaacgtagc gaaatgcgat acttggtgtg
+      361 aattgcagaa tcccgtgaac catcgagtct ttgaacgcaa gttgcgccca aagccattag
+      421 gctgagggca cgcctgcctg ggtgtcacac atcgtcaccc ccctgcccgc cacacttaac
+      481 taaaataaat gtgcagcagt gggtgaaagt tggcctcccg cgagcgagtt cctcgtggtt
+      541 ggttgaaaag caagttcggg gcggagtccc ccacgataac ggtggatgag cctacgctcg
+      601 agaccaatcg tgcttgtgcg actccgacat aatggactta ctgaccccac gtgcgccctc
+      661 tgtgaaaact tagtgcgcca tctacgagac ctcaggtcag gcggggctac ccgctgagtt
+      721 taagcatatc aataagcgga g
+//
+LOCUS       KF943750                 691 bp    DNA     linear   PLN 07-OCT-2014
+DEFINITION  Phaseolus zimapanensis voucher Luis Servin:Pzim-02 small subunit
+            ribosomal RNA gene, partial sequence; internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and large subunit ribosomal RNA gene, partial sequence.
+ACCESSION   KF943750
+VERSION     KF943750.1
+KEYWORDS    .
+SOURCE      Phaseolus zimapanensis
+  ORGANISM  Phaseolus zimapanensis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Phaseolus.
+REFERENCE   1  (bases 1 to 691)
+  AUTHORS   Servin-Garciduenas,L.E., Zayas-Del Moral,A., Ormeno-Orrillo,E.,
+            Rogel,M.A., Delgado-Salinas,A., Sanchez,F. and Martinez-Romero,E.
+  TITLE     Symbiont shift towards Rhizobium nodulation in a group of
+            phylogenetically related Phaseolus species
+  JOURNAL   Mol. Phylogenet. Evol. 79, 1-11 (2014)
+   PUBMED   24952318
+REFERENCE   2  (bases 1 to 691)
+  AUTHORS   Servin-Garciduenas,L.E. and Martinez-Romero,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-DEC-2013) Ecological Genomics, Center for Genomic
+            Sciences - UNAM, Av. Universidad s/n Col. Chamilpa, Cuernavaca,
+            Morelos 62210, Mexico
+FEATURES             Location/Qualifiers
+     source          1..691
+                     /country="Mexico: Hidalgo"
+                     /db_xref="taxon:90591"
+                     /mol_type="genomic DNA"
+                     /note="wild"
+                     /organism="Phaseolus zimapanensis"
+                     /specimen_voucher="personal:Luis Servin:Pzim-02"
+                     /tissue_type="leaf"
+     rRNA            <1..16
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        17..254
+                     /product="internal transcribed spacer 1"
+     rRNA            255..422
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        423..656
+                     /product="internal transcribed spacer 2"
+     rRNA            657..>691
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 tgcggaagga tcattgtcga tgcctcaacc agttcgaccc gcgaatctgt aatcatccac
+       61 aaacgcacaa cgggtcctcc cctgtgcgtc gtcgagaggg cgggcgggcg gcccgatgcc
+      121 gtgcgcattc ggccgcaagc ccgtgtctcc cgacaaaaaa ctaaccccgg cgcttcaacg
+      181 tgccaaggaa tacgaagctg ttaggtgagg catccaaggg acgtgtcccg tgggtgtcgt
+      241 cacgacaaca tgttatgtaa aatgactctc ggcaacggat atctcggctc ttgcatcgat
+      301 gaagaacgta gcgaaatgcg atacttggtg tgaattgcag aatcccgtga accatcgagt
+      361 ctttgaacgc aagttgcgcc caaagccatt aggctgaggg cacgcctgcc tgggtgtcac
+      421 acatcgtcac cccctgcccg ccacacttaa ctaaaataaa tgtgcagcag tgggtgaaag
+      481 ttgacctccc gcgagcgagt tcctcgtggt tggttgaaaa gcaagttcgg ggcggagtcc
+      541 cccacgataa cggtggatga gcctacgctc gagaccaatc gtgcctgtgc gactccgaca
+      601 taacggactt actgacccca cgtgcgccct ctgtgaaaac ttagtgcgcc atctacgaga
+      661 cctcaggtca ggcggggcta cccgctgagt t
+//
+LOCUS       KF943749                 691 bp    DNA     linear   PLN 07-OCT-2014
+DEFINITION  Phaseolus zimapanensis voucher Luis Servin:Pzim-01 small subunit
+            ribosomal RNA gene, partial sequence; internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and large subunit ribosomal RNA gene, partial sequence.
+ACCESSION   KF943749
+VERSION     KF943749.1
+KEYWORDS    .
+SOURCE      Phaseolus zimapanensis
+  ORGANISM  Phaseolus zimapanensis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Phaseolus.
+REFERENCE   1  (bases 1 to 691)
+  AUTHORS   Servin-Garciduenas,L.E., Zayas-Del Moral,A., Ormeno-Orrillo,E.,
+            Rogel,M.A., Delgado-Salinas,A., Sanchez,F. and Martinez-Romero,E.
+  TITLE     Symbiont shift towards Rhizobium nodulation in a group of
+            phylogenetically related Phaseolus species
+  JOURNAL   Mol. Phylogenet. Evol. 79, 1-11 (2014)
+   PUBMED   24952318
+REFERENCE   2  (bases 1 to 691)
+  AUTHORS   Servin-Garciduenas,L.E. and Martinez-Romero,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-DEC-2013) Ecological Genomics, Center for Genomic
+            Sciences - UNAM, Av. Universidad s/n Col. Chamilpa, Cuernavaca,
+            Morelos 62210, Mexico
+FEATURES             Location/Qualifiers
+     source          1..691
+                     /country="Mexico: Hidalgo"
+                     /db_xref="taxon:90591"
+                     /mol_type="genomic DNA"
+                     /note="wild"
+                     /organism="Phaseolus zimapanensis"
+                     /specimen_voucher="personal:Luis Servin:Pzim-01"
+                     /tissue_type="leaf"
+     rRNA            <1..16
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        17..254
+                     /product="internal transcribed spacer 1"
+     rRNA            255..422
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        423..656
+                     /product="internal transcribed spacer 2"
+     rRNA            657..>691
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 tgcggaagga tcattgtcga tgcctcaacc agttcgaccc gcgaatctgt aatcatccac
+       61 aaacgcacaa cgggtcctcc cctgtgcgtc gtcgagaggg cgggcgggcg gcccgatgcc
+      121 gtgcgcattc ggccgcaagc ccgtgtctcc cgacaaaaaa ctaaccccgg cgcttcaacg
+      181 tgccaaggaa tacgaagctg ttaggtgagg catccaaggg acgtgtcccg tgggtgtcgt
+      241 cacgacaaca tgttatgtaa aatgactctc ggcaacggat atctcggctc ttgcatcgat
+      301 gaagaacgta gcgaaatgcg atacttggtg tgaattgcag aatcccgtga accatcgagt
+      361 ctttgaacgc aagttgcgcc caaagccatt aggctgaggg cacgcctgcc tgggtgtcac
+      421 acatcgtcac cccctgcccg ccacacttaa ctaaaataaa tgtgcagcag tgggtgaaag
+      481 ttgacctccc gcgagcgagt tcctcgtggt tggttgaaaa gcaagttcgg ggcggagtcc
+      541 cccacgataa cggtggatga gcctacgctc gagaccaatc gtgcctgtgc gactccgaca
+      601 taacggactt actgacccca cgtgcgccct ctgtgaaaac ttagtgcgcc atctacgaga
+      661 cctcaggtca ggcggggcta cccgctgagt t
+//
+LOCUS       KF943748                 712 bp    DNA     linear   PLN 07-OCT-2014
+DEFINITION  Phaseolus maculatus voucher Luis Servin:Pmac-04 small subunit
+            ribosomal RNA gene, partial sequence; internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and large subunit ribosomal RNA gene, partial sequence.
+ACCESSION   KF943748
+VERSION     KF943748.1
+KEYWORDS    .
+SOURCE      Phaseolus maculatus (cocolmeca bean)
+  ORGANISM  Phaseolus maculatus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Phaseolus.
+REFERENCE   1  (bases 1 to 712)
+  AUTHORS   Servin-Garciduenas,L.E., Zayas-Del Moral,A., Ormeno-Orrillo,E.,
+            Rogel,M.A., Delgado-Salinas,A., Sanchez,F. and Martinez-Romero,E.
+  TITLE     Symbiont shift towards Rhizobium nodulation in a group of
+            phylogenetically related Phaseolus species
+  JOURNAL   Mol. Phylogenet. Evol. 79, 1-11 (2014)
+   PUBMED   24952318
+REFERENCE   2  (bases 1 to 712)
+  AUTHORS   Servin-Garciduenas,L.E. and Martinez-Romero,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-DEC-2013) Ecological Genomics, Center for Genomic
+            Sciences - UNAM, Av. Universidad s/n Col. Chamilpa, Cuernavaca,
+            Morelos 62210, Mexico
+FEATURES             Location/Qualifiers
+     source          1..712
+                     /country="Mexico"
+                     /db_xref="taxon:34306"
+                     /mol_type="genomic DNA"
+                     /note="wild"
+                     /organism="Phaseolus maculatus"
+                     /specimen_voucher="personal:Luis Servin:Pmac-04"
+                     /tissue_type="leaf"
+     rRNA            <1..18
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        19..264
+                     /product="internal transcribed spacer 1"
+     rRNA            265..432
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        433..666
+                     /product="internal transcribed spacer 2"
+     rRNA            667..>712
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 cctgcggaag gatcattgtc gatgcctcaa ccaaccagtt cgacccgcga atccgtatga
+       61 aatccacaac gcgcggcccg tccgacgttg tgtgccaagt cgagagaggg cgggcaggcg
+      121 tcccgatgcc cccgtgcatc cggtcgcacg cccgcgtctc ccggcaaaac actaaccccg
+      181 gcgcttcatg cgccaaggaa tacgaagctg ttaggtgagg caaccgaggg acgtgtccca
+      241 cgggtgcctt cacgacaaca tgttatgtaa aatgactctc ggcaacggat atctcggctc
+      301 ttgcatcgat gaaaaacgta gcgaaatgcg atacttggtg tgaattgcag aatcccgtga
+      361 accatcgagt ctttgaacgc aagttgcgcc caaagccatt aggctgaggg cacgcctgcc
+      421 tgggtgtcac acatcgtcac ccccctgccc gccacactta actaaatagg tgtgcagcag
+      481 ggggtgtgca agatgacctc ccgcgagacc tcctcgtggt tggttgaaaa acaagttcgg
+      541 ggcggagtct cccacgataa cggtggatga gcccacgctc gagaccaatc gtgcttgtaa
+      601 gactccgacg tgatggactt attgacccca cgtgcgccct ctgtgaaaac cgagtgtgct
+      661 atccacgaga cctcaggtca ggcggggcta cccgctgagt ttaagcatat ca
+//
+LOCUS       KF943747                 712 bp    DNA     linear   PLN 07-OCT-2014
+DEFINITION  Phaseolus maculatus voucher Luis Servin:Pmac-03 small subunit
+            ribosomal RNA gene, partial sequence; internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and large subunit ribosomal RNA gene, partial sequence.
+ACCESSION   KF943747
+VERSION     KF943747.1
+KEYWORDS    .
+SOURCE      Phaseolus maculatus (cocolmeca bean)
+  ORGANISM  Phaseolus maculatus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Phaseolus.
+REFERENCE   1  (bases 1 to 712)
+  AUTHORS   Servin-Garciduenas,L.E., Zayas-Del Moral,A., Ormeno-Orrillo,E.,
+            Rogel,M.A., Delgado-Salinas,A., Sanchez,F. and Martinez-Romero,E.
+  TITLE     Symbiont shift towards Rhizobium nodulation in a group of
+            phylogenetically related Phaseolus species
+  JOURNAL   Mol. Phylogenet. Evol. 79, 1-11 (2014)
+   PUBMED   24952318
+REFERENCE   2  (bases 1 to 712)
+  AUTHORS   Servin-Garciduenas,L.E. and Martinez-Romero,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-DEC-2013) Ecological Genomics, Center for Genomic
+            Sciences - UNAM, Av. Universidad s/n Col. Chamilpa, Cuernavaca,
+            Morelos 62210, Mexico
+FEATURES             Location/Qualifiers
+     source          1..712
+                     /country="Mexico"
+                     /db_xref="taxon:34306"
+                     /mol_type="genomic DNA"
+                     /note="wild"
+                     /organism="Phaseolus maculatus"
+                     /specimen_voucher="personal:Luis Servin:Pmac-03"
+                     /tissue_type="leaf"
+     rRNA            <1..18
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        19..264
+                     /product="internal transcribed spacer 1"
+     rRNA            265..432
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        433..666
+                     /product="internal transcribed spacer 2"
+     rRNA            667..>712
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 cctgcggaag gatcattgtc gatgcctcaa ccaaccagtt cgacccgcga atccgtatga
+       61 aatccacaac gcgcggcccg tccgacgttg tgtgccaagt cgagagaggg cgggcaggcg
+      121 tcccgatgcc cccgtgcatc cggtcgcacg cccgcgtctc ccggcaaaac actaaccccg
+      181 gcgcttcatg cgccaaggaa tacgaagctg ttaggtgagg caaccgaggg acgtgtccca
+      241 cgggtgcctt cacgacaaca tgttatgtaa aatgactctc ggcaacggat atctcggctc
+      301 ttgcatcgat gaagaacgta gcgaaatgcg atacttggtg tgaattgcag aatcccgtga
+      361 accatcgagt ctttgaacgc aagttgcgcc caaagccatt aggctgaggg cacgcctgcc
+      421 tgggtgtcac acatcgtcac ccccctgccc gccacactta actaaatagg tgtgcagcag
+      481 ggggtgtgca agatgacctc ccgcgagact tcctcgtggt tggttgaaaa acaagttcgg
+      541 ggcggagtct cccacgataa cggtggatga gcccacgctc gagaccaatc gtgcttgtaa
+      601 gactccgacg tgatggactt attgacccca cgtgcgccct ctgtgaaaac cgagtgtgct
+      661 atccacgaga cctcaggtca ggcggggcta cccgctgagt ttaagcatat ca
+//
+LOCUS       KF943746                 712 bp    DNA     linear   PLN 07-OCT-2014
+DEFINITION  Phaseolus maculatus voucher Luis Servin:Pmac-02 small subunit
+            ribosomal RNA gene, partial sequence; internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and large subunit ribosomal RNA gene, partial sequence.
+ACCESSION   KF943746
+VERSION     KF943746.1
+KEYWORDS    .
+SOURCE      Phaseolus maculatus (cocolmeca bean)
+  ORGANISM  Phaseolus maculatus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Phaseolus.
+REFERENCE   1  (bases 1 to 712)
+  AUTHORS   Servin-Garciduenas,L.E., Zayas-Del Moral,A., Ormeno-Orrillo,E.,
+            Rogel,M.A., Delgado-Salinas,A., Sanchez,F. and Martinez-Romero,E.
+  TITLE     Symbiont shift towards Rhizobium nodulation in a group of
+            phylogenetically related Phaseolus species
+  JOURNAL   Mol. Phylogenet. Evol. 79, 1-11 (2014)
+   PUBMED   24952318
+REFERENCE   2  (bases 1 to 712)
+  AUTHORS   Servin-Garciduenas,L.E. and Martinez-Romero,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-DEC-2013) Ecological Genomics, Center for Genomic
+            Sciences - UNAM, Av. Universidad s/n Col. Chamilpa, Cuernavaca,
+            Morelos 62210, Mexico
+FEATURES             Location/Qualifiers
+     source          1..712
+                     /country="Mexico"
+                     /db_xref="taxon:34306"
+                     /mol_type="genomic DNA"
+                     /note="wild"
+                     /organism="Phaseolus maculatus"
+                     /specimen_voucher="personal:Luis Servin:Pmac-02"
+                     /tissue_type="leaf"
+     rRNA            <1..18
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        19..264
+                     /product="internal transcribed spacer 1"
+     rRNA            265..432
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        433..666
+                     /product="internal transcribed spacer 2"
+     rRNA            667..>712
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 cctgcggaag gatcattgtc gatgcctcaa ccaaccagtt cgacccgcga atccgtatga
+       61 aatccacaac gcgcggcccg tccgacgttg tgtgccaagt cgagagaggg cgggcaggcg
+      121 tcccgatgcc cccgtgcatc cggtcgcacg cccgcgtctc ccggcaaaac actaaccccg
+      181 gcgcttcatg cgccaaggaa tacgaagctg ttaggtgagg caaccgaggg acgtgtccca
+      241 cgggtgcctt cacgacaaca tgttatgtaa aatgactctc ggcaacggat atctcggctc
+      301 ttgcatcgat gaagaacgta gcgaaatgcg atacttggtg tgaattgcag aatcccgtga
+      361 accatcgagt ctttgaacgc aagttgcgcc caaagccatt aggctgaggg cacgcctgcc
+      421 tgggtgtcac acatcgtcac ccccctgccc gccacactta actaaatagg tgtgcagcag
+      481 ggggtgtgca agatgacctc ccgcgagact tcctcgtggt tggttgaaaa acaagttcgg
+      541 ggcggagtct cccacgataa cggtggatga gcccacgctc gagaccaatc gtgcttgtaa
+      601 gactccgacg tgatggactt attgacccca cgtgcgccct ctgtgaaaac cgagtgtgct
+      661 atccacgaga cctcaggtca ggcggggcta cccgctgagt ttaagcatat ca
+//
+LOCUS       KF943745                 712 bp    DNA     linear   PLN 07-OCT-2014
+DEFINITION  Phaseolus maculatus voucher Luis Servin:Pmac-01 small subunit
+            ribosomal RNA gene, partial sequence; internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and large subunit ribosomal RNA gene, partial sequence.
+ACCESSION   KF943745
+VERSION     KF943745.1
+KEYWORDS    .
+SOURCE      Phaseolus maculatus (cocolmeca bean)
+  ORGANISM  Phaseolus maculatus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Phaseolus.
+REFERENCE   1  (bases 1 to 712)
+  AUTHORS   Servin-Garciduenas,L.E., Zayas-Del Moral,A., Ormeno-Orrillo,E.,
+            Rogel,M.A., Delgado-Salinas,A., Sanchez,F. and Martinez-Romero,E.
+  TITLE     Symbiont shift towards Rhizobium nodulation in a group of
+            phylogenetically related Phaseolus species
+  JOURNAL   Mol. Phylogenet. Evol. 79, 1-11 (2014)
+   PUBMED   24952318
+REFERENCE   2  (bases 1 to 712)
+  AUTHORS   Servin-Garciduenas,L.E. and Martinez-Romero,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-DEC-2013) Ecological Genomics, Center for Genomic
+            Sciences - UNAM, Av. Universidad s/n Col. Chamilpa, Cuernavaca,
+            Morelos 62210, Mexico
+FEATURES             Location/Qualifiers
+     source          1..712
+                     /country="Mexico"
+                     /db_xref="taxon:34306"
+                     /mol_type="genomic DNA"
+                     /note="wild"
+                     /organism="Phaseolus maculatus"
+                     /specimen_voucher="personal:Luis Servin:Pmac-01"
+                     /tissue_type="leaf"
+     rRNA            <1..18
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        19..264
+                     /product="internal transcribed spacer 1"
+     rRNA            265..432
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        433..666
+                     /product="internal transcribed spacer 2"
+     rRNA            667..>712
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 cctgcggaag gatcattgtc gatgcctcaa ccaaccagtt cgacccgcga atccgtatga
+       61 aatccacaac gcgcggcccg tccgacgttg tgtgccaagt cgagagaggg cgggcaggcg
+      121 tcccgatgcc cccgtgcatc cggtcgcacg cccgcgtctc ccggcaaaac actaaccccg
+      181 gcgcttcatg cgccaaggaa tacgaagctg ttaggtgagg caaccgaggg acgtgtccca
+      241 cgggtgcctt cacgacaaca tgttatgtaa aatgactctc ggcaacggat atctcggctc
+      301 ttgcatcgat gaaaaacgta gcgaaatgcg atacttggtg tgaattgcag aatcccgtga
+      361 accatcgagt ctttgaacgc aagttgcgcc caaagccatt aggctgaggg cacgcctgcc
+      421 tgggtgtcac acatcgtcac ccccctgccc gccacactta actaaatagg tgtgcagcag
+      481 ggggtgtgca agatgacctc ccgcgagacc tcctcgtggt tggttgaaaa acaagttcgg
+      541 ggcggagtct cccacgataa cggtggatga gcccacgctc gagaccaatc gtgcttgtaa
+      601 gactccgacg tgatggactt attgacccca cgtgcgccct ctgtgaaaac cgagtgtgct
+      661 atccacgaga cctcaggtca ggcggggcta cccgctgagt ttaagcatat ca
+//
+LOCUS       KF943744                 757 bp    DNA     linear   PLN 07-OCT-2014
+DEFINITION  Phaseolus leptostachyus voucher Luis Servin:Plep-03 small subunit
+            ribosomal RNA gene, partial sequence; internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and large subunit ribosomal RNA gene, partial sequence.
+ACCESSION   KF943744
+VERSION     KF943744.1
+KEYWORDS    .
+SOURCE      Phaseolus leptostachyus
+  ORGANISM  Phaseolus leptostachyus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Phaseolus.
+REFERENCE   1  (bases 1 to 757)
+  AUTHORS   Servin-Garciduenas,L.E., Zayas-Del Moral,A., Ormeno-Orrillo,E.,
+            Rogel,M.A., Delgado-Salinas,A., Sanchez,F. and Martinez-Romero,E.
+  TITLE     Symbiont shift towards Rhizobium nodulation in a group of
+            phylogenetically related Phaseolus species
+  JOURNAL   Mol. Phylogenet. Evol. 79, 1-11 (2014)
+   PUBMED   24952318
+REFERENCE   2  (bases 1 to 757)
+  AUTHORS   Servin-Garciduenas,L.E. and Martinez-Romero,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-DEC-2013) Ecological Genomics, Center for Genomic
+            Sciences - UNAM, Av. Universidad s/n Col. Chamilpa, Cuernavaca,
+            Morelos 62210, Mexico
+FEATURES             Location/Qualifiers
+     source          1..757
+                     /country="Mexico"
+                     /db_xref="taxon:90562"
+                     /mol_type="genomic DNA"
+                     /note="wild"
+                     /organism="Phaseolus leptostachyus"
+                     /specimen_voucher="personal:Luis Servin:Plep-03"
+                     /tissue_type="leaf"
+     rRNA            <1..26
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        27..276
+                     /product="internal transcribed spacer 1"
+     rRNA            277..444
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        445..679
+                     /product="internal transcribed spacer 2"
+     rRNA            680..>757
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 gtaggtgacc tgcggaagga tcattgtcga tgccccaacc aaccagttcg acccgcgaat
+       61 ccgtaacaaa ccaaccgcgc acaaagggct caggctcgtc ctcccttgtg cgtcgtcgag
+      121 agggcgggtg ggcgacttca tgcctcgtgc attcggtcgc aagcccgtgt ctcccgacaa
+      181 aacactaacc ccggcgtgtt atgcgccaag gaatacaaag ctgttagtga ggcaaccgag
+      241 ggacgtgtcc cacgggtgcc ttcacgacga catgttatct aaaatgactc tcggcaacgg
+      301 atatctcggc tcttgcatcg atgaagaacg tagcgaaatg cgatacttgg tgtgaattgc
+      361 agaatcccgt gaaccatcga gtctttgaac gcaagttgcg cccaaagcca ttaggctgag
+      421 ggcacgcctg cctgggtgtc acacatcgtc acccccctgc ccgccacact taactaaata
+      481 aatgtgcagc agcagggggt gcaagctgac ctcccgcgat acttcctcgt ggttggttga
+      541 aaagcaagtt cggggcggag tctcccacga taacggtgga tgagcccacg ctcgagacca
+      601 atcgtgcttg tgcgactccg acgtaatgga cttactgacc ctacacgcgc cctctgtgaa
+      661 aactgagtgc gctatctacg agacctcagg tcaggcgggg ctacccgctg agtttaagca
+      721 tatcaataag cggaggaaaa gaaactaaca aggattc
+//
+LOCUS       KF943743                 757 bp    DNA     linear   PLN 07-OCT-2014
+DEFINITION  Phaseolus leptostachyus voucher Luis Servin:Plep-02 small subunit
+            ribosomal RNA gene, partial sequence; internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and large subunit ribosomal RNA gene, partial sequence.
+ACCESSION   KF943743
+VERSION     KF943743.1
+KEYWORDS    .
+SOURCE      Phaseolus leptostachyus
+  ORGANISM  Phaseolus leptostachyus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Phaseolus.
+REFERENCE   1  (bases 1 to 757)
+  AUTHORS   Servin-Garciduenas,L.E., Zayas-Del Moral,A., Ormeno-Orrillo,E.,
+            Rogel,M.A., Delgado-Salinas,A., Sanchez,F. and Martinez-Romero,E.
+  TITLE     Symbiont shift towards Rhizobium nodulation in a group of
+            phylogenetically related Phaseolus species
+  JOURNAL   Mol. Phylogenet. Evol. 79, 1-11 (2014)
+   PUBMED   24952318
+REFERENCE   2  (bases 1 to 757)
+  AUTHORS   Servin-Garciduenas,L.E. and Martinez-Romero,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-DEC-2013) Ecological Genomics, Center for Genomic
+            Sciences - UNAM, Av. Universidad s/n Col. Chamilpa, Cuernavaca,
+            Morelos 62210, Mexico
+FEATURES             Location/Qualifiers
+     source          1..757
+                     /country="Mexico: Morelos"
+                     /db_xref="taxon:90562"
+                     /mol_type="genomic DNA"
+                     /note="wild"
+                     /organism="Phaseolus leptostachyus"
+                     /specimen_voucher="personal:Luis Servin:Plep-02"
+                     /tissue_type="leaf"
+     rRNA            <1..26
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        27..276
+                     /product="internal transcribed spacer 1"
+     rRNA            277..444
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        445..679
+                     /product="internal transcribed spacer 2"
+     rRNA            680..>757
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 gtaggtgacc tgcggaagga tcattgtcga tgccccaacc aaccagttcg acccgcgaat
+       61 ccgtaacaaa ccaaccgcgc acaaagggct caggctcgtc ctcccttgtg cgtcgtcgag
+      121 agggcgggtg ggcgacttca tgcctcgtgc attcggtcgc aagcccgtgt ctcccgacaa
+      181 aacactaacc ccggcgtgtt atgcgccaag gaatacaaag ctgttagtga ggcaaccgag
+      241 ggacgtgtcc cacgggtgcc ttcacgacga catgttatct aaaatgactc tcggcaacgg
+      301 atatctcggc tcttgcatcg atgaagaacg tagcgaaatg cgatacttgg tgtgaattgc
+      361 agaatcccgt gaaccatcga gtctttgaac gcaagttgcg cccaaagcca ttaggctgag
+      421 ggcacgcctg cctgggtgtc acacatcgtc acccccctgc ccgccacact taactaaata
+      481 aatgtgcagc agcagggggt gcaagctgac ctcccgcgat acttcctcgt ggttggttga
+      541 aaagcaagtt cggggcggag tctcccacga taacggtgga tgagcccacg ctcgagacca
+      601 atcgtgcttg tgcgactccg acgtaatgga cttactgacc ctacacgcgc cctctgtgaa
+      661 aactgagtgc gctatctacg agacctcagg tcaggcgggg ctacccgctg agtttaagca
+      721 tatcaataag cggaggaaaa gaaactaaca aggattc
+//
+LOCUS       KF943742                 757 bp    DNA     linear   PLN 07-OCT-2014
+DEFINITION  Phaseolus leptostachyus voucher Luis Servin:Plep-01 small subunit
+            ribosomal RNA gene, partial sequence; internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and large subunit ribosomal RNA gene, partial sequence.
+ACCESSION   KF943742
+VERSION     KF943742.1
+KEYWORDS    .
+SOURCE      Phaseolus leptostachyus
+  ORGANISM  Phaseolus leptostachyus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Phaseolus.
+REFERENCE   1  (bases 1 to 757)
+  AUTHORS   Servin-Garciduenas,L.E., Zayas-Del Moral,A., Ormeno-Orrillo,E.,
+            Rogel,M.A., Delgado-Salinas,A., Sanchez,F. and Martinez-Romero,E.
+  TITLE     Symbiont shift towards Rhizobium nodulation in a group of
+            phylogenetically related Phaseolus species
+  JOURNAL   Mol. Phylogenet. Evol. 79, 1-11 (2014)
+   PUBMED   24952318
+REFERENCE   2  (bases 1 to 757)
+  AUTHORS   Servin-Garciduenas,L.E. and Martinez-Romero,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-DEC-2013) Ecological Genomics, Center for Genomic
+            Sciences - UNAM, Av. Universidad s/n Col. Chamilpa, Cuernavaca,
+            Morelos 62210, Mexico
+FEATURES             Location/Qualifiers
+     source          1..757
+                     /country="Mexico: Morelos"
+                     /db_xref="taxon:90562"
+                     /mol_type="genomic DNA"
+                     /note="wild"
+                     /organism="Phaseolus leptostachyus"
+                     /specimen_voucher="personal:Luis Servin:Plep-01"
+                     /tissue_type="leaf"
+     rRNA            <1..26
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        27..276
+                     /product="internal transcribed spacer 1"
+     rRNA            277..444
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        445..679
+                     /product="internal transcribed spacer 2"
+     rRNA            680..>757
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 gtaggtgacc tgcggaagga tcattgtcga tgccccaacc aaccagttcg acccgcgaat
+       61 ccgtaacaaa ccaaccgcgc acaaagggct caggctcgtc ctcccttgtg cgtcgtcgag
+      121 agggcgggtg ggcgacttca tgcctcgtgc attcggtcgc aagcccgtgt ctcccgacaa
+      181 aacactaacc ccggcgtgtt atgcgccaag gaatacaaag ctgttagtga ggcaaccgag
+      241 ggacgtgtcc cacgggtgcc ttcacgacga catgttatct aaaatgactc tcggcaacgg
+      301 atatctcggc tcttgcatcg atgaagaacg tagcgaaatg cgatacttgg tgtgaattgc
+      361 agaatcccgt gaaccatcga gtctttgaac gcaagttgcg cccaaagcca ttaggctgag
+      421 ggcacgcctg cctgggtgtc acacatcgtc acccccctgc ccgccacact taactaaata
+      481 aatgtgcagc agcagggggt gcaagctgac ctcccgcgat acttcctcgt ggttggttga
+      541 aaagcaagtt cggggcggag tctcccacga taacggtgga tgagcccacg ctcgagacca
+      601 atcgtgcttg tgcgactccg acgtaatgga cttactgacc ctacacgcgc cctctgtgaa
+      661 aactgagtgc gctatctacg agacctcagg tcaggcgggg ctacccgctg agtttaagca
+      721 tatcaataag cggaggaaaa gaaactaaca aggattc
+//
+LOCUS       KF943741                 728 bp    DNA     linear   PLN 07-OCT-2014
+DEFINITION  Phaseolus filiformis voucher Luis Servin:Pfil-01 small subunit
+            ribosomal RNA gene, partial sequence; internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and large subunit ribosomal RNA gene, partial sequence.
+ACCESSION   KF943741
+VERSION     KF943741.1
+KEYWORDS    .
+SOURCE      Phaseolus filiformis
+  ORGANISM  Phaseolus filiformis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Phaseolus.
+REFERENCE   1  (bases 1 to 728)
+  AUTHORS   Servin-Garciduenas,L.E., Zayas-Del Moral,A., Ormeno-Orrillo,E.,
+            Rogel,M.A., Delgado-Salinas,A., Sanchez,F. and Martinez-Romero,E.
+  TITLE     Symbiont shift towards Rhizobium nodulation in a group of
+            phylogenetically related Phaseolus species
+  JOURNAL   Mol. Phylogenet. Evol. 79, 1-11 (2014)
+   PUBMED   24952318
+REFERENCE   2  (bases 1 to 728)
+  AUTHORS   Servin-Garciduenas,L.E. and Martinez-Romero,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-DEC-2013) Ecological Genomics, Center for Genomic
+            Sciences - UNAM, Av. Universidad s/n Col. Chamilpa, Cuernavaca,
+            Morelos 62210, Mexico
+FEATURES             Location/Qualifiers
+     source          1..728
+                     /country="Mexico: Baja California"
+                     /db_xref="taxon:87066"
+                     /mol_type="genomic DNA"
+                     /note="wild"
+                     /organism="Phaseolus filiformis"
+                     /specimen_voucher="personal:Luis Servin:Pfil-01"
+                     /tissue_type="leaf"
+     rRNA            <1..6
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        7..295
+                     /product="internal transcribed spacer 1"
+     rRNA            296..463
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        464..703
+                     /product="internal transcribed spacer 2"
+     rRNA            704..>728
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 tcattgtcga tgcctcaacc aaccagttcg acccgcgaaa ccgtatcaaa tccacagcgc
+       61 acgcactcac gcacgcgagg ggctccggcc cgtcctcccc ccgtgctgtg tcgtgtgcgt
+      121 gcgcgccgtc gagagggcgg gtgagcgacc ggacgccgcg tgcgtcccgt cgcgaacccg
+      181 tgtctcccgg caaaacacta accccggcgc attgcgcgcc aaggaacaca aagctgttat
+      241 gtggggcgac cgggggactt gtcccccaag ggcgccttca cgacgacatg ttattatgta
+      301 aaatgactct cggcaacgga tatctcggct cttgcatcga tgaagaacgt agcgaaatgc
+      361 gatacttggt gtgaattgca gaatcccgtg aaccatcgag tctttgaacg caagttgcgc
+      421 ccaaagccat taggctgagg gcacgcctgc ctgggtgtca cacatcgtca cccccccgcc
+      481 ctccacacct gttcactgaa cagatgtgcg tgttgcggca gggggtggaa gctgacctcc
+      541 cgcgagtcac tcgtggttgg ttgaaaagca agttcgtggc ggagtctccc acgataacgg
+      601 tggatgagcc aacgctcgag accaatcgtg cctgcgcgac tccgacgcag tggacttacc
+      661 gaccccaaag gcgccctccg tgaaaaccga gtgcgccatc tacgagacct caggtcaggc
+      721 ggggctac
+//
+LOCUS       KF943740                 780 bp    DNA     linear   PLN 07-OCT-2014
+DEFINITION  Phaseolus lunatus voucher Luis Servin:Plun-03 small subunit
+            ribosomal RNA gene, partial sequence; internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and large subunit ribosomal RNA gene, partial sequence.
+ACCESSION   KF943740
+VERSION     KF943740.1
+KEYWORDS    .
+SOURCE      Phaseolus lunatus (lima bean)
+  ORGANISM  Phaseolus lunatus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Phaseolus.
+REFERENCE   1  (bases 1 to 780)
+  AUTHORS   Servin-Garciduenas,L.E., Zayas-Del Moral,A., Ormeno-Orrillo,E.,
+            Rogel,M.A., Delgado-Salinas,A., Sanchez,F. and Martinez-Romero,E.
+  TITLE     Symbiont shift towards Rhizobium nodulation in a group of
+            phylogenetically related Phaseolus species
+  JOURNAL   Mol. Phylogenet. Evol. 79, 1-11 (2014)
+   PUBMED   24952318
+REFERENCE   2  (bases 1 to 780)
+  AUTHORS   Servin-Garciduenas,L.E. and Martinez-Romero,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-DEC-2013) Ecological Genomics, Center for Genomic
+            Sciences - UNAM, Av. Universidad s/n Col. Chamilpa, Cuernavaca,
+            Morelos 62210, Mexico
+FEATURES             Location/Qualifiers
+     source          1..780
+                     /country="Mexico"
+                     /db_xref="taxon:3884"
+                     /mol_type="genomic DNA"
+                     /note="wild"
+                     /organism="Phaseolus lunatus"
+                     /specimen_voucher="personal:Luis Servin:Plun-03"
+                     /tissue_type="leaf"
+     rRNA            <1..57
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        58..314
+                     /product="internal transcribed spacer 1"
+     rRNA            315..477
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        478..703
+                     /product="internal transcribed spacer 2"
+     rRNA            704..>780
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 agaggaagga gaagtcgtaa caaggtttcc gtaggtgaac ctgcggaagg atcattgtcg
+       61 atgcctcaac caaccagttc gacccgcgaa tccgtatcaa acacacaacg cacaacggct
+      121 ggggctcgtc ccctcccgtg tgcgtcgtcg agagggcggg cgggcgactc ggtgccccgt
+      181 gcatgcggtc gcaagcccgt gtctcccgac aaaacactaa ccccggcgct tcatgcgcca
+      241 aggaatacga agctgttagg tgaggcagcc gagggacgtg tcccgcgggt gccttcacga
+      301 cgacatgtta tgtaaaatga ctctcggcaa cggatatctc ggctcttgca tcgatgaaga
+      361 acgtagcgaa atgcgatact tggtgtgaat tgcagaatcc cgtgaaccat cgagtctttg
+      421 aacgcaagtt gcgcccaaag ccattaggct gagggcacgc ctgcctgggt gtcacacatc
+      481 gtcccccccc tgcccgccac acttaactaa ttaaatgtgc agcagggggt ggtggaagtt
+      541 gacctcccgc gagacctcct cgtggttggt tgaaaagcaa gttcgggacg gagtctcccg
+      601 cgatatcggt ggatgagccc acgctcgaga ccaatcgtgg ctgtgggact ccggacgtaa
+      661 tggacttact gaccccacac gcgccctctg tgcgctatcc acgagacctc aggtcaggcg
+      721 gggctacccg ctgagtttaa gcatatcaat aagcggagga aaagaaacta acaaggatcc
+//
+LOCUS       KF943739                 782 bp    DNA     linear   PLN 07-OCT-2014
+DEFINITION  Phaseolus lunatus voucher Luis Servin:Plun-02 small subunit
+            ribosomal RNA gene, partial sequence; internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and large subunit ribosomal RNA gene, partial sequence.
+ACCESSION   KF943739
+VERSION     KF943739.1
+KEYWORDS    .
+SOURCE      Phaseolus lunatus (lima bean)
+  ORGANISM  Phaseolus lunatus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Phaseolus.
+REFERENCE   1  (bases 1 to 782)
+  AUTHORS   Servin-Garciduenas,L.E., Zayas-Del Moral,A., Ormeno-Orrillo,E.,
+            Rogel,M.A., Delgado-Salinas,A., Sanchez,F. and Martinez-Romero,E.
+  TITLE     Symbiont shift towards Rhizobium nodulation in a group of
+            phylogenetically related Phaseolus species
+  JOURNAL   Mol. Phylogenet. Evol. 79, 1-11 (2014)
+   PUBMED   24952318
+REFERENCE   2  (bases 1 to 782)
+  AUTHORS   Servin-Garciduenas,L.E. and Martinez-Romero,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-DEC-2013) Ecological Genomics, Center for Genomic
+            Sciences - UNAM, Av. Universidad s/n Col. Chamilpa, Cuernavaca,
+            Morelos 62210, Mexico
+FEATURES             Location/Qualifiers
+     source          1..782
+                     /country="Mexico"
+                     /db_xref="taxon:3884"
+                     /mol_type="genomic DNA"
+                     /note="wild"
+                     /organism="Phaseolus lunatus"
+                     /specimen_voucher="personal:Luis Servin:Plun-02"
+                     /tissue_type="leaf"
+     rRNA            <1..57
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        58..314
+                     /product="internal transcribed spacer 1"
+     rRNA            315..477
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        478..705
+                     /product="internal transcribed spacer 2"
+     rRNA            706..>782
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 agaggaagga gaagtcgtaa caaggtttcc gtaggtgaac ctgcggaagg atcattgtcg
+       61 atgcctcaac caaccagttc gacccgcgaa tccgtatcaa acacacagcg cacaacggct
+      121 ggggctcgtc ccttcccgtg tgcgtcgtcg agagggcggg cgggcgactc ggtgccccgt
+      181 gcatgcggtc gcaagcccgt gtctcccgac aaaacactaa ccccggcgct tcatgcgcca
+      241 aggaatacga agctgttagg tgaggcagcc gagggacgtg tcccgcgggt gccttcacga
+      301 cgacatgtta tgtaaaatga ctctcggcaa cggatatctc ggctcttgca tcgatgaaga
+      361 acgtagcgaa atgcgatact tggtgtgaat tgcagaatcc cgtgaaccat cgagtctttg
+      421 aacgcaagtt gcgcccaaag ccattaggct gagggcacgc ctgcctgggt gtcacacatc
+      481 gtcacccccc cgcccgccac acttaactaa ttaaatgtgt gcagcagggg gtggtggaag
+      541 ttgacctccc gcgagacgtc ctcgtggttg gttgaaaagc aagttcggga cggagtctcc
+      601 cgcgatatcg gtggatgagc ccacgctcga gaccaatcgt ggctttggga ctccggacgt
+      661 aatggactta ctgaccccac acgcgccctc tgtgcgccat ctacgagacc tcaggtcagg
+      721 cggggctacc cgctgagttt aagcatatca ataagcggag gaaaagaaac taacaaggat
+      781 cc
+//
+LOCUS       KF943738                 782 bp    DNA     linear   PLN 07-OCT-2014
+DEFINITION  Phaseolus lunatus voucher Luis Servin:Plun-01 small subunit
+            ribosomal RNA gene, partial sequence; internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and large subunit ribosomal RNA gene, partial sequence.
+ACCESSION   KF943738
+VERSION     KF943738.1
+KEYWORDS    .
+SOURCE      Phaseolus lunatus (lima bean)
+  ORGANISM  Phaseolus lunatus
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Phaseolus.
+REFERENCE   1  (bases 1 to 782)
+  AUTHORS   Servin-Garciduenas,L.E., Zayas-Del Moral,A., Ormeno-Orrillo,E.,
+            Rogel,M.A., Delgado-Salinas,A., Sanchez,F. and Martinez-Romero,E.
+  TITLE     Symbiont shift towards Rhizobium nodulation in a group of
+            phylogenetically related Phaseolus species
+  JOURNAL   Mol. Phylogenet. Evol. 79, 1-11 (2014)
+   PUBMED   24952318
+REFERENCE   2  (bases 1 to 782)
+  AUTHORS   Servin-Garciduenas,L.E. and Martinez-Romero,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-DEC-2013) Ecological Genomics, Center for Genomic
+            Sciences - UNAM, Av. Universidad s/n Col. Chamilpa, Cuernavaca,
+            Morelos 62210, Mexico
+FEATURES             Location/Qualifiers
+     source          1..782
+                     /country="Mexico: Guerrero"
+                     /db_xref="taxon:3884"
+                     /mol_type="genomic DNA"
+                     /note="wild"
+                     /organism="Phaseolus lunatus"
+                     /specimen_voucher="personal:Luis Servin:Plun-01"
+                     /tissue_type="leaf"
+     rRNA            <1..57
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        58..314
+                     /product="internal transcribed spacer 1"
+     rRNA            315..477
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        478..705
+                     /product="internal transcribed spacer 2"
+     rRNA            706..>782
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 agaggaagga gaagtcgtaa caaggtttcc gtaggtgaac ctgcggaagg atcattgtcg
+       61 atgcctcaac caaccagttc gacccgcgaa tccgtatcaa acacacagcg cacaacggct
+      121 ggggctcgtc ccttcccgtg tgcgtcgtcg agagggcggg cgggcgactc ggtgccccgt
+      181 gcatgcggtc gcaagcccgt gtctcccgac aaaacactaa ccccggcgct tcatgcgcca
+      241 aggaatacga agctgttagg tgaggcagcc gagggacgtg tcccgcgggt gccttcacga
+      301 cgacatgtta tgtaaaatga ctctcggcaa cggatatctc ggctcttgca tcgatgaaga
+      361 acgtagcgaa atgcgatact tggtgtgaat tgcagaatcc cgtgaaccat cgagtctttg
+      421 aacgcaagtt gcgcccaaag ccattaggct gagggcacgc ctgcctgggt gtcacacatc
+      481 gtcacccccc cgcccgccac acttaactaa ttaaatgtgt gcagcagggg gtggtggaag
+      541 ttgacctccc gcgagacgtc ctcgtggttg gttgaaaagc aagttcggga cggagtctcc
+      601 cgcgatatcg gtggatgagc ccacgctcga gaccaatcgt ggctttggga ctccggacgt
+      661 aatggactta ctgaccccac acgcgccctc tgtgcgccat ctacgagacc tcaggtcagg
+      721 cggggctacc cgctgagttt aagcatatca ataagcggag gaaaagaaac taacaaggat
+      781 cc
+//
+LOCUS       KF943737                 775 bp    DNA     linear   PLN 07-OCT-2014
+DEFINITION  Phaseolus acutifolius voucher Luis Servin:Pacu-04 small subunit
+            ribosomal RNA gene, partial sequence; internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and large subunit ribosomal RNA gene, partial sequence.
+ACCESSION   KF943737
+VERSION     KF943737.1
+KEYWORDS    .
+SOURCE      Phaseolus acutifolius (tepary bean)
+  ORGANISM  Phaseolus acutifolius
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Phaseolus.
+REFERENCE   1  (bases 1 to 775)
+  AUTHORS   Servin-Garciduenas,L.E., Zayas-Del Moral,A., Ormeno-Orrillo,E.,
+            Rogel,M.A., Delgado-Salinas,A., Sanchez,F. and Martinez-Romero,E.
+  TITLE     Symbiont shift towards Rhizobium nodulation in a group of
+            phylogenetically related Phaseolus species
+  JOURNAL   Mol. Phylogenet. Evol. 79, 1-11 (2014)
+   PUBMED   24952318
+REFERENCE   2  (bases 1 to 775)
+  AUTHORS   Servin-Garciduenas,L.E. and Martinez-Romero,E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (07-DEC-2013) Ecological Genomics, Center for Genomic
+            Sciences - UNAM, Av. Universidad s/n Col. Chamilpa, Cuernavaca,
+            Morelos 62210, Mexico
+FEATURES             Location/Qualifiers
+     source          1..775
+                     /country="Mexico: Coahuila"
+                     /db_xref="taxon:33129"
+                     /mol_type="genomic DNA"
+                     /note="wild"
+                     /organism="Phaseolus acutifolius"
+                     /specimen_voucher="personal:Luis Servin:Pacu-04"
+                     /tissue_type="leaf"
+     rRNA            <1..37
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        38..301
+                     /product="internal transcribed spacer 1"
+     rRNA            302..469
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        470..698
+                     /product="internal transcribed spacer 2"
+     rRNA            699..>775
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 tacaggtttc cgtaggtgac ctgcggaagg atcattgtcg atgcctcaaa caacaagttc
+       61 cacccgcgaa tacgtaccaa acacgcaacg cacaggggcg ggcaagggcg cgcaagtgct
+      121 cctccccccc ggtgcgtcgt cgggggcggg ggtgggcgtg tcgatgcccc gtgcatccgg
+      181 ccgcaaaccc gcgtctcctg acaaaacact aacccgggcg cttcacgcgc caaggaacac
+      241 gaagctgtta gttgaggcaa ccgggggacg tgtcccacgg gcgccttcac gacgacatgt
+      301 tatgtaaaat gactctcggc aacggatatc tcggctcttg catcgatgaa gaacgtagcg
+      361 aaatgcgata cttggtgtga attgcagaat cccgtgaacc atcgagtctt tgaacgcaag
+      421 ttgcgcccaa agccattagg ctgagggcac gcctgcctgg gtgtcacaca tcgtcacccc
+      481 ttcctcaaca cttaactcgt taaatgcgag gcaggggtga aagctgacct cccgcgagcc
+      541 agttcctcgt ggttggttga aaagcaagtt cggggcggaa tcccccacga taacggtgga
+      601 tgagcctgcg ctcgagacca atcgtgcccg tggtactccg acacaacgga cttatcgacc
+      661 ccacggcgcc ctctgtgcaa accgagtgcg ccatccacga gacctcaggt caggcggggc
+      721 tacccgctga gtttaagcat atcaataagc ggaggaaaag aaactaacaa gattc
+//

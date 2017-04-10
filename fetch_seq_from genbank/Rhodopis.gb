@@ -1,0 +1,52 @@
+LOCUS       KC779732                 690 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Rhodopis planisiliqua voucher Conceicao 1765 (HUEFS) internal
+            transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene and
+            internal transcribed spacer 2, complete sequence; and 26S ribosomal
+            RNA gene, partial sequence.
+ACCESSION   KC779732
+VERSION     KC779732.1
+KEYWORDS    .
+SOURCE      Rhodopis planisiliqua
+  ORGANISM  Rhodopis planisiliqua
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Rhodopis.
+REFERENCE   1  (bases 1 to 690)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 690)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..690
+                     /db_xref="taxon:167623"
+                     /mol_type="genomic DNA"
+                     /organism="Rhodopis planisiliqua"
+                     /specimen_voucher="Conceicao 1765 (HUEFS)"
+     misc_RNA        <1..>690
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, internal transcribed spacer 2, and 26S
+                     ribosomal RNA"
+ORIGIN
+        1 atgctcatca gttcgacctg tgatttgttt aaccacgtag agggttggct tggatgttca
+       61 acagaagctt cccttgtgtt gggattaggc catgccttct tccgactaaa cacaaacccc
+      121 ggcgcaacat gcgtcaagga acttgaaatt gtttatgata cgcctgtaag cccggagacg
+      181 gtgcttctac aagtgatgtc gttcaacatg tctcaaaatg actctcggca acggatatct
+      241 aggctcttgc atcgatgaag aacgtagcaa aatgcgatac ttggtgtgaa ttgcagaatc
+      301 ccgtgaacca tcgagtcttt gaacgcaagt tgcgcccgaa accattaggt tgagggcacg
+      361 cctgcttggg tgtcacacaa tgttgcccta cacaaatgcc tttcaaatcg gtgttgagca
+      421 gggtggatgt tggcttccca tgagcatcgt ctcgtggttg gtcgaaaaat gagtccttgg
+      481 gggaatgctc catgagaaat ggtggttgag tgatgctcga ggccaatcat gcgtggcttc
+      541 cttctaaatg tggatcttga cccttgtgtt ttttacggcg ctcacaacga gacctcaggt
+      601 caggcgggac tacccgctga gtttaagcat atcaataagc ggaggaaaag aaactaacaa
+      661 ggattcccct agtaacggcg agcgaaccgg
+//

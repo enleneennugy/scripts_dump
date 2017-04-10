@@ -1,0 +1,40 @@
+LOCUS       GQ434379                 205 bp    DNA     linear   PLN 23-FEB-2010
+DEFINITION  Pueraria peduncularis voucher PS0314MT01 internal transcribed spacer
+            2, partial sequence.
+ACCESSION   GQ434379
+VERSION     GQ434379.1
+KEYWORDS    .
+SOURCE      Toxicopueraria peduncularis
+  ORGANISM  Toxicopueraria peduncularis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Toxicopueraria.
+REFERENCE   1  (bases 1 to 205)
+  AUTHORS   Chen,S., Yao,H., Han,J., Liu,C., Song,J., Shi,L., Zhu,Y., Ma,X.,
+            Gao,T., Pang,X., Luo,K., Li,Y., Li,X., Jia,X., Lin,Y. and Leon,C.
+  TITLE     Validation of the ITS2 region as a novel DNA barcode for identifying
+            medicinal plant species
+  JOURNAL   PLoS ONE 5 (1), E8613 (2010)
+   PUBMED   20062805
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 205)
+  AUTHORS   Chen,S.-L. and Zhu,Y.-J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (31-JUL-2009) Institute of Medicinal Plant Development,
+            Chinese Academy of Medical Sciences, No. 151 Malianwa North Road,
+            Haidian District, Beijing 100193, P. R. China
+FEATURES             Location/Qualifiers
+     source          1..205
+                     /db_xref="taxon:714492"
+                     /mol_type="genomic DNA"
+                     /organism="Toxicopueraria peduncularis"
+                     /specimen_voucher="PS0314MT01"
+     misc_RNA        <1..>205
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 cacatcgtta cccccacgca aaatgcctgg gggcgcatgc tgacctcccg cgagcaccgt
+       61 ctcgtggctg gttgaaaacc gggttcatgg tcgggcgcgc cgtgataaag tggtggatga
+      121 gtcatgctcg agaccaatcg cgtcacgcgc gaccctgccg gttgtggact ccccgaccca
+      181 cgcgcgtctc tgcattccgt gcggg
+//

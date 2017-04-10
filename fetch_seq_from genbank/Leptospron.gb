@@ -1,0 +1,412 @@
+LOCUS       AY583526                 654 bp    DNA     linear   PLN 04-JAN-2005
+DEFINITION  Vigna adenantha small subunit ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal
+            transcribed spacer 2, complete sequence; and large subunit ribosomal
+            RNA gene, partial sequence.
+ACCESSION   AY583526
+VERSION     AY583526.1
+KEYWORDS    .
+SOURCE      Leptospron adenanthum
+  ORGANISM  Leptospron adenanthum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Leptospron.
+REFERENCE   1  (bases 1 to 654)
+  AUTHORS   Thulin,M., Lavin,M., Pasquet,R. and Delgado-Salinas,A.
+  TITLE     Phylogeny and Biogeography of Wajira (Leguminosae): A Monophyletic
+            Segregate of Vigna Centered in the Horn of Africa Region
+  JOURNAL   Syst. Bot. 29 (4), 903-920 (2004)
+REFERENCE   2  (bases 1 to 654)
+  AUTHORS   Thulin,M., Lavin,M., Pasquet,R. and Delgado-Salinas,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-MAR-2004) Plant Sciences, Montana State University,
+            119 Ag Biosciences Bldg, Bozeman, MT 59717, USA
+FEATURES             Location/Qualifiers
+     source          1..654
+                     /country="Mexico"
+                     /db_xref="taxon:77327"
+                     /mol_type="genomic DNA"
+                     /organism="Leptospron adenanthum"
+                     /specimen_voucher="accession 2200 (MONT)"
+     rRNA            <1..6
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        7..247
+                     /product="internal transcribed spacer 1"
+     rRNA            248..415
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        416..629
+                     /product="internal transcribed spacer 2"
+     rRNA            630..>654
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 tcattgtcga tgcctaaacc aaccgtttga ccggtgaacc cgtccacatc cacaacgcaa
+       61 gggtctggct cgtcctctcc cctgcgggtc gagtgggagg ggggccatca cgcctcgtgc
+      121 aggtggccac ccgtctccct cgaccaaaca ctaaccccgg cgcttgacgc gccaaggaat
+      181 ctaaagctgt gttaggtgcg ccacccgggg acggcgtcca cgggcgtgtg cacgcaccac
+      241 aagtcatatg taaaatgact ctcggcaacg gatatctcgg ctcttgcatc gatgaagaac
+      301 gtagcgaaat gcgatacttg gtgtgaattg cagaatcccg tgaaccatcg agtctttgaa
+      361 cgcaagttgc gcccaaagcc attaggttga gggcacgcct gcctgggtgt cacacatcgc
+      421 caccccccac accgaaacgt gcggtggggt gaaagctgac ctcccgcgag ccagttcctc
+      481 gtggttggtt gaaaagtaag ttcacggtgg agtcccccgc gataaaaggt ggatgggcga
+      541 cgcccgagac caatcgtgcg gtgcgactcc aacgtatcgg acttgtgttg acccacgcgt
+      601 cccgtgtgca aaccgagggc gccatctgcg agacctcagg tcaggcgggg ctac
+//
+LOCUS       AF069119                 653 bp    DNA     linear   PLN 19-MAR-2008
+DEFINITION  Vigna adenantha small subunit ribosomal RNA gene, partial sequence;
+            internal transcribed spacer 1, 5.8S ribosomal RNA gene, and internal
+            transcribed spacer 2, complete sequence; and large subunit ribosomal
+            RNA gene, partial sequence.
+ACCESSION   AF069119
+VERSION     AF069119.1
+KEYWORDS    .
+SOURCE      Leptospron adenanthum
+  ORGANISM  Leptospron adenanthum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Leptospron.
+REFERENCE   1  (bases 1 to 653)
+  AUTHORS   Delgado-Salinas,A., Turley,T., Richman,A. and Lavin,M.
+  TITLE     Phylogenetic analysis of cultivated and wild species of Phaseolus
+            (Fabaceae)
+  JOURNAL   Syst. Bot. 24 (3), 438-460 (1999)
+REFERENCE   2  (bases 1 to 653)
+  AUTHORS   Delgado-Salinas,A., Turley,T. and Lavin,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-MAY-1998) Biology, Montana State University, 310 Lewis
+            Hall, Bozeman, MT 59717, USA
+FEATURES             Location/Qualifiers
+     source          1..653
+                     /country="Colombia"
+                     /db_xref="taxon:77327"
+                     /mol_type="genomic DNA"
+                     /organism="Leptospron adenanthum"
+                     /specimen_voucher="CIAT 4022 (DNA 74) (MONT)"
+     rRNA            <1..6
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        7..247
+                     /product="internal transcribed spacer 1"
+     rRNA            248..415
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        416..628
+                     /product="internal transcribed spacer 2"
+     rRNA            629..>653
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 tcattgtcga tgcctaaacc aaccagtttg accggtgaac ccgtccacat ccacaacgca
+       61 agggtctggc tcgtcctctc ccctgcgggt cgagtgggag ggggtcatca tgcctcgtgc
+      121 aggtggccac ccgtctccct cggccaaaca ctaaccccgg cgcttgacgc gccaaggaat
+      181 ctaaagctgt gttaggtgca ccacccgggg acggcgtcca cgggcgtgtg cacgcactac
+      241 aagtcatatg taaaatgact ctcggcaacg gatatctcgg ctcttgcatc gatgaagaac
+      301 gtagcgaaat gcgatacttg gtgtgaattg cagaatcccg tgaaccatcg agtctttgaa
+      361 cgcaagttgc gcccaaagcc attaggttga gggcacgcct gcctgggtgt cacacatcgc
+      421 caccccccac gccgaaacgt gcggcggggt gaaagctgac ctcccgcgag ccagttcctc
+      481 gtggttggtt gaaaagtaag ttcacggtgg agtcccccgc gataaaggtg gatgggcgac
+      541 gcccgagacc aatcgtgcgg tgcgactcca acgtatcgga cttgtgttga cccacgcgtc
+      601 ccgtgtgcaa accgagggcg ccatctgcga gacctcaggt caggcggggc tac
+//
+LOCUS       JN008337                 654 bp    DNA     linear   PLN 25-OCT-2011
+DEFINITION  Leptospron adenanthum bio-material DNA 1595 small subunit ribosomal
+            RNA gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   JN008337
+VERSION     JN008337.1
+KEYWORDS    .
+SOURCE      Leptospron adenanthum
+  ORGANISM  Leptospron adenanthum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Leptospron.
+REFERENCE   1  (bases 1 to 654)
+  AUTHORS   Delgado-Salinas,A., Thulin,M., Pasquet,R., Weeden,N. and Lavin,M.
+  TITLE     Vigna (Leguminosae) sensu lato: The names and identities of the
+            American segregate genera
+  JOURNAL   Am. J. Bot. 98 (10), 1694-1715 (2011)
+   PUBMED   21980163
+REFERENCE   2  (bases 1 to 654)
+  AUTHORS   Delgado-Salinas,A., Thulin,M., Pasquet,R., Weeden,N. and Lavin,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-MAY-2011) Plant Sciences and Plant Pathology, Montana
+            State University, 119 PBB, Bozeman, MT 59717, USA
+FEATURES             Location/Qualifiers
+     source          1..654
+                     /PCR_primers="fwd_name: its18, fwd_seq:
+                     gtccactgaaccttatcatttagagg, rev_name: its26, rev_seq:
+                     gccgttactaagggaatccttgttag"
+                     /bio_material="DNA 1595"
+                     /country="Peru: Contumaza"
+                     /db_xref="taxon:77327"
+                     /mol_type="genomic DNA"
+                     /organism="Leptospron adenanthum"
+                     /specimen_voucher="Delgado-Salinas 2102 (MEXU)"
+     misc_RNA        <1..252
+                     /note="contains small subunit ribosomal RNA and internal
+                     transcribed spacer 1"
+     rRNA            253..415
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        416..>654
+                     /note="contains internal transcribed spacer 2 and 28S
+                     ribosomal RNA"
+ORIGIN
+        1 tcattgtcga tgcctaaacc aaccagtttg accggtgaac ccgttcacat ccacaacgca
+       61 agggtctggc tcgtcctctc ccctgcgggt cgagtgggag ggggccatca tgcctcgtgc
+      121 aggtggccac ccgtctccct cggccaaaca ctaaccccgg cgcttgacgc gccaaggaat
+      181 ctaaagctgt gttaggtgcg ccacccgggg acggcgtcca cgggcgtgtg cacgcactac
+      241 aagtcatatg taaaatgact ctcggcaacg gatatctcgg ctcttgcatc gatgaagaac
+      301 gtagcgaaat gcgatacttg gtgtgaattg cagaatcccg tgaaccatcg agtctttgaa
+      361 cgcaagttgc gcccaaagcc attaggttga gggcacgcct gcctgggtgt cacacatcgc
+      421 caccccccac accgaaacgt gcggtggggt gaaagctgac ctctcgcgag ccagttcctc
+      481 gtggttggtt gaaaagtaag ttcacggtgg agtcccccgc gataaaaggt ggatgggcga
+      541 cgcccgagac caatcgtgcg gtgcgactcc aacgtatcgg acttgtgttg acccacgcgt
+      601 cccttgtgca aaccgagggc gccatctgcg agacctcagg tcaggcgggg ctac
+//
+LOCUS       JN008336                 655 bp    DNA     linear   PLN 25-OCT-2011
+DEFINITION  Leptospron adenanthum bio-material DNA 1564 small subunit ribosomal
+            RNA gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   JN008336
+VERSION     JN008336.1
+KEYWORDS    .
+SOURCE      Leptospron adenanthum
+  ORGANISM  Leptospron adenanthum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Leptospron.
+REFERENCE   1  (bases 1 to 655)
+  AUTHORS   Delgado-Salinas,A., Thulin,M., Pasquet,R., Weeden,N. and Lavin,M.
+  TITLE     Vigna (Leguminosae) sensu lato: The names and identities of the
+            American segregate genera
+  JOURNAL   Am. J. Bot. 98 (10), 1694-1715 (2011)
+   PUBMED   21980163
+REFERENCE   2  (bases 1 to 655)
+  AUTHORS   Delgado-Salinas,A., Thulin,M., Pasquet,R., Weeden,N. and Lavin,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-MAY-2011) Plant Sciences and Plant Pathology, Montana
+            State University, 119 PBB, Bozeman, MT 59717, USA
+FEATURES             Location/Qualifiers
+     source          1..655
+                     /PCR_primers="fwd_name: its18, fwd_seq:
+                     gtccactgaaccttatcatttagagg, rev_name: its26, rev_seq:
+                     gccgttactaagggaatccttgttag"
+                     /bio_material="DNA 1564"
+                     /country="Peru: Contumaza"
+                     /db_xref="taxon:77327"
+                     /mol_type="genomic DNA"
+                     /organism="Leptospron adenanthum"
+                     /specimen_voucher="Delgado-Salinas 2102 (MEXU)"
+     misc_RNA        <1..253
+                     /note="contains small subunit ribosomal RNA and internal
+                     transcribed spacer 1"
+     rRNA            254..416
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        417..>655
+                     /note="contains internal transcribed spacer 2 and 28S
+                     ribosomal RNA"
+ORIGIN
+        1 tcattgtcga tgcctaaacc aaccagtttg accggtgaac ccgtttcaca tccacaacgc
+       61 aagggtctgg ctcgtcctct cccctgcggg tcgagtggga gggggccatc atgcctcgtg
+      121 caggtggcca cccgtctccc tcggccaaac actaaccccg gcgcttgacg cgccaaggaa
+      181 tctaaagctg tgttaggtgc gccacccggg gacggcgtcc acgggcgtgt gcacgcacta
+      241 caagtcatat gtaaaatgac tctcggcaac ggatatctcg gctcttgcat cgatgaagaa
+      301 cgtagcgaaa tgcgatactt ggtgtgaatt gcagaatccc gtgaaccatc gagtctttga
+      361 acgcaagttg cgcccaaagc cattaggttg agggcacgcc tgcctgggtg tcacacatcg
+      421 ccacccccca caccgaaacg tgcggtgggg tgaaagctga cctctcgcga gccagttcct
+      481 cgtggttggt tgaaaagtaa gttcacggtg gagtcccccg cgataaaagg tggatgggcg
+      541 acgcccgaga ccaatcgtgc ggtgcgactc caacgtatcg gacttgtgtt gacccacgcg
+      601 tcccttgtgc aaaccgaggg cgccatctgc gagacctcag gtcaggcggg gctac
+//
+LOCUS       JN008335                 655 bp    DNA     linear   PLN 25-OCT-2011
+DEFINITION  Leptospron adenanthum bio-material DNA 1224 small subunit ribosomal
+            RNA gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   JN008335
+VERSION     JN008335.1
+KEYWORDS    .
+SOURCE      Leptospron adenanthum
+  ORGANISM  Leptospron adenanthum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Leptospron.
+REFERENCE   1  (bases 1 to 655)
+  AUTHORS   Delgado-Salinas,A., Thulin,M., Pasquet,R., Weeden,N. and Lavin,M.
+  TITLE     Vigna (Leguminosae) sensu lato: The names and identities of the
+            American segregate genera
+  JOURNAL   Am. J. Bot. 98 (10), 1694-1715 (2011)
+   PUBMED   21980163
+REFERENCE   2  (bases 1 to 655)
+  AUTHORS   Delgado-Salinas,A., Thulin,M., Pasquet,R., Weeden,N. and Lavin,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-MAY-2011) Plant Sciences and Plant Pathology, Montana
+            State University, 119 PBB, Bozeman, MT 59717, USA
+FEATURES             Location/Qualifiers
+     source          1..655
+                     /PCR_primers="fwd_name: its18, fwd_seq:
+                     gtccactgaaccttatcatttagagg, rev_name: its26, rev_seq:
+                     gccgttactaagggaatccttgttag"
+                     /bio_material="DNA 1224"
+                     /country="Mexico"
+                     /db_xref="taxon:77327"
+                     /mol_type="genomic DNA"
+                     /organism="Leptospron adenanthum"
+                     /specimen_voucher="Delgado-Salinas 2200 (MONT)"
+     misc_RNA        <1..253
+                     /note="contains small subunit ribosomal RNA and internal
+                     transcribed spacer 1"
+     rRNA            254..416
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        417..>655
+                     /note="contains internal transcribed spacer 2 and 28S
+                     ribosomal RNA"
+ORIGIN
+        1 tcattgtcga tgcctaaacc aaccagtttg accggtgaac ccgtccacat ccacaacgca
+       61 agggtctggc tcgtcctctc ccctgcgggt cgagtgggag gggggccatc acgcctcgtg
+      121 caggtggcca cccgtctccc tcgaccaaac actaaccccg gcgcttgacg cgccaaggaa
+      181 tctaaagctg tgttaggtgc gccacccggg gacggcgtcc acgggcgtgt gcacgcacca
+      241 caagtcatat gtaaaatgac tctcggcaac ggatatctcg gctcttgcat cgatgaagaa
+      301 cgtagcgaaa tgcgatactt ggtgtgaatt gcagaatccc gtgaaccatc gagtctttga
+      361 acgcaagttg cgcccaaagc cattaggttg agggcacgcc tgcctgggtg tcacacatcg
+      421 ccacccccca caccgaaacg tgcggtgggg tgaaagctga cctcccgcga gccagttcct
+      481 cgtggttggt tgaaaagtaa gttcacggtg gagtcccccg cgataaaagg tggatgggcg
+      541 acgcccgaga ccaatcgtgc ggtgcgactc caacgtatcg gacttgtgtt gacccacgcg
+      601 tcccgtgtgc aaaccgaggg cgccatctgc gagacctcag gtcaggcggg gctac
+//
+LOCUS       AF069118                 653 bp    DNA     linear   PLN 19-MAR-2008
+DEFINITION  Vigna aconitifolia small subunit ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and large
+            subunit ribosomal RNA gene, partial sequence.
+ACCESSION   AF069118
+VERSION     AF069118.1
+KEYWORDS    .
+SOURCE      Leptospron gentryi
+  ORGANISM  Leptospron gentryi
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Leptospron.
+REFERENCE   1  (bases 1 to 653)
+  AUTHORS   Delgado-Salinas,A., Turley,T., Richman,A. and Lavin,M.
+  TITLE     Phylogenetic analysis of cultivated and wild species of Phaseolus
+            (Fabaceae)
+  JOURNAL   Syst. Bot. 24 (3), 438-460 (1999)
+REFERENCE   2  (bases 1 to 653)
+  AUTHORS   Delgado-Salinas,A., Turley,T. and Lavin,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-MAY-1998) Biology, Montana State University, 310 Lewis
+            Hall, Bozeman, MT 59717, USA
+FEATURES             Location/Qualifiers
+     source          1..653
+                     /country="Mexico: Jalisco"
+                     /db_xref="taxon:1094756"
+                     /mol_type="genomic DNA"
+                     /organism="Leptospron gentryi"
+                     /specimen_voucher="A. Delgado 1713 (DNA 75) (MEXU)"
+     rRNA            <1..6
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        7..247
+                     /product="internal transcribed spacer 1"
+     rRNA            248..415
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        416..628
+                     /product="internal transcribed spacer 2"
+     rRNA            629..>653
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 tcattgtcga tgcctaaacc aaccagtttg accggtgaac ccgtccacat ccacaacgca
+       61 agggtctggc tcgtcctctc ccctgcgggt tgagtgggag ggggccatca cgcctcgtgc
+      121 aggtggccac ccgtctccct cggccaaaca ctaaccccgg cgcttgacgt gccaaggaat
+      181 ctaaagctgt gttaggtgcg ccacccgggg acggcgtcca cgggcgtgtg cacgcactac
+      241 aagtcatatg taaaatgact ctcggcaacg gatatctcgg ctcttgcatc gatgaagaac
+      301 gtagcgaaat gcgatacttg gtgtgaattg cagaatcccg tgaaccatcg agtctttgaa
+      361 cgcaagttgc gcccaaagcc attaggttga gggcacgcct gcctgggtgt cacacatcgc
+      421 caccccccac accgaaacgt gcggcggggt gaaagctgac ctcccgcgag ccagttcctc
+      481 gtggttggtt gaaaagtaag ttcacggtgg agtcccccgc gataaaggtg gatgggcgac
+      541 gcccgagacc aatcgtgcgg tgcgactcca acgtatcgga cttgtgttga cccacgcgtc
+      601 ccgtgtgcaa accgagggcg ccatctgcga gacctcaggt caggcggggc tac
+//
+LOCUS       Y19432                   208 bp    DNA     linear   PLN 24-JAN-2002
+DEFINITION  Vigna adenantha DNA for internal transcribed spacer 2, clone R86I.
+ACCESSION   Y19432
+VERSION     Y19432.1
+KEYWORDS    internal transcribed spacer 2; ITS2.
+SOURCE      Leptospron adenanthum
+  ORGANISM  Leptospron adenanthum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Leptospron.
+REFERENCE   1
+  AUTHORS   Goel,S., Raina,S.N. and Ogihara,Y.
+  TITLE     Molecular evolution and phylogenetic implications of internal
+            transcribed spacer sequences of nuclear ribosomal DNA in the
+            Phaseolus-Vigna complex
+  JOURNAL   Mol. Phylogenet. Evol. 22 (1), 1-19 (2002)
+   PUBMED   11796025
+REFERENCE   2  (bases 1 to 208)
+  AUTHORS   Goel,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-DEC-1998) S. Goel, Laboratory of Cellular and
+            Molecular, Cytogenetics, c/o Professor S.N.Raina, Department of
+            Botany, University of Delhi, Delhi 110007, INDIA
+FEATURES             Location/Qualifiers
+     source          1..208
+                     /clone="R86I"
+                     /cultivar="NI343"
+                     /db_xref="taxon:77327"
+                     /mol_type="genomic DNA"
+                     /organism="Leptospron adenanthum"
+     misc_feature    1..208
+                     /note="internal transcribed spacer 2, ITS2"
+ORIGIN
+        1 atcgccaccc ccaccgaaac gtgggcgggg tgaaagctga cctcccgcga gccagtttct
+       61 cgtggttggt tgaaaagtaa gttcacggtg gagtccccgc gataaaaggt ggatgggcga
+      121 cgccgagacc aatcgtgcgg tgcgactcca acgtatcgga cttgtgttga cccacgcgtc
+      181 ccgtgtgcaa accgagggcg ccatctgc
+//
+LOCUS       Y19428                   242 bp    DNA     linear   PLN 24-JAN-2002
+DEFINITION  Vigna adenantha DNA for internal transcribed spacer 1, clone R86I.
+ACCESSION   Y19428
+VERSION     Y19428.1
+KEYWORDS    internal transcribed spacer 1; ITS1.
+SOURCE      Leptospron adenanthum
+  ORGANISM  Leptospron adenanthum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Leptospron.
+REFERENCE   1
+  AUTHORS   Goel,S., Raina,S.N. and Ogihara,Y.
+  TITLE     Molecular evolution and phylogenetic implications of internal
+            transcribed spacer sequences of nuclear ribosomal DNA in the
+            Phaseolus-Vigna complex
+  JOURNAL   Mol. Phylogenet. Evol. 22 (1), 1-19 (2002)
+   PUBMED   11796025
+REFERENCE   2  (bases 1 to 242)
+  AUTHORS   Goel,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-DEC-1998) S. Goel, Laboratory of Cellular and
+            Molecular, Cytogenetics, c/o Professor S.N.Raina, Department of
+            Botany, University of Delhi, Delhi 110007, INDIA
+FEATURES             Location/Qualifiers
+     source          1..242
+                     /clone="R86I"
+                     /cultivar="NI343"
+                     /db_xref="taxon:77327"
+                     /mol_type="genomic DNA"
+                     /organism="Leptospron adenanthum"
+     misc_feature    1..242
+                     /note="internal transcribed spacer 1, ITS1"
+ORIGIN
+        1 tcgatgccta aaccaaccag tttgaccggt gaacccgtcc acatccacaa cgcaagggtc
+       61 tggctcgtcc tctcccgtgc gggtcgagtg ggagggggcc atcacgcctc gtgcaggtgg
+      121 ccacccgtct ccctcgcgcc aaacactaac cccgcttgac gcgccaagga atctaaagct
+      181 gtgttaggtg cgccacccgg gacggcgtcc acggcgtgtg cacgcactac aagtcatatg
+      241 ta
+//

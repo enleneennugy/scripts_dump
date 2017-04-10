@@ -1,0 +1,199 @@
+LOCUS       KT459292                 115 bp    DNA     linear   PLN 07-FEB-2016
+DEFINITION  Psoralidium lanceolatum voucher Ahrendsen_24 internal transcribed
+            spacer 1 and 5.8S ribosomal RNA gene, partial sequence.
+ACCESSION   KT459292
+VERSION     KT459292.1
+KEYWORDS    .
+SOURCE      Ladeania lanceolata
+  ORGANISM  Ladeania lanceolata
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Ladeania.
+REFERENCE   1  (bases 1 to 115)
+  AUTHORS   Ahrendsen,D.L., Aust,S.K. and Kellar,P.R.
+  TITLE     Biodiversity assessment using next-generation sequencing: comparison
+            of phylogenetic and functional diversity between Nebraska grasslands
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 115)
+  AUTHORS   Ahrendsen,D.L., Aust,S.K. and Kellar,P.R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-AUG-2015) Biology, University of Nebraska, 6001 Dodge
+            Street, Omaha, NE 68182, USA
+FEATURES             Location/Qualifiers
+     source          1..115
+                     /collection_date="14-Jun-2013"
+                     /country="USA"
+                     /db_xref="taxon:109222"
+                     /mol_type="genomic DNA"
+                     /organism="Ladeania lanceolata"
+                     /specimen_voucher="Ahrendsen_24"
+     misc_RNA        <1..>115
+                     /note="contains internal transcribed spacer 1 and 5.8S
+                     ribosomal RNA"
+ORIGIN
+        1 atgactctcg gcaacggata tctcggctct tgcatcgatg aagaacgtag cgaaatgcga
+       61 tacttggtgt gaattgcaga atcccgtgaa ccatcgagtc tttgaacgca agttg
+//
+LOCUS       EF517891                 630 bp    DNA     linear   PLN 04-MAR-2008
+DEFINITION  Psoralidium lanceolatum voucher Egan & Egan 153 (BRY) 18S ribosomal
+            RNA gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   EF517891
+VERSION     EF517891.1
+KEYWORDS    .
+SOURCE      Ladeania lanceolata
+  ORGANISM  Ladeania lanceolata
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Ladeania.
+REFERENCE   1  (bases 1 to 630)
+  AUTHORS   Egan,A.N. and Crandall,K.A.
+  TITLE     Incorporating gaps as phylogenetic characters across eight DNA
+            regions: ramifications for North American Psoraleeae (Leguminosae)
+  JOURNAL   Mol. Phylogenet. Evol. 46 (2), 532-546 (2008)
+   PUBMED   18039582
+REFERENCE   2  (bases 1 to 630)
+  AUTHORS   Egan,A.N. and Crandall,K.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2007) Microbiology and Molecular Biology, Brigham
+            Young University, 773 WIDB, Provo, UT 84602, USA
+FEATURES             Location/Qualifiers
+     source          1..630
+                     /db_xref="taxon:109222"
+                     /mol_type="genomic DNA"
+                     /organism="Ladeania lanceolata"
+                     /specimen_voucher="Egan & Egan 153 (BRY)"
+     rRNA            <1..10
+                     /product="18S ribosomal RNA"
+     misc_RNA        11..218
+                     /product="internal transcribed spacer 1"
+     rRNA            219..382
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        383..616
+                     /product="internal transcribed spacer 2"
+     rRNA            617..>630
+                     /product="28S ribosomal RNA"
+ORIGIN
+        1 ggatcattgt cgatgcccca aaaatcagac cgacccgcga acacgttaca cacgcaccgt
+       61 cgggggcggg cgacgcycgt cagagcgccc cccgctcccg gcaaaaacca aaccccggcg
+      121 cttcgtgcgc caaggaaatc gaacctgtcg agtgcggccc cccgacgtgg cccggagacg
+      181 gcgtcccgcg ggggagtccc cacgaagcaa ataccataca caatgactct cggcaacgga
+      241 tatctcggct cttgcatcga tgaagaacgt agcgaaatgc gatacttggt gtgaattgca
+      301 gaatcccgtg aaccatcgag tctttgaacg caagttgcgc ccgaagccat taggccgagg
+      361 gcacgcctgc ctgggtgtca cacatcgtca ccccccaaac tccccctccc tcccaccgng
+      421 gaggaaggtr agtgaggggc gtgcatgctg acctcccgag ggccacgtcc cgcggttggt
+      481 tcaaatccga gtccgtggcc gggtgcgccg tggtacaatg gtggatgggc taaccacgct
+      541 cgagaccaac cacgcgggcc ccgaccacag aactcttcga cgaccctatg cgtgccttca
+      601 ctggcatgct cccaacgaga cctcaggtca
+//
+LOCUS       EF517889                 630 bp    DNA     linear   PLN 04-MAR-2008
+DEFINITION  Psoralidium junceum voucher Egan & Egan 164 (BRY) 18S ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   EF517889
+VERSION     EF517889.1
+KEYWORDS    .
+SOURCE      Ladeania juncea
+  ORGANISM  Ladeania juncea
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Ladeania.
+REFERENCE   1  (bases 1 to 630)
+  AUTHORS   Egan,A.N. and Crandall,K.A.
+  TITLE     Incorporating gaps as phylogenetic characters across eight DNA
+            regions: ramifications for North American Psoraleeae (Leguminosae)
+  JOURNAL   Mol. Phylogenet. Evol. 46 (2), 532-546 (2008)
+   PUBMED   18039582
+REFERENCE   2  (bases 1 to 630)
+  AUTHORS   Egan,A.N. and Crandall,K.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2007) Microbiology and Molecular Biology, Brigham
+            Young University, 773 WIDB, Provo, UT 84602, USA
+FEATURES             Location/Qualifiers
+     source          1..630
+                     /db_xref="taxon:458384"
+                     /mol_type="genomic DNA"
+                     /organism="Ladeania juncea"
+                     /specimen_voucher="Egan & Egan 164 (BRY)"
+     rRNA            <1..10
+                     /product="18S ribosomal RNA"
+     misc_RNA        11..218
+                     /product="internal transcribed spacer 1"
+     rRNA            219..382
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        383..616
+                     /product="internal transcribed spacer 2"
+     rRNA            617..>630
+                     /product="28S ribosomal RNA"
+ORIGIN
+        1 ggatcattgt cgatgcctca aaaatcagac cgacccgcga acacgttaca cacgcaacgt
+       61 cgcgggcggg cgacgctcgt cagaacgcct cccgctcccg gcaaaaacca aaccccggcg
+      121 cttcgtgcgc caaggaaatc gaacctgtcg agtgcggccc cccgacgtgg cccggagacg
+      181 gcgtcacgcg ggggagtccc cacgaagcaa ataccacaca caacgactct cggcaacgga
+      241 tatctcggct cttgcatcga tgaagaacgt agcgaaatgc gatacttggt gtgaattgca
+      301 gaatcccgtg aaccatcgag tctttgaacg caagttgcgc ccgaagccat taggccgagg
+      361 gcacgcctgc ctgggtgtca cacatcgtca ccccccaaac tccccctccc tcccaccgcg
+      421 gagggaggta agtgaggggc gtgcatgctg acctcccgag ggccacgtcc cgcggttggt
+      481 tcaaatccga gtccgtggcc gggtgcgccg tggtacaatg gtggatgggc taaccacgct
+      541 cgagaccaac cacgcgggcc ccgacctcag aactcttcga cgaccctacg catgccttca
+      601 ctggcacgct cccaacgaga cctcaggtca
+//
+LOCUS       EF517840                 630 bp    DNA     linear   PLN 04-MAR-2008
+DEFINITION  Psoralidium lanceolatum voucher Egan & Egan 150 (BRY) 18S ribosomal
+            RNA gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   EF517840
+VERSION     EF517840.1
+KEYWORDS    .
+SOURCE      Ladeania lanceolata
+  ORGANISM  Ladeania lanceolata
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Ladeania.
+REFERENCE   1  (bases 1 to 630)
+  AUTHORS   Egan,A.N. and Crandall,K.A.
+  TITLE     Incorporating gaps as phylogenetic characters across eight DNA
+            regions: ramifications for North American Psoraleeae (Leguminosae)
+  JOURNAL   Mol. Phylogenet. Evol. 46 (2), 532-546 (2008)
+   PUBMED   18039582
+REFERENCE   2  (bases 1 to 630)
+  AUTHORS   Egan,A.N. and Crandall,K.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2007) Microbiology and Molecular Biology, Brigham
+            Young University, 773 WIDB, Provo, UT 84602, USA
+FEATURES             Location/Qualifiers
+     source          1..630
+                     /db_xref="taxon:109222"
+                     /mol_type="genomic DNA"
+                     /organism="Ladeania lanceolata"
+                     /specimen_voucher="Egan & Egan 150 (BRY)"
+     rRNA            <1..10
+                     /product="18S ribosomal RNA"
+     misc_RNA        11..218
+                     /product="internal transcribed spacer 1"
+     rRNA            219..382
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        383..616
+                     /product="internal transcribed spacer 2"
+     rRNA            617..>630
+                     /product="28S ribosomal RNA"
+ORIGIN
+        1 ggatcattgt cgatgcccca aaaatcagac cgacccgcga acacgttaca cacgcaccgt
+       61 cgggggcggg cgacgcccgt cagagcgccc cccgctcccg gcaaaaacca aaccccggcg
+      121 cttcgtgcgc caaggaaatc gaacctgtcg agtgcggccc cccgacgtgg cccggagacg
+      181 gcgtcccgcg ggggagtccc cacgaagcaa ataccataca caatgactct cggcaacgga
+      241 tatctcggct cttgcatcga tgaagaacgt agcgaaatgc gatacttggt gtgaattgca
+      301 gaatcccgtg aaccatcgag tctttgaacg caagttgcgc ccgaagccat taggccgagg
+      361 gcacgcctgc ctgggtgtca cacatcgtca ccccccaaac tccccctccc tcccaccgcg
+      421 gaggaaggta agtgaggggc gtgcatgctg acctcccgag ggccacgtcc cgcggttggt
+      481 tcaaatccga gtccgtggcc gggtgcgccg tggtacaatg gtggatgggc taaccacgct
+      541 cgagaccaac cacgcgggcc ccgaccacag aactcttcga cgaccctatg cgtgccttca
+      601 ctggcatgct cccaacgaga cctcaggtca
+//

@@ -87,7 +87,7 @@ for genus in list_genus:
             try:
                 handle = Entrez.efetch(db="nucleotide", id=accessions, rettype="gb", retmode="text")
             except HTTPError:
-                time.sleep(10)
+                time.sleep(20)
                 handle = Entrez.efetch(db="nucleotide", id=accessions, rettype="gb", retmode="text")
             record = SeqIO.read(handle, "genbank")
             print ("\t\t\t" + record.name)+"\t" + str(len(record))

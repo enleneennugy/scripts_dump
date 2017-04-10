@@ -1,0 +1,907 @@
+LOCUS       KT696077                 355 bp    DNA     linear   PLN 16-JUL-2016
+DEFINITION  Mucuna stanleyi voucher L. J. Brass 24277 (L) 5.8S ribosomal RNA
+            gene and internal transcribed spacer 2, partial sequence.
+ACCESSION   KT696077
+VERSION     KT696077.1
+KEYWORDS    .
+SOURCE      Mucuna stanleyi
+  ORGANISM  Mucuna stanleyi
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Mucuna.
+REFERENCE   1  (bases 1 to 355)
+  AUTHORS   de Moura,T.M., Vatanparast,M., Tozzi,A.M.G.A., Forest,F.,
+            Wilmot-Dear,M., Simon,M.F., Mansano,V.F., Kajita,T. and Lewis,G.P.
+  TITLE     A molecular phylogeny and new infrageneric classification of Mucuna
+            adans. (Leguminosae-Papilionoideae) including insights from
+            morphology and hypotheses about biogeography
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 355)
+  AUTHORS   de Moura,T.M., Vatanparast,M., Tozzi,A.M.G.A., Forest,F.,
+            Wilmot-Dear,M., Simon,M.F., Mansano,V.F., Kajita,T. and Lewis,G.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-SEP-2015) Jodrell Laboratory, Royal Botanic Gardens,
+            Kew, Richmond, UK
+FEATURES             Location/Qualifiers
+     source          1..355
+                     /country="Papua New Guinea"
+                     /db_xref="taxon:1747499"
+                     /mol_type="genomic DNA"
+                     /organism="Mucuna stanleyi"
+                     /specimen_voucher="L. J. Brass 24277 (L)"
+     misc_RNA        <1..>355
+                     /note="contains 5.8S ribosomal RNA and internal transcribed
+                     spacer 2"
+ORIGIN
+        1 catcgantga agaacgcagc gaaatgcgat acttggtgtg aattgcagaa tcccgtgaac
+       61 catcgagtct ttgaacgcaa gttgcgcccg aagccattag gctgagggca cgcctgcctg
+      121 ggtgtcacac atcgttaccc taaagcaaan cgtnncccat gtgcgtgtgc agggtggaag
+      181 ctgacctccc gtgggccacg actcgcggct ggttgaaaat gcagttcatg gttgagaatg
+      241 ccgtgataaa atggtggatg agcattgctc nngagaccaa tcgcgtgcta ctcagctaat
+      301 tttggactgc ttgacccaga tgcatcctcg ctcggannnt gctcccaann cgaga
+//
+LOCUS       KT696076                 173 bp    DNA     linear   PLN 16-JUL-2016
+DEFINITION  Mucuna argentea voucher B. Kats & A. van Dulmen AVD 265 (K) 18S
+            ribosomal RNA gene and internal transcribed spacer 1, partial
+            sequence.
+ACCESSION   KT696076
+VERSION     KT696076.1
+KEYWORDS    .
+SOURCE      Mucuna argentea
+  ORGANISM  Mucuna argentea
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Mucuna.
+REFERENCE   1  (bases 1 to 173)
+  AUTHORS   de Moura,T.M., Vatanparast,M., Tozzi,A.M.G.A., Forest,F.,
+            Wilmot-Dear,M., Simon,M.F., Mansano,V.F., Kajita,T. and Lewis,G.P.
+  TITLE     A molecular phylogeny and new infrageneric classification of Mucuna
+            adans. (Leguminosae-Papilionoideae) including insights from
+            morphology and hypotheses about biogeography
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 173)
+  AUTHORS   de Moura,T.M., Vatanparast,M., Tozzi,A.M.G.A., Forest,F.,
+            Wilmot-Dear,M., Simon,M.F., Mansano,V.F., Kajita,T. and Lewis,G.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-SEP-2015) Jodrell Laboratory, Royal Botanic Gardens,
+            Kew, Richmond, UK
+FEATURES             Location/Qualifiers
+     source          1..173
+                     /country="Colombia"
+                     /db_xref="taxon:1747496"
+                     /mol_type="genomic DNA"
+                     /organism="Mucuna argentea"
+                     /specimen_voucher="B. Kats & A. van Dulmen AVD 265 (K)"
+     misc_RNA        <1..>173
+                     /note="contains 18S ribosomal RNA and internal transcribed
+                     spacer 1"
+ORIGIN
+        1 tggaagtaaa agtcgtaaca aggtttccgt aggtgaacct gcggaaggat cattgtcgtt
+       61 gcctcacaca atcagtttga ccggtgaatc tgtttatcat ccaccctcac cggggttagc
+      121 tcggggttgt tgttctcgaa cacctacctc gtccttcctc gggttggcgg gag
+//
+LOCUS       KT696075                 788 bp    DNA     linear   PLN 16-JUL-2016
+DEFINITION  Mucuna warburgii voucher S. Lenean 1443 (K) 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   KT696075
+VERSION     KT696075.1
+KEYWORDS    .
+SOURCE      Mucuna warburgii
+  ORGANISM  Mucuna warburgii
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Mucuna.
+REFERENCE   1  (bases 1 to 788)
+  AUTHORS   de Moura,T.M., Vatanparast,M., Tozzi,A.M.G.A., Forest,F.,
+            Wilmot-Dear,M., Simon,M.F., Mansano,V.F., Kajita,T. and Lewis,G.P.
+  TITLE     A molecular phylogeny and new infrageneric classification of Mucuna
+            adans. (Leguminosae-Papilionoideae) including insights from
+            morphology and hypotheses about biogeography
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 788)
+  AUTHORS   de Moura,T.M., Vatanparast,M., Tozzi,A.M.G.A., Forest,F.,
+            Wilmot-Dear,M., Simon,M.F., Mansano,V.F., Kajita,T. and Lewis,G.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-SEP-2015) Jodrell Laboratory, Royal Botanic Gardens,
+            Kew, Richmond, UK
+FEATURES             Location/Qualifiers
+     source          1..788
+                     /country="Papua New Guinea"
+                     /db_xref="taxon:1032650"
+                     /mol_type="genomic DNA"
+                     /organism="Mucuna warburgii"
+                     /specimen_voucher="S. Lenean 1443 (K)"
+     misc_RNA        <1..>788
+                     /note="contains 18S ribosomal RNA, internal transcribed
+                     spacer 1, 5.8S ribosomal RNA, internal transcribed spacer
+                     2, and 28S ribosomal RNA"
+ORIGIN
+        1 ttatcattta gaggaaggag aagtcgtaac aaggtttccg taggtgaacc tgcggaagga
+       61 tcattgtcgt tgtctaacac aatcagtttg accggtgaat ctgtttatca tccaccctca
+      121 ccggggctag gtcggggctg ttgttgttct ccaacaccta ccccgtcctt cctcgggttg
+      181 gcgggaggtg gttgctcagc tcttgtgcta tgnnnctcct cctcctgtcg aactaaaacc
+      241 ccggcgcttc gtgtgccaag gaatctgaaa attgttcggt gcaattttcg cggacccgga
+      301 cacggtgatc tcgcgngacc ttgccacacg acacacgata caaaatgact ctcggcaacg
+      361 gatatctcgg ctcttgcatc gatgaagaac gtagcgaaat gcgatacttg gtgtgaattg
+      421 cagaatcccg tgannaccat cgagtctttg aacgcaagtt gcgcccgaag ccattaggct
+      481 gagggcacgc ctgcctgggt gtcacacatc gttaccctaa agcaaancgt cccatgtgcg
+      541 tgtgcagggt ggaagctgac ctcccgcggg caagactcgc ggctggttga aaatgcagtt
+      601 catggttgag aatgccgtga taaaatggtg gatgagcatt gnnctcnnga gaccaatcgc
+      661 gtgctactca gctaaatttg gactccttga cccnnnnaga tgcatcctcc ctcggatgct
+      721 cccaanncga gannncctca ggtnnnnnnn nnnnncaggc ggggccaccc gctgagttta
+      781 agcatatc
+//
+LOCUS       KT696073                 266 bp    DNA     linear   PLN 16-JUL-2016
+DEFINITION  Mucuna stenoplax voucher T. Kajita s./n. (FU) 5.8S ribosomal RNA
+            gene and internal transcribed spacer 2, partial sequence.
+ACCESSION   KT696073
+VERSION     KT696073.1
+KEYWORDS    .
+SOURCE      Mucuna stenoplax
+  ORGANISM  Mucuna stenoplax
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Mucuna.
+REFERENCE   1  (bases 1 to 266)
+  AUTHORS   de Moura,T.M., Vatanparast,M., Tozzi,A.M.G.A., Forest,F.,
+            Wilmot-Dear,M., Simon,M.F., Mansano,V.F., Kajita,T. and Lewis,G.P.
+  TITLE     A molecular phylogeny and new infrageneric classification of Mucuna
+            adans. (Leguminosae-Papilionoideae) including insights from
+            morphology and hypotheses about biogeography
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 266)
+  AUTHORS   de Moura,T.M., Vatanparast,M., Tozzi,A.M.G.A., Forest,F.,
+            Wilmot-Dear,M., Simon,M.F., Mansano,V.F., Kajita,T. and Lewis,G.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-SEP-2015) Jodrell Laboratory, Royal Botanic Gardens,
+            Kew, Richmond, UK
+FEATURES             Location/Qualifiers
+     source          1..266
+                     /db_xref="taxon:1848242"
+                     /isolation_source="Asia"
+                     /mol_type="genomic DNA"
+                     /organism="Mucuna stenoplax"
+                     /specimen_voucher="T. Kajita s./n. (FU)"
+     misc_RNA        <1..>266
+                     /note="contains 5.8S ribosomal RNA and internal transcribed
+                     spacer 2"
+ORIGIN
+        1 tttgaacgca agttgcgccc gaagccatta ggttgagggc acgcctgcct gggtgtcaca
+       61 catcgttacc ctaaagcaaa ncgtnnctca tgtgcgtgtg cagggtggaa gctgacctcc
+      121 cgtggggcac gactctcgcg gctggttgaa aatggagttc atggttgaga atgcaccgtg
+      181 ataaaatggt ggatgagcgt tgnctcnnga gaccnnaatc gcgtgctact cagttaattt
+      241 tggactcttt gacccagatg cgtcgt
+//
+LOCUS       KT696072                 297 bp    DNA     linear   PLN 16-JUL-2016
+DEFINITION  Mucuna stans voucher F. Furuya 95 (MO) 5.8S ribosomal RNA gene and
+            internal transcribed spacer 2, partial sequence.
+ACCESSION   KT696072
+VERSION     KT696072.1
+KEYWORDS    .
+SOURCE      Mucuna stans
+  ORGANISM  Mucuna stans
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Mucuna.
+REFERENCE   1  (bases 1 to 297)
+  AUTHORS   de Moura,T.M., Vatanparast,M., Tozzi,A.M.G.A., Forest,F.,
+            Wilmot-Dear,M., Simon,M.F., Mansano,V.F., Kajita,T. and Lewis,G.P.
+  TITLE     A molecular phylogeny and new infrageneric classification of Mucuna
+            adans. (Leguminosae-Papilionoideae) including insights from
+            morphology and hypotheses about biogeography
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 297)
+  AUTHORS   de Moura,T.M., Vatanparast,M., Tozzi,A.M.G.A., Forest,F.,
+            Wilmot-Dear,M., Simon,M.F., Mansano,V.F., Kajita,T. and Lewis,G.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-SEP-2015) Jodrell Laboratory, Royal Botanic Gardens,
+            Kew, Richmond, UK
+FEATURES             Location/Qualifiers
+     source          1..297
+                     /country="Tanzania"
+                     /db_xref="taxon:1848241"
+                     /mol_type="genomic DNA"
+                     /organism="Mucuna stans"
+                     /specimen_voucher="F. Furuya 95 (MO)"
+     misc_RNA        <1..>297
+                     /note="contains 5.8S ribosomal RNA and internal transcribed
+                     spacer 2"
+ORIGIN
+        1 tttgaacgca agttgcgccc gaagccatta ggccgagggc acgcctgcct gggtgtcaca
+       61 catcgttacc caaaagcaaa ncgcnnnctc acacggcgca cgcgcggggt ggatgctgac
+      121 ctcccgcgag caccgtctcg tggatggttg aaaaccgagt ccgcggccng agctcgccgc
+      181 gacaaaatgg tggatgagcg atgctcnnga gaccagtcgc gcgcgacccg gccaaggccg
+      241 gactccccga ccctacatgc gtccacgaan cgctcccagn ncgagannnc ctcangt
+//
+LOCUS       KT696071                 295 bp    DNA     linear   PLN 16-JUL-2016
+DEFINITION  Mucuna stanleyi voucher Hopkins & Hopkins 1018 (K) 18S ribosomal RNA
+            gene and internal transcribed spacer 1, partial sequence.
+ACCESSION   KT696071
+VERSION     KT696071.1
+KEYWORDS    .
+SOURCE      Mucuna stanleyi
+  ORGANISM  Mucuna stanleyi
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Mucuna.
+REFERENCE   1  (bases 1 to 295)
+  AUTHORS   de Moura,T.M., Vatanparast,M., Tozzi,A.M.G.A., Forest,F.,
+            Wilmot-Dear,M., Simon,M.F., Mansano,V.F., Kajita,T. and Lewis,G.P.
+  TITLE     A molecular phylogeny and new infrageneric classification of Mucuna
+            adans. (Leguminosae-Papilionoideae) including insights from
+            morphology and hypotheses about biogeography
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 295)
+  AUTHORS   de Moura,T.M., Vatanparast,M., Tozzi,A.M.G.A., Forest,F.,
+            Wilmot-Dear,M., Simon,M.F., Mansano,V.F., Kajita,T. and Lewis,G.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-SEP-2015) Jodrell Laboratory, Royal Botanic Gardens,
+            Kew, Richmond, UK
+FEATURES             Location/Qualifiers
+     source          1..295
+                     /country="Papua New Guinea"
+                     /db_xref="taxon:1747499"
+                     /mol_type="genomic DNA"
+                     /organism="Mucuna stanleyi"
+                     /specimen_voucher="Hopkins & Hopkins 1018 (K)"
+     misc_RNA        <1..>295
+                     /note="contains 18S ribosomal RNA and internal transcribed
+                     spacer 1"
+ORIGIN
+        1 tggaagtaaa agtcgtaaca aggtttccgt aggtgaacct gcggaaggat cattgtcgtt
+       61 gtctaacaca atcagtttga ccggtgaatc tgtttatcat ccaccctcac cggggctagg
+      121 tcggggctgt tgttgttctc caacacctac cctgtccttc ctcgggttgg cgggaggtgg
+      181 ttgctctgct ccngtgctat gctcctcctc ctgtcaaact aaaaccccgg cgcttagtgt
+      241 gccaaggaat ttgaaaattg ttcggtgcaa ttttcgcgga cccggacacg gtgat
+//
+LOCUS       KT696070                 640 bp    DNA     linear   PLN 16-JUL-2016
+DEFINITION  Mucuna sloanei voucher T. M. Moura 1005 (UEC) internal transcribed
+            spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete
+            sequence; and internal transcribed spacer 2, partial sequence.
+ACCESSION   KT696070
+VERSION     KT696070.1
+KEYWORDS    .
+SOURCE      Mucuna sloanei
+  ORGANISM  Mucuna sloanei
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Mucuna.
+REFERENCE   1  (bases 1 to 640)
+  AUTHORS   de Moura,T.M., Vatanparast,M., Tozzi,A.M.G.A., Forest,F.,
+            Wilmot-Dear,M., Simon,M.F., Mansano,V.F., Kajita,T. and Lewis,G.P.
+  TITLE     A molecular phylogeny and new infrageneric classification of Mucuna
+            adans. (Leguminosae-Papilionoideae) including insights from
+            morphology and hypotheses about biogeography
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 640)
+  AUTHORS   de Moura,T.M., Vatanparast,M., Tozzi,A.M.G.A., Forest,F.,
+            Wilmot-Dear,M., Simon,M.F., Mansano,V.F., Kajita,T. and Lewis,G.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-SEP-2015) Jodrell Laboratory, Royal Botanic Gardens,
+            Kew, Richmond, UK
+FEATURES             Location/Qualifiers
+     source          1..640
+                     /country="Brazil"
+                     /db_xref="taxon:202240"
+                     /mol_type="genomic DNA"
+                     /organism="Mucuna sloanei"
+                     /specimen_voucher="T. M. Moura 1005 (UEC)"
+     misc_RNA        <1..>640
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, and internal transcribed spacer 2"
+ORIGIN
+        1 ctgcggaagg atcattgtcg ttgcctcaca caatcagttc gaccggcgaa tctatttatc
+       61 atccaccctc accggggcta ggtcggggtt gttgttctcg aacacctacc tcgtcctacc
+      121 tcgggttggc gggaggtggt tgcctcgtgc tcctcctccc gtcgaacaaa aaccccggcg
+      181 cttcgtgtgc caaggaattc gaaanttgtt cggtgcaatt tttgcggacc cggagacggt
+      241 gatcttgcgn gaccttgcca cgacacacga tacaaaatga ctctcggcaa cggatatctc
+      301 ggctcttgca tcgannntga agaacgtagc gaaatgcgat acttggtgtg aattgcagaa
+      361 tcccgtgaac catcgagtct ttgaacgcaa gttgcgcccg aagccattag gttgagggca
+      421 cgcctgcctg ggtgtcacac atcgttaccc taaagcaaac gcnnctgatg cgcgcgtgca
+      481 gggtggaagc tgacctcccg tgggccacga ctcgcggctg gttgaaaatg gagttcatgg
+      541 ttgagaatgc cgtgataaaa tggtggatga gcgttgctcn ngagaccnna atcgcgtgtg
+      601 actctcagtc aattttggac tctctgaccc agatgcgtcc
+//
+LOCUS       KT696069                 304 bp    DNA     linear   PLN 16-JUL-2016
+DEFINITION  Mucuna sempervirens voucher D.E. Boufford (L 0254117) internal
+            transcribed spacer 1 and 5.8S ribosomal RNA gene, partial sequence.
+ACCESSION   KT696069
+VERSION     KT696069.1
+KEYWORDS    .
+SOURCE      Mucuna sempervirens
+  ORGANISM  Mucuna sempervirens
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Mucuna.
+REFERENCE   1  (bases 1 to 304)
+  AUTHORS   de Moura,T.M., Vatanparast,M., Tozzi,A.M.G.A., Forest,F.,
+            Wilmot-Dear,M., Simon,M.F., Mansano,V.F., Kajita,T. and Lewis,G.P.
+  TITLE     A molecular phylogeny and new infrageneric classification of Mucuna
+            adans. (Leguminosae-Papilionoideae) including insights from
+            morphology and hypotheses about biogeography
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 304)
+  AUTHORS   de Moura,T.M., Vatanparast,M., Tozzi,A.M.G.A., Forest,F.,
+            Wilmot-Dear,M., Simon,M.F., Mansano,V.F., Kajita,T. and Lewis,G.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-SEP-2015) Jodrell Laboratory, Royal Botanic Gardens,
+            Kew, Richmond, UK
+FEATURES             Location/Qualifiers
+     source          1..304
+                     /country="China"
+                     /db_xref="taxon:690556"
+                     /mol_type="genomic DNA"
+                     /organism="Mucuna sempervirens"
+                     /specimen_voucher="D.E. Boufford (L 0254117)"
+     misc_RNA        <1..>304
+                     /note="contains internal transcribed spacer 1 and 5.8S
+                     ribosomal RNA"
+ORIGIN
+        1 gcctcgcaca accagtccga ccggcgaacc cgttaatcat ctcactcacc ggggccggcc
+       61 cgggggcgct gttcgttctc ggacaccgac cccgtgcccc cccgggttgg cgggagaagg
+      121 tcgccccgcg cgcaccccct cccgtcgaac acaaaccccg gcgcttcgtg cgccaaggaa
+      181 ctcgaaacnt gttcagtgca atcttcgcgg gcccggagac ggcgatcccg cgngaccttg
+      241 tcacgacaca cgatacaaaa tgactctcgg caacggatat ctcggctctn ttgcagaatc
+      301 ccgt
+//
+LOCUS       KT696067                 668 bp    DNA     linear   PLN 16-JUL-2016
+DEFINITION  Mucuna samarensis voucher C. E. Ridsdale (L 0396765) 18S ribosomal
+            RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S
+            ribosomal RNA gene, complete sequence; and internal transcribed
+            spacer 2, partial sequence.
+ACCESSION   KT696067
+VERSION     KT696067.1
+KEYWORDS    .
+SOURCE      Mucuna samarensis
+  ORGANISM  Mucuna samarensis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Mucuna.
+REFERENCE   1  (bases 1 to 668)
+  AUTHORS   de Moura,T.M., Vatanparast,M., Tozzi,A.M.G.A., Forest,F.,
+            Wilmot-Dear,M., Simon,M.F., Mansano,V.F., Kajita,T. and Lewis,G.P.
+  TITLE     A molecular phylogeny and new infrageneric classification of Mucuna
+            adans. (Leguminosae-Papilionoideae) including insights from
+            morphology and hypotheses about biogeography
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 668)
+  AUTHORS   de Moura,T.M., Vatanparast,M., Tozzi,A.M.G.A., Forest,F.,
+            Wilmot-Dear,M., Simon,M.F., Mansano,V.F., Kajita,T. and Lewis,G.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-SEP-2015) Jodrell Laboratory, Royal Botanic Gardens,
+            Kew, Richmond, UK
+FEATURES             Location/Qualifiers
+     source          1..668
+                     /country="Philippines"
+                     /db_xref="taxon:1848239"
+                     /mol_type="genomic DNA"
+                     /organism="Mucuna samarensis"
+                     /specimen_voucher="C. E. Ridsdale (L 0396765)"
+     misc_RNA        <1..>668
+                     /note="contains 18S ribosomal RNA, internal transcribed
+                     spacer 1, 5.8S ribosomal RNA, and internal transcribed
+                     spacer 2"
+ORIGIN
+        1 aggtttccgt aggtgaacct gcggaaggat cattgtcgtt atctcacaaa tcagttcgac
+       61 cggtgaatct gtttatcatc caccctcacc ggggctagct cggggttgtt gttgttctcc
+      121 aacacctacc tcgtccttcc tcggtttggt tggcgggagg tggttgcctt gtcctcctcc
+      181 tcccgccgaa ctaaaacccc ggcgcttcgt gtgccaagga atttgaaaat tgttcggtgc
+      241 aattttcgcg gacccggaca cggtgatctc gcgngacctt gccacgacac acgatacaaa
+      301 atgactctcg gcaacggata tctcggctct tgcatcgatg aagaagaaat gcgatacttg
+      361 gtgtgaattg cagaatcccg tgaaccatcg agtctttgaa cgcaagttgc gcccgaagcc
+      421 attaggttga gggcacgcct gcctgggtgt cacacatcgt taccctaaag caaancgtct
+      481 catgtgcgtg tgcagggtgg aagctgacct cccgtggggc acgactctcg cggttggttg
+      541 aaaatggagt tcatggttga gaatgccgtg ataaaatggt ggatgagcgt tgctcnngag
+      601 accnnaatcg cgtgctactc agttaatttt ggactctttg acccatatgc gtccccggac
+      661 gctcccaa
+//
+LOCUS       KT696066                 314 bp    DNA     linear   PLN 16-JUL-2016
+DEFINITION  Mucuna rostrata voucher M. Simon 1639 (CEN) internal transcribed
+            spacer 1 and 5.8S ribosomal RNA gene, partial sequence.
+ACCESSION   KT696066
+VERSION     KT696066.1
+KEYWORDS    .
+SOURCE      Mucuna rostrata
+  ORGANISM  Mucuna rostrata
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Mucuna.
+REFERENCE   1  (bases 1 to 314)
+  AUTHORS   de Moura,T.M., Vatanparast,M., Tozzi,A.M.G.A., Forest,F.,
+            Wilmot-Dear,M., Simon,M.F., Mansano,V.F., Kajita,T. and Lewis,G.P.
+  TITLE     A molecular phylogeny and new infrageneric classification of Mucuna
+            adans. (Leguminosae-Papilionoideae) including insights from
+            morphology and hypotheses about biogeography
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 314)
+  AUTHORS   de Moura,T.M., Vatanparast,M., Tozzi,A.M.G.A., Forest,F.,
+            Wilmot-Dear,M., Simon,M.F., Mansano,V.F., Kajita,T. and Lewis,G.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-SEP-2015) Jodrell Laboratory, Royal Botanic Gardens,
+            Kew, Richmond, UK
+FEATURES             Location/Qualifiers
+     source          1..314
+                     /country="Brazil"
+                     /db_xref="taxon:1504188"
+                     /mol_type="genomic DNA"
+                     /organism="Mucuna rostrata"
+                     /specimen_voucher="M. Simon 1639 (CEN)"
+     misc_RNA        <1..>314
+                     /note="contains internal transcribed spacer 1 and 5.8S
+                     ribosomal RNA"
+ORIGIN
+        1 tgtcgttgcg tcacacaatc aatttgaccg gtgaacctgt ttatcatcca ccctcatcgg
+       61 ggctagctcg gggttgttgt tctcgaacac ttacctcgtc cttcctcggg ttggcggggg
+      121 gtggttgcct cgtgctcctc ctcccgtcga acaaaaaccc cggcgcttcg tgtgccaagg
+      181 aatttgaaan ttgttcggtg caatttttgc ggacccggag acggtgatct tgcgngacct
+      241 tgccaggaca cacgatacaa aatgactctc ggcaacggat atcttggctc ttgcatcgat
+      301 gaacagaatc ccgt
+//
+LOCUS       KT696065                 296 bp    DNA     linear   PLN 16-JUL-2016
+DEFINITION  Mucuna pruriens var. utilis voucher Z. T. Almeida 002 (MO) internal
+            transcribed spacer 1 and 5.8S ribosomal RNA gene, partial sequence.
+ACCESSION   KT696065
+VERSION     KT696065.1
+KEYWORDS    .
+SOURCE      Mucuna pruriens var. utilis
+  ORGANISM  Mucuna pruriens var. utilis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Mucuna.
+REFERENCE   1  (bases 1 to 296)
+  AUTHORS   de Moura,T.M., Vatanparast,M., Tozzi,A.M.G.A., Forest,F.,
+            Wilmot-Dear,M., Simon,M.F., Mansano,V.F., Kajita,T. and Lewis,G.P.
+  TITLE     A molecular phylogeny and new infrageneric classification of Mucuna
+            adans. (Leguminosae-Papilionoideae) including insights from
+            morphology and hypotheses about biogeography
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 296)
+  AUTHORS   de Moura,T.M., Vatanparast,M., Tozzi,A.M.G.A., Forest,F.,
+            Wilmot-Dear,M., Simon,M.F., Mansano,V.F., Kajita,T. and Lewis,G.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-SEP-2015) Jodrell Laboratory, Royal Botanic Gardens,
+            Kew, Richmond, UK
+FEATURES             Location/Qualifiers
+     source          1..296
+                     /country="Ecuador"
+                     /db_xref="taxon:40337"
+                     /mol_type="genomic DNA"
+                     /organism="Mucuna pruriens var. utilis"
+                     /specimen_voucher="Z. T. Almeida 002 (MO)"
+                     /variety="utilis"
+     misc_RNA        <1..>296
+                     /note="contains internal transcribed spacer 1 and 5.8S
+                     ribosomal RNA"
+ORIGIN
+        1 acaacaagtt cgaccggcga acccgttcat cacaggacaa gttcgatcgg ggctggctcg
+       61 ggggagctgt tctcgaacac cgaccccgtc ctccccgacc cgagctggcg agaggcggtc
+      121 gccccgcgca cctcctctcg ccaaaacaca aaccccggcg cttcgtgcgc caaggaactc
+      181 gaaacntgtt aagtgcaatg ttcgcgggcc cggagacggc gaccccgcgn gaccttgcca
+      241 cgacacacaa catacaaaat gactctcggc aacggatatc tcggctcttg catcga
+//
+LOCUS       KT696064                 308 bp    DNA     linear   PLN 16-JUL-2016
+DEFINITION  Mucuna pruriens var. utilis voucher Z. T. Almeida 002 (MO) internal
+            transcribed spacer 1 and 5.8S ribosomal RNA gene, partial sequence.
+ACCESSION   KT696064
+VERSION     KT696064.1
+KEYWORDS    .
+SOURCE      Mucuna pruriens var. utilis
+  ORGANISM  Mucuna pruriens var. utilis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Mucuna.
+REFERENCE   1  (bases 1 to 308)
+  AUTHORS   de Moura,T.M., Vatanparast,M., Tozzi,A.M.G.A., Forest,F.,
+            Wilmot-Dear,M., Simon,M.F., Mansano,V.F., Kajita,T. and Lewis,G.P.
+  TITLE     A molecular phylogeny and new infrageneric classification of Mucuna
+            adans. (Leguminosae-Papilionoideae) including insights from
+            morphology and hypotheses about biogeography
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 308)
+  AUTHORS   de Moura,T.M., Vatanparast,M., Tozzi,A.M.G.A., Forest,F.,
+            Wilmot-Dear,M., Simon,M.F., Mansano,V.F., Kajita,T. and Lewis,G.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-SEP-2015) Jodrell Laboratory, Royal Botanic Gardens,
+            Kew, Richmond, UK
+FEATURES             Location/Qualifiers
+     source          1..308
+                     /country="Ecuador"
+                     /db_xref="taxon:40337"
+                     /mol_type="genomic DNA"
+                     /organism="Mucuna pruriens var. utilis"
+                     /specimen_voucher="Z. T. Almeida 002 (MO)"
+                     /variety="utilis"
+     misc_RNA        <1..>308
+                     /note="contains internal transcribed spacer 1 and 5.8S
+                     ribosomal RNA"
+ORIGIN
+        1 ttgtcgttgc ctcaaacaag ttcgaccggc gaacccgttc atcacaggac aagttcgatc
+       61 ggggctggct cgggggagct gttctcgaac accgaccccg tcctccccga cccgagctgg
+      121 cgagaggcgg tcgccccgcg cacctcctct cgccaaaaca caaaccccgg cgcttcgtgc
+      181 gccaaggaac tcgaaacntg ttaagtgcaa tgttcgcggg cccggagacg gcgaccccgc
+      241 gngaccttgc cacgacacac aacatacaaa atgactctcg gcaacggata tctcggctct
+      301 tgcatcga
+//
+LOCUS       KT696063                 286 bp    DNA     linear   PLN 16-JUL-2016
+DEFINITION  Mucuna pruriens var. utilis voucher T. M. Moura 994 (UEC) internal
+            transcribed spacer 1 and 5.8S ribosomal RNA gene, partial sequence.
+ACCESSION   KT696063
+VERSION     KT696063.1
+KEYWORDS    .
+SOURCE      Mucuna pruriens var. utilis
+  ORGANISM  Mucuna pruriens var. utilis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Mucuna.
+REFERENCE   1  (bases 1 to 286)
+  AUTHORS   de Moura,T.M., Vatanparast,M., Tozzi,A.M.G.A., Forest,F.,
+            Wilmot-Dear,M., Simon,M.F., Mansano,V.F., Kajita,T. and Lewis,G.P.
+  TITLE     A molecular phylogeny and new infrageneric classification of Mucuna
+            adans. (Leguminosae-Papilionoideae) including insights from
+            morphology and hypotheses about biogeography
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 286)
+  AUTHORS   de Moura,T.M., Vatanparast,M., Tozzi,A.M.G.A., Forest,F.,
+            Wilmot-Dear,M., Simon,M.F., Mansano,V.F., Kajita,T. and Lewis,G.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-SEP-2015) Jodrell Laboratory, Royal Botanic Gardens,
+            Kew, Richmond, UK
+FEATURES             Location/Qualifiers
+     source          1..286
+                     /db_xref="taxon:40337"
+                     /mol_type="genomic DNA"
+                     /note="Cultivated in Brazil"
+                     /organism="Mucuna pruriens var. utilis"
+                     /specimen_voucher="T. M. Moura 994 (UEC)"
+                     /variety="utilis"
+     misc_RNA        <1..>286
+                     /note="contains internal transcribed spacer 1 and 5.8S
+                     ribosomal RNA"
+ORIGIN
+        1 atcacaggac aagttcgatc ggggctggct cgggggagct gttctcgaac accgaccccg
+       61 tcctccccga cccgagctgg cgagaggcgg tcgccccgcg cacctcctct cgccaaaaca
+      121 caaaccccgg cgcttcgtgc gccaaggaac tcgaaacntg ttaagtgcaa tgttcgcggg
+      181 cccggagacg gcgaccccgc gngaccttgc cacgacacac aacatacaaa atgactctcg
+      241 gcaacggata tctcggctct tgcatcggca gaatcccgtg nnccat
+//
+LOCUS       KT696061                 716 bp    DNA     linear   PLN 16-JUL-2016
+DEFINITION  Mucuna pruriens voucher R. Ramirez 26 (MO) 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1 and 5.8S ribosomal
+            RNA gene, complete sequence; and internal transcribed spacer 2,
+            partial sequence.
+ACCESSION   KT696061
+VERSION     KT696061.1
+KEYWORDS    .
+SOURCE      Mucuna pruriens
+  ORGANISM  Mucuna pruriens
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Mucuna.
+REFERENCE   1  (bases 1 to 716)
+  AUTHORS   de Moura,T.M., Vatanparast,M., Tozzi,A.M.G.A., Forest,F.,
+            Wilmot-Dear,M., Simon,M.F., Mansano,V.F., Kajita,T. and Lewis,G.P.
+  TITLE     A molecular phylogeny and new infrageneric classification of Mucuna
+            adans. (Leguminosae-Papilionoideae) including insights from
+            morphology and hypotheses about biogeography
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 716)
+  AUTHORS   de Moura,T.M., Vatanparast,M., Tozzi,A.M.G.A., Forest,F.,
+            Wilmot-Dear,M., Simon,M.F., Mansano,V.F., Kajita,T. and Lewis,G.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-SEP-2015) Jodrell Laboratory, Royal Botanic Gardens,
+            Kew, Richmond, UK
+FEATURES             Location/Qualifiers
+     source          1..716
+                     /country="Venezuela"
+                     /db_xref="taxon:157652"
+                     /mol_type="genomic DNA"
+                     /organism="Mucuna pruriens"
+                     /specimen_voucher="R. Ramirez 26 (MO)"
+     misc_RNA        <1..>716
+                     /note="contains 18S ribosomal RNA, internal transcribed
+                     spacer 1, 5.8S ribosomal RNA, and internal transcribed
+                     spacer 2"
+ORIGIN
+        1 aggtttccgt aggtgaacct gcggaaggat cattgtcgtt gcctcacaac aagttcgacc
+       61 ggcgaacccg ttcatcacag gacaagttcg atcggggctg gctcggggga gctgttctcg
+      121 aacaccgacc ccgtcctccc cgacccgagc tggcgagagg cggtcgcccc gcgcacctcc
+      181 tctcgccaaa acacaaaccc cggcgcttcg tgcgccaagg aactcgaaac ntgttaagtg
+      241 caatgttcgc gggcccggag acggcgaccc cgcgngacct tgccacgaca cacaacatac
+      301 aaaatgactc tcggcaacgg atatctcggc tcttgcatcg atgaagaacg tagcgaaatg
+      361 cgatacttgg tgtgaattgc agaatcccgt gaaccatcga gtctttgaac gcaagttgcg
+      421 cccgaagcca ttaggccgag ggcacgcctg cctgggtgtc acacatcgtt acccaaatgc
+      481 aaancgcnnc tcacgtgcgt gcgcagggtg gatgctgacc tcccgcgagc atcgtctcgt
+      541 ggctggttga aaatcgagtc cgcggccgag ctcgtcgcga caaaatggtg gatgagcgat
+      601 gctcnngaga ccnnagtcgc gccggacccg gccaaggtcg gactccccga ccctacacgc
+      661 gtccacggan nnnnnncgct cccaanncga gannncctca ggtnnnnnnn nnnnnc
+//
+LOCUS       KT696060                 299 bp    DNA     linear   PLN 16-JUL-2016
+DEFINITION  Mucuna poggei voucher R-Smith, Pope & Goyder 5836 (K) internal
+            transcribed spacer 1 and 5.8S ribosomal RNA gene, partial sequence.
+ACCESSION   KT696060
+VERSION     KT696060.1
+KEYWORDS    .
+SOURCE      Mucuna poggei
+  ORGANISM  Mucuna poggei
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Mucuna.
+REFERENCE   1  (bases 1 to 299)
+  AUTHORS   de Moura,T.M., Vatanparast,M., Tozzi,A.M.G.A., Forest,F.,
+            Wilmot-Dear,M., Simon,M.F., Mansano,V.F., Kajita,T. and Lewis,G.P.
+  TITLE     A molecular phylogeny and new infrageneric classification of Mucuna
+            adans. (Leguminosae-Papilionoideae) including insights from
+            morphology and hypotheses about biogeography
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 299)
+  AUTHORS   de Moura,T.M., Vatanparast,M., Tozzi,A.M.G.A., Forest,F.,
+            Wilmot-Dear,M., Simon,M.F., Mansano,V.F., Kajita,T. and Lewis,G.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-SEP-2015) Jodrell Laboratory, Royal Botanic Gardens,
+            Kew, Richmond, UK
+FEATURES             Location/Qualifiers
+     source          1..299
+                     /country="Malawi"
+                     /db_xref="taxon:1848238"
+                     /mol_type="genomic DNA"
+                     /organism="Mucuna poggei"
+                     /specimen_voucher="R-Smith, Pope & Goyder 5836 (K)"
+     misc_RNA        <1..>299
+                     /note="contains internal transcribed spacer 1 and 5.8S
+                     ribosomal RNA"
+ORIGIN
+        1 caacaagttc gaccggcgaa cccgttcatc acacgacaag ttcgaccggg gctggctcgg
+       61 gggcgccgtt ctcgaacgcc gaccccgtcc tccccgaccc gagctggcgg gaggcggtcg
+      121 ccccgcgcac ctcctctcgc cgaacacaaa ccccggcgct tcgtgcgcca aggaactcga
+      181 aacntgttca gagcaatctt cgcgggcccg gagacggcga cccggcgnga ccttgccacg
+      241 acacacaaca tacaaaatga ctctcggcaa cggatatctc ggctctttgc agaatcccg
+//
+LOCUS       KT696059                 755 bp    DNA     linear   PLN 16-JUL-2016
+DEFINITION  Mucuna nova-guineensis voucher W.N., Takeuchi (L 0254121) 18S
+            ribosomal RNA gene, partial sequence; internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   KT696059
+VERSION     KT696059.1
+KEYWORDS    .
+SOURCE      Mucuna nova-guineensis
+  ORGANISM  Mucuna nova-guineensis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Mucuna.
+REFERENCE   1  (bases 1 to 755)
+  AUTHORS   de Moura,T.M., Vatanparast,M., Tozzi,A.M.G.A., Forest,F.,
+            Wilmot-Dear,M., Simon,M.F., Mansano,V.F., Kajita,T. and Lewis,G.P.
+  TITLE     A molecular phylogeny and new infrageneric classification of Mucuna
+            adans. (Leguminosae-Papilionoideae) including insights from
+            morphology and hypotheses about biogeography
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 755)
+  AUTHORS   de Moura,T.M., Vatanparast,M., Tozzi,A.M.G.A., Forest,F.,
+            Wilmot-Dear,M., Simon,M.F., Mansano,V.F., Kajita,T. and Lewis,G.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-SEP-2015) Jodrell Laboratory, Royal Botanic Gardens,
+            Kew, Richmond, UK
+FEATURES             Location/Qualifiers
+     source          1..755
+                     /country="Papua New Guinea"
+                     /db_xref="taxon:1848237"
+                     /mol_type="genomic DNA"
+                     /organism="Mucuna nova-guineensis"
+                     /specimen_voucher="W.N., Takeuchi (L 0254121)"
+     misc_RNA        <1..>755
+                     /note="contains 18S ribosomal RNA, internal transcribed
+                     spacer 1, 5.8S ribosomal RNA, internal transcribed spacer
+                     2, and 28S ribosomal RNA"
+ORIGIN
+        1 aagtcgtaac aaggtttccg taggtgaacc tgcggaagga tcattgtcgt tgtctaacac
+       61 aatcagtttg accggtgaat ctgtttatca tccaccctca ccggggctag gtcggggctg
+      121 ttgttgttct ccaacaccta ccccgtcctt cctcgggttg gcgggaggtg gttgctcagc
+      181 tcttctgtgc tatgnctctt cctcctgtcg aactaaaacc ccggcgcttc gtgtgccaag
+      241 gaatctgaaa attgttcggt gcaattttcg cggacccgga cacggtgatc tcgcgngacc
+      301 ttgccacacg acacacgata caaaatgact ctcggcaacg gatatctcgg ctcttgcatc
+      361 gatgaagaac gcagcgaaat gcgatacttg gtgtgaattg cagaatcccg tgaaccatcg
+      421 agtctttgaa cgcaagttgc gcccgaagcc attaggctga gggcacgcct gcctgggtgt
+      481 cacacatcgt taccctaaag caaancgtcc catgtgcgtg tgcagggtgg aagctgacct
+      541 cccgcgggca agactcgcgg ctggttgaaa atgcagttca tggttgagaa tgccgtgata
+      601 aaatggtgga tgagcattgc tcnngagacc nnaatcgcgt gctactcagc taaatttgga
+      661 ctccttgacc cagatgcatc ctccctcgga tgctcccaan ncgagannnc ctcaggtnnn
+      721 nnnnnnnnnc aggcggggcc acccgctgag tttaa
+//
+LOCUS       KT696058                 297 bp    DNA     linear   PLN 16-JUL-2016
+DEFINITION  Mucuna neocaledonica voucher G. McPherson 5261 (K) internal
+            transcribed spacer 1 and 5.8S ribosomal RNA gene, partial sequence.
+ACCESSION   KT696058
+VERSION     KT696058.1
+KEYWORDS    .
+SOURCE      Mucuna neocaledonica
+  ORGANISM  Mucuna neocaledonica
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Mucuna.
+REFERENCE   1  (bases 1 to 297)
+  AUTHORS   de Moura,T.M., Vatanparast,M., Tozzi,A.M.G.A., Forest,F.,
+            Wilmot-Dear,M., Simon,M.F., Mansano,V.F., Kajita,T. and Lewis,G.P.
+  TITLE     A molecular phylogeny and new infrageneric classification of Mucuna
+            adans. (Leguminosae-Papilionoideae) including insights from
+            morphology and hypotheses about biogeography
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 297)
+  AUTHORS   de Moura,T.M., Vatanparast,M., Tozzi,A.M.G.A., Forest,F.,
+            Wilmot-Dear,M., Simon,M.F., Mansano,V.F., Kajita,T. and Lewis,G.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-SEP-2015) Jodrell Laboratory, Royal Botanic Gardens,
+            Kew, Richmond, UK
+FEATURES             Location/Qualifiers
+     source          1..297
+                     /country="New Caledonia"
+                     /db_xref="taxon:1848235"
+                     /mol_type="genomic DNA"
+                     /organism="Mucuna neocaledonica"
+                     /specimen_voucher="G. McPherson 5261 (K)"
+     misc_RNA        <1..>297
+                     /note="contains internal transcribed spacer 1 and 5.8S
+                     ribosomal RNA"
+ORIGIN
+        1 atcagtttga ccggtgaatc tgtttatcat ccaccctcac cggggttagg tcggggctgt
+       61 tgttgttctc caacacctac cccgtccttc ctcgggttgg cgggaggtgg ttgctctgtg
+      121 ctcctcctcc tgtcgaacta aaaccccggc gcttcgtgtg ccaaggaatt tgaaaattgt
+      181 tcggtgcaat tttcgcagac ccggacacgg tgatctcgcg ngaccttgcc acgacacacg
+      241 atacaaaatg actctcggca acggatatct cggctcttgc atcganttgc agaatcc
+//
+LOCUS       KT696056                 736 bp    DNA     linear   PLN 16-JUL-2016
+DEFINITION  Mucuna mollissima voucher J. H. Waterhouse s.n. (K) 18S ribosomal
+            RNA gene, partial sequence; internal transcribed spacer 1 and 5.8S
+            ribosomal RNA gene, complete sequence; and internal transcribed
+            spacer 2, partial sequence.
+ACCESSION   KT696056
+VERSION     KT696056.1
+KEYWORDS    .
+SOURCE      Mucuna mollissima
+  ORGANISM  Mucuna mollissima
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Mucuna.
+REFERENCE   1  (bases 1 to 736)
+  AUTHORS   de Moura,T.M., Vatanparast,M., Tozzi,A.M.G.A., Forest,F.,
+            Wilmot-Dear,M., Simon,M.F., Mansano,V.F., Kajita,T. and Lewis,G.P.
+  TITLE     A molecular phylogeny and new infrageneric classification of Mucuna
+            adans. (Leguminosae-Papilionoideae) including insights from
+            morphology and hypotheses about biogeography
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 736)
+  AUTHORS   de Moura,T.M., Vatanparast,M., Tozzi,A.M.G.A., Forest,F.,
+            Wilmot-Dear,M., Simon,M.F., Mansano,V.F., Kajita,T. and Lewis,G.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-SEP-2015) Jodrell Laboratory, Royal Botanic Gardens,
+            Kew, Richmond, UK
+FEATURES             Location/Qualifiers
+     source          1..736
+                     /country="Papua New Guinea"
+                     /db_xref="taxon:1848234"
+                     /mol_type="genomic DNA"
+                     /organism="Mucuna mollissima"
+                     /specimen_voucher="J. H. Waterhouse s.n. (K)"
+     misc_RNA        <1..>736
+                     /note="contains 18S ribosomal RNA, internal transcribed
+                     spacer 1, 5.8S ribosomal RNA, and internal transcribed
+                     spacer 2"
+ORIGIN
+        1 aagtcgtaac aaggtttccg taggtgaacc tgcggaagga tcattgtcgt tgtccaacac
+       61 aatcagtttg accggtgaat ctgtttatca tccaccctca ccggggctag gccggggctg
+      121 ttngttctcc aacacctacc ccgtccttcc tcgggttggc gggaggtggt tgctctgctc
+      181 cngtgctatg nctcctcctc ctatcaaact aaaaccccgg cgcttcgtgt gccaaggaat
+      241 ttgaaaattg ttcggtgcaa ttttcgcaga cccggacacg gtgatctcgc gngaccttgc
+      301 cacacgacac acgatacaaa atgactctcg gcaacggata tctcggctct tgcatcgatg
+      361 aagaacgcag cgaaatgcga tacttggtgt gaattgcaga atcccgtgaa ccatcgagtc
+      421 tttgaacgca agttgcgccc gaagccatta ggctgagggc acgcctgcct gggtgtcaca
+      481 catcgttacc ctaaagcaaa ncgtcccatg tgcgcgtgca ggngtggaag ctgacctccc
+      541 gcgggccacg actcgcggct ggttgaaaat gcagttcatg gttgagaatg ccgtgataaa
+      601 atggtggatg agcattgctc nngagaccnn aatcgcgtgc tactcagcta attttggact
+      661 ccttgaccca gatgcatcct cctcnnnngg atgctcccaa nncgagannn cctcaggtnn
+      721 nnnnnnnnnn caggcg
+//
+LOCUS       KT696055                 273 bp    DNA     linear   PLN 16-JUL-2016
+DEFINITION  Mucuna mollissima voucher B. Eddie s.n. (K) 5.8S ribosomal RNA gene
+            and internal transcribed spacer 2, partial sequence.
+ACCESSION   KT696055
+VERSION     KT696055.1
+KEYWORDS    .
+SOURCE      Mucuna mollissima
+  ORGANISM  Mucuna mollissima
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Mucuna.
+REFERENCE   1  (bases 1 to 273)
+  AUTHORS   de Moura,T.M., Vatanparast,M., Tozzi,A.M.G.A., Forest,F.,
+            Wilmot-Dear,M., Simon,M.F., Mansano,V.F., Kajita,T. and Lewis,G.P.
+  TITLE     A molecular phylogeny and new infrageneric classification of Mucuna
+            adans. (Leguminosae-Papilionoideae) including insights from
+            morphology and hypotheses about biogeography
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 273)
+  AUTHORS   de Moura,T.M., Vatanparast,M., Tozzi,A.M.G.A., Forest,F.,
+            Wilmot-Dear,M., Simon,M.F., Mansano,V.F., Kajita,T. and Lewis,G.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-SEP-2015) Jodrell Laboratory, Royal Botanic Gardens,
+            Kew, Richmond, UK
+FEATURES             Location/Qualifiers
+     source          1..273
+                     /country="Papua New Guinea"
+                     /db_xref="taxon:1848234"
+                     /mol_type="genomic DNA"
+                     /organism="Mucuna mollissima"
+                     /specimen_voucher="B. Eddie s.n. (K)"
+     misc_RNA        <1..>273
+                     /note="contains 5.8S ribosomal RNA and internal transcribed
+                     spacer 2"
+ORIGIN
+        1 agtctttgaa cgcaagttgc gcccgaagcc attaggttga gggcatgtct gcctgggtgt
+       61 cacacattgt taccnnnnnn ctaacgcaaa ntgcnnctca cgtgcgtnnn nngcgtgttc
+      121 ggggtggaag ctgacctccc gtgggccacg acccgtggct ggttgaaagt tgagttcatg
+      181 gctgagtatg tcgtgataaa atggtggatg agcgttgctc nngagaccaa tcgcgtgcga
+      241 cccagnntca attttgaact ctttgaccca nga
+//
+LOCUS       KT696054                 275 bp    DNA     linear   PLN 16-JUL-2016
+DEFINITION  Mucuna mollis voucher H. Murphy & E. Parra 684 (MO) internal
+            transcribed spacer 1 and 5.8S ribosomal RNA gene, partial sequence.
+ACCESSION   KT696054
+VERSION     KT696054.1
+KEYWORDS    .
+SOURCE      Mucuna mollis
+  ORGANISM  Mucuna mollis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Mucuna.
+REFERENCE   1  (bases 1 to 275)
+  AUTHORS   de Moura,T.M., Vatanparast,M., Tozzi,A.M.G.A., Forest,F.,
+            Wilmot-Dear,M., Simon,M.F., Mansano,V.F., Kajita,T. and Lewis,G.P.
+  TITLE     A molecular phylogeny and new infrageneric classification of Mucuna
+            adans. (Leguminosae-Papilionoideae) including insights from
+            morphology and hypotheses about biogeography
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 275)
+  AUTHORS   de Moura,T.M., Vatanparast,M., Tozzi,A.M.G.A., Forest,F.,
+            Wilmot-Dear,M., Simon,M.F., Mansano,V.F., Kajita,T. and Lewis,G.P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-SEP-2015) Jodrell Laboratory, Royal Botanic Gardens,
+            Kew, Richmond, UK
+FEATURES             Location/Qualifiers
+     source          1..275
+                     /country="Colombia"
+                     /db_xref="taxon:1848233"
+                     /mol_type="genomic DNA"
+                     /organism="Mucuna mollis"
+                     /specimen_voucher="H. Murphy & E. Parra 684 (MO)"
+     misc_RNA        <1..>275
+                     /note="contains internal transcribed spacer 1 and 5.8S
+                     ribosomal RNA"
+ORIGIN
+        1 tttatcatcc accctcatcg gggctagctc ggggttgttg ttctcgaaca cttacctcgc
+       61 tccttcctca gcgttggcgg ggggtggttg cccgatgctc ctcatcccgt cgaacaaaaa
+      121 ccccggcgct tcgtgtgcca aggaatttga aattgttcgg tgcaattttt gcggacccgg
+      181 agacggtgat cttgcgngac cttgccagga cacacgatac aaaatgactc tcggcaacgg
+      241 atatcttggc tcttgcatcg atgaagaacg cagca
+//

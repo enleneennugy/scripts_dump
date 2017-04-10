@@ -1,0 +1,220 @@
+LOCUS       JN008332                 640 bp    DNA     linear   PLN 25-OCT-2011
+DEFINITION  Dolichopsis paraguariensis bio-material DNA 1560 small subunit
+            ribosomal RNA gene, partial sequence; internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   JN008332
+VERSION     JN008332.1
+KEYWORDS    .
+SOURCE      Dolichopsis paraguariensis
+  ORGANISM  Dolichopsis paraguariensis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Dolichopsis.
+REFERENCE   1  (bases 1 to 640)
+  AUTHORS   Delgado-Salinas,A., Thulin,M., Pasquet,R., Weeden,N. and Lavin,M.
+  TITLE     Vigna (Leguminosae) sensu lato: The names and identities of the
+            American segregate genera
+  JOURNAL   Am. J. Bot. 98 (10), 1694-1715 (2011)
+   PUBMED   21980163
+REFERENCE   2  (bases 1 to 640)
+  AUTHORS   Delgado-Salinas,A., Thulin,M., Pasquet,R., Weeden,N. and Lavin,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-MAY-2011) Plant Sciences and Plant Pathology, Montana
+            State University, 119 PBB, Bozeman, MT 59717, USA
+FEATURES             Location/Qualifiers
+     source          1..640
+                     /PCR_primers="fwd_name: its18, fwd_seq:
+                     gtccactgaaccttatcatttagagg, rev_name: its26, rev_seq:
+                     gccgttactaagggaatccttgttag"
+                     /bio_material="DNA 1560"
+                     /country="Bolivia: Beni"
+                     /db_xref="taxon:77315"
+                     /mol_type="genomic DNA"
+                     /organism="Dolichopsis paraguariensis"
+                     /specimen_voucher="Orellana 383 (MEXU)"
+     misc_RNA        <1..244
+                     /note="contains small subunit ribosomal RNA and internal
+                     transcribed spacer 1"
+     rRNA            245..407
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        408..>640
+                     /note="contains internal transcribed spacer 2 and 28S
+                     ribosomal RNA"
+ORIGIN
+        1 tcattgtcga tgcctcgacc aaccagtttg accggcgaat ctgtccatgt ctacaccgca
+       61 agggtctggc tcgtcctccc ttgtgcgtcg agggggaggg ggcggttgcc ccgtgcaact
+      121 ggtccagctc tctcccgacg aaacactaac cccggcgctc caaagcgcca aggaaccgaa
+      181 agctgttagg tgcggcactc ggggacggcg tcccgcgggt gccgtcacga catgttgtta
+      241 cgtaaaacga ctctcggcaa cggatatctc ggctcttgca tcgatgaaga acgtagcgaa
+      301 atgcgatact tggtgtgaat tgcagaatcc cgtgaaccat cgagtctttg aacgcaagtt
+      361 gcgcccaaag ccattaggtt gagggcacgc ctgcctgggt gtcacacatc gttacccccc
+      421 cactcaaacg tgcagtgggg gtgaaagttg acttcccgcg agccagttcc tcgtggttgg
+      481 ttgaaaagga agttcacggc ggagttcccc gcgataaatg gtggatgggc gatgctcgag
+      541 accgatcgtg cttgtgtgtg actccggcgt atggaaccgt acgcgtcctc tggggaaacc
+      601 gagggtgcca tcagcgagac ctcaggtcag gcggggctac
+//
+LOCUS       AY508744                 639 bp    DNA     linear   PLN 30-JUL-2004
+DEFINITION  Dolichopsis paraguariensis from Argentina small subunit ribosomal
+            RNA gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and large subunit ribosomal RNA gene, partial sequence.
+ACCESSION   AY508744
+VERSION     AY508744.1
+KEYWORDS    .
+SOURCE      Dolichopsis paraguariensis
+  ORGANISM  Dolichopsis paraguariensis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Dolichopsis.
+REFERENCE   1  (bases 1 to 639)
+  AUTHORS   Riley-Hulting,E.T., Delgado-Salinas,A. and Lavin,M.
+  TITLE     Phylogenetic systematics of Strophostyles (Fabaceae): a North
+            American temperate genus within a neotropical diversification
+  JOURNAL   Syst. Bot. 29 (3), 627-653 (2004)
+REFERENCE   2  (bases 1 to 639)
+  AUTHORS   Riley-Hulting,E.T., Delgado-Salinas,A. and Lavin,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-DEC-2003) Plant Sciences, Montana State University,
+            119 Ag Biosciences Bldg, Bozmeman, MT 59717, USA
+FEATURES             Location/Qualifiers
+     source          1..639
+                     /country="Argentina"
+                     /db_xref="taxon:77315"
+                     /mol_type="genomic DNA"
+                     /organism="Dolichopsis paraguariensis"
+                     /specimen_voucher="Argentina, Corrientes, Ahumada 1741
+                     (MEXU)"
+     rRNA            <1..6
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        7..235
+                     /product="internal transcribed spacer 1"
+     rRNA            236..406
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        407..615
+                     /product="internal transcribed spacer 2"
+     rRNA            616..>639
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 tcattgtcga tgcctaacca accagtttga ccggcgaatc tgtccatgtc cacaccgcaa
+       61 gggtctggct cgtcctccct tgtgcgtcgg gggggagggg gcggttgccc cgtgcaactg
+      121 gtccagctct ctcccgacga aacactaacc ccggcgcttc aaagcgccaa ggaaccgaaa
+      181 gctgttaggt gcggcactcg gggacggcgt cccgcgggtg ccgtcacgac atgttattac
+      241 gtaaaacgac tctcggcaac ggatatctcg gctcttgcat cgatgaagaa cgtagcgaaa
+      301 tgcgatactt ggtgtgaatt gcagaatccc gtgaaccatc gagtctttga acgcaagttg
+      361 cgcccaaagc cattaggttg agggcacgcc tgcctgggtg tcacacatcg ttaccccccc
+      421 actcaaacgt gcagtggggg tgaaagttga cttcccgcga gccagttcct cgtggttggt
+      481 tgaaaaggaa gttcacggcg gagttccccg cgataaatgg tggatgagcg atgctcgaga
+      541 ccgatcgtgc ttgtgtgtga ctccggcgta tggaaccgta cgcgtcctcg ggggaaaccg
+      601 agggtgccat cagcgagacc tcaggtaagg cggggctac
+//
+LOCUS       AY508743                 641 bp    DNA     linear   PLN 30-JUL-2004
+DEFINITION  Dolichopsis ligulata from Bolivia small subunit ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and
+            large subunit ribosomal RNA gene, partial sequence.
+ACCESSION   AY508743
+VERSION     AY508743.1
+KEYWORDS    .
+SOURCE      Dolichopsis ligulata
+  ORGANISM  Dolichopsis ligulata
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Dolichopsis.
+REFERENCE   1  (bases 1 to 641)
+  AUTHORS   Riley-Hulting,E.T., Delgado-Salinas,A. and Lavin,M.
+  TITLE     Phylogenetic systematics of Strophostyles (Fabaceae): a North
+            American temperate genus within a neotropical diversification
+  JOURNAL   Syst. Bot. 29 (3), 627-653 (2004)
+REFERENCE   2  (bases 1 to 641)
+  AUTHORS   Riley-Hulting,E.T., Delgado-Salinas,A. and Lavin,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-DEC-2003) Plant Sciences, Montana State University,
+            119 Ag Biosciences Bldg, Bozmeman, MT 59717, USA
+FEATURES             Location/Qualifiers
+     source          1..641
+                     /country="Bolivia"
+                     /db_xref="taxon:260887"
+                     /mol_type="genomic DNA"
+                     /organism="Dolichopsis ligulata"
+                     /specimen_voucher="Bolivia, Beni, Beck 24296 (MEXU)"
+     rRNA            <1..6
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        7..238
+                     /product="internal transcribed spacer 1"
+     rRNA            239..409
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        410..617
+                     /product="internal transcribed spacer 2"
+     rRNA            618..>641
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 tcattgccga tgcctcaacc aaccagtttg accggcgaat ctgtccgtat ctacgccgca
+       61 agggtgtggc tcgtcctccc ttgtgcgtcg agggggaggg ggtggttgcc ccgtgggacc
+      121 ggtccaactc tctctcgacg aaacactaac cccggcgctt caaagcgcca aggaacttaa
+      181 agctgtcagg tgtgcggcac tcggggacgg cgtcccgcgg gtgctgtcac gacgtgttgt
+      241 tacgtaaaac gactctcggc aacggatatc tcggctcttg catcgatgaa gaacgtagcg
+      301 aaatgcgata cttggtgtga attgcagaat cccgtgaacc atcgagtctt tgaacgcaag
+      361 ttgcgcccaa agccattagg ttgagggcac gcctgcctgg gtgtcacaca tcgttacccc
+      421 cccgacttga acgtgcaaat ggggtgaaag ttgacttccc gcgaggcagt tcctcgtggt
+      481 tggttgaaaa ggaagttcgc ggcggagtta ccggcgatca atggtggatg agcgatgctc
+      541 gagaccgatc gtgcttgtgt gactccggcg catcgaaccc tacgcgtcct ctggggagac
+      601 cgagggtgcc atcagcgaga cctcaggtca ggcggggcta c
+//
+LOCUS       AF069116                 640 bp    DNA     linear   PLN 19-MAR-2008
+DEFINITION  Dolichopsis paraguariensis small subunit ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and large
+            subunit ribosomal RNA gene, partial sequence.
+ACCESSION   AF069116
+VERSION     AF069116.1
+KEYWORDS    .
+SOURCE      Dolichopsis paraguariensis
+  ORGANISM  Dolichopsis paraguariensis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Dolichopsis.
+REFERENCE   1  (bases 1 to 640)
+  AUTHORS   Delgado-Salinas,A., Turley,T., Richman,A. and Lavin,M.
+  TITLE     Phylogenetic analysis of cultivated and wild species of Phaseolus
+            (Fabaceae)
+  JOURNAL   Syst. Bot. 24 (3), 438-460 (1999)
+REFERENCE   2  (bases 1 to 640)
+  AUTHORS   Delgado-Salinas,A., Turley,T. and Lavin,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-MAY-1998) Biology, Montana State University, 310 Lewis
+            Hall, Bozeman, MT 59717, USA
+FEATURES             Location/Qualifiers
+     source          1..640
+                     /country="Argentina"
+                     /db_xref="taxon:77315"
+                     /mol_type="genomic DNA"
+                     /organism="Dolichopsis paraguariensis"
+                     /specimen_voucher="Krapovickas 46512 (DNA 199) (MEXU)"
+     rRNA            <1..6
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        7..239
+                     /product="internal transcribed spacer 1"
+     rRNA            240..407
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        408..615
+                     /product="internal transcribed spacer 2"
+     rRNA            616..>640
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 tcattgtcga tgcctcaacc aaccagtttg accggcgaat ctgtccatgt ccacaccgca
+       61 agggtctggc tcgtcctccc ttgtgcgtcg ggggggaggg ggcggttgcc ccgtgcaact
+      121 ggtccagctc tctcccgacg aaacactaac cccggcgctt caaagcgcca tggaaccgaa
+      181 agctgttagg tgcggcactc ggggacggcg tcccgcgggt gccgtcacga catgttatta
+      241 cgtaaaacga ctctcggcaa cggatatctc ggctcttgca tcgatgaaga acgtagcgaa
+      301 atgcgatact tggtgtgaat tgcagaatcc cgtgaaccat cgagtctttg aacgcaagtt
+      361 gcgcccaaag ccattaggtt gagggcacgc ctgcctgggt gtcacacatc gttacccccc
+      421 cactcaaacg tgcagtgggg gtgaaagttg acttcccgcg agccagttcc tcgtggttgg
+      481 ttgaaaagga agttcacggc ggagttcccc gcgataaatg gtggatgagc gatgctcgag
+      541 accgatcgtg cttgtgtgtg actccggcgt atggaaccgt acgcgtcctc gggggaaacc
+      601 gagggtgcca tcagcgagac ctcaggtcag gcggggctac
+//

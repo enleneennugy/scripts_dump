@@ -1,0 +1,587 @@
+LOCUS       KC779802                 796 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Collaea stenophylla voucher Queiroz 12460 (HUEFS) 18S ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   KC779802
+VERSION     KC779802.1
+KEYWORDS    .
+SOURCE      Collaea stenophylla
+  ORGANISM  Collaea stenophylla
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Collaea.
+REFERENCE   1  (bases 1 to 796)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 796)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..796
+                     /db_xref="taxon:510210"
+                     /mol_type="genomic DNA"
+                     /organism="Collaea stenophylla"
+                     /specimen_voucher="Queiroz 12460 (HUEFS)"
+     misc_RNA        <1..>796
+                     /note="contains 18S ribosomal RNA, internal transcribed
+                     spacer 1, 5.8S ribosomal RNA, internal transcribed spacer
+                     2, and 28S ribosomal RNA"
+ORIGIN
+        1 gttgtgagaa gtccactgaa ccttatcatt tagaggaagg agaagtcgta acaaggtttc
+       61 cgtaggtgaa cctgcggaag gatcattgtc gatgcctcac aatcagttca acttgtgaac
+      121 ctgtttaacc attcagggtt gattggatgt ctaacatctt ggcttccctt atgttggtgg
+      181 cagggttatg ctttgcatgg cctccttcca acaaaacaca aaccccggcg caacatgcgt
+      241 caaggaactt gaaattgttt gatgcacctg taggccccgg agacggtgtt tctacgggtg
+      301 atgtcgttca acatgtctta aaatgactct cggcaacgga tatctcggct cttgcatcga
+      361 tgaagaacgt agcaaaatgc gatacttggt gtgaattgca gaatcccgtg aaccatcgag
+      421 tctttgaacg caagttgcgc cwgaaaccat taggttgagg gcacgtctgc ctgggtgtca
+      481 cacaatgttg cccaacgccc aacgcctttc catgatcggt gttgagcggg gcgaatgttg
+      541 gcttcccacg agcatggtct cgtggttggt tgaaaaatga gtcctcggtg gaatgctcca
+      601 tgagaaatgg tggttgagtg atgctcgaga ccaaacatgc gtggcttccc cctaaatgtt
+      661 ggacctctga cccctgcgtc ttcatacgac gctcacaacg agacctcagg tcaggcggga
+      721 ctacccgctg agtttaagca tatcaataag cggaggaaaa gaaactaaca aggattcccc
+      781 tagtaacggc gagcga
+//
+LOCUS       KC779801                 796 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Collaea stenophylla voucher Lima 475 (HUEFS) 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   KC779801
+VERSION     KC779801.1
+KEYWORDS    .
+SOURCE      Collaea stenophylla
+  ORGANISM  Collaea stenophylla
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Collaea.
+REFERENCE   1  (bases 1 to 796)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 796)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..796
+                     /db_xref="taxon:510210"
+                     /mol_type="genomic DNA"
+                     /organism="Collaea stenophylla"
+                     /specimen_voucher="Lima 475 (HUEFS)"
+     misc_RNA        <1..>796
+                     /note="contains 18S ribosomal RNA, internal transcribed
+                     spacer 1, 5.8S ribosomal RNA, internal transcribed spacer
+                     2, and 28S ribosomal RNA"
+ORIGIN
+        1 gttgtgagaa gtccactgaa ccttatcatt tagaggaagg agaagtcgta acaaggtttc
+       61 cgtaggtgaa cctgcggaag gatcattgtc gatgcctcac aatcagttca acttgtgaac
+      121 ctgtttaacc attcagggtt gattggatgt ctaacatctt ggcttccctt atgttggtgg
+      181 cagggttatg ctttgcatgg cctccttcca acaaaacaca aaccccggcg caacatgcgt
+      241 caaggaactt gaaattgttt gatgcacctg taggccccgg agacggtgtt tctacgggtg
+      301 atgtcgttca acatgtctta aaatgactct cggcaacgga tatctcggct cttgcatcga
+      361 tgaagaacgt agcaaaatgc gatacttggt gtgaattgca gaatcccgtg aaccatcgag
+      421 tctttgaacg caagttgcgc cygaaaccat taggttgagg gcacgtctgc ctgggtgtca
+      481 cacaatgttg cccaacgccc aacgcctttc catgatcggt gttgagcggg gcgaatgttg
+      541 gcttcccacg agcatggtct cgtggttggt tgaaaaatga gtcctcggtg gaatgctcca
+      601 tgagaaatgg tggttgagtg atgctcgaga ccaaacatgc gtggyttccc cctaaatgtt
+      661 ggacctctga cccctgcgtc ttcrtacgac gctcacaacg agacctcagg tcaggcggga
+      721 ctacccgctg agtttaagca tatcaataag cggaggaaaa gaaactaaca aggattcccc
+      781 tagtaacggc gagcga
+//
+LOCUS       KC779800                 609 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Collaea speciosa voucher Mello-Silva 1407 (HUEFS) internal
+            transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene,
+            complete sequence; and internal transcribed spacer 2, partial
+            sequence.
+ACCESSION   KC779800
+VERSION     KC779800.1
+KEYWORDS    .
+SOURCE      Collaea speciosa
+  ORGANISM  Collaea speciosa
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Collaea.
+REFERENCE   1  (bases 1 to 609)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 609)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..609
+                     /db_xref="taxon:1457453"
+                     /mol_type="genomic DNA"
+                     /organism="Collaea speciosa"
+                     /specimen_voucher="Mello-Silva 1407 (HUEFS)"
+     misc_RNA        <1..>609
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, and internal transcribed spacer 2"
+ORIGIN
+        1 cctcacaatc agttcaactt gtgaacctgt ttaaccattc agggttgatt ggatgtctaa
+       61 catcttagct tcccttatgt tgggggcagg gttatgcttt gcatggcctc cttccaacaa
+      121 aacacaaacc ccggcgcaac atgcgtcaag gaacttgaaa ttgtttgatg cacctgtagg
+      181 ccccggagac ggtgtttcta cgggtgatgt cgttcaacat gtcttaaaat gactctcggc
+      241 aacggatatc tcggctcttg catcgatgaa gaacgtagca aaatgcgata cttggtgtga
+      301 attgcagaat cccgtgaacc atcgagtctt tgaacgcaag ttgcgcctga aaccattagg
+      361 ttgagggcac gtctgcctgg gtgtcacaca atgttgccca atgcccaacg cctttccatg
+      421 atcggtgttg agcggggcga atgttggctt cccacgagca tggtctcgtg gttggttgaa
+      481 aaatgagtcc tcggtggaat gctccatgag aaatggtggt tgagtgatgc tcgagaccaa
+      541 acatgcgtgg cttcccccta aatgttggac ctctgacccc tgcgtcttca cacgacgctc
+      601 acaacgaga
+//
+LOCUS       KC779799                 838 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Collaea paraguariensis voucher Fortunato 9076 (HUEFS) 18S ribosomal
+            RNA gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   KC779799
+VERSION     KC779799.1
+KEYWORDS    .
+SOURCE      Collaea paraguariensis
+  ORGANISM  Collaea paraguariensis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Collaea.
+REFERENCE   1  (bases 1 to 838)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 838)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..838
+                     /db_xref="taxon:584683"
+                     /mol_type="genomic DNA"
+                     /organism="Collaea paraguariensis"
+                     /specimen_voucher="Fortunato 9076 (HUEFS)"
+     misc_RNA        <1..>838
+                     /note="contains 18S ribosomal RNA, internal transcribed
+                     spacer 1, 5.8S ribosomal RNA, internal transcribed spacer
+                     2, and 28S ribosomal RNA"
+ORIGIN
+        1 gcggcgacgt aggcggttcg ctgcccgcga cgttgtgaga agtccactga accttatcat
+       61 ttagaggaag gagaagtcgt aacaaggttt ccgtaggtga acctgcggaa ggatcattgt
+      121 cgatgcctca caatcagttc aacttgtgaa cctgtttaac cattcagggt tgattggatg
+      181 tctaacatct tggcttccct tatgttgggg gcagggttat gctttgcagg gcctccttcc
+      241 aacaaaacac aaaccccggc gcaacatgcg tcaaggaact tgaaattgtt tgatgcacct
+      301 ttaggcccgg agacggggtt tctacgggtg atgtcgttca acatgtctta aaatgactct
+      361 cggcaacgga tatctcggct cttgcatcga tgaagaacgt agcaaaatgc gatacttggt
+      421 gtgaattgca gaatcccgtg aaccatcgag tctttgaacg caagttgcgc ctgaaaccat
+      481 taggttgagg gcacgtctgc ctgggtgtca cacaatgttg cccaatgccc aacgcccttc
+      541 catgatcggt gttgagcggg gcgaaatgtt ggcttcccac gagcatggtc tcgtggttgg
+      601 ttgaaaaacg agtcctcggt ggaatgctcc atgagaaatg gtggttgagt gatgctcgag
+      661 accaaacatg cgtggcttcc ccctaaatgt tggacctctg acccctgcgt cttcatacga
+      721 cgctcacaac gagacctcag gtcaggcggg actacccgct gagtttaagc atatcaataa
+      781 gcggaggaaa agaaactaac aaggattccc ctagtaacgg cgagcgaacc ggggaatt
+//
+LOCUS       KC779798                 478 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Collaea aschersoniana voucher Queiroz 13409 (HUEFS) internal
+            transcribed spacer 1, partial sequence; 5.8S ribosomal RNA gene,
+            complete sequence; and internal transcribed spacer 2, partial
+            sequence.
+ACCESSION   KC779798
+VERSION     KC779798.1
+KEYWORDS    .
+SOURCE      Collaea aschersoniana
+  ORGANISM  Collaea aschersoniana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Collaea.
+REFERENCE   1  (bases 1 to 478)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 478)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..478
+                     /db_xref="taxon:584682"
+                     /mol_type="genomic DNA"
+                     /organism="Collaea aschersoniana"
+                     /specimen_voucher="Queiroz 13409 (HUEFS)"
+     misc_RNA        <1..>478
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, and internal transcribed spacer 2"
+ORIGIN
+        1 accccggcgc aacatgcgtc aaggaacttg aaattgtttg atgcacctgt aggccccgga
+       61 gacggtgttt ctacgggtga cgtcgttcaa catgtcttaa aatgactctc ggcaacggat
+      121 atctcggctc ttgcatcgat gaagaacgta gcaaaatgcg atacttggtg tgaattgcag
+      181 aatcccgtga accatcgagt ctttgaacgc aagttgcgcc tgaaaccatt aggttgaggg
+      241 cacgtctgcc tgggtgtcac acaatgttgc ccaatgccca acgcctttcc atgatcggtg
+      301 ttgagcgggg cgaatgttgg cttcccacga gcatggtctc gtggttggtt gaaaaatgag
+      361 tcctcggtgg aatgctccat gagaaatggt ggttgagtga tgctcgagac caaacatgcg
+      421 tggcttcccc ctatatgttg gacctctgac ccctgcgtct tcatacgacg ctcacaac
+//
+LOCUS       KC779797                 853 bp    DNA     linear   PLN 21-SEP-2015
+DEFINITION  Collaea aschersoniana voucher Queiroz 13408 (HUEFS) 18S ribosomal
+            RNA gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   KC779797
+VERSION     KC779797.1
+KEYWORDS    .
+SOURCE      Collaea aschersoniana
+  ORGANISM  Collaea aschersoniana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Collaea.
+REFERENCE   1  (bases 1 to 853)
+  AUTHORS   de Queiroz,L.P., Pastore,J.F., Cardoso,D., Snak,C., de C Lima,A.L.,
+            Gagnon,E., Vatanparast,M., Holland,A.E. and Egan,A.N.
+  TITLE     A multilocus phylogenetic analysis reveals the monophyly of a
+            recircumscribed papilionoid legume tribe Diocleae with
+            well-supported generic relationships
+  JOURNAL   Mol. Phylogenet. Evol. 90, 1-19 (2015)
+   PUBMED   25934529
+REFERENCE   2  (bases 1 to 853)
+  AUTHORS   Pastore,J.F.B., Queiroz,L.P., Cardoso,D.B. and Lima,A.L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (13-MAR-2013) Botanica, Universidade Estadual de Feira de
+            Santana, BR116, km 3, campus, Feira de Santana, Bahia 44031-460,
+            Brazil
+FEATURES             Location/Qualifiers
+     source          1..853
+                     /db_xref="taxon:584682"
+                     /mol_type="genomic DNA"
+                     /organism="Collaea aschersoniana"
+                     /specimen_voucher="Queiroz 13408 (HUEFS)"
+     misc_RNA        <1..>853
+                     /note="contains 18S ribosomal RNA, internal transcribed
+                     spacer 1, 5.8S ribosomal RNA, internal transcribed spacer
+                     2, and 28S ribosomal RNA"
+ORIGIN
+        1 ggtgaagtgt tcggattgcg gcgacgtagg cggttcgctg cccgcgacgt tgtgagaagt
+       61 ccactgaacc ttatcattta gaggaaggag aagtcgtaac aaggtttccg taggtgaacc
+      121 tgcggaagga tcattgtcga tgcctcacaa tcagttcaac ttgtgaacct gtttaaccat
+      181 tcagggttga ttggatgtct aacatcttgg cttcccttat gttggtggca gggttatgct
+      241 ttgcatggcc tccttccaac aaaacacaaa ccccggcgca acatgcgtca aggaacttga
+      301 aattgtttga tgcacctgta ggccccggag acggtgtttc tacgggtgac gtcgttcaac
+      361 atgtcttaaa atgactctcg gcaacggata tctcggctct tgcatcgatg aagaacgtag
+      421 caaaatgcga tacttggtgt gaattgcaga atcccgtgaa ccatcgagtc tttgaacgca
+      481 agttgcgcct gaaaccatta ggttgagggc acgtctgcct gggtgtcaca caatgttgcc
+      541 caatgcccaa cgcctttcca tgatcggtgt tgagcggggt gaatgttggc ttcccacgag
+      601 catggtctcg tggttggttg aaaaatgagt cctcggtgga atgctccatg agaaatggtg
+      661 gttgagtgat gctcgagacc aaacatgcgt ggcttccccc taaatgttgg acctctgacc
+      721 cccgcgtctt catacggcgc tcacaacgag acctcaggtc aggcgggact acccgctgag
+      781 tttaagcata tcaataagcg gaggaaaaga aactaacaag gattccccta gtaacggcga
+      841 gcgaaccggg gaa
+//
+LOCUS       EU927599                 630 bp    DNA     linear   PLN 31-JUL-2009
+DEFINITION  Collaea argentina voucher Fortunato 7673 (BAB) 18S ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   EU927599
+VERSION     EU927599.1
+KEYWORDS    .
+SOURCE      Collaea argentina
+  ORGANISM  Collaea argentina
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Collaea.
+REFERENCE   1  (bases 1 to 630)
+  AUTHORS   Sede,S.M., Tosto,D., Talia,P., Luckow,M., Poggio,L. and Fortunato,R.
+  TITLE     Phylogenetic relationships among southern South American species of
+            Camptosema, Galactia and Collaea (Diocleinae: Papilionoideae:
+            Leguminosae) based on molecular and morphological data
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 630)
+  AUTHORS   Sede,S.M., Tosto,D., Talia,P., Luckow,M., Poggio,L. and Fortunato,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-JUL-2008) Instituto de Botanica Darwinion, Labarden
+            200, San Isidro, Buenos Aires B1642HYD, Argentina
+FEATURES             Location/Qualifiers
+     source          1..630
+                     /db_xref="taxon:584681"
+                     /mol_type="genomic DNA"
+                     /organism="Collaea argentina"
+                     /specimen_voucher="Fortunato 7673 (BAB)"
+     rRNA            <1..5
+                     /product="18S ribosomal RNA"
+     misc_RNA        6..235
+                     /product="internal transcribed spacer 1"
+     rRNA            236..400
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        401..615
+                     /product="internal transcribed spacer 2"
+     rRNA            616..>630
+                     /product="28S ribosomal RNA"
+ORIGIN
+        1 cattgtcgat gcctcacaat cagttcaact tgtgaacctg tttaaccatt cagggttgat
+       61 tggatgtcta acgtcttggc ttcccttatg ttggtggcag ggttatgctt tgcatggcct
+      121 ccttccaaca aaacacaaac cccggcgcaa catgcgtcaa ggaacttgaa attgtttgat
+      181 gcacctgtag gccccggaga cggtgtttct acgggtgatg tcgttcaaca tgtcttaaaa
+      241 tgactctcgg caacggatat ctcggctctt gcatcgatga agaacgtagc aaaatgcgat
+      301 acttggtgtg aattgcagaa tcccgtgaac catcgagtct ttgaacgcaa gttgcgcctg
+      361 aaaccattag gttgagggca cgtctgcctg ggtgtcacac aatgttgccc aatgcccaac
+      421 gcctttccat gatcggtgtt gagcggggcg aatgttggct tcccacgagc atggtctcgt
+      481 ggttggttga aaaatgagtc ctcggtggaa tgctccatga gaaatggtgg ttgagtgatg
+      541 ctcgagacca aacatgcgtg gcttccccct aaatgttggg cctctgaccc ctgcgtcttc
+      601 acacgacgct cacaacgaga cctcaggtca
+//
+LOCUS       EU927598                 633 bp    DNA     linear   PLN 31-JUL-2009
+DEFINITION  Collaea paraguariensis voucher Fortunato 8043 (BAB) 18S ribosomal
+            RNA gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   EU927598
+VERSION     EU927598.1
+KEYWORDS    .
+SOURCE      Collaea paraguariensis
+  ORGANISM  Collaea paraguariensis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Collaea.
+REFERENCE   1  (bases 1 to 633)
+  AUTHORS   Sede,S.M., Tosto,D., Talia,P., Luckow,M., Poggio,L. and Fortunato,R.
+  TITLE     Phylogenetic relationships among southern South American species of
+            Camptosema, Galactia and Collaea (Diocleinae: Papilionoideae:
+            Leguminosae) based on molecular and morphological data
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 633)
+  AUTHORS   Sede,S.M., Tosto,D., Talia,P., Luckow,M., Poggio,L. and Fortunato,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-JUL-2008) Instituto de Botanica Darwinion, Labarden
+            200, San Isidro, Buenos Aires B1642HYD, Argentina
+FEATURES             Location/Qualifiers
+     source          1..633
+                     /db_xref="taxon:584683"
+                     /mol_type="genomic DNA"
+                     /organism="Collaea paraguariensis"
+                     /specimen_voucher="Fortunato 8043 (BAB)"
+     rRNA            <1..5
+                     /product="18S ribosomal RNA"
+     misc_RNA        6..235
+                     /product="internal transcribed spacer 1"
+     rRNA            236..400
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        401..615
+                     /product="internal transcribed spacer 2"
+     rRNA            616..>633
+                     /product="28S ribosomal RNA"
+ORIGIN
+        1 cattgtcgat gcctcacaat cagttcaact tgtgaacctg tttaaccatt cagggttgat
+       61 tggatgtcta acatcttggc ttcccttatg ttgggggcag ggttatgctt tgcatggcct
+      121 ccttccaaca aaacacaaac cccggcgcaa catgcgtcaa ggaacttgaa attgtttgat
+      181 gcacctttag gccccggaga cggggtttct acgggtgatg tcgttcaaca tgtcttaaaa
+      241 tgactctcgg caacggatat ctcggctctt gcatcgatga agaacgtagc aaaatgcgat
+      301 acttggtgtg aattgcagaa tcccgtgaac catcgagtct ttgaacgcaa gttgcgcctg
+      361 aaaccattag gttgagggca cgtctgcctg ggtgtcacac aatgttgccc aatgcccaac
+      421 gcctttccat gatcggtgtt gagcggggcg aatgttggct tcccacgagc atggtctcgt
+      481 ggttggttga aaaacgagtc ctcggtggaa tgctccatga gaaatggtgg ttgagtgatg
+      541 ctcgagacca aacatgcgtg gcttccccct aaatgttggg cctctgaccc ctgcgtcttc
+      601 acacgacgct cacaacgaga cctcaggtca ggc
+//
+LOCUS       EU927597                 635 bp    DNA     linear   PLN 31-JUL-2009
+DEFINITION  Collaea aschersoniana voucher Fortunato 8002 (BAB) 18S ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   EU927597
+VERSION     EU927597.1
+KEYWORDS    .
+SOURCE      Collaea aschersoniana
+  ORGANISM  Collaea aschersoniana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Collaea.
+REFERENCE   1  (bases 1 to 635)
+  AUTHORS   Sede,S.M., Tosto,D., Talia,P., Luckow,M., Poggio,L. and Fortunato,R.
+  TITLE     Phylogenetic relationships among southern South American species of
+            Camptosema, Galactia and Collaea (Diocleinae: Papilionoideae:
+            Leguminosae) based on molecular and morphological data
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 635)
+  AUTHORS   Sede,S.M., Tosto,D., Talia,P., Luckow,M., Poggio,L. and Fortunato,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (28-JUL-2008) Instituto de Botanica Darwinion, Labarden
+            200, San Isidro, Buenos Aires B1642HYD, Argentina
+FEATURES             Location/Qualifiers
+     source          1..635
+                     /db_xref="taxon:584682"
+                     /mol_type="genomic DNA"
+                     /organism="Collaea aschersoniana"
+                     /specimen_voucher="Fortunato 8002 (BAB)"
+     rRNA            <1..5
+                     /product="18S ribosomal RNA"
+     misc_RNA        6..235
+                     /product="internal transcribed spacer 1"
+     rRNA            236..400
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        401..615
+                     /product="internal transcribed spacer 2"
+     rRNA            616..>635
+                     /product="28S ribosomal RNA"
+ORIGIN
+        1 cattgtcgat gcctcacaat cagttcaact tgtgaacctg tttaaccatt cagggttgat
+       61 tggatgtcta acatcttggc ttcccttatg ttggtggcag ggttatgctt tgcatggcct
+      121 ccttccaaca aaacacaaac cccggcgcaa catgcgtcaa ggaacttgaa attgtttgat
+      181 gcacctgtag gccccggaga cggtgtttct acgggtgatg tcgttcaaca tgtcttaaaa
+      241 tgactctcgg caacggatat ctcggctctt gcatcgatga agaacgtagc aaaatgcgat
+      301 acttggtgtg aattgcagaa tcccgtgaac catcgagtct ttgaacgcaa gttgcgcctg
+      361 aaaccattag gttgagggca cgtctgcctg ggtgtcacac aatgttgccc aacgcccaac
+      421 gcctttccat gatcggtgtt gagcggggcg aatgttggct tcccacgagc atggtctcgt
+      481 ggttggttga aaaacgagtc ctcggtggaa tgctccatga gaaatggtgg ttgagtgatg
+      541 ctcgagacca aacatgcgtg gcttccccct aaatgttgga cctctgaccc ctgcgtcttc
+      601 gtacgacgct cacaacgaga cctcaggtca ggcgg
+//
+LOCUS       EU499370                 635 bp    DNA     linear   PLN 15-OCT-2008
+DEFINITION  Collaea stenophylla 18S small subunit ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and 28S large
+            subunit ribosomal RNA gene, partial sequence.
+ACCESSION   EU499370
+VERSION     EU499370.1
+KEYWORDS    .
+SOURCE      Collaea stenophylla
+  ORGANISM  Collaea stenophylla
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Collaea.
+REFERENCE   1  (bases 1 to 635)
+  AUTHORS   Espert,S.M., Sede,S.M., Ruiz,L.K., Fortunato,R.H. and Poggio,L.
+  TITLE     New chromosome reports in the subtribes Diocleinae and Glycininae
+            (Phaseoleae: Papilionoideae: Fabaceae)
+  JOURNAL   Bot. J. Linn. Soc. 158 (2), 336-341 (2008)
+REFERENCE   2  (bases 1 to 635)
+  AUTHORS   Espert,S.M., Sede,S.M., Ruiz,L.K., Fortunato,R.H. and Poggio,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-FEB-2008) Ecologia, Genetica y Evolucion, Universidad
+            de Buenos Aires, Int. Guiraldes 2160, Buenos Aires C1428EHA,
+            Argentina
+FEATURES             Location/Qualifiers
+     source          1..635
+                     /country="Argentina"
+                     /db_xref="taxon:510210"
+                     /mol_type="genomic DNA"
+                     /organism="Collaea stenophylla"
+                     /specimen_voucher="Sede & Fernandez 1 (BAB)"
+     rRNA            <1..5
+                     /product="18S small subunit ribosomal RNA"
+     misc_RNA        6..235
+                     /product="internal transcribed spacer 1"
+     rRNA            236..400
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        401..615
+                     /product="internal transcribed spacer 2"
+     rRNA            616..>635
+                     /product="28S large subunit ribosomal RNA"
+ORIGIN
+        1 cattgtcgat gcctcacaat cagttcaact tgtgaacctg tttaaccatt cagggttgat
+       61 tggatgtcta acatcttggc ttcccttatg ttggtggcag ggttatgctt tgcatggcct
+      121 ccttccaaca aaacacaaac cccggcgcaa catgcgtcaa ggaacttgaa attgtttgat
+      181 gcacctgtag gccccggaga cggtgtttct acgggtgatg tcgttcaaca tgtcttaaaa
+      241 tgactctcgg caacggatat ctcggctctt gcatcgatga agaacgtagc aaaatgcgat
+      301 acttggtgtg aattgcagaa tcccgtgaac catcgagtct ttgaacgcaa gttgcgcctg
+      361 aaaccattag gttgagggca cgtctgcctg ggtgtcacac aatgttgccc aacgcccaac
+      421 gcctttccat gatcggtgtt gagcggggcg aatgttggct tcccacgagc atggtctcgt
+      481 ggttggttga aaaatgagtc ctcggtggaa tgctccatga gaaatggtgg ttgagtgatg
+      541 ctcgagacca aacatgcgtg gcttccccct aaatgttgga cctctgaccc ctgcgtcttc
+      601 atacgacgct cacaacgaga cctcaggtca ggcgg
+//
+LOCUS       EU499369                 694 bp    DNA     linear   PLN 15-OCT-2008
+DEFINITION  Collaea cipoensis 18S small subunit ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene,
+            and internal transcribed spacer 2, complete sequence; and 28S large
+            subunit ribosomal RNA gene, partial sequence.
+ACCESSION   EU499369
+VERSION     EU499369.1
+KEYWORDS    .
+SOURCE      Collaea cipoensis
+  ORGANISM  Collaea cipoensis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Collaea.
+REFERENCE   1  (bases 1 to 694)
+  AUTHORS   Espert,S.M., Sede,S.M., Ruiz,L.K., Fortunato,R.H. and Poggio,L.
+  TITLE     New chromosome reports in the subtribes Diocleinae and Glycininae
+            (Phaseoleae: Papilionoideae: Fabaceae)
+  JOURNAL   Bot. J. Linn. Soc. 158 (2), 336-341 (2008)
+REFERENCE   2  (bases 1 to 694)
+  AUTHORS   Espert,S.M., Sede,S.M., Ruiz,L.K., Fortunato,R.H. and Poggio,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-FEB-2008) Ecologia, Genetica y Evolucion, Universidad
+            de Buenos Aires, Int. Guiraldes 2160, Buenos Aires C1428EHA,
+            Argentina
+FEATURES             Location/Qualifiers
+     source          1..694
+                     /country="Brazil"
+                     /db_xref="taxon:510176"
+                     /mol_type="genomic DNA"
+                     /organism="Collaea cipoensis"
+                     /specimen_voucher="Fortunato 8411 (BAB)"
+     rRNA            <1..43
+                     /product="18S small subunit ribosomal RNA"
+     misc_RNA        44..273
+                     /product="internal transcribed spacer 1"
+     rRNA            274..438
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        439..653
+                     /product="internal transcribed spacer 2"
+     rRNA            654..>694
+                     /product="28S large subunit ribosomal RNA"
+ORIGIN
+        1 tcgtaacaag gtttccgtag gtgaacctgc ggaaggatca ttgtcgatgc ctcacaatca
+       61 gttcaacttg tgaacctgtt taaccattca gggttgattg gatgtctaac atcttggctt
+      121 cccttatgtt gggggcaggg ttatgctttg catggcctcc ttccaacaaa acacaaaccc
+      181 cggcgcaaca tgcgtcaagg aacttgaaat tgtttgatgc acctgtaggc cccggagacg
+      241 gtgtatctac gggtgatgtc gttcaacatg tcttaaaatg actctcggca acggatatct
+      301 cggctcttgc atcgatgaag aacgtagcaa aatgcgatac ttggtgtgaa ttgcagaatc
+      361 ccgtgaacca tcgagtcttt gaacgcaagt tgcgcctgaa accattaggt tgagggcacg
+      421 tctgcctggg tgtcacacaa tgttgcccaa tgcccaacgc ctttccatga tcggtgttga
+      481 gcggggcgaa tgttggcttc ccacgagcat ggtctcgtgg ttggttgaaa aacgagtcct
+      541 cggtggaatg ctccatgaga aatggtggtt gagtgatgct cgagaccaaa catgcgtggc
+      601 ttccccctaa atgttgggcc tctgacccct gcgtcttcac acgacgctca caacgagacc
+      661 tcaggtcagg cgggactacc cgctgagttt aagc
+//

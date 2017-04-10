@@ -1,0 +1,165 @@
+LOCUS       AY293845                 675 bp    DNA     linear   PLN 18-MAY-2004
+DEFINITION  Calopogonium mucunoides small subunit ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene and
+            internal transcribed spacer 2, complete sequence; and large subunit
+            ribosomal RNA gene, partial sequence.
+ACCESSION   AY293845
+VERSION     AY293845.1
+KEYWORDS    .
+SOURCE      Calopogonium mucunoides
+  ORGANISM  Calopogonium mucunoides
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Calopogonium.
+REFERENCE   1  (bases 1 to 675)
+  AUTHORS   Varela,E.S., Lima,J.P., Galdino,A.S., Pinto Lda,S., Bezerra,W.M.,
+            Nunes,E.P., Alves,M.A. and Grangeiro,T.B.
+  TITLE     Relationships in subtribe Diocleinae (Leguminosae; Papilionoideae)
+            inferred from internal transcribed spacer sequences from nuclear
+            ribosomal DNA
+  JOURNAL   Phytochemistry 65 (1), 59-69 (2004)
+   PUBMED   14697271
+REFERENCE   2  (bases 1 to 675)
+  AUTHORS   Varela,E.S., Santos Lima,J.M., Galdino,A.S., Pinto,L.S.,
+            Bezerra,W.M., Alves,M.A.O. and Grangeiro,T.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAY-2003) Biologia, Universidade Federal do Ceara, Av.
+            Humberto Monte, s/n, Fortaleza, Ceara 60451-970, Brasil
+FEATURES             Location/Qualifiers
+     source          1..675
+                     /country="Brazil"
+                     /db_xref="taxon:132433"
+                     /mol_type="genomic DNA"
+                     /organism="Calopogonium mucunoides"
+     rRNA            <1..6
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        7..287
+                     /product="internal transcribed spacer 1"
+     rRNA            288..451
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        452..653
+                     /product="internal transcribed spacer 2"
+     rRNA            654..>675
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 tcattgtcga tgcctcaaat cagattgacc ggcgaattcg tgttatcaac cgagcagggg
+       61 ggcaggctgg gcgagactca ccgtgcgtgc agtgtcaacc tccccgcccc ttgcttgcgt
+      121 caggcagcgg aggcggcctt gctgcctacc ttcctctgcc cgacagccac acaaaccccg
+      181 gcgcttcgtg cgccaaggaa tttgaaacat gtttgtcgcg tgcgactctc gcgggcccgg
+      241 agacggtgtc ccgcgagcgt cgtcacgacg cattgagtat actatgtaaa atgactctcg
+      301 gcaacggata tctcggctct tgcatcgatg aagaacgtag cgaaatgcga tacttggtgt
+      361 gaattgcaga atcccgtgaa ccatcgagtc tttgaacgca agttgcgccc aaagccatta
+      421 ggctgagggc acgcctgcct gggtgtcaca catcgttacc ctcacgcaaa ctgtgccgtg
+      481 ctgggtggac gctgacttcc cgtgagcacc gactcgcggt tggttgaaaa cttagtccac
+      541 ggccgtctgc gtcgtgatca aacggtggat gggcaacacg ctcgagacca atcacacgcg
+      601 acgcgccgct cctggacttg ctgatcccca cgcgtctttg tgcacgctct caacgagacc
+      661 tcaggtcagg cgggg
+//
+LOCUS       AY293844                 695 bp    DNA     linear   PLN 18-MAY-2004
+DEFINITION  Calopogonium caeruleum small subunit ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 1, 5.8S ribosomal RNA gene and
+            internal transcribed spacer 2, complete sequence; and large subunit
+            ribosomal RNA gene, partial sequence.
+ACCESSION   AY293844
+VERSION     AY293844.1
+KEYWORDS    .
+SOURCE      Calopogonium caeruleum
+  ORGANISM  Calopogonium caeruleum
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Calopogonium.
+REFERENCE   1  (bases 1 to 695)
+  AUTHORS   Varela,E.S., Lima,J.P., Galdino,A.S., Pinto Lda,S., Bezerra,W.M.,
+            Nunes,E.P., Alves,M.A. and Grangeiro,T.B.
+  TITLE     Relationships in subtribe Diocleinae (Leguminosae; Papilionoideae)
+            inferred from internal transcribed spacer sequences from nuclear
+            ribosomal DNA
+  JOURNAL   Phytochemistry 65 (1), 59-69 (2004)
+   PUBMED   14697271
+REFERENCE   2  (bases 1 to 695)
+  AUTHORS   Varela,E.S., Santos Lima,J.M., Galdino,A.S., Pinto,L.S.,
+            Bezerra,W.M., Alves,M.A.O. and Grangeiro,T.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-MAY-2003) Biologia, Universidade Federal do Ceara, Av.
+            Humberto Monte, s/n, Fortaleza, Ceara 60451-970, Brasil
+FEATURES             Location/Qualifiers
+     source          1..695
+                     /country="Brazil"
+                     /db_xref="taxon:109163"
+                     /mol_type="genomic DNA"
+                     /organism="Calopogonium caeruleum"
+     rRNA            <1..8
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        8..305
+                     /product="internal transcribed spacer 1"
+     rRNA            306..469
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        470..673
+                     /product="internal transcribed spacer 2"
+     rRNA            674..>695
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 ggatattgtc tgatgcctca aatcagataa accggcgaat tcgtgttata caccaagcaa
+       61 gggggcaggt tgggccgaga cagactgtgc gtgcagtgca atatctcacc acacgacgtt
+      121 tccaacctcc ctaccccctt gcttgcatcg agcagcggtg gcggcctctg ttgcctactt
+      181 ctgctcgaca accacacaaa ccccggcgct tcgtgcgcca aggaactgaa acatgtttgt
+      241 tacgtgcgat tctagcgggc ccggagacgg tgtcccgcga gcgtcgtcac gacacactga
+      301 gttataaaat gactctcggc aacggatatc tcggctcttg catcgatgaa gaacgtagcg
+      361 aaatgcgata cttggtgtga attgcagaat cccgtgaacc atcgagtctt tgaacgcaag
+      421 ttgcgcccaa agccattagg ccgagggcac gcctgcctgg gtgtcacaca tcgttaccct
+      481 cacgcaaaaa cgtgccgtgc tgggtggacg ctgacttccc gcgagcaccg actcgcggtt
+      541 ggttgaaaac ttagtccacg gctgtctgcg tcgtgatcaa atggtggatg ggcaacatgc
+      601 tcgagaccag atcacacgcg acacgtcgtt tccggactca ctgatcccca cgcgtctttg
+      661 tgcacgctct caacgagacc tcaggtcagg cgggg
+//
+LOCUS       AF539638                 593 bp    DNA     linear   PLN 02-JAN-2003
+DEFINITION  Calopogonium mucunoides ecotype OUTcm internal transcribed spacer 1,
+            5.8S ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence.
+ACCESSION   AF539638
+VERSION     AF539638.1
+KEYWORDS    .
+SOURCE      Calopogonium mucunoides (calopo)
+  ORGANISM  Calopogonium mucunoides
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Calopogonium.
+REFERENCE   1  (bases 1 to 593)
+  AUTHORS   Estrella,J.E., Abbott,R.J., Soerensen,M. and Gillies,A.C.
+  TITLE     Molecular systematics of Pachyrhizus (Fabaceae), the yam bean
+  JOURNAL   Plant Syst. Evol. (2002) In press
+REFERENCE   2  (bases 1 to 593)
+  AUTHORS   Estrella,J.E., Abbott,R.J., Soerensen,M. and Gillies,A.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2002) DENAREF, INIAP, Panamericana Sur km 14,
+            Quito, Pichincha, Ecuador
+FEATURES             Location/Qualifiers
+     source          1..593
+                     /country="Belgium: Meise, Botanical Garden"
+                     /db_xref="taxon:132433"
+                     /ecotype="OUTcm"
+                     /mol_type="genomic DNA"
+                     /note="subtribe Diocleinae; ex situ conserved accession;
+                     common: calopo; authority: Calopogonium mucunoides Desv."
+                     /organism="Calopogonium mucunoides"
+     misc_RNA        1..202
+                     /product="internal transcribed spacer 1"
+     rRNA            203..369
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        370..593
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 gaggttgnac acgaatttta ggagcgaktg tttcaatcac ccctaagtag gccgggtggg
+       61 agtggnttac acctaggggg gccggcgggc ttgggatagt graacgtcac gtctcgacca
+      121 actwcctccc ccttgagttg ggagtggcct cggcccttgc tcgacaaccc caaaaccccg
+      181 gcgcttcgtg tgccaaggaa tcaaaacatg tttgtgaagg wcaattcccg tgggccggga
+      241 gacgatgtcc caccgngctg tcgttcttca cgatagcaat tgtctacttc caaaaaacct
+      301 gwrcgcaacg aggatatctg ggatattgga tccctanaya ccgaaggcga atgcgatact
+      361 gggtcaaact tggatataan aamtaacnat caagtctttt aacgcaagtt gcgcccaaag
+      421 gcattagggt gagggcccgc cttactnggt gncacacatt gttcaccctc cacacgcaaa
+      481 cccattgtgc aggagggggn tgcatgctgg tttcccgcga gcccccactc gcggttggtt
+      541 aaaaattgay ttccaacckt tttatcgtcg tgaaaaattg gkgwktggtt aac
+//

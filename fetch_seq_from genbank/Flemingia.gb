@@ -1,0 +1,751 @@
+LOCUS       KX277722                 533 bp    DNA     linear   PLN 17-JAN-2017
+DEFINITION  Flemingia macrophylla isolate SBB-1507 internal transcribed spacer
+            1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and
+            internal transcribed spacer 2, partial sequence.
+ACCESSION   KX277722
+VERSION     KX277722.1
+KEYWORDS    .
+SOURCE      Flemingia macrophylla
+  ORGANISM  Flemingia macrophylla
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Flemingia.
+REFERENCE   1  (bases 1 to 533)
+  AUTHORS   Malik,S. and Babbar,S.B.
+  TITLE     DNA barcoding of medicinal plants
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 533)
+  AUTHORS   Malik,S. and Babbar,S.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-MAY-2016) Department of Botany, University of Delhi,
+            Delhi 110007, India
+FEATURES             Location/Qualifiers
+     source          1..533
+                     /db_xref="taxon:520843"
+                     /isolate="SBB-1507"
+                     /mol_type="genomic DNA"
+                     /organism="Flemingia macrophylla"
+     misc_RNA        <1..>533
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, and internal transcribed spacer 2"
+ORIGIN
+        1 agaaatcaat tggaccggcg aacctgtttg tctataccca ttgggtctgg aggaggcgtt
+       61 caacgacgcc cccttttctc ccgagtcggg gcggagacgg tcgtgccttg ctcggccggc
+      121 tcctttcccg acaaaacaca aacctcggcg cttcgtgcgc caaggaattc aaaaatgtta
+      181 agcgcagcac ggcggacccg aatacggcgt tccgcgggtg ttgtggtgac acgagttatc
+      241 taaaatgact ctcggcaacg gatatctcgg ctcttgcatc gatgaagaac gtagcgaaat
+      301 gcgatacttg gtgtgaattg cagaatcccg tgaaccatcg agtctttgaa cgcaagttgc
+      361 gcccgaagcc actaggccga gggcacggct gcctgggtgt cacgcgtcgt taccccccag
+      421 caacgagacg ttgcgtgggg tgcatgatgg cctcccgcga gcgttgtctc ttggttggtt
+      481 gaaaactgag ttcacggccg agcgtgcggt ggccaaacgg tggatgagta atg
+//
+LOCUS       KX277642                 614 bp    DNA     linear   PLN 17-JAN-2017
+DEFINITION  Flemingia macrophylla isolate SBB-1446 internal transcribed spacer
+            1, partial sequence; 5.8S ribosomal RNA gene, complete sequence; and
+            internal transcribed spacer 2, partial sequence.
+ACCESSION   KX277642
+VERSION     KX277642.1
+KEYWORDS    .
+SOURCE      Flemingia macrophylla
+  ORGANISM  Flemingia macrophylla
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Flemingia.
+REFERENCE   1  (bases 1 to 614)
+  AUTHORS   Malik,S. and Babbar,S.B.
+  TITLE     DNA barcoding of medicinal plants
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 614)
+  AUTHORS   Malik,S. and Babbar,S.B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-MAY-2016) Department of Botany, University of Delhi,
+            Delhi 110007, India
+FEATURES             Location/Qualifiers
+     source          1..614
+                     /db_xref="taxon:520843"
+                     /isolate="SBB-1446"
+                     /mol_type="genomic DNA"
+                     /organism="Flemingia macrophylla"
+     misc_RNA        <1..>614
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, and internal transcribed spacer 2"
+ORIGIN
+        1 atggctcgag aaatcaattg gaccggcgaa cctgtttgtc tatacccatt gggtctggag
+       61 gaggcgttca acgacgcccc cttttctccc gagtcggggc ggagacggtc gtgccttgct
+      121 cggccggctc ctttcccgac aaaacacaaa cctcggcgct tcgtgcgcca aggaattcaa
+      181 aaatgttaag cgcagcacgg cggacccgaa tacggcgttc cgcgggtgtt gtggtgacac
+      241 gagttatcta aaatgactct cggcaacgga tatctcggct cttgcatcga tgaagaacgt
+      301 agcgaaatgc gatacttggt gtgaattgca gaatcccgtg aaccatcgag tctttgaacg
+      361 caagttgcgc ccgaagccac taggccgagg gcacggctgc ctgggtgtca cgcgtcgtta
+      421 ccccccagca acgagacgtt gcgtggggtg catgatggcc tcccgcgagc gttgtctctt
+      481 ggttggttga aaactgagtt cacggccgag cgtgcggtgg ccaaacggtg gatgagtaat
+      541 gctcgatgcc ggccacgtgc acctctgtgt cggatttgga cccttgacct cgtgcgtctc
+      601 ttacttggac gcct
+//
+LOCUS       KU182865                 209 bp    DNA     linear   PLN 15-MAY-2016
+DEFINITION  Flemingia macrophylla internal transcribed spacer 2, partial
+            sequence.
+ACCESSION   KU182865
+VERSION     KU182865.1
+KEYWORDS    .
+SOURCE      Flemingia macrophylla
+  ORGANISM  Flemingia macrophylla
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Flemingia.
+REFERENCE   1  (bases 1 to 209)
+  AUTHORS   Li,Y.B. and Wu,B.
+  TITLE     DNA barcoders in identifying medicinal materials
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 209)
+  AUTHORS   Li,Y.B. and Wu,B.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-NOV-2015) Research Center of Natural Resources of
+            Chinese Medicinal Materials and Ethnic Medicine, Jiangxi University
+            of Chinese Medicine, Xingwan Road of Wanli District, Nanchang,
+            Jiangxi 330000, China
+FEATURES             Location/Qualifiers
+     source          1..209
+                     /db_xref="taxon:520843"
+                     /mol_type="genomic DNA"
+                     /organism="Flemingia macrophylla"
+     misc_RNA        <1..>209
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 cgcgtcgtta cccccagcaa cgagacgttg cgtggggtgc atgatggcct cccgcgagcg
+       61 ttgtctcttg gttggttgaa aactgagttc acggccgagc gtgcggtggc caaacggtgg
+      121 atgagtaatg ctcgatgccg gccacgtgca cctctgtgtc ggatttggat ccttgacctc
+      181 gtgcgtcttt tacttggacg cctctaacg
+//
+LOCUS       KM874109                 386 bp    DNA     linear   PLN 31-OCT-2015
+DEFINITION  Flemingia macrophylla isolate 115 5.8S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   KM874109
+VERSION     KM874109.1
+KEYWORDS    .
+SOURCE      Flemingia macrophylla
+  ORGANISM  Flemingia macrophylla
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Flemingia.
+REFERENCE   1  (bases 1 to 386)
+  AUTHORS   Lin,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-OCT-2014) Department of TCM, Guangdong Pharmaceutical
+            University, No. 280, Guangdong Pharmaceutical University in
+            Guangzhou University City, Guangzhou, Guangdong 510006, China
+FEATURES             Location/Qualifiers
+     source          1..386
+                     /db_xref="taxon:520843"
+                     /isolate="115"
+                     /mol_type="genomic DNA"
+                     /organism="Flemingia macrophylla"
+     misc_RNA        <1..>386
+                     /note="contains 5.8S ribosomal RNA, internal transcribed
+                     spacer 2, and 28S ribosomal RNA"
+ORIGIN
+        1 ctaggccgag ggcacggctg cctgggtgtc acgcgtcgtt acccccagca acgagacgtt
+       61 gcgtggggtg catgatggcc tcccgcgagc gttgtctctt ggttggttga aaactgagtt
+      121 cacggccgag cgtgcggtgg ccaaacggtg gatgagtaat gctcgatgcc ggccacgtgc
+      181 acctctgtgt cggatttgga tccttgacct cgtgcgtctt ttacttggac gcctctaacg
+      241 agacctcagg tcaggcgggg ctacccgctg agtttaagca tatcaataag cggaggaaaa
+      301 gaaactaaca aggattccct tagtaacggc gagcgaaccg ggaatagccc accatgaaaa
+      361 tcggtcgcct ctggcgtctg aattgt
+//
+LOCUS       KM874108                 386 bp    DNA     linear   PLN 31-OCT-2015
+DEFINITION  Flemingia macrophylla isolate 12 5.8S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   KM874108
+VERSION     KM874108.1
+KEYWORDS    .
+SOURCE      Flemingia macrophylla
+  ORGANISM  Flemingia macrophylla
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Flemingia.
+REFERENCE   1  (bases 1 to 386)
+  AUTHORS   Lin,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-OCT-2014) Department of TCM, Guangdong Pharmaceutical
+            University, No. 280, Guangdong Pharmaceutical University in
+            Guangzhou University City, Guangzhou, Guangdong 510006, China
+FEATURES             Location/Qualifiers
+     source          1..386
+                     /db_xref="taxon:520843"
+                     /isolate="12"
+                     /mol_type="genomic DNA"
+                     /organism="Flemingia macrophylla"
+     misc_RNA        <1..>386
+                     /note="contains 5.8S ribosomal RNA, internal transcribed
+                     spacer 2, and 28S ribosomal RNA"
+ORIGIN
+        1 ctaggccgag ggcacggctg cctgggtgtc acgcgtcgtt acccccagca acgagacgtt
+       61 gcgtggggtg catgatggcc tcccgcgagc gttgtctctt ggttggttga aaactgagtt
+      121 cacggccgag cgtgcggtgg ccaaacggtg gatgagtaat gctcgatgcc ggccacgtgc
+      181 acctctgtgt cggatttgga tccttgacct cgtgcgtctt ttacttggac gcctctaacg
+      241 agacctcagg tcaggcgggg ctacccgctg agtttaagca tatcaataag cggaggaaaa
+      301 gaaactaaca aggattccct tagtaacggc gagcgaaccg ggaatagccc accatgaaaa
+      361 tcggtcgcct ctggcgtctg aattgt
+//
+LOCUS       KM874107                 386 bp    DNA     linear   PLN 31-OCT-2015
+DEFINITION  Flemingia macrophylla isolate 15 5.8S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   KM874107
+VERSION     KM874107.1
+KEYWORDS    .
+SOURCE      Flemingia macrophylla
+  ORGANISM  Flemingia macrophylla
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Flemingia.
+REFERENCE   1  (bases 1 to 386)
+  AUTHORS   Lin,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-OCT-2014) Department of TCM, Guangdong Pharmaceutical
+            University, No. 280, Guangdong Pharmaceutical University in
+            Guangzhou University City, Guangzhou, Guangdong 510006, China
+FEATURES             Location/Qualifiers
+     source          1..386
+                     /db_xref="taxon:520843"
+                     /isolate="15"
+                     /mol_type="genomic DNA"
+                     /organism="Flemingia macrophylla"
+     misc_RNA        <1..>386
+                     /note="contains 5.8S ribosomal RNA, internal transcribed
+                     spacer 2, and 28S ribosomal RNA"
+ORIGIN
+        1 ctaggccgag ggcacggctg cctgggtgtc acgcgtcgtt acccccagca acgagacgtt
+       61 gcgtggggtg catgatggcc tcccgcgagc gttgtctctt ggttggttga aaactgagtt
+      121 cacggccgag cgtgcggtgg ccaaacggtg gatgagtaat gctcgatgcc ggccacgtgc
+      181 acctctgtgt cggatttgga tccttgacct cgtgcgtctt ttacttggac gcctctaacg
+      241 agacctcagg tcaggcgggg ctacccgctg agtttaagca tatcaataag cggaggaaaa
+      301 gaaactaaca aggattccct tagtaacggc gagcgaaccg ggaatagccc accatgaaaa
+      361 tcggtcgcct ctggcgtctg aattgt
+//
+LOCUS       KM874106                 386 bp    DNA     linear   PLN 31-OCT-2015
+DEFINITION  Flemingia macrophylla isolate 22 5.8S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   KM874106
+VERSION     KM874106.1
+KEYWORDS    .
+SOURCE      Flemingia macrophylla
+  ORGANISM  Flemingia macrophylla
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Flemingia.
+REFERENCE   1  (bases 1 to 386)
+  AUTHORS   Lin,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-OCT-2014) Department of TCM, Guangdong Pharmaceutical
+            University, No. 280, Guangdong Pharmaceutical University in
+            Guangzhou University City, Guangzhou, Guangdong 510006, China
+FEATURES             Location/Qualifiers
+     source          1..386
+                     /db_xref="taxon:520843"
+                     /isolate="22"
+                     /mol_type="genomic DNA"
+                     /organism="Flemingia macrophylla"
+     misc_RNA        <1..>386
+                     /note="contains 5.8S ribosomal RNA, internal transcribed
+                     spacer 2, and 28S ribosomal RNA"
+ORIGIN
+        1 ctaggccgag ggcacggctg cctgggtgtc acgcgtcgtt acccccagca acgagacgtt
+       61 gcgtggggtg catgatggcc tcccgcgagc gttgtctctt ggttggttga aaactgagtt
+      121 cacggccgag cgtgcggtgg ccaaacggtg gatgagtaat gctcgatgcc ggccacgtgc
+      181 acctctgtgt cggatttgga tccttgacct cgtgcgtctt ttacttggac gcctctaacg
+      241 agacctcagg tcaggcgggg ctacccgctg agtttaagca tatcaataag cggaggaaaa
+      301 gaaactaaca aggattccct tagtaacggc gagcgaaccg ggaatagccc accatgaaaa
+      361 tcggtcgcct ctggcgtctg aattgt
+//
+LOCUS       KM874105                 386 bp    DNA     linear   PLN 31-OCT-2015
+DEFINITION  Flemingia macrophylla isolate 21 5.8S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   KM874105
+VERSION     KM874105.1
+KEYWORDS    .
+SOURCE      Flemingia macrophylla
+  ORGANISM  Flemingia macrophylla
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Flemingia.
+REFERENCE   1  (bases 1 to 386)
+  AUTHORS   Lin,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-OCT-2014) Department of TCM, Guangdong Pharmaceutical
+            University, No. 280, Guangdong Pharmaceutical University in
+            Guangzhou University City, Guangzhou, Guangdong 510006, China
+FEATURES             Location/Qualifiers
+     source          1..386
+                     /db_xref="taxon:520843"
+                     /isolate="21"
+                     /mol_type="genomic DNA"
+                     /organism="Flemingia macrophylla"
+     misc_RNA        <1..>386
+                     /note="contains 5.8S ribosomal RNA, internal transcribed
+                     spacer 2, and 28S ribosomal RNA"
+ORIGIN
+        1 ctaggccgag ggcacggctg cctgggtgtc acgcgtcgtt acccccagca acgagacgtt
+       61 gcgtggggtg catgatggcc tcccgcgagc gttgtctctt ggttggttga aaactgagtt
+      121 cacggccgag cgtgcggtgg ccaaacggtg gatgagtaat gctcgatgcc ggccacgtgc
+      181 acctctgtgt cggatttgga tccttgacct cgtgcgtctt ttacttggac gcctctaacg
+      241 agacctcagg tcaggcgggg ctacccgctg agtttaagca tatcaataag cggaggaaaa
+      301 gaaactaaca aggattccct tagtaacggc gagcgaaccg ggaatagccc accatgaaaa
+      361 tcggtcgcct ctggcgtctg aattgt
+//
+LOCUS       KM874104                 386 bp    DNA     linear   PLN 31-OCT-2015
+DEFINITION  Flemingia macrophylla isolate 19 5.8S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   KM874104
+VERSION     KM874104.1
+KEYWORDS    .
+SOURCE      Flemingia macrophylla
+  ORGANISM  Flemingia macrophylla
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Flemingia.
+REFERENCE   1  (bases 1 to 386)
+  AUTHORS   Lin,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-OCT-2014) Department of TCM, Guangdong Pharmaceutical
+            University, No. 280, Guangdong Pharmaceutical University in
+            Guangzhou University City, Guangzhou, Guangdong 510006, China
+FEATURES             Location/Qualifiers
+     source          1..386
+                     /db_xref="taxon:520843"
+                     /isolate="19"
+                     /mol_type="genomic DNA"
+                     /organism="Flemingia macrophylla"
+     misc_RNA        <1..>386
+                     /note="contains 5.8S ribosomal RNA, internal transcribed
+                     spacer 2, and 28S ribosomal RNA"
+ORIGIN
+        1 ctaggccgag ggcacggctg cctgggtgtc acgcgtcgtt acccccagca acgagacgtt
+       61 gcgtggggtg catgatggcc tcccgcgagc gttgtctctt ggttggttga aaactgagtt
+      121 cacggccgag cgtgcggtgg ccaaacggtg gatgagtaat gctcgatgcc ggccacgtgc
+      181 acctctgtgt cggatttgga tccttgacct cgtgcgtctt ttacttggac gcctctaacg
+      241 agacctcagg tcaggcgggg ctacccgctg agtttaagca tatcaataag cggaggaaaa
+      301 gaaactaaca aggattccct tagtaacggc gagcgaaccg ggaatagccc accatgaaaa
+      361 tcggtcgcct ctggcgtctg aattgt
+//
+LOCUS       KM874103                 386 bp    DNA     linear   PLN 31-OCT-2015
+DEFINITION  Flemingia macrophylla isolate 14# 5.8S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   KM874103
+VERSION     KM874103.1
+KEYWORDS    .
+SOURCE      Flemingia macrophylla
+  ORGANISM  Flemingia macrophylla
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Flemingia.
+REFERENCE   1  (bases 1 to 386)
+  AUTHORS   Lin,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-OCT-2014) Department of TCM, Guangdong Pharmaceutical
+            University, No. 280, Guangdong Pharmaceutical University in
+            Guangzhou University City, Guangzhou, Guangdong 510006, China
+FEATURES             Location/Qualifiers
+     source          1..386
+                     /db_xref="taxon:520843"
+                     /isolate="14#"
+                     /mol_type="genomic DNA"
+                     /organism="Flemingia macrophylla"
+     misc_RNA        <1..>386
+                     /note="contains 5.8S ribosomal RNA, internal transcribed
+                     spacer 2, and 28S ribosomal RNA"
+ORIGIN
+        1 ctaggccgag ggcacggctg cctgggtgtc acgcgtcgtt acccccagca acgagacgtt
+       61 gcgtggggtg catgatggcc tcccgcgagc gttgtctctt ggttggttga aaactgagtt
+      121 cacggccgag cgtgcggtgg ccaaacggtg gatgagtaat gctcgatgcc ggccacgtgc
+      181 acctctgtgt cggatttgga tccttgacct cgtgcgtctt ttacttggac gcctctaacg
+      241 agacctcagg tcaggcgggg ctacccgctg agtttaagca tatcaataag cggaggaaaa
+      301 gaaactaaca aggattccct tagtaacggc gagcgaaccg ggaatagccc accatgaaaa
+      361 tcggtcgcct ctggcgtctg aattgt
+//
+LOCUS       KM874102                 386 bp    DNA     linear   PLN 31-OCT-2015
+DEFINITION  Flemingia macrophylla isolate 13# 5.8S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   KM874102
+VERSION     KM874102.1
+KEYWORDS    .
+SOURCE      Flemingia macrophylla
+  ORGANISM  Flemingia macrophylla
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Flemingia.
+REFERENCE   1  (bases 1 to 386)
+  AUTHORS   Lin,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-OCT-2014) Department of TCM, Guangdong Pharmaceutical
+            University, No. 280, Guangdong Pharmaceutical University in
+            Guangzhou University City, Guangzhou, Guangdong 510006, China
+FEATURES             Location/Qualifiers
+     source          1..386
+                     /db_xref="taxon:520843"
+                     /isolate="13#"
+                     /mol_type="genomic DNA"
+                     /organism="Flemingia macrophylla"
+     misc_RNA        <1..>386
+                     /note="contains 5.8S ribosomal RNA, internal transcribed
+                     spacer 2, and 28S ribosomal RNA"
+ORIGIN
+        1 ctaggccgag ggcacggctg cctgggtgtc acgcgtcgtt acccccagca acgagacgtt
+       61 gcgtggggtg catgatggcc tcccgcgagc gttgtctctt ggttggttga aaactgagtt
+      121 cacggccgag cgtgcggtgg ccaaacggtg gatgagtaat gctcgatgcc ggccacgtgc
+      181 acctctgtgt cggatttgga tccttgacct cgtgcgtctt ttacttggac gcctctaacg
+      241 agacctcagg tcaggcgggg ctacccgctg agtttaagca tatcaataag cggaggaaaa
+      301 gaaactaaca aggattccct tagtaacggc gagcgaaccg ggaatagccc accatgaaaa
+      361 tcggtcgcct ctggcgtctg aattgt
+//
+LOCUS       KM874101                 386 bp    DNA     linear   PLN 31-OCT-2015
+DEFINITION  Flemingia macrophylla isolate 16 5.8S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   KM874101
+VERSION     KM874101.1
+KEYWORDS    .
+SOURCE      Flemingia macrophylla
+  ORGANISM  Flemingia macrophylla
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Flemingia.
+REFERENCE   1  (bases 1 to 386)
+  AUTHORS   Lin,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-OCT-2014) Department of TCM, Guangdong Pharmaceutical
+            University, No. 280, Guangdong Pharmaceutical University in
+            Guangzhou University City, Guangzhou, Guangdong 510006, China
+FEATURES             Location/Qualifiers
+     source          1..386
+                     /db_xref="taxon:520843"
+                     /isolate="16"
+                     /mol_type="genomic DNA"
+                     /organism="Flemingia macrophylla"
+     misc_RNA        <1..>386
+                     /note="contains 5.8S ribosomal RNA, internal transcribed
+                     spacer 2, and 28S ribosomal RNA"
+ORIGIN
+        1 ctaggccgag ggcacggctg cctgggtgtc acgcgtcgtt acccccagca acgagacgtt
+       61 gcgtggggtg catgatggcc tcccgcgagc gttgtctctt ggttggttga aaactgagtt
+      121 cacggccgag cgtgcggtgg ccaaacggtg gatgagtaat gctcgatgcc ggccacgtgc
+      181 acctctgtgt cggatttgga tccttgacct cgtgcgtctt ttacttggac gcctctaacg
+      241 agacctcagg tcaggcgggg ctacccgctg agtttaagca tatcaataag cggaggaaaa
+      301 gaaactaaca aggattccct tagtaacggc gagcgaaccg ggaatagccc accatgaaaa
+      361 tcggtcgcct ctggcgtctg aattgt
+//
+LOCUS       KM874100                 386 bp    DNA     linear   PLN 31-OCT-2015
+DEFINITION  Flemingia macrophylla isolate 20# 5.8S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   KM874100
+VERSION     KM874100.1
+KEYWORDS    .
+SOURCE      Flemingia macrophylla
+  ORGANISM  Flemingia macrophylla
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Flemingia.
+REFERENCE   1  (bases 1 to 386)
+  AUTHORS   Lin,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-OCT-2014) Department of TCM, Guangdong Pharmaceutical
+            University, No. 280, Guangdong Pharmaceutical University in
+            Guangzhou University City, Guangzhou, Guangdong 510006, China
+FEATURES             Location/Qualifiers
+     source          1..386
+                     /db_xref="taxon:520843"
+                     /isolate="20#"
+                     /mol_type="genomic DNA"
+                     /organism="Flemingia macrophylla"
+     misc_RNA        <1..>386
+                     /note="contains 5.8S ribosomal RNA, internal transcribed
+                     spacer 2, and 28S ribosomal RNA"
+ORIGIN
+        1 ctaggccgag ggcacggctg cctgggtgtc acgcgtcgtt acccccagca acgagacgtt
+       61 gcgtggggtg catgatggcc tcccgcgagc gttgtctctt ggttggttga aaactgagtt
+      121 cacggccgag cgtgcggtgg ccaaacggtg gatgagtaat gctcgatgcc ggccacgtgc
+      181 acctctgtgt cggatttgga tccttgacct cgtgcgtctt ttacttggac gcctctaacg
+      241 agacctcagg tcaggcgggg ctacccgctg agtttaagca tatcaataag cggaggaaaa
+      301 gaaactaaca aggattccct tagtaacggc gagcgaaccg ggaatagccc accatgaaaa
+      361 tcggtcgcct ctggcgtctg aattgt
+//
+LOCUS       KM874099                 387 bp    DNA     linear   PLN 31-OCT-2015
+DEFINITION  Flemingia philippinensis isolate 17# 5.8S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 2, complete sequence;
+            and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   KM874099
+VERSION     KM874099.1
+KEYWORDS    .
+SOURCE      Flemingia philippinensis
+  ORGANISM  Flemingia philippinensis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Flemingia.
+REFERENCE   1  (bases 1 to 387)
+  AUTHORS   Lin,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-OCT-2014) Department of TCM, Guangdong Pharmaceutical
+            University, No. 280, Guangdong Pharmaceutical University in
+            Guangzhou University City, Guangzhou, Guangdong 510006, China
+FEATURES             Location/Qualifiers
+     source          1..387
+                     /db_xref="taxon:634991"
+                     /isolate="17#"
+                     /mol_type="genomic DNA"
+                     /organism="Flemingia philippinensis"
+     misc_RNA        <1..>387
+                     /note="contains 5.8S ribosomal RNA, internal transcribed
+                     spacer 2, and 28S ribosomal RNA"
+ORIGIN
+        1 ctaggccgag ggcacgcctg cctgggtgtc acgcgtcgtt accccccagc aactagacgc
+       61 tgcgtggggt gcatgatggc ctcccgcgag cgttgtctcg tggttggctg aaaactgagt
+      121 tcacggccga gcgtgcggtg gccaaacggt ggatgagtaa tgctcgatgc cggccacgtg
+      181 cacttctgtg tcggatttgg acccttgacc tcgtgcgtct tttacttgga cgcctctaac
+      241 gagacctcag gtcaggcggg gctacccgct gagtttaagc atatcaataa gcggaggaaa
+      301 agaaactaac aaggattccc ttagtaacgg cgagcgaacc gggaatagcc caccatgaaa
+      361 atcggtcgcc tttggcgtct gaattgt
+//
+LOCUS       KM874098                 387 bp    DNA     linear   PLN 31-OCT-2015
+DEFINITION  Flemingia philippinensis isolate 8 5.8S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   KM874098
+VERSION     KM874098.1
+KEYWORDS    .
+SOURCE      Flemingia philippinensis
+  ORGANISM  Flemingia philippinensis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Flemingia.
+REFERENCE   1  (bases 1 to 387)
+  AUTHORS   Lin,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-OCT-2014) Department of TCM, Guangdong Pharmaceutical
+            University, No. 280, Guangdong Pharmaceutical University in
+            Guangzhou University City, Guangzhou, Guangdong 510006, China
+FEATURES             Location/Qualifiers
+     source          1..387
+                     /db_xref="taxon:634991"
+                     /isolate="8"
+                     /mol_type="genomic DNA"
+                     /organism="Flemingia philippinensis"
+     misc_RNA        <1..>387
+                     /note="contains 5.8S ribosomal RNA, internal transcribed
+                     spacer 2, and 28S ribosomal RNA"
+ORIGIN
+        1 ctaggccgag ggcacgcctg cctgggtgtc acgcgtcgtt accccccagc aactagacgc
+       61 tgcgtggggt gcatgatggc ctcccgcgag cgttgtctcg tggttggctg aaaactgagt
+      121 tcacggccga gcgtgcggtg gccaaacggt ggatgagtaa tgctcgatgc cggccacgtg
+      181 cacttctgtg tcggatttgg acccttgacc tcgtgcgtct tttacttgga cgcctctaac
+      241 gagacctcag gtcaggcggg gctacccgct gagtttaagc atatcaataa gcggaggaaa
+      301 agaaactaac aaggattccc ttagtaacgg cgagcgaacc gggaatagcc caccatgaaa
+      361 atcggtcgcc tttggcgtct gaattgt
+//
+LOCUS       KM874097                 387 bp    DNA     linear   PLN 31-OCT-2015
+DEFINITION  Flemingia philippinensis isolate 101 5.8S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 2, complete sequence;
+            and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   KM874097
+VERSION     KM874097.1
+KEYWORDS    .
+SOURCE      Flemingia philippinensis
+  ORGANISM  Flemingia philippinensis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Flemingia.
+REFERENCE   1  (bases 1 to 387)
+  AUTHORS   Lin,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-OCT-2014) Department of TCM, Guangdong Pharmaceutical
+            University, No. 280, Guangdong Pharmaceutical University in
+            Guangzhou University City, Guangzhou, Guangdong 510006, China
+FEATURES             Location/Qualifiers
+     source          1..387
+                     /db_xref="taxon:634991"
+                     /isolate="101"
+                     /mol_type="genomic DNA"
+                     /organism="Flemingia philippinensis"
+     misc_RNA        <1..>387
+                     /note="contains 5.8S ribosomal RNA, internal transcribed
+                     spacer 2, and 28S ribosomal RNA"
+ORIGIN
+        1 ctaggccgag ggcacgcctg cctgggtgtc acgcgtcgtt accccccagc aactagacgc
+       61 tgcgtggggt gcatgatggc ctcccgcgag cgttgtctcg tggttggctg aaaactgagt
+      121 tcacggccga gcgtgcggtg gccaaacggt ggatgagtaa tgctcgatgc cggccacgtg
+      181 cacttctgtg tcggatttgg acccttgacc tcgtgcgtct tttacttgga cgcctctaac
+      241 gagacctcag gtcaggcggg gctacccgct gagtttaagc atatcaataa gcggaggaaa
+      301 agaaactaac aaggattccc ttagtaacgg cgagcgaacc gggaatagcc caccatgaaa
+      361 atcggtcgcc tttggcgtct gaattgt
+//
+LOCUS       KM874096                 387 bp    DNA     linear   PLN 31-OCT-2015
+DEFINITION  Flemingia philippinensis isolate 111 5.8S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 2, complete sequence;
+            and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   KM874096
+VERSION     KM874096.1
+KEYWORDS    .
+SOURCE      Flemingia philippinensis
+  ORGANISM  Flemingia philippinensis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Flemingia.
+REFERENCE   1  (bases 1 to 387)
+  AUTHORS   Lin,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-OCT-2014) Department of TCM, Guangdong Pharmaceutical
+            University, No. 280, Guangdong Pharmaceutical University in
+            Guangzhou University City, Guangzhou, Guangdong 510006, China
+FEATURES             Location/Qualifiers
+     source          1..387
+                     /db_xref="taxon:634991"
+                     /isolate="111"
+                     /mol_type="genomic DNA"
+                     /organism="Flemingia philippinensis"
+     misc_RNA        <1..>387
+                     /note="contains 5.8S ribosomal RNA, internal transcribed
+                     spacer 2, and 28S ribosomal RNA"
+ORIGIN
+        1 ctaggccgag ggcacgcctg cctgggtgtc acgcgtcgtt accccccagc aactagacgc
+       61 tgcgtggggt gcatgatggc ctcccgcgag cgttgtctcg tggttggctg aaaactgagt
+      121 tcacggccga gcgtgcggtg gccaaacggt ggatgagtaa tgctcgatgc cggccacgtg
+      181 cacttctgtg tcggatttgg acccttgacc tcgtgcgtct tttacttgga cgcctctaac
+      241 gagacctcag gtcaggcggg gctacccgct gagtttaagc atatcaataa gcggaggaaa
+      301 agaaactaac aaggattccc ttagtaacgg cgagcgaacc gggaatagcc caccatgaaa
+      361 atcggtcgcc tttggcgtct gaattgt
+//
+LOCUS       KM874095                 387 bp    DNA     linear   PLN 31-OCT-2015
+DEFINITION  Flemingia philippinensis isolate 52 5.8S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   KM874095
+VERSION     KM874095.1
+KEYWORDS    .
+SOURCE      Flemingia philippinensis
+  ORGANISM  Flemingia philippinensis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Flemingia.
+REFERENCE   1  (bases 1 to 387)
+  AUTHORS   Lin,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-OCT-2014) Department of TCM, Guangdong Pharmaceutical
+            University, No. 280, Guangdong Pharmaceutical University in
+            Guangzhou University City, Guangzhou, Guangdong 510006, China
+FEATURES             Location/Qualifiers
+     source          1..387
+                     /db_xref="taxon:634991"
+                     /isolate="52"
+                     /mol_type="genomic DNA"
+                     /organism="Flemingia philippinensis"
+     misc_RNA        <1..>387
+                     /note="contains 5.8S ribosomal RNA, internal transcribed
+                     spacer 2, and 28S ribosomal RNA"
+ORIGIN
+        1 ctaggccgag ggcacgcctg cctgggtgtc acgcgtcgtt accccccagc aactagacgc
+       61 tgcgtggggt gcatgatggc ctcccgcgag cgttgtctcg tggttggctg aaaactgagt
+      121 tcacggccga gcgtgcggtg gccaaacggt ggatgagtaa tgctcgatgc cggccacgtg
+      181 cacttctgtg tcggatttgg acccttgacc tcgtgcgtct tttacttgga cgcctctaac
+      241 gagacctcag gtcaggcggg gctacccgct gagtttaagc atatcaataa gcggaggaaa
+      301 agaaactaac aaggattccc ttagtaacgg cgagcgaacc gggaatagcc caccatgaaa
+      361 atcggtcgcc tttggcgtct gaattgt
+//
+LOCUS       KM874094                 387 bp    DNA     linear   PLN 31-OCT-2015
+DEFINITION  Flemingia philippinensis isolate 6 5.8S ribosomal RNA gene, partial
+            sequence; internal transcribed spacer 2, complete sequence; and 28S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   KM874094
+VERSION     KM874094.1
+KEYWORDS    .
+SOURCE      Flemingia philippinensis
+  ORGANISM  Flemingia philippinensis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Flemingia.
+REFERENCE   1  (bases 1 to 387)
+  AUTHORS   Lin,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-OCT-2014) Department of TCM, Guangdong Pharmaceutical
+            University, No. 280, Guangdong Pharmaceutical University in
+            Guangzhou University City, Guangzhou, Guangdong 510006, China
+FEATURES             Location/Qualifiers
+     source          1..387
+                     /db_xref="taxon:634991"
+                     /isolate="6"
+                     /mol_type="genomic DNA"
+                     /organism="Flemingia philippinensis"
+     misc_RNA        <1..>387
+                     /note="contains 5.8S ribosomal RNA, internal transcribed
+                     spacer 2, and 28S ribosomal RNA"
+ORIGIN
+        1 ctaggccgag ggcacgcctg cctgggtgtc acgcgtcgtt accccccagc aactagacgc
+       61 tgcgtggggt gcatgatggc ctcccgcgag cgttgtctcg tggttggctg aaaactgagt
+      121 tcacggccga gcgtgcggtg gccaaacggt ggatgagtaa tgctcgatgc cggccacgtg
+      181 cacttctgtg tcggatttgg acccttgacc tcgtgcgtct tttacttgga cgcctctaac
+      241 gagacctcag gtcaggcggg gctacccgct gagtttaagc atatcaataa gcggaggaaa
+      301 agaaactaac aaggattccc ttagtaacgg cgagcgaacc gggaatagcc caccatgaaa
+      361 atcggtcgcc tttggcgtct gaattgt
+//
+LOCUS       KM874093                 387 bp    DNA     linear   PLN 31-OCT-2015
+DEFINITION  Flemingia philippinensis isolate 18# 5.8S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 2, complete sequence;
+            and 28S ribosomal RNA gene, partial sequence.
+ACCESSION   KM874093
+VERSION     KM874093.1
+KEYWORDS    .
+SOURCE      Flemingia philippinensis
+  ORGANISM  Flemingia philippinensis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Flemingia.
+REFERENCE   1  (bases 1 to 387)
+  AUTHORS   Lin,L.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (03-OCT-2014) Department of TCM, Guangdong Pharmaceutical
+            University, No. 280, Guangdong Pharmaceutical University in
+            Guangzhou University City, Guangzhou, Guangdong 510006, China
+FEATURES             Location/Qualifiers
+     source          1..387
+                     /db_xref="taxon:634991"
+                     /isolate="18#"
+                     /mol_type="genomic DNA"
+                     /organism="Flemingia philippinensis"
+     misc_RNA        <1..>387
+                     /note="contains 5.8S ribosomal RNA, internal transcribed
+                     spacer 2, and 28S ribosomal RNA"
+ORIGIN
+        1 ctaggccgag ggcacgcctg cctgggtgtc acgcgtcgtt accccccagc aactagacgc
+       61 tgcgtggggt gcatgatggc ctcccgcgag cgttgtctcg tggttggctg aaaactgagt
+      121 tcacggccga gcgtgcggtg gccaaacggt ggatgagtaa tgctcgatgc cggccacgtg
+      181 cacttctgtg tcggatttgg acccttgacc tcgtgcgtct tttacttgga cgcctctaac
+      241 gagacctcag gtcaggcggg gctacccgct gagtttaagc atatcaataa gcggaggaaa
+      301 agaaactaac aaggattccc ttagtaacgg cgagcgaacc gggaatagcc caccatgaaa
+      361 atcggtcgcc tttggcgtct gaattgt
+//

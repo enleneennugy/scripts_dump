@@ -1,0 +1,155 @@
+LOCUS       KT876055                 578 bp    DNA     linear   PLN 22-MAR-2016
+DEFINITION  Clitoria ternatea isolate WB internal transcribed spacer 1, partial
+            sequence; 5.8S ribosomal RNA gene, complete sequence; and internal
+            transcribed spacer 2, partial sequence.
+ACCESSION   KT876055
+VERSION     KT876055.1
+KEYWORDS    .
+SOURCE      Clitoria ternatea
+  ORGANISM  Clitoria ternatea
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Clitoria.
+REFERENCE   1  (bases 1 to 578)
+  AUTHORS   Bast,F.
+  TITLE     DNA Barcoding of Clitoria ternatea from India
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 578)
+  AUTHORS   Bast,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-OCT-2015) Centre for Plant Sciences, Central
+            University of Punjab, Mansa Road, Bathinda, Punjab 151001, India
+FEATURES             Location/Qualifiers
+     source          1..578
+                     /collection_date="30-Sep-2015"
+                     /country="India"
+                     /db_xref="taxon:43366"
+                     /isolate="WB"
+                     /mol_type="genomic DNA"
+                     /organism="Clitoria ternatea"
+     misc_RNA        <1..185
+                     /product="internal transcribed spacer 1"
+     rRNA            186..349
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        350..>578
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 tacatgtggt tggcttgtgg tgtttcatat tccgaccttg cgttaagagg tggtcatacg
+       61 tggtgtggcc tcttcttggc caaactttaa ccccggcact tcatgtgtca aggaattgta
+      121 agttggcatg gggcctcttg cagatccgga gacggtgatc ttgcaggggc tacccaagcg
+      181 aatcataatg aatgactctc ggcaacggat atctcggctc ttgcatcgat gaanaacgya
+      241 gcgaatgcga tacttggtgt gaatgcagan tcccgtgaac catcgagtct ttgaacgcaa
+      301 gtngcgcctg aagccattag gttgagggca cgtctgcctg ggtgtcacac aatgttgcct
+      361 aagcacatgc cttgcattag gtgtggagct gggtggatgt tggcttcctg tgagggttgt
+      421 ctcacggtta gttgaaaatt gagttcatgg gagagtgtac catgatggtt ggtggktgan
+      481 tgactctcga ataccagtca tgcttgtgct ctcatgttct tggactctga ccctgtgtta
+      541 tttatgctaa tgaacccggt agggggttcc cctaatta
+//
+LOCUS       KT876054                 625 bp    DNA     linear   PLN 22-MAR-2016
+DEFINITION  Clitoria ternatea isolate KL small subunit ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1 and 5.8S ribosomal
+            RNA gene, complete sequence; and internal transcribed spacer 2,
+            partial sequence.
+ACCESSION   KT876054
+VERSION     KT876054.1
+KEYWORDS    .
+SOURCE      Clitoria ternatea
+  ORGANISM  Clitoria ternatea
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Clitoria.
+REFERENCE   1  (bases 1 to 625)
+  AUTHORS   Bast,F.
+  TITLE     DNA Barcoding of Clitoria ternatea from India
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 625)
+  AUTHORS   Bast,F.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-OCT-2015) Centre for Plant Sciences, Central
+            University of Punjab, Mansa Road, Bathinda, Punjab 151001, India
+FEATURES             Location/Qualifiers
+     source          1..625
+                     /collection_date="30-Sep-2015"
+                     /country="India"
+                     /db_xref="taxon:43366"
+                     /isolate="KL"
+                     /mol_type="genomic DNA"
+                     /organism="Clitoria ternatea"
+     rRNA            <1..57
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        58..287
+                     /product="internal transcribed spacer 1"
+     rRNA            288..452
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        453..>625
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 aacatttgca aggcatcgac aatgaccttc tgtaggtgaa ctgcggaagg atcattgtcg
+       61 atgccttgca aaatagttca actggtgaat atgttaaaaa ttacatgtgg ttggcttgtg
+      121 gtgtttcata ttccgacctt gcgttaagag gtggtcatac gtggtgtggc ctcttcttgg
+      181 ccaaacttta accccggcac ttcatgtgtc aaggaattgt aaagttggca tggggcctct
+      241 tgcagatccg gagacggtga tcttgcaggg gctacccaag cgaatcataa tgaatgactc
+      301 tcggcaacgg atatctcggc tcttgcatcg atgaagracg cagcgaaatg cgatacttgg
+      361 tgtgaattgc agaatcccgt gaaccatcga gtcttgaacg caagttgcgc ctgaagccat
+      421 taggttgagg gcacgtctgc ctgggtgtca cacaatgttg cctaagcaca tgccttgctt
+      481 aggtgtggag ctgggtggat gttggcttcc tgtgagggtt tgtctcacgg ttagtgaaaa
+      541 ttgagttcat gggagagtgt accatgatgg ttggtggttg agtgactctc gaataccagt
+      601 catgcttgtg ctctcatgtc ttgga
+//
+LOCUS       AF467038                 631 bp    DNA     linear   PLN 04-DEC-2002
+DEFINITION  Clitoria ternatea specimen-voucher Hu 1068 (DAV) small subunit
+            ribosomal RNA gene, partial sequence; internal transcribed spacer 1,
+            5.8S ribosomal RNA gene and internal transcribed spacer 2, complete
+            sequence; and large subunit ribosomal RNA gene, partial sequence.
+ACCESSION   AF467038
+VERSION     AF467038.1
+KEYWORDS    .
+SOURCE      Clitoria ternatea
+  ORGANISM  Clitoria ternatea
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Papilionoideae;
+            Phaseoleae; Clitoria.
+REFERENCE   1  (bases 1 to 631)
+  AUTHORS   Hu,J.-M., Lavin,M., Wojciechowski,M.F. and Sanderson,M.J.
+  TITLE     Phylogenetic analysis of nuclear ribosomal ITS/5.8S sequences in the
+            tribe Millettieae (Fabaceae): Poecilanthe-Cyclolobium, the core
+            Millettieae, and the Callerya group
+  JOURNAL   Syst. Bot. 27 (4), 722-733 (2002)
+REFERENCE   2  (bases 1 to 631)
+  AUTHORS   Hu,J.-M., Lavin,M., Wojciechowski,M. and Sanderson,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (10-JAN-2002) Plant Sciences, Montana State University,
+            119 Ag Bioscience Bldg., Bozeman, MT 59717, USA
+FEATURES             Location/Qualifiers
+     source          1..631
+                     /country="Brazil: Sao Paulo"
+                     /db_xref="taxon:43366"
+                     /mol_type="genomic DNA"
+                     /organism="Clitoria ternatea"
+                     /specimen_voucher="Hu 1068 (DAV)"
+     rRNA            <1..6
+                     /product="small subunit ribosomal RNA"
+     misc_RNA        7..236
+                     /product="internal transcribed spacer 1"
+     rRNA            237..402
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        403..611
+                     /product="internal transcribed spacer 2"
+     rRNA            612..>631
+                     /product="large subunit ribosomal RNA"
+ORIGIN
+        1 tcattgtcga tgccttgcaa aatagttcaa ctggtgaata tgttaaaaat tacatgtggt
+       61 tggcttgtgg tgtttcatat tccgaccttg cgttaagagg tggtcatacg tggtgtggcc
+      121 tcttcttggc caaactttaa ccccggcact tcatgtgtca aggaattgta aagttggcat
+      181 ggggcctctt gcagatccgg agacggtgat cttgcagggg ctacccaagc gaatcataat
+      241 gaatgactct cggcaacgga tatctcggct cttgcatcga tgaagaacgt agcgaaatgc
+      301 gatacttggt gtgaattgca gaatcccgtg aaccatcgag tctttgaacg caagttgcgc
+      361 ctgaagccat taggttgagg gcacgtctgc ctgggtgtca cacaatgttg cctaagcaca
+      421 tgccttgcat taggtgtgga gctgggtgga tgttggcttc ctgtgagggt ttgtctcacg
+      481 gttagttgaa aattgagttc atgggagagt gtaccatgat ggttggtggt tgagtgactc
+      541 tcgaatacca gtcatgcttg tgctctcatg ttcttggact ctgaccctgt gtttcacttt
+      601 gatgccctaa atgagacccc aggtcaggcg g
+//

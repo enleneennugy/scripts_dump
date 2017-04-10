@@ -1,0 +1,938 @@
+LOCUS       KY306528                 820 bp    DNA     linear   PLN 03-APR-2017
+DEFINITION  Cercis canadensis voucher Stevees sn (MT) 18S ribosomal RNA gene,
+            partial sequence; internal transcribed spacer 1, 5.8S ribosomal RNA
+            gene, and internal transcribed spacer 2, complete sequence; and 26S
+            ribosomal RNA gene, partial sequence.
+ACCESSION   KY306528
+VERSION     KY306528.1
+KEYWORDS    .
+SOURCE      Cercis canadensis
+  ORGANISM  Cercis canadensis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Cercideae; Cercis.
+REFERENCE   1  (bases 1 to 820)
+  AUTHORS   de la Estrella,M., Forest,F., Wieringa,J.J., Fougere-Danezan,M. and
+            Bruneau,A.
+  TITLE     Insights on the evolutionary origin of Detarioideae, a clade of
+            ecologically dominant tropical African trees
+  JOURNAL   New Phytol. (2017) In press
+   PUBMED   28323330
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 820)
+  AUTHORS   de la Estrella,M. and Bruneau,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-DEC-2016) Comparative Plant and Fungal Biology, Royal
+            Botanic Gardens, Kew, Jodrell Lab, Richmond TW9 3DS, UK
+FEATURES             Location/Qualifiers
+     source          1..820
+                     /db_xref="taxon:49801"
+                     /mol_type="genomic DNA"
+                     /organism="Cercis canadensis"
+                     /specimen_voucher="Stevees sn (MT)"
+     rRNA            <1..128
+                     /product="18S ribosomal RNA"
+     misc_RNA        129..363
+                     /product="internal transcribed spacer 1"
+     rRNA            364..529
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        530..734
+                     /product="internal transcribed spacer 2"
+     rRNA            735..>820
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 gatcgcggcg acgtgggcgg ttcgctgccg gcgacgtcgc gagaagtcca ctgaacctta
+       61 tcatttagag gaaggagaag tcgtaacaag gtttccgtag gtgaacctgc ggaaggatca
+      121 ttgtcgagac ctcacaaaca gcacgacccg cgaatctgtt tatgatattg ggtggcggag
+      181 ggcacattct gccccgagcc ccccacgtct ggatgggaca cagcaggcct tgcctgtgcg
+      241 tgctcgtcct ggcaaacaac gaaaccccgg cgccagtcgc gccaaggaac tctaacataa
+      301 cagcgtgccc ctgtcggccc gggaacggtg ccctacaggg tgcgtcgcga catttgtatc
+      361 caaaacgact ctcggcaacg gatatctcgg ctctcgcatc gatgaagaac gtagcgaaat
+      421 gcgatacttg gtgtgaattg cagaatcccg tgaaccatcg agtctttgaa cgcaagttgc
+      481 gcccgaagcc attaggccga gggcacgtct gcctgggtgt caaacatcgt tgcccaaaca
+      541 caatgtcctt ctccgggcat catgtgaagg gcggatgctg gcctcccgtg agcacgcctc
+      601 gcggttggcc taaatgcgag tccacggtgg cgagcaccac gacgcacggt ggttgagtaa
+      661 cgctcgaagc cagtcctgcg tgtctcgtcc caatacacgg ctccttgacc ctcttgcatc
+      721 ccacggatgc ttccaacgcg accccaggtc aggcggggct acccgctgaa tttaagcata
+      781 tcaataagcg gaggaaaaga aactaacaag gattccccta
+//
+LOCUS       KY306484                 827 bp    DNA     linear   PLN 03-APR-2017
+DEFINITION  Adenolobus garipensis voucher Leistuer 246 (K) 18S ribosomal RNA
+            gene, partial sequence; internal transcribed spacer 1, 5.8S
+            ribosomal RNA gene, and internal transcribed spacer 2, complete
+            sequence; and 26S ribosomal RNA gene, partial sequence.
+ACCESSION   KY306484
+VERSION     KY306484.1
+KEYWORDS    .
+SOURCE      Adenolobus garipensis
+  ORGANISM  Adenolobus garipensis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Cercideae;
+            Adenolobus.
+REFERENCE   1  (bases 1 to 827)
+  AUTHORS   de la Estrella,M., Forest,F., Wieringa,J.J., Fougere-Danezan,M. and
+            Bruneau,A.
+  TITLE     Insights on the evolutionary origin of Detarioideae, a clade of
+            ecologically dominant tropical African trees
+  JOURNAL   New Phytol. (2017) In press
+   PUBMED   28323330
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 827)
+  AUTHORS   de la Estrella,M. and Bruneau,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-DEC-2016) Comparative Plant and Fungal Biology, Royal
+            Botanic Gardens, Kew, Jodrell Lab, Richmond TW9 3DS, UK
+FEATURES             Location/Qualifiers
+     source          1..827
+                     /db_xref="taxon:375005"
+                     /mol_type="genomic DNA"
+                     /organism="Adenolobus garipensis"
+                     /specimen_voucher="Leistuer 246 (K)"
+     rRNA            <1..129
+                     /product="18S ribosomal RNA"
+     misc_RNA        130..371
+                     /product="internal transcribed spacer 1"
+     rRNA            372..537
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        538..741
+                     /product="internal transcribed spacer 2"
+     rRNA            742..>827
+                     /product="26S ribosomal RNA"
+ORIGIN
+        1 gatcryggcg acgtgggcgg ttckttgcyg scgacgtcat sagaagtcca ctgaacctta
+       61 tcatttagag gaaggagaag tcgtaacaag gttttccgta ggtgaacctg cggaaggatc
+      121 attgtcgaaa cctcacaaac agtaaraccg gcgaatatgt ttatcttctk gkgggtggca
+      181 gagggtgttt cscaccccga gtcccccctc atgtccgggc ttggacacca cgggctttgc
+      241 ttgtgcgtgg tcgacctggc aaaaaccgaa accccggcgc cagtcgcgcc aaggaattac
+      301 aacacaatag cgtccctctg tttgcccggg aacggtgctt gcgcagggtg cgtcacaaca
+      361 attgtatcca aaacgactct cggcaacgga tatctcggct ctcgcatcga tgaagaacgt
+      421 agcgaaatgc gatacttggt gtgaattgca gaatcccgtg aaccatcgag tctttgaacg
+      481 caagttgcgc ccaaagccat taggccgagg gcacgtctgc ctgggtgtca aacattgttg
+      541 cccaaacacg atgtccttct ttgggcatta tgaaaagggc ggaagstggc ttcccgttag
+      601 catgccttgc ggttggccca aatacgagtc tttggtggcg agcaccacga catacggtga
+      661 ttgagtggcg ctcgaagcca gtcctgtgtg cctcgctcca tacacggctc ttctgaccct
+      721 cttgcatcaa cagatgcttc caacgtgacc ccaggtcagg cggggctacc cgctgaattt
+      781 aagcatatca ataagcggag gaaaagaaac taacaaggat tccccta
+//
+LOCUS       KJ562298                 330 bp    DNA     linear   PLN 31-MAR-2015
+DEFINITION  Cercis chinensis isolate 6 voucher BOP010459 5.8S ribosomal RNA gene
+            and internal transcribed spacer 2, partial sequence.
+ACCESSION   KJ562298
+VERSION     KJ562298.1
+KEYWORDS    .
+SOURCE      Cercis chinensis
+  ORGANISM  Cercis chinensis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Cercideae; Cercis.
+REFERENCE   1  (bases 1 to 330)
+  AUTHORS   Cheng,T., Lei,L., Xu,C., Li,C., Zhang,Y. and Zhou,S.
+  TITLE     Barcoding the kingdom Plantae: new PCR primers for ITS regions of
+            plants with improved universality and specificity
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 330)
+  AUTHORS   Cheng,T., Lei,L., Xu,C., Li,C., Zhang,Y. and Zhou,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-MAR-2014) State Key Laboratory of Systematic and
+            Evolutionary Botany, Institute of Botany, Chinese Academy of
+            Sciences, No. 20 Nanxincun, Xiangshan, Beijing 100093, China
+FEATURES             Location/Qualifiers
+     source          1..330
+                     /PCR_primers="fwd_name: ITS-P3, fwd_seq:
+                     ygactctcggcaacggata, rev_name: ITS-E4, rev_seq:
+                     rgtttcttttcctccgctta"
+                     /db_xref="taxon:161750"
+                     /isolate="6"
+                     /mol_type="genomic DNA"
+                     /organism="Cercis chinensis"
+                     /specimen_voucher="BOP010459"
+     rRNA            <1..139
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        140..>330
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 ctcggctctc gcatcgatga agaacgtagc gaaatgcgat acttggtgtg aattgcagaa
+       61 tcccgtgaac catcgagtct ttgaacgcaa gttgcgcccg aagccattag gccgagggca
+      121 cgtctgcctg ggtgtcaaac atcgttgccc aaacacaatg tccttttccg ggcatcatgt
+      181 gaagggcgga tgctggcctc ccgtgagcat gcctcgcggt tggcacaaat gcgagtccac
+      241 ggtggcgagc accacgacgc acggtggttg agtaacactc gaagccagtc ctgcgtgtct
+      301 cgtcccaata cacggctcct tgaccctctt
+//
+LOCUS       KJ562297                 303 bp    DNA     linear   PLN 31-MAR-2015
+DEFINITION  Cercis chinensis isolate 5 voucher BOP010459 5.8S ribosomal RNA gene
+            and internal transcribed spacer 2, partial sequence.
+ACCESSION   KJ562297
+VERSION     KJ562297.1
+KEYWORDS    .
+SOURCE      Cercis chinensis
+  ORGANISM  Cercis chinensis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Cercideae; Cercis.
+REFERENCE   1  (bases 1 to 303)
+  AUTHORS   Cheng,T., Lei,L., Xu,C., Li,C., Zhang,Y. and Zhou,S.
+  TITLE     Barcoding the kingdom Plantae: new PCR primers for ITS regions of
+            plants with improved universality and specificity
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 303)
+  AUTHORS   Cheng,T., Lei,L., Xu,C., Li,C., Zhang,Y. and Zhou,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-MAR-2014) State Key Laboratory of Systematic and
+            Evolutionary Botany, Institute of Botany, Chinese Academy of
+            Sciences, No. 20 Nanxincun, Xiangshan, Beijing 100093, China
+FEATURES             Location/Qualifiers
+     source          1..303
+                     /PCR_primers="fwd_name: ITS-E3, fwd_seq:
+                     cawcgatgaagaacgyagc, rev_name: ITS-E4, rev_seq:
+                     rgtttcttttcctccgctta"
+                     /db_xref="taxon:161750"
+                     /isolate="5"
+                     /mol_type="genomic DNA"
+                     /organism="Cercis chinensis"
+                     /specimen_voucher="BOP010459"
+     rRNA            <1..109
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        110..>303
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 gaaatgcgat acttggtgtg aattgcagaa tcccgtgaac catcgagtct ttgaacgcaa
+       61 gttgcgcccg aagccattag gccgagggca cgtctgcctg ggtgtcaaac atcgttgccc
+      121 aaacacaatg tccttttccg ggcatcatgt gaagggcgga tgctggcctc ccgtgagcat
+      181 gcctcgcggt tggcacaaat gcgagtccac ggtggtgagc accacgacgc acggtggttg
+      241 agtaacactc gaagccagtc ctgcgtgtct cgtcccaata cacggctcct tgaccctctt
+      301 gca
+//
+LOCUS       KJ562296                 234 bp    DNA     linear   PLN 31-MAR-2015
+DEFINITION  Cercis chinensis isolate 4 voucher BOP010459 internal transcribed
+            spacer 1 and 5.8S ribosomal RNA gene, partial sequence.
+ACCESSION   KJ562296
+VERSION     KJ562296.1
+KEYWORDS    .
+SOURCE      Cercis chinensis
+  ORGANISM  Cercis chinensis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Cercideae; Cercis.
+REFERENCE   1  (bases 1 to 234)
+  AUTHORS   Cheng,T., Lei,L., Xu,C., Li,C., Zhang,Y. and Zhou,S.
+  TITLE     Barcoding the kingdom Plantae: new PCR primers for ITS regions of
+            plants with improved universality and specificity
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 234)
+  AUTHORS   Cheng,T., Lei,L., Xu,C., Li,C., Zhang,Y. and Zhou,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-MAR-2014) State Key Laboratory of Systematic and
+            Evolutionary Botany, Institute of Botany, Chinese Academy of
+            Sciences, No. 20 Nanxincun, Xiangshan, Beijing 100093, China
+FEATURES             Location/Qualifiers
+     source          1..234
+                     /PCR_primers="fwd_name: ITS-P5, fwd_seq:
+                     ccttatcayttagaggaaggag, rev_name: ITS-E2, rev_seq:
+                     gcgttcaaagaytcgatgrttc"
+                     /db_xref="taxon:161750"
+                     /isolate="4"
+                     /mol_type="genomic DNA"
+                     /organism="Cercis chinensis"
+                     /specimen_voucher="BOP010459"
+     misc_RNA        <1..204
+                     /product="internal transcribed spacer 1"
+     rRNA            205..>234
+                     /product="5.8S ribosomal RNA"
+ORIGIN
+        1 atgacattgg gtggcggagg gcacattctg ccccgagccc cccacgtctg gatgggacac
+       61 agcaggcctt gcctgtgcgt gctcatcccg gcaaacaacg aaaccccggc gccagtcgcg
+      121 ccaaggaact ctaacataac agcgtgcccc tgtcggcccg ggaacggtgc cctgcagggt
+      181 gcatcgcgac atttgtatcc aaaacgactc tcggcaacgg atatctcggc tctc
+//
+LOCUS       KJ562295                 233 bp    DNA     linear   PLN 31-MAR-2015
+DEFINITION  Cercis chinensis isolate 3 voucher BOP010459 internal transcribed
+            spacer 1 and 5.8S ribosomal RNA gene, partial sequence.
+ACCESSION   KJ562295
+VERSION     KJ562295.1
+KEYWORDS    .
+SOURCE      Cercis chinensis
+  ORGANISM  Cercis chinensis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Cercideae; Cercis.
+REFERENCE   1  (bases 1 to 233)
+  AUTHORS   Cheng,T., Lei,L., Xu,C., Li,C., Zhang,Y. and Zhou,S.
+  TITLE     Barcoding the kingdom Plantae: new PCR primers for ITS regions of
+            plants with improved universality and specificity
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 233)
+  AUTHORS   Cheng,T., Lei,L., Xu,C., Li,C., Zhang,Y. and Zhou,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-MAR-2014) State Key Laboratory of Systematic and
+            Evolutionary Botany, Institute of Botany, Chinese Academy of
+            Sciences, No. 20 Nanxincun, Xiangshan, Beijing 100093, China
+FEATURES             Location/Qualifiers
+     source          1..233
+                     /PCR_primers="fwd_name: ITS-E1, fwd_seq:
+                     ggaagkaraagtcgtaacaagg, rev_name: ITS-E2, rev_seq:
+                     gcgttcaaagaytcgatgrttc"
+                     /db_xref="taxon:161750"
+                     /isolate="3"
+                     /mol_type="genomic DNA"
+                     /organism="Cercis chinensis"
+                     /specimen_voucher="BOP010459"
+     misc_RNA        <1..204
+                     /product="internal transcribed spacer 1"
+     rRNA            205..>233
+                     /product="5.8S ribosomal RNA"
+ORIGIN
+        1 atgacattgg gtggcggagg gcacattctg ccccgagccc cccacgtctg gatgggacac
+       61 agcaggcctt gcctgtgcgt gctcatcccg gcaaacaacg aaaccccggc gccagtcgcg
+      121 ccaaggaact ctaacataac agcgtgcccc tgtcggcccg ggaacggtgc cctgcagggt
+      181 gcatcgcgac atttgtatcc aaaacgactc tcggcaacgg atatctcggc tct
+//
+LOCUS       KJ562294                 550 bp    DNA     linear   PLN 31-MAR-2015
+DEFINITION  Cercis chinensis isolate 2 voucher BOP010459 internal transcribed
+            spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete
+            sequence; and internal transcribed spacer 2, partial sequence.
+ACCESSION   KJ562294
+VERSION     KJ562294.1
+KEYWORDS    .
+SOURCE      Cercis chinensis
+  ORGANISM  Cercis chinensis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Cercideae; Cercis.
+REFERENCE   1  (bases 1 to 550)
+  AUTHORS   Cheng,T., Lei,L., Xu,C., Li,C., Zhang,Y. and Zhou,S.
+  TITLE     Barcoding the kingdom Plantae: new PCR primers for ITS regions of
+            plants with improved universality and specificity
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 550)
+  AUTHORS   Cheng,T., Lei,L., Xu,C., Li,C., Zhang,Y. and Zhou,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-MAR-2014) State Key Laboratory of Systematic and
+            Evolutionary Botany, Institute of Botany, Chinese Academy of
+            Sciences, No. 20 Nanxincun, Xiangshan, Beijing 100093, China
+FEATURES             Location/Qualifiers
+     source          1..550
+                     /PCR_primers="fwd_name: ITS-P5, fwd_seq:
+                     ccttatcayttagaggaaggag, rev_name: ITS-E4, rev_seq:
+                     rgtttcttttcctccgctta"
+                     /db_xref="taxon:161750"
+                     /isolate="2"
+                     /mol_type="genomic DNA"
+                     /organism="Cercis chinensis"
+                     /specimen_voucher="BOP010459"
+     misc_RNA        <1..196
+                     /product="internal transcribed spacer 1"
+     rRNA            197..355
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        356..>550
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 gggtggcgga gggcacattc tgccccgagc cccccacgtc tggatgggac acagcaggcc
+       61 ttgcctgtgc gtgctcatcc cggcaaacaa cgaaaccccg gcgccagtcg cgccaaggaa
+      121 ctctaacata acagcgtgcc cctgtcggcc cgggaacggt gccctgcagg gtgcatcgcg
+      181 acatttgtat ccaaaacgac tctcggcaac ggatatctcg gctctcgcat cgatgaagaa
+      241 cgtagcgaaa tgcgatactt ggtgtgaatt gcagaatccc gtgaaccatc gagtctttga
+      301 acgcaagttg cgcccgaagc cattaggccg agggcacgtc tgcctgggtg tcaaacatcg
+      361 ttgcccaaac acaatgtcct tctccgggca tcatgtgaag ggcggatgct ggcctcccgt
+      421 gagcatgcct cgcggttggc acaaatgcga gtccacggtg gcgagcacca cgacgcacgg
+      481 tggttgagta acactcgaag ccagtcctgc gtgtctcgtc ccaatacacg gctccttgac
+      541 cctcttgcat
+//
+LOCUS       KJ562293                 550 bp    DNA     linear   PLN 31-MAR-2015
+DEFINITION  Cercis chinensis isolate 1 voucher BOP010459 internal transcribed
+            spacer 1, partial sequence; 5.8S ribosomal RNA gene, complete
+            sequence; and internal transcribed spacer 2, partial sequence.
+ACCESSION   KJ562293
+VERSION     KJ562293.1
+KEYWORDS    .
+SOURCE      Cercis chinensis
+  ORGANISM  Cercis chinensis
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Cercideae; Cercis.
+REFERENCE   1  (bases 1 to 550)
+  AUTHORS   Cheng,T., Lei,L., Xu,C., Li,C., Zhang,Y. and Zhou,S.
+  TITLE     Barcoding the kingdom Plantae: new PCR primers for ITS regions of
+            plants with improved universality and specificity
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 550)
+  AUTHORS   Cheng,T., Lei,L., Xu,C., Li,C., Zhang,Y. and Zhou,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-MAR-2014) State Key Laboratory of Systematic and
+            Evolutionary Botany, Institute of Botany, Chinese Academy of
+            Sciences, No. 20 Nanxincun, Xiangshan, Beijing 100093, China
+FEATURES             Location/Qualifiers
+     source          1..550
+                     /PCR_primers="fwd_name: ITS-E1, fwd_seq:
+                     ggaagkaraagtcgtaacaagg, rev_name: ITS-E4, rev_seq:
+                     rgtttcttttcctccgctta"
+                     /db_xref="taxon:161750"
+                     /isolate="1"
+                     /mol_type="genomic DNA"
+                     /organism="Cercis chinensis"
+                     /specimen_voucher="BOP010459"
+     misc_RNA        <1..197
+                     /product="internal transcribed spacer 1"
+     rRNA            198..356
+                     /product="5.8S ribosomal RNA"
+     misc_RNA        357..>550
+                     /product="internal transcribed spacer 2"
+ORIGIN
+        1 tgggtggcgg agggcacatt ctgccccgag ccccccacgt ctggatggga cacagcaggc
+       61 cttgcctgtg cgtgctcatc ccggcaaaca acgaaacccc ggcgccagtc gcgccaagga
+      121 actctaacat aacagcgtgc ccctgtcggc ccgggaacgg tgccctgcag ggtgcatcgc
+      181 gacatttgta tccaaaacga ctctcggcaa cggatatctc ggctctcgca tcgatgaaga
+      241 acgtagcgaa atgcgatact tggtgtgaat tgcagaatcc cgtgaaccat cgagtctttg
+      301 aacgcaagtt gcgcccgaag ccattaggcc gagggcacgt ctgcctgggt gtcaaacatc
+      361 gttgcccaaa cacaatgtcc ttctccgggc atcatgtgaa gggcggatgc tggcctcccg
+      421 tgagcatgcc tcgcggttgg cacaaatgcg agtccacggt ggcgagcacc acgacgcacg
+      481 gtggttgagt aacactcgaa gccagtcctg cgtgtctcgt cccaatacac ggctccttga
+      541 ccctcttgca
+//
+LOCUS       JX856545                 402 bp    DNA     linear   PLN 09-MAR-2015
+DEFINITION  Bauhinia variegata isolate BV2 5.8S ribosomal RNA gene and internal
+            transcribed spacer 2, partial sequence.
+ACCESSION   JX856545
+VERSION     JX856545.1
+KEYWORDS    .
+SOURCE      Phanera variegata
+  ORGANISM  Phanera variegata
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Cercideae; Phanera.
+REFERENCE   1  (bases 1 to 402)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Kumar,A., Singh,A., Singh,S.,
+            Chaudhary,L.B. and Roy,S.
+  TITLE     The Internal Transcribed Spacer (ITS) Region and trnhH-psbA Are
+            Suitable Candidate Loci for DNA Barcoding of Tropical Tree Species
+            of India
+  JOURNAL   PLoS ONE 8 (2), E57934 (2013)
+   PUBMED   23460915
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 402)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Chaudhary,L.B. and Roy,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2012) National Botanical Research Institute, Rana
+            Pratap Marg, Lucknow, U.P 226001, India
+FEATURES             Location/Qualifiers
+     source          1..402
+                     /db_xref="taxon:167791"
+                     /isolate="BV2"
+                     /mol_type="genomic DNA"
+                     /organism="Phanera variegata"
+     misc_RNA        <1..>402
+                     /note="contains 5.8S ribosomal RNA and internal transcribed
+                     spacer 2"
+ORIGIN
+        1 ttgcgcccga agccattagg ccgagggcac gtctgcctgg gcgtcaaaca tcgttgcccc
+       61 aacacacatc gtgcgtgggg cggagattgg cctcccgtga gctagactcg cggttggccc
+      121 aaatgcgagt ccggggcggc gagcaccacg gcacacggtg gttgagttct tctcgaagcc
+      181 agtcctgagt gcctcgcccg tcgaacggct cacacgaccc catcgcatcc gaaggatgct
+      241 tccaacgcga ccccaggtca ggcgggatta cccgctgaat ttaagcatat caataagcgg
+      301 aggaaaagaa actaacaagg attcccctag taacggcgag cgaaccggga acagcccacc
+      361 atgaaaatcg gtcgccctcg gcgtccgaat tgtagtctgg aa
+//
+LOCUS       JX856544                 404 bp    DNA     linear   PLN 09-MAR-2015
+DEFINITION  Bauhinia variegata isolate 298 5.8S ribosomal RNA gene and internal
+            transcribed spacer 2, partial sequence.
+ACCESSION   JX856544
+VERSION     JX856544.1
+KEYWORDS    .
+SOURCE      Phanera variegata
+  ORGANISM  Phanera variegata
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Cercideae; Phanera.
+REFERENCE   1  (bases 1 to 404)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Kumar,A., Singh,A., Singh,S.,
+            Chaudhary,L.B. and Roy,S.
+  TITLE     The Internal Transcribed Spacer (ITS) Region and trnhH-psbA Are
+            Suitable Candidate Loci for DNA Barcoding of Tropical Tree Species
+            of India
+  JOURNAL   PLoS ONE 8 (2), E57934 (2013)
+   PUBMED   23460915
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 404)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Chaudhary,L.B. and Roy,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2012) National Botanical Research Institute, Rana
+            Pratap Marg, Lucknow, U.P 226001, India
+FEATURES             Location/Qualifiers
+     source          1..404
+                     /db_xref="taxon:167791"
+                     /isolate="298"
+                     /mol_type="genomic DNA"
+                     /organism="Phanera variegata"
+     misc_RNA        <1..>404
+                     /note="contains 5.8S ribosomal RNA and internal transcribed
+                     spacer 2"
+ORIGIN
+        1 tgcgcccgaa gccattaggc cgagggcacg tctgcctggg tgtcgaacat cgttgcccca
+       61 cacacgtatc gtgcgagggg cggaaattgg cctcccgtga gctagactct cggttggccc
+      121 aaatgcgagt ccggggcggc gagcaccacg gcacacggtg gttgagttct tctcgaagcc
+      181 agtcctgggt gcctcgcctg ccgaacggct cacacaaccc catagcatcc cgaggatgct
+      241 cccaacgcga ccccaggtca ggcgggacta cccgctgaat ttaagcatat caataagcgg
+      301 aggaaaagaa actaacaagg attcccctag taacggcgag cgaaccggga acagcccacc
+      361 atgaaaatcg gtcgccctcg gcgtccgaat tgtagtctgg agaa
+//
+LOCUS       JX856543                 388 bp    DNA     linear   PLN 09-MAR-2015
+DEFINITION  Bauhinia purpurea isolate BP3 5.8S ribosomal RNA gene and internal
+            transcribed spacer 2, partial sequence.
+ACCESSION   JX856543
+VERSION     JX856543.1
+KEYWORDS    .
+SOURCE      Bauhinia purpurea (camel's foot tree)
+  ORGANISM  Bauhinia purpurea
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Cercideae;
+            Bauhinia.
+REFERENCE   1  (bases 1 to 388)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Kumar,A., Singh,A., Singh,S.,
+            Chaudhary,L.B. and Roy,S.
+  TITLE     The Internal Transcribed Spacer (ITS) Region and trnhH-psbA Are
+            Suitable Candidate Loci for DNA Barcoding of Tropical Tree Species
+            of India
+  JOURNAL   PLoS ONE 8 (2), E57934 (2013)
+   PUBMED   23460915
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 388)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Chaudhary,L.B. and Roy,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2012) National Botanical Research Institute, Rana
+            Pratap Marg, Lucknow, U.P 226001, India
+FEATURES             Location/Qualifiers
+     source          1..388
+                     /db_xref="taxon:3806"
+                     /isolate="BP3"
+                     /mol_type="genomic DNA"
+                     /organism="Bauhinia purpurea"
+     misc_RNA        <1..>388
+                     /note="contains 5.8S ribosomal RNA and internal transcribed
+                     spacer 2"
+ORIGIN
+        1 acgcagttgc gcccgaagcc attaggccga gggcacgtct gcctgggtgt cgaacatcgt
+       61 tgccccaaca catatcgtgc gaggggcgga gattggcctc ccgtgagcta gactcgcggt
+      121 tggcccaaat gcgagtccgg ggcggcgagc accacggcac acggtggttg agttcttctc
+      181 gaagccagtc ctgggtgcct cgcccgccga acggctcaca caaccccata gcatcctgag
+      241 gatgcttcca acgcgacccc aggtcaggcg ggactacccg ctgaatttaa gcatatcaat
+      301 aagcggaaga aaagaaacta acaaggattt ccctagtaac ggcgagcgaa ccgggaacag
+      361 cccaccatga aaatcggtcg ccctcggc
+//
+LOCUS       JX856542                 411 bp    DNA     linear   PLN 09-MAR-2015
+DEFINITION  Bauhinia purpurea isolate BP1 5.8S ribosomal RNA gene and internal
+            transcribed spacer 2, partial sequence.
+ACCESSION   JX856542
+VERSION     JX856542.1
+KEYWORDS    .
+SOURCE      Bauhinia purpurea (camel's foot tree)
+  ORGANISM  Bauhinia purpurea
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Cercideae;
+            Bauhinia.
+REFERENCE   1  (bases 1 to 411)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Kumar,A., Singh,A., Singh,S.,
+            Chaudhary,L.B. and Roy,S.
+  TITLE     The Internal Transcribed Spacer (ITS) Region and trnhH-psbA Are
+            Suitable Candidate Loci for DNA Barcoding of Tropical Tree Species
+            of India
+  JOURNAL   PLoS ONE 8 (2), E57934 (2013)
+   PUBMED   23460915
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 411)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Chaudhary,L.B. and Roy,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2012) National Botanical Research Institute, Rana
+            Pratap Marg, Lucknow, U.P 226001, India
+FEATURES             Location/Qualifiers
+     source          1..411
+                     /db_xref="taxon:3806"
+                     /isolate="BP1"
+                     /mol_type="genomic DNA"
+                     /organism="Bauhinia purpurea"
+     misc_RNA        <1..>411
+                     /note="contains 5.8S ribosomal RNA and internal transcribed
+                     spacer 2"
+ORIGIN
+        1 agttgcgccc gagccattag gccgagggca cgtctgcctg ggtgtcgaac atcgttgccc
+       61 cacacacgta tcgtgcgagg ggcggagatt ggcctcccgt gagctagact ctcggttggc
+      121 ccaaatgcga gtccggggcg gcgagcacca cggcacacgg tggttgagtt cttctcgaag
+      181 ccagtcctgg gtgcctcgcc tgccgaacgg ctcacacaac cccatagcat cccgaggatg
+      241 ctcccaacgc gaccccaggt caggcgggac tacccgctga atttaagcat atcaataagc
+      301 ggaggaaaag aaactaacaa ggattcccct agtaacggcg agcgaaccgg gaacagccca
+      361 ccatgaaaat cggtcgccct cggcgtccga attgtagtct ggagaagcgt c
+//
+LOCUS       JX856541                 402 bp    DNA     linear   PLN 09-MAR-2015
+DEFINITION  Bauhinia purpurea isolate 76 5.8S ribosomal RNA gene and internal
+            transcribed spacer 2, partial sequence.
+ACCESSION   JX856541
+VERSION     JX856541.1
+KEYWORDS    .
+SOURCE      Bauhinia purpurea (camel's foot tree)
+  ORGANISM  Bauhinia purpurea
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Cercideae;
+            Bauhinia.
+REFERENCE   1  (bases 1 to 402)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Kumar,A., Singh,A., Singh,S.,
+            Chaudhary,L.B. and Roy,S.
+  TITLE     The Internal Transcribed Spacer (ITS) Region and trnhH-psbA Are
+            Suitable Candidate Loci for DNA Barcoding of Tropical Tree Species
+            of India
+  JOURNAL   PLoS ONE 8 (2), E57934 (2013)
+   PUBMED   23460915
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 402)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Chaudhary,L.B. and Roy,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2012) National Botanical Research Institute, Rana
+            Pratap Marg, Lucknow, U.P 226001, India
+FEATURES             Location/Qualifiers
+     source          1..402
+                     /db_xref="taxon:3806"
+                     /isolate="76"
+                     /mol_type="genomic DNA"
+                     /organism="Bauhinia purpurea"
+     misc_RNA        <1..>402
+                     /note="contains 5.8S ribosomal RNA and internal transcribed
+                     spacer 2"
+ORIGIN
+        1 agttgcgccc gaagccatta ggccaagggc acgtctgcct gggtgtcaaa catcgttgcc
+       61 ccctacacaa gttgtgcacg gggcggaaat tggcctcccg tgagcaagac tcgcggttgg
+      121 cctaaatgcg agtctacggt ggtgagcacc aaggcgcgtg gtggttgagt catgctcgaa
+      181 gccagccttg tgtctcaccc gtatagtagc tccatcaacc ctattgcatc gtttagatgc
+      241 ttccaacgtg accccaggtc aggcgggact acccgctgaa tttaagcata tcaataagcg
+      301 gaggaaaaga aactaacaag gattccccta gtaacggcga gcgaaccggg aatagcccac
+      361 catgaaaatc ggtcgccctc ggcgtccgaa ttgtagtctg ga
+//
+LOCUS       JX856540                 400 bp    DNA     linear   PLN 09-MAR-2015
+DEFINITION  Bauhinia blakeana isolate BB2 5.8S ribosomal RNA gene and internal
+            transcribed spacer 2, partial sequence.
+ACCESSION   JX856540
+VERSION     JX856540.1
+KEYWORDS    .
+SOURCE      Bauhinia blakeana
+  ORGANISM  Bauhinia blakeana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Cercideae;
+            Bauhinia.
+REFERENCE   1  (bases 1 to 400)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Kumar,A., Singh,A., Singh,S.,
+            Chaudhary,L.B. and Roy,S.
+  TITLE     The Internal Transcribed Spacer (ITS) Region and trnhH-psbA Are
+            Suitable Candidate Loci for DNA Barcoding of Tropical Tree Species
+            of India
+  JOURNAL   PLoS ONE 8 (2), E57934 (2013)
+   PUBMED   23460915
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 400)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Chaudhary,L.B. and Roy,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2012) National Botanical Research Institute, Rana
+            Pratap Marg, Lucknow, U.P 226001, India
+FEATURES             Location/Qualifiers
+     source          1..400
+                     /db_xref="taxon:180222"
+                     /isolate="BB2"
+                     /mol_type="genomic DNA"
+                     /organism="Bauhinia blakeana"
+     misc_RNA        <1..>400
+                     /note="contains 5.8S ribosomal RNA and internal transcribed
+                     spacer 2"
+ORIGIN
+        1 gacgcagttg cgcccgagcc attaggccga gggcacgtct gcctgggtgt cgaacatcgt
+       61 tgccccaaca catatcgtgc gaggggcgga aattggcctc ccgtgagcta gactcgcggt
+      121 tggcccaaat gcgagtccgg ggcggcgagc accacggcac acggtggttg aattcttctc
+      181 gaaaccagtc ctgggtgcct cgcccggcga acggctcaca aaaccccata gcatcctaag
+      241 gatgcttcca acgcgacccc aggtcagggg ggaatacccg ctgaatttaa gcatatcaat
+      301 aagcggaaga aaaaaaacta acaaggattc ccctaataac ggcgagcgaa ccgggaacag
+      361 cccaccatga aaatcggtcg ccctcggcgt ccgaattgta
+//
+LOCUS       JX856539                 396 bp    DNA     linear   PLN 09-MAR-2015
+DEFINITION  Bauhinia blakeana isolate BB1 5.8S ribosomal RNA gene and internal
+            transcribed spacer 2, partial sequence.
+ACCESSION   JX856539
+VERSION     JX856539.1
+KEYWORDS    .
+SOURCE      Bauhinia blakeana
+  ORGANISM  Bauhinia blakeana
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Cercideae;
+            Bauhinia.
+REFERENCE   1  (bases 1 to 396)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Kumar,A., Singh,A., Singh,S.,
+            Chaudhary,L.B. and Roy,S.
+  TITLE     The Internal Transcribed Spacer (ITS) Region and trnhH-psbA Are
+            Suitable Candidate Loci for DNA Barcoding of Tropical Tree Species
+            of India
+  JOURNAL   PLoS ONE 8 (2), E57934 (2013)
+   PUBMED   23460915
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 396)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Chaudhary,L.B. and Roy,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2012) National Botanical Research Institute, Rana
+            Pratap Marg, Lucknow, U.P 226001, India
+FEATURES             Location/Qualifiers
+     source          1..396
+                     /db_xref="taxon:180222"
+                     /isolate="BB1"
+                     /mol_type="genomic DNA"
+                     /organism="Bauhinia blakeana"
+     misc_RNA        <1..>396
+                     /note="contains 5.8S ribosomal RNA and internal transcribed
+                     spacer 2"
+ORIGIN
+        1 gaagccatta ggccgagggc acgtctgcct gggtgtcgaa catcgttgcc ccaacacata
+       61 tagtgcgagg ggcggagatt ggcctcccgt gagctagtct cgcggttggc ccaaatgcga
+      121 gtccggggcg gcgagcacca cggcacacgg tggttgagtt cttctcgaag ccagtcctgg
+      181 gtgcctcgcc cgccgaacgg ctcacaaaac cccatagcat cctgaggatg ctcccaacgc
+      241 gaccccaggt caggcgggac tacccgctga atttaagcat atcaataagc ggaggaaaag
+      301 aaactaacaa ggattcccct agtaacggcg agcgaaccgg gaacagccca ccatgaaaat
+      361 cggtcgccct cggcgtccga attgtagtct ggaaaa
+//
+LOCUS       JX856409                 655 bp    DNA     linear   PLN 09-MAR-2015
+DEFINITION  Bauhinia variegata isolate BV3 internal transcribed spacer 1,
+            partial sequence; 5.8S ribosomal RNA gene, complete sequence; and
+            internal transcribed spacer 2, partial sequence.
+ACCESSION   JX856409
+VERSION     JX856409.1
+KEYWORDS    .
+SOURCE      Phanera variegata
+  ORGANISM  Phanera variegata
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Cercideae; Phanera.
+REFERENCE   1  (bases 1 to 655)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Kumar,A., Singh,A., Singh,S.,
+            Chaudhary,L.B. and Roy,S.
+  TITLE     The Internal Transcribed Spacer (ITS) Region and trnhH-psbA Are
+            Suitable Candidate Loci for DNA Barcoding of Tropical Tree Species
+            of India
+  JOURNAL   PLoS ONE 8 (2), E57934 (2013)
+   PUBMED   23460915
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 655)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Chaudhary,L.B. and Roy,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2012) National Botanical Research Institute, Rana
+            Pratap Marg, Lucknow, U.P 226001, India
+FEATURES             Location/Qualifiers
+     source          1..655
+                     /db_xref="taxon:167791"
+                     /isolate="BV3"
+                     /mol_type="genomic DNA"
+                     /organism="Phanera variegata"
+     misc_RNA        <1..>655
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, and internal transcribed spacer 2"
+ORIGIN
+        1 cgaacctcaa ccaaaaccac ccgcgaactg ttataaatac ccactggggg aggcggaggg
+       61 tgtccccacc ccgagcctcc cccgcgcccg ggcgggggcg cgtcgggtga cccccggtgc
+      121 gtgctcgttc gggcaaacta acaaaaccac ggcgccagac gcgtcaagga atcaaaacat
+      181 agaggcacgc cctcgtcggc ccgggaacgg tgatcgtgcg gggtgcgtcg ccgatatttt
+      241 tacacaaaac gactctcggc aacggatatc tcggctctcg catcgatgaa gaacgtagcg
+      301 aaatgcgata cttggtgtga attgcagaat cccgtgaatc atcgagtctt tgaacgcaag
+      361 ttgcgcccga agccattagg ccgagggcac gtctgcctgg gcgtcaaaca tcgttgcccc
+      421 aacacacatc gtgcgtgggg cggagattgg cctcccgtga gctagactcg cggttggccc
+      481 aaatgcgagt ccggggcggc gagcaccacg gcacacggtg gttgagttct tctcgaagcc
+      541 agtcctgagt gcctcgcccg tcgaacggct cacacgaccc catcgcatcc gaaggatgct
+      601 tccaacgcga ccccaggtca ggcgggatta cccgctgaat ttaagcatat cataa
+//
+LOCUS       JX856408                 667 bp    DNA     linear   PLN 09-MAR-2015
+DEFINITION  Bauhinia variegata isolate BV2 internal transcribed spacer 1,
+            partial sequence; 5.8S ribosomal RNA gene, complete sequence; and
+            internal transcribed spacer 2, partial sequence.
+ACCESSION   JX856408
+VERSION     JX856408.1
+KEYWORDS    .
+SOURCE      Phanera variegata
+  ORGANISM  Phanera variegata
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Cercideae; Phanera.
+REFERENCE   1  (bases 1 to 667)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Kumar,A., Singh,A., Singh,S.,
+            Chaudhary,L.B. and Roy,S.
+  TITLE     The Internal Transcribed Spacer (ITS) Region and trnhH-psbA Are
+            Suitable Candidate Loci for DNA Barcoding of Tropical Tree Species
+            of India
+  JOURNAL   PLoS ONE 8 (2), E57934 (2013)
+   PUBMED   23460915
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 667)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Chaudhary,L.B. and Roy,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2012) National Botanical Research Institute, Rana
+            Pratap Marg, Lucknow, U.P 226001, India
+FEATURES             Location/Qualifiers
+     source          1..667
+                     /db_xref="taxon:167791"
+                     /isolate="BV2"
+                     /mol_type="genomic DNA"
+                     /organism="Phanera variegata"
+     misc_RNA        <1..>667
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, and internal transcribed spacer 2"
+ORIGIN
+        1 gatcattgtc gaaacctcaa ccaaaaccac ccgcgaactt gtataaatac ccactggggg
+       61 aggcggaggg tgtccccacc ccgagcctcc cctgcgcccg ggcgggggcg cgtcgggtga
+      121 cccccggtgc gtgctcgttc gggcaaacta acaaaaccac ggcgccagac gcgtcaagga
+      181 atcaaaacat agaggcacgc cctcgtcggc ccgggaacgg tgatcgtgcg gggtgcgtcg
+      241 ccgatatttt tacacaaaac gactctcggc aacggatatc tcggctctcg catcgatgaa
+      301 gaacgtagcg aaatgcgata cttggtgtga attgcagaat cccgtgaatc atcgagtctt
+      361 tgaacgcaag ttgcgcccga agccattagg ccgagggcac gtctgcctgg gcgtcaaaca
+      421 tcgttgcccc aacacacatc gtgcgtgggg cggagattgg cctcccgtga gctagactcg
+      481 cggttggccc aaatgcgagt ccggggcggc gagcaccacg gcacacggtg gttgagttct
+      541 tctcgaagcc agtcctgagt gcctcgcccg tcgaacggct cacacgaccc catcgcatcc
+      601 gaaggatgct tccaacgcga ccccaggtca ggcgggatta cccgctgaat ttaagcatat
+      661 caataaa
+//
+LOCUS       JX856407                 518 bp    DNA     linear   PLN 09-MAR-2015
+DEFINITION  Bauhinia purpurea isolate BP2 internal transcribed spacer 1, partial
+            sequence; 5.8S ribosomal RNA gene, complete sequence; and internal
+            transcribed spacer 2, partial sequence.
+ACCESSION   JX856407
+VERSION     JX856407.1
+KEYWORDS    .
+SOURCE      Bauhinia purpurea (camel's foot tree)
+  ORGANISM  Bauhinia purpurea
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Cercideae;
+            Bauhinia.
+REFERENCE   1  (bases 1 to 518)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Kumar,A., Singh,A., Singh,S.,
+            Chaudhary,L.B. and Roy,S.
+  TITLE     The Internal Transcribed Spacer (ITS) Region and trnhH-psbA Are
+            Suitable Candidate Loci for DNA Barcoding of Tropical Tree Species
+            of India
+  JOURNAL   PLoS ONE 8 (2), E57934 (2013)
+   PUBMED   23460915
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 518)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Chaudhary,L.B. and Roy,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2012) National Botanical Research Institute, Rana
+            Pratap Marg, Lucknow, U.P 226001, India
+FEATURES             Location/Qualifiers
+     source          1..518
+                     /db_xref="taxon:3806"
+                     /isolate="BP2"
+                     /mol_type="genomic DNA"
+                     /organism="Bauhinia purpurea"
+     misc_RNA        <1..>518
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, and internal transcribed spacer 2"
+ORIGIN
+        1 acctactggg ggaggcggag ggtgtcccca ccccgagcat cccccgcgcc agggcgggcg
+       61 cgcgtcgggt aacccccggt gcgtgctcgt ccgggcaaac taacaaacca aacggcgctg
+      121 gatgcgtcaa ggaattttaa catagaggca cgccctcgtc ggcccggcaa cggtgaccgt
+      181 gcggggtgcg tcgccgatat ttttatacaa aacgactctc ggcaacggat atctcggctc
+      241 tcgcatcgat gaagaacgta gcgaaatgcg atacttggtg tgaattgcag aatcccgtga
+      301 atcatcgagt ctttgaacgc aagttgcgcc cgaagccatt aggccgaggg cacgtctgcc
+      361 tgggtgtcga acatcgttgc cccacacacg tatcgtgcga ggggcggaga ttggcctccc
+      421 gtgagctaga ctctcggttg gcccaaatgc gagtccgggg cggcgagcac cacggcacac
+      481 ggtggttgag ttcttctcga agccagtcct gggtgcct
+//
+LOCUS       JX856406                 735 bp    DNA     linear   PLN 09-MAR-2015
+DEFINITION  Bauhinia purpurea isolate 76 internal transcribed spacer 1, partial
+            sequence; 5.8S ribosomal RNA gene, complete sequence; and internal
+            transcribed spacer 2, partial sequence.
+ACCESSION   JX856406
+VERSION     JX856406.1
+KEYWORDS    .
+SOURCE      Bauhinia purpurea (camel's foot tree)
+  ORGANISM  Bauhinia purpurea
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Cercideae;
+            Bauhinia.
+REFERENCE   1  (bases 1 to 735)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Kumar,A., Singh,A., Singh,S.,
+            Chaudhary,L.B. and Roy,S.
+  TITLE     The Internal Transcribed Spacer (ITS) Region and trnhH-psbA Are
+            Suitable Candidate Loci for DNA Barcoding of Tropical Tree Species
+            of India
+  JOURNAL   PLoS ONE 8 (2), E57934 (2013)
+   PUBMED   23460915
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 735)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Chaudhary,L.B. and Roy,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2012) National Botanical Research Institute, Rana
+            Pratap Marg, Lucknow, U.P 226001, India
+FEATURES             Location/Qualifiers
+     source          1..735
+                     /db_xref="taxon:3806"
+                     /isolate="76"
+                     /mol_type="genomic DNA"
+                     /organism="Bauhinia purpurea"
+     misc_RNA        <1..>735
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, and internal transcribed spacer 2"
+ORIGIN
+        1 aaaccacctg cgaacttgtt ttttaaattc tgggggatgc gaagaagggt gttctcaccc
+       61 tgagccgccc ctatgtttga atgggcacgt gcattgcact ttcttgacgg gcacgcgcat
+      121 tgcactttat tgcgtgtgct tgtcgcacgt gcttgtttgg acaaacatct tgatgggcat
+      181 gggcattgca ctttattgcg tgtgcttgtc tggatgaaca acctaacccc gggcgccaga
+      241 cgcgccaagg actttttaac attaatgcac gcccttaatc ggcccggtaa cggtcaccgt
+      301 gcaagacgcg ttgcaatttt tgtaatacaa aacgactccc ggcaacggat atctcggctc
+      361 tcgcatcgat gaagaacgta gcgaactgcg atacttggtg tgaattgcag aatcccgtga
+      421 atcatcgagt ctttgaacgc aagttgcgcc cgaagccatt aggccaaggg cacgtctgcc
+      481 tgggtgtcaa acatcgttgc cccctacaca agttgtgcac ggggcggaaa ttggcctccc
+      541 gtgagcaaga ctcgcggttg gcctaaatgc gagtctacgg tggtgagcac caaggcgcgt
+      601 ggtggttgag tcatgctcga agccagcctt gtgtctcacc cgtatagtaa ctccatcaac
+      661 cctattgcat cgtttagatg cttccaacgt gaccccagtc aggcgggact acccgctgaa
+      721 tttaagcata tcaat
+//
+LOCUS       JX856405                 449 bp    DNA     linear   PLN 09-MAR-2015
+DEFINITION  Bauhinia purpurea isolate BP1 internal transcribed spacer 1, partial
+            sequence; 5.8S ribosomal RNA gene, complete sequence; and internal
+            transcribed spacer 2, partial sequence.
+ACCESSION   JX856405
+VERSION     JX856405.1
+KEYWORDS    .
+SOURCE      Bauhinia purpurea (camel's foot tree)
+  ORGANISM  Bauhinia purpurea
+            Eukaryota; Viridiplantae; Streptophyta; Embryophyta; Tracheophyta;
+            Spermatophyta; Magnoliophyta; eudicotyledons; Gunneridae;
+            Pentapetalae; rosids; fabids; Fabales; Fabaceae; Cercideae;
+            Bauhinia.
+REFERENCE   1  (bases 1 to 449)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Kumar,A., Singh,A., Singh,S.,
+            Chaudhary,L.B. and Roy,S.
+  TITLE     The Internal Transcribed Spacer (ITS) Region and trnhH-psbA Are
+            Suitable Candidate Loci for DNA Barcoding of Tropical Tree Species
+            of India
+  JOURNAL   PLoS ONE 8 (2), E57934 (2013)
+   PUBMED   23460915
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 449)
+  AUTHORS   Tripathi,A.M., Tyagi,A., Chaudhary,L.B. and Roy,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-AUG-2012) National Botanical Research Institute, Rana
+            Pratap Marg, Lucknow, U.P 226001, India
+FEATURES             Location/Qualifiers
+     source          1..449
+                     /db_xref="taxon:3806"
+                     /isolate="BP1"
+                     /mol_type="genomic DNA"
+                     /organism="Bauhinia purpurea"
+     misc_RNA        <1..>449
+                     /note="contains internal transcribed spacer 1, 5.8S
+                     ribosomal RNA, and internal transcribed spacer 2"
+ORIGIN
+        1 aaaacttttt tttaaaaaaa aaccacccgc gaacctgtta taatacctac tgggggaggc
+       61 ggagggtgtc cccaccccga gcatcccccg cgccagggcg ggcgcgcgtc gggtaacccc
+      121 cggcgcgtgc tcgtccgggc aaactaacaa accaaacggc gctggatgcg tcaaggaatt
+      181 ttaacataga ggcacgccct cgtcggcccg gcaacggtga ccgtgcgggg tgcgtcgccg
+      241 atatttttat acaaaacgac tctcggcaac ggatatctcg gctctcgcat cgatgaagaa
+      301 cgtaccgaaa tgcgatactt ggtgtgaatt gcagaatccc gtgaatcatc gagtctttga
+      361 acgcaagttg cgcccgaagc cattaggccg agggcacgtc tgcctgggtg tcgaacatcg
+      421 ttgccccaca cacgctatcg tgcgagggg
+//
