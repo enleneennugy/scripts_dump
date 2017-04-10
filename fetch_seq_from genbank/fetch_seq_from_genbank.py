@@ -85,7 +85,6 @@ for genus in list_genus:
         handle.close()
         ID_list = record["IdList"]
     except HTTPError:
-        print "pause"
         time.sleep(20)
         handle = Entrez.esearch(db="nucleotide", term="("+genus+"[Orgn]) AND (rbcL[Gene])", retmax=500000) ### change gene name if necessary
         record = Entrez.read(handle)
@@ -99,7 +98,6 @@ for genus in list_genus:
             try:
                 handle = Entrez.efetch(db="nucleotide", id=accessions, rettype="gb", retmode="text")
             except HTTPError:
-                print"pause"
                 time.sleep(20)
                 handle = Entrez.efetch(db="nucleotide", id=accessions, rettype="gb", retmode="text")
             record = SeqIO.read(handle, "genbank")
@@ -107,7 +105,7 @@ for genus in list_genus:
             print ("\t\t\t" + record.name)+"\t" + str(len(record))
             SeqIO.write(record, f, "gb") ###change "gb" for "fasta"
             handle.close()
-            time.sleep(0)
+            time.sleep(1)
     else:
         print(genus + ": \t" + str(len(ID_list)))
         continue
