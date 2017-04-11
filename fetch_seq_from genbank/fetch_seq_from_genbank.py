@@ -81,15 +81,12 @@ for genus in list_genus:
     genus = genus.split("\n")[0]
     try:
         handle = Entrez.esearch(db="nucleotide", term="("+genus+"[Orgn]) AND (rbcL[Gene])", retmax=500000) ### change gene name if necessary
-        record = Entrez.read(handle)
-        handle.close()
-        ID_list = record["IdList"]
     except HTTPError:
         time.sleep(20)
         handle = Entrez.esearch(db="nucleotide", term="("+genus+"[Orgn]) AND (rbcL[Gene])", retmax=500000) ### change gene name if necessary
-        record = Entrez.read(handle)
-        handle.close()
-        ID_list = record["IdList"]
+    record = Entrez.read(handle)
+    handle.close()
+    ID_list = record["IdList"]
 
     if len(ID_list) >= 1:
         print(genus + ": \t" + str(len(ID_list)))
