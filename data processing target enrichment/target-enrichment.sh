@@ -128,7 +128,7 @@ echo -e "###--------------------------------------------------------------------
 	
 	### Mapping the trim files ###
 	echo -e "\n\nMapping the trim files..."$SAMPLE
-	bwa mem -t $PROC markers $R1paired $R2paired | samtools view -@ $PROC -q 20 -bT $REFERENCE - | samtools sort -@ $PROC -  > $PE.bam
+	bwa mem -B 10 -O 20 -k 50 -r 0.5 -L 25 -t $PROC markers $R1paired $R2paired | samtools view -@ $PROC -q 20 -bT $REFERENCE - | samtools sort -@ $PROC -  > $PE.bam
 	bwa mem -t $PROC markers $R1unpaired | samtools view -@ $PROC -q 20 -bT $REFERENCE - | samtools sort -@ $PROC -  > $R1unpaired.bam
 	bwa mem -t $PROC markers $R2unpaired | samtools view -@ $PROC -q 20 -bT $REFERENCE - | samtools sort -@ $PROC -  > $R2unpaired.bam
 	samtools merge -f -@ $PROC ../1_mapping/$mapped $PE.bam $R1unpaired.bam $R2unpaired.bam
